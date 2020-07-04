@@ -13,7 +13,7 @@ ProcessFiles()
         if [[ $file == *.zip ]]; then
             unzip -l "$uplay/$game/$file" > "$game/$file.txt"
         else
-            strings "$uplay/$game/$file" > "$uplay/$game/$file.txt"
+            strings "$uplay/$game/$file" > "$game/$file.txt"
         fi
     done < "$appid.txt"
 }
@@ -36,7 +36,7 @@ ProcessCodeSignature()
     game="$1"
     exe="$2"
 
-    osslsigncode verify "$uplay/$game/$exe" > "$game/$exe_signature.txt"
+    osslsigncode verify "$uplay/$game/$exe" > "$game/$exe""_signature.txt"
 }
 
 ProcessTrackmania()
