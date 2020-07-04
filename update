@@ -36,7 +36,17 @@ ProcessCodeSignature()
     game="$1"
     exe="$2"
 
+    echo verifying code signature...
     osslsigncode verify "$uplay/$game/$exe" > "$game/$exe""_signature.txt"
+}
+
+ProcessClasses()
+{
+    game="$1"
+    exe="$2"
+
+    echo dumping classes...
+    node class_dumper.js "$game" "$uplay/$game/$exe" > "$game/classes.md"
 }
 
 ProcessTrackmania()
@@ -55,6 +65,8 @@ ProcessTrackmania()
     ProcessTranslations "$game" "Packs/Translations.zip" "Packs/Translations"
 
     ProcessCodeSignature "$game" "Trackmania.exe"
+
+    ProcessClasses "$game" "Trackmania.exe"
 
     echo done
 }
