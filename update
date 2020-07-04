@@ -1,0 +1,70 @@
+#!/bin/bash
+
+uplay="/mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games"
+
+ProcessFiles()
+{
+    game="$1"
+    appid="$2"
+
+    while IFS= read -r file; do
+        echo dumping $file
+
+        if [[ $file == *.zip ]]; then
+            unzip -l "$uplay/$game/$file" > "$game/$file.txt"
+        else
+            strings "$uplay/$game/$file" > "$uplay/$game/$file.txt"
+        fi
+    done < "$appid.txt"
+}
+
+ProcessTranslations()
+{
+    game="$1"
+    translations="$2"
+    output="$3"
+
+    zipinfo -1 "$uplay/$game/$translations" | grep "mo" | while read file
+    do
+        echo dumping $(basename $file)
+        unzip -p "$uplay/$game/$translations" "$file" | msgunfmt > "$game/$output/$(basename $file).txt"
+    done
+}
+
+ProcessCodeSignature()
+{
+    game="$1"
+    exe="$2"
+
+    osslsigncode verify "$uplay/$game/$exe" > "$game/$exe_signature.txt"
+}
+
+ProcessTrackmania()
+{
+    game="Trackmania"
+    appid="5595"
+
+    echo processing "$game"...
+
+    mkdir -p "$game"
+    mkdir -p "$game/Packs"
+    mkdir -p "$game/Packs/Translations"
+
+    ProcessFiles "$game" "$appid"
+
+    ProcessTranslations "$game" "Packs/Translations.zip" "Packs/Translations"
+
+    ProcessCodeSignature "$game" "Trackmania.exe"
+
+    echo done
+}
+
+Commit()
+{
+    git add --all
+    git -c user.name="NeKzBot" -c user.email="44978126+NeKzBot@users.noreply.github.com" commit -m "$(date --iso-8601)"
+    git push origin master
+}
+
+ProcessTrackmania
+Commit

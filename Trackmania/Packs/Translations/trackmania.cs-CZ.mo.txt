@@ -1,0 +1,5158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-07-01 12:04+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Czech, Czech Republic\n"
+"Language: cs-CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : (n >= 2 && n <= 4) ? 1 : 2;\n"
+
+msgid "$%1Author"
+msgstr "$%1Autor"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$> je Král Čekárny!"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$> je právě %2%3!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$> se připojil/a do hry"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$> opustil/a hru"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$> obsadil/a %2 místo!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$> vyhrává krok %2"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$> vyhrál/a na této mapě!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$> vyhrál/a zápas!"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$> vyhrál/a toto kolo!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$> vyhrál/a zápas!"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1 hráči/ů budou/e vyřazeni/o"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f00%1 hráč bude vyřazen"
+
+msgid "$f90No elimination this round"
+msgstr "$f90Bez vyřazování"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$zV módu $<$t$6F9Vyřazovačka$> je cílem být posledním zbývajícím hráčem. \n"
+"\n"
+"Hrajete sérii závodů jako v módu Na kola. $<$t$6F9Na konci každého závodu "
+"jsou poslední hráči vyloučeni$>!\n"
+"\n"
+"Výhercem je hráč, který vyloučí všechny soupeře."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$zV módu $<$t$6F9Okruhy$> je cílem dojet co nejdál projížděním $<$t"
+"$6F9checkpointů$>.\n"
+"\n"
+"Mód Okruhy se jezdí na vícekolových (okružních) mapách, na kterých hráči "
+"startují jen jednou.\n"
+"\n"
+"Když vyprší čas, $<$t$6F9vítězem$> se stává hráč, který projel nejvyšším "
+"počtem $<$t$6F9checkpointů$>. V případě shody se vítězem stává hráč, který "
+"projel posledním checkpointem dříve."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$zV módu $<$t$6F9Na kola$z$z$> je cílem získat maximální počet $<$t"
+"$6F9bodů.\n"
+"\n"
+"$z$>Mód Na kola se skládá ze $<$t$6F9série závodů$z$>.\n"
+"Dojedete-li závod s dobrým $<$t$6F9umístěním$z$>, dostanete <$t$6F9body$z$> "
+"do vašeho celkového počtu.\n"
+"\n"
+"$<$t$6F9Vítězem$z$> se stává hráč, který jako první dosáhne stanovený $<$t"
+"$6F9bodový limit$z$> (například 30)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$zV módu $<$t$6F9Tým$> si vybíráte jeden ze dvou týmů: $<$t$f00Červený$>, "
+"nebo $<$t$10cModrý$>.\n"
+"\n"
+"Hra v týmovém módu se skládá ze $<$t$6F9série závodů$>.\n"
+"Cílem vašeho týmu je vyhrát co nejvíce $<$t$6F9bodů$>.\n"
+"\n"
+"Dojedete-li závod s dobrým $<$t$6F9umístěním$>, dostanete $<$t$6F9body$> pro "
+"váš tým.\n"
+"$<$t$6F9Vítězným týmem$> se stává tým, který první dosáhne určeného $<$t"
+"$6F9bodového limitu$> (například 5 bodů)."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$zV módu $<$t$6F9Na čas$> je cílem zajet $<$t$6F9nejlepší čas$>.\n"
+"\n"
+"Máte tolik pokusů, kolik si jen přejete, a můžete to kdykoli $<$t$6F9zkusit "
+"znovu$> stisknutím klávesy pro obnovení.\n"
+"\n"
+"Když vyprší čas, je $<$t$6F9výhercem$> hráč s $<$t$6F9nejlepším časem$>."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$zMód Pohár se skládá ze $<$t$6F9série závodů na vícero mapách$>.\n"
+"\n"
+"Dojedete-li závod s dobrým $<$t$6F9umístěním$> získáte $<$t$6F9body$> do "
+"vašeho celkového počtu.\n"
+"Servery mohou nabídnout zahřívací kola pro seznámení s mapou.\n"
+"\n"
+"Pro výhru se musíte prvně stát $<$t$6F9finalistou$> dosáhnutím $<$t"
+"$6F9bodového limitu$>. Pohár vyhrajete, jakmile jako finalista dojedete "
+"závod na $<$t$6F9prvním místě$>. Mód Pohár končí, až se 3 hráči stanou "
+"finalisty a dojedou na první místo."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1 není Stadium mapa"
+
+msgid "%1 is not playable"
+msgstr "%1 není hratelná"
+
+msgid "%1 map"
+msgstr "%1 mapa"
+
+msgid "%1 maps"
+msgstr "%1 map/y"
+
+msgid "%1 players"
+msgstr "%1 hráčů"
+
+msgid "%1 replays selected"
+msgstr "Vybráno záznamů: %1"
+
+msgid "%1 until %2 Players"
+msgstr "%1 až do %2 hráčů"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$> zrušil/a start zápasu."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$> se připojuje k zápasu."
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$> se připojil/a k zápasu jako náhradník."
+
+msgid "%1's server"
+msgstr "Server hráče %1"
+
+msgid "%1Best CP %2"
+msgstr "%1Nejl. CP %2"
+
+msgid "%1Best race"
+msgstr "%1Nejl. závod"
+
+msgid "%1Personal best"
+msgstr "%1Osobní rekord"
+
+msgid "1 player"
+msgstr "1 hráč"
+
+msgid "16th final"
+msgstr "16-finále"
+
+msgid "8th final"
+msgstr "Osmifinále"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "SPECIALISTÉ PŘÍSTUPNOSTI"
+
+msgid "ACCOUNT MANAGER"
+msgstr "MANAŽER ÚČTŮ"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "KOORDINÁTOR VĚKOVÉHO HODNOCENÍ"
+
+msgid "ANALYST"
+msgstr "ANALYTIK"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "ANALYTIK, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "ART DIRECTOR"
+msgstr "ŘEDITEL UMĚNÍ"
+
+msgid "ARTISTS"
+msgstr "UMĚLCI"
+
+msgid "ASSISTANT MANAGER"
+msgstr "ZÁSTUPCE MANAŽERA"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE KOMUNITNÍ VÝVOJ"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE CRM"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE, KOMUNIKACE, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE, OPERAČNÍ STRATEGIE"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "SPOLUPRACOVNÍK LIVE KOORDINÁTORA"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "SPOLUPRACOVNÍK VEDOUCÍHO PC POŽADAVKŮ"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "SPOLUPRACOVNÍK PRODUCENTA"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "SPOLUPRACOVNÍK TECHNICKÉHO ŘEDITELE"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "SPOLUPRACOVNÍK UX NÁVRHÁŘE "
+
+msgid "Accept"
+msgstr "Přijmout"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "Activities"
+msgstr "Aktivity"
+
+msgid "Activities must have a name."
+msgstr "Aktivity musí mít jméno."
+
+msgid "Activity"
+msgstr "Aktivita"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Add to favorite"
+msgstr "Přidat k oblíbeným"
+
+msgid "Adding map to queue..."
+msgstr "Přidávám mapu do fronty..."
+
+msgid "Administration"
+msgstr "Správa"
+
+msgid "Advanced options"
+msgstr "Rozšířené nastavení"
+
+msgid "Against replay"
+msgstr "Proti záznamu"
+
+msgid "All clubs"
+msgstr "Všechny kluby"
+
+msgid "All fields must be completed"
+msgstr "Všechna pole musí být vyplněna"
+
+msgid "Allies"
+msgstr "Spojenci"
+
+msgid "Ally"
+msgstr "Spojenec"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr "Při připojování došlo k chybě, prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Došlo k chybě při získávání dalšího zápasu. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"Došlo k chybě při získávání vašich účtů, prosím opakujte. (Kód chyby: %1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "Došlo k chybě, prosím opakujte. (Chyba: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "Jakékoli úpravy na tomto terénu budou ztraceny."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "Jakékoli neuložené úpravy na této trati budou ztraceny."
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Apply skin"
+msgstr "Použít vzhled"
+
+msgid "Arcade"
+msgstr "Arkády"
+
+msgid "Are you really sure you want to %1?"
+msgstr "Jste si jistí, že chcete %1?"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "Jste si jistí, že chcete opustit zápas?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "Jste si jistí, že chcete vytvořit novou trať?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "Jste si jistí, že chcete odstranit váš klub?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "Jste si jistí, že chcete upravit dekoraci?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "Jste si jistí, že chcete upravit tuto trať?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "Jste si jistí, že chcete vygenerovat další trať?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "Jste si jistí, že chcete odejít z editoru?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "Jste si jistí, že chcete ukončit Trackmanii?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "Jste si jistí, že chcete vybrat další terén?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"Na konci vašeho 3ročního období si zachováte 300 oficiálních map,\n"
+"1095 tratí dne a pokročilý editor tratí"
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"Na konci vašeho ročního období si zachováte 100 oficiálních map,\n"
+"365 tratí dne a pokročilý editor tratí"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Author medal"
+msgstr "Medaile autora"
+
+msgid "Author time"
+msgstr "Čas autora"
+
+msgid "Auto-finish"
+msgstr "Auto-dokončení"
+
+msgid "Automatic retry in %1 second."
+msgstr "Automatické opakování za %1 sekund/u."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "Automatické opakování za %1 sekund/y."
+
+msgid "Average lap"
+msgstr "Průměrný okruh"
+
+msgid "Average waiting time"
+msgstr "Průměrný čas čekání"
+
+msgid "BRAND DIRECTOR"
+msgstr "ŘEDITEL ZNAČKY"
+
+msgid "BRAND MANAGER"
+msgstr "MANAŽER ZNAČKY"
+
+msgid "BUSINESS ANALYST"
+msgstr "OBCHODNÍ ANALYTIK"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "KOORDINÁTOR OBCHODNÍCH OPERACÍ"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "MANAŽER OBCHODNÍCH OPERACÍ"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Pozadí: obrázek na pozadí stránky s detaily vašeho klubu.\n"
+"Rozměry: %1 - Formát: PNG, JPEG nebo DDS (DXT5)"
+
+msgid "Balance teams"
+msgstr "Vyvážit týmy"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr ""
+"Opatrně! Tento blok vypne váš motor, než dojedete do dalšího checkpointu."
+
+msgid "Be in the top %1"
+msgstr "Buďte v top %1"
+
+msgid "Best lap"
+msgstr "Nejlepší okruh"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "Nejlepší okruh $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "Nejlepší okruh: %1"
+
+msgid "Best time :"
+msgstr "Nejlepší čas:"
+
+msgid "Black"
+msgstr "Černá"
+
+msgid "Block selection"
+msgstr "Výběr bloku"
+
+msgid "Blocked by the terrain"
+msgstr "Blokován terénem"
+
+msgid "Blue"
+msgstr "Modrá"
+
+msgid "Bronze"
+msgstr "Bronzová"
+
+msgid "Bronze medal"
+msgstr "Bronzová medaile"
+
+msgid "Browse"
+msgstr "Procházet"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "Postavte vaší trať a umístěte cílový blok pro dokončení."
+
+msgid "By %1"
+msgstr "Od %1"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "VEDOUCÍ KREATIVNÍ TVORBY"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "PRODUKTOVÝ MANAŽER PRO ČÍNU"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "MANAŽER KOMUNIKACE, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "ŘEDITEL KOMUNIKACÍ"
+
+msgid "COMMUNITY"
+msgstr "KOMUNITA"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "NÁVRHÁŘ KOMUNITNÍ TVORBY"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "PRODUCENT KOMUNITNÍ TVORBY"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "SPECIALISTA KOMUNITNÍHO OBSAHU"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "STRATÉG KOMUNITNÍ TVORBY"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "KOMUNITNÍ MANAGEMENT"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "VEDOUCÍ TÝMU KOMUNITNÍHO MANAGEMENTU"
+
+msgid "COMMUNITY MANAGER"
+msgstr "MANAŽER KOMUNITY"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SPECIALISTA KOMUNITNÍ NÁLADY"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "VEDOUCÍ KOMUNITNÍHO TÝMU"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "MANAŽER KOMUNITNÍHO TÝMU LIVE OPERACÍ"
+
+msgid "COMPOSER"
+msgstr "SKLADATEL"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "OBLASTNÍ MANAŽER ZÁKAZNICKÉ ZKUŠENOSTI, ASIE"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "MANAŽER ZÁZKAZNICKÉ ZKUŠENOSTI"
+
+msgid "CONTENT DIRECTOR"
+msgstr "ŘEDITEL OBSAHU"
+
+msgid "CONTENT MANAGER"
+msgstr "MANAŽER OBSAHU"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "KREATIVNÍ ŘEDITEL"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "KREATIVNÍ FRONT-END INŽENÝR"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "ANALYTIK CRM DAT"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "GRAFICKÝ NÁVRHÁŘ CRM"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "SPECIALISTA INTEGRACE CRM"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "LÍDR TÝMU INTEGRACE CRM "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "ASISTENT ŽIVOTNÍHO CYKLU CRM"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "SPECIALISTA ŽIVOTNÍHO CYKLU CRM"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "SPECIALISTA VÍCEKANALOVÉHO CRM"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "MANAŽER OPERACÍ CRM"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "SPECIALISTA OPERACÍ CRM"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "ASISTENT SPECIALISTŮ OPERACÍ CRM"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "MANAŽER VÝKONNOSTI CRM"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "MANAŽER PROGRAMU CRM"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "MANAŽER ZÁKAZNICKÉ ZKUŠENOSTI"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE PÉČE O ZÁKAZNÍKY"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "SPOLUPRACOVNÍK ŘEDITELE VÝVOJE PÉČE O ZÁKAZNÍKY"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "VĚDOMOSTNÍ TÝM PÉČE O ZÁKAZNÍKY"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "UČEBNÍ A VÝVOJOVÝ TÝM PÉČE O ZÁKAZNÍKY"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "TÝM ZAJIŠTĚNÍ KVALITY PÉČE O ZÁKAZNÍKY"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "SENIOR VĚDOMOSTNÍ MANAŽER PÉČE O ZÁKAZNÍKY"
+
+msgid "Campaign"
+msgstr "Kampaň"
+
+msgid "Campaign creation"
+msgstr "Vytváření kampaně"
+
+msgid "Campaign edition"
+msgstr "Úprava kampaně"
+
+msgid "Campaign library"
+msgstr "Knihovna kampaní"
+
+msgid "Campaign's name"
+msgstr "Jméno kampaně"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "Nelze umístit kterýkoli blok z této rodiny, zkuste jiný"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Cancel request"
+msgstr "Zrušit žádost"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Champion mode"
+msgstr "Mód šampiónů"
+
+msgid "Change map"
+msgstr "Změnit mapu"
+
+msgid "Change opponents"
+msgstr "Změnit soupeře"
+
+msgid "Change team"
+msgstr "Změnit tým"
+
+msgid "Change the building mode"
+msgstr "Změna režimu stavění"
+
+msgid "Change the connection mode"
+msgstr "Změna režimu připojení"
+
+msgid "Chat time"
+msgstr "Čas pro debatu"
+
+msgid "Choose a campaign to use"
+msgstr "Vyberte kampaň k použití"
+
+msgid "Choose a mode"
+msgstr "Vybrat mód"
+
+msgid "Choose a skin"
+msgstr "Výběr vzhledu"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"Vyberte proporce každého stylu dekorace a stiskněte tlačítko \"vygenerovat"
+"\". Když jste spokojeni s vaší dekoraci, můžete vaši trať ověřit."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"Vyberte typ dekorace, jaký chcete, a vygenerujte ji. Až najdete tu, která se "
+"vám líbí, můžete vaši trať ověřit."
+
+msgid "Choose your team"
+msgstr "Vybrat váš tým"
+
+msgid "Clan"
+msgstr "Klan"
+
+msgid "Click on a player to invite them to your party."
+msgstr "Klikněte na hráče a pozvěte je do vlastí hry."
+
+msgid "Click on a player to join their party."
+msgstr "Kliknutím na hráče se připojíte k jejich hře."
+
+msgid "Click on a player to set them as ally."
+msgstr "Klikněte na hráče, které chcete jako spojence."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "Klikněte na moduly rozhraní pro úpravu jejich parametrů"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Club"
+msgstr "Klub"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování pozadí klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr "Editování pozadí klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club campaigns"
+msgstr "Klubové kampaně"
+
+msgid "Club coming soon!"
+msgstr "Klub již brzy!"
+
+msgid "Club creation"
+msgstr "Vytváření klubu"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "Vytváření klubu se nezdařilo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování klubového obtisku selhalo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr "Úprava klubového obtisku selhala. Prosím opakujte. (Chyba %1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Odstraňování obtisku sponzora klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"Editování obtisku sponzora klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr "Nahrávání klubového obtisku selhalo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "Odstranění klubu selhalo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club edition"
+msgstr "Úprava klubu"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr "Odstranění loga klubu selhalo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr "Upravování loga klubu selhalo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr "Nahrávání loga klubu se nezdařilo. Prosím opakujte. (Chyba %1)"
+
+msgid "Club rooms"
+msgstr "Klubové místnosti"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování obrazovky 16 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr "Editování obrazovky 16 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování obrazovky 2 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr "Editování obrazovky 2 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování obrazovky 8 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr "Editování obrazovky 8 klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club skins"
+msgstr "Klubové vzhledy"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "Aktualizace klubu selhala. Prosím opakujte. (Chyba %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr "Odstraňování vertikály klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr "Editování vertikály klubu selhalo. Prosím opakujte. (Chyba : %1)"
+
+msgid "Clubs"
+msgstr "Kluby"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "Sbírejte loterijní lístky, všichni se mohou zúčastnit!"
+
+msgid "Coming soon!"
+msgstr "Již brzy!"
+
+msgid "Comment"
+msgstr "Komentář"
+
+msgid "Compete every week in the national league"
+msgstr "Soutěžte každý týden v národní lize"
+
+msgid "Compete in the open grand league"
+msgstr "Soutěžte v open grand league"
+
+msgid "Competition"
+msgstr "Soutěž"
+
+msgid "Concept"
+msgstr "Koncept"
+
+msgid "Confirm"
+msgstr "Potvrdit"
+
+msgid "Confirm your choice"
+msgstr "Potvrďte svůj výběr"
+
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+msgid "Connect"
+msgstr "Připojit"
+
+msgid "Connection timed out"
+msgstr "Vypršel čas spojení"
+
+msgid "Connector selection"
+msgstr "Výběr konektoru"
+
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgid "Copy"
+msgstr "Kopírovat"
+
+msgid "Copy and connect"
+msgstr "Kopírovat a připojit"
+
+msgid "Copy server link"
+msgstr "Kopírovat odkaz na server"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Nelze se připojit k serverům Trackmanie."
+
+msgid "Could not load records"
+msgstr "Nelze načíst rekordy"
+
+msgid "Create"
+msgstr "Vytvořit"
+
+msgid "Create a new map"
+msgstr "Nová mapa"
+
+msgid "Create a new skin"
+msgstr "Vytvořit nový vzhled"
+
+msgid "Create activity"
+msgstr "Vytvořit aktivitu"
+
+msgid "Create campaign"
+msgstr "Vytvořit kampaň"
+
+msgid "Create club"
+msgstr "Vytvořit klub"
+
+msgid "Create map"
+msgstr "Vytvořit mapu"
+
+msgid "Create map uploads"
+msgstr "Vytvořit nahrané mapy"
+
+msgid "Create room"
+msgstr "Vytvořit místnost"
+
+msgid "Create skin uploads"
+msgstr "Vytvořit nahrané vzhledy"
+
+msgid "Create the map of the show"
+msgstr "Vytvořit mapu show"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"Vytvářejte tratě s pokročilým editorem a testujte je online\n"
+"Vytvářejte a sdílejte videa vašich závodů nekonečně"
+
+msgid "Create your club and share your masterpieces"
+msgstr "Vytvořte váš klub a sdílejte své výtvory"
+
+msgid "Create your tracks"
+msgstr "Vytvářejte vlastní tratě"
+
+msgid "Creating activity..."
+msgstr "Vytváření aktivity..."
+
+msgid "Creating campaign..."
+msgstr "Vytváření kampaně..."
+
+msgid "Creating club room..."
+msgstr "Vytváření klubové místnosti..."
+
+msgid "Creating club..."
+msgstr "Vytváření klubu..."
+
+msgid "Credits"
+msgstr "Autoři"
+
+msgid "Cumulate team points :"
+msgstr "Kumulovat body týmu:"
+
+msgid "Current map"
+msgstr "Aktuální mapa"
+
+msgid "Current match best score"
+msgstr "Aktuální nejlepší skóre zápasu"
+
+msgid "Current match score"
+msgstr "Aktuální skóre zápasu"
+
+msgid "Current player"
+msgstr "Aktuální hráč"
+
+msgid "Customization"
+msgstr "Přizpůsobení"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "Přizpůsobte si vaše vozidlo s vašimi nebo klubovými vzhledy"
+
+msgid "Cut and paste"
+msgstr "Vyjmout a vložit"
+
+msgid "DATA ANALYST"
+msgstr "ANALYTIK DAT"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "MANAŽER VÝVOJE A KVALITY"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "TESTER VÝVOJE"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "VYDAVATEL DIGITÁLNÍHO OBSAHU"
+
+msgid "DIRECTOR"
+msgstr "ŘEDITEL"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "ŘEDITEL MÉDIA & CRM, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "ŘEDITEL VÝVOJE ZNAČKY"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "ŘEDITEL ZÁKAZNICKÉ ZKUŠENOSTI"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "ŘEDITEL, KOMUNIKACE, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "ŘEDITEL, KOMUNITNÍ ZAPOJENÍ, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "ŘEDITEL, HRÁČSKÁ ZKUŠENOST"
+
+msgid "DIRECTORS"
+msgstr "ŘEDITELÉ"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "DUALSHOCK®4 Bezdrátový ovladač"
+
+msgid "Daily Cup Knockout"
+msgstr "Denní pohár Knockout"
+
+msgid "Daily cup"
+msgstr "Denní pohár"
+
+msgid "Daily rankings"
+msgstr "Denní pořadí"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+msgid "Dead end"
+msgstr "Slepá ulička"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Obtisk sponzora: obrázek viditelný na bannerech sponzorů kolem cesty.\n"
+"Rozměry: %1 - Formát: PNG, JPEG nebo DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Obtisk: obrázek viditelný na povrchu cesty (u startu, checkpointů a cíle).\n"
+"Rozměry: %1 - Formát: PNG, JPEG nebo DDS (DXT5)"
+
+msgid "Decoration"
+msgstr "Dekorace"
+
+msgid "Delete club"
+msgstr "Odstranit klub"
+
+msgid "Deleting club..."
+msgstr "Odstraňování klubu..."
+
+msgid "Did you like this map?"
+msgstr "Libí se vám tato mapa?"
+
+msgid "Disable give up"
+msgstr "Zakázat odstoupení"
+
+msgid "Do Not Show Again"
+msgstr "Již nezobrazovat"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "Zajeďte nejlepší čas před koncem časového limitu."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "Chcete vytvořit pohár s touhle mapou?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "Chcete vygenerovat další trať nebo hrát tuto?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "Chcete vylepšit ověřovací čas?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "Chcete opustit generátor náhodných tratí?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "Chcete teď umístit checkpoint?"
+
+msgid "Do you want to play a rematch?"
+msgstr "Chcete hrát odvetu?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "Chcete ukončit plugin a vrátit se do editoru?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "Chcete vaši mapu uložit s tímto jménem?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "Chcete zastavit auto-dokončení?"
+
+msgid "Do you want to validate the track now?"
+msgstr "Chcete teď ověřit trať?"
+
+msgid "Don't forget to save your track!"
+msgstr "Nezapomeňte si vaši trať uložit!"
+
+msgid "Download"
+msgstr "Stáhnout"
+
+msgid "Draw of the lottery"
+msgstr "Tah loterie"
+
+msgid "Duel"
+msgstr "Duel"
+
+msgid "Duration of one warm up"
+msgstr "Trvání zahřívacího kola"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "REDAKČNÍ TECHNOLOGIE"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "CENTRUM VZTAHŮ SE ZÁKAZNÍKY EMEA - KOMUNITNÍ TÝM"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "CENTRUM VZTAHŮ SE ZÁKAZNÍKY EMEA - TÝM PÉČE O HRÁČE"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "MANAGEMENT ZÁKAZNÍKŮ EMEA"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "ZNALOSTNÍ TÝM EMEA"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "INŽENÝR, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "UMĚLEC PROSTŘEDÍ"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "VVÝKONNÝ ASISTENT & MANAŽER HR"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "VÝKONNÝ ŘEDITEL, CELOSVĚTOVÁ STUDIA"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "EXTERNÍ PARTNEŘI"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "Získávejte medaile a sledujte svůj postup v místních pořadích"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Edit '%1'"
+msgstr "Upravování '%1'"
+
+msgid "Edit a map"
+msgstr "Upravit mapu"
+
+msgid "Edit a skin"
+msgstr "Upravit vzhled"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "Upravit aktivitu '$<%1$>'"
+
+msgid "Edit campaign"
+msgstr "Upravit kampaň"
+
+msgid "Edit decoration"
+msgstr "Upravit dekoraci"
+
+msgid "Edit replay"
+msgstr "Upravit záznam"
+
+msgid "Edit room"
+msgstr "Upravit místnost"
+
+msgid "Edit room '%1'"
+msgstr "Upravování místnosti: '%1'"
+
+msgid "Edit terrain"
+msgstr "Úprava terénu"
+
+msgid "Edit track"
+msgstr "Upravit trať"
+
+msgid "Editing activity..."
+msgstr "Upravování aktivity..."
+
+msgid "Editing club room..."
+msgstr "Upravování klubové místnosti..."
+
+msgid "Eighth (Press 8)"
+msgstr "Osmý (Stiskněte 8)"
+
+msgid "End of warmup, match starting..."
+msgstr "Konec zahřívacích kol, zápas začíná..."
+
+msgid "Engine disabled"
+msgstr "Volnoběh"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "Dostatek hráčů se dohodl hrát odvetu."
+
+msgid "Entry"
+msgstr "Vstup"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"Chyba při přidávání vaší mapy do fronty, prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr "Došlo k chybě při vytváření kampaně. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr "Došlo k chybě při vytváření aktivity. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při vytváření místnosti. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při upravování aktivity. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při upravování místnosti. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"Došlo k chybě při načítání kampaní typu %1. Prosím opakujte. (Kód chyby: %2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Došlo k chybě při získávání seznamu map od Nadeo Services. Prosím opakujte. "
+"(Kód chyby: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Došlo k chybě při získávání měsíční kampaně z Nadeo Services. Prosím "
+"opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při získávání pozice hráče na mapách v klubovém žebříčku. "
+"Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při získávání čtvrtletní kampaně od Nadeo Services. Prosím "
+"opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při získávání info o aktivitě, prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při získávání odkazu pro připojení k serveru, prosím opakujte. "
+"(Kód chyby: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "Chyba při shromažďování dat map. (Kód chyby: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při připojování k serveru, prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "Chyba při načítání umístění (kód: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "Došlo k chybě při načítání detailů místnosti. (Kód chyby: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "Došlo k chybě při načítání map místnosti. (Kód chyby: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Došlo k chybě při načítání skóre z Nadeo Services. Prosím opakujte. (Kód "
+"chyby: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr "Chyba při načítání kampaně. Opakujte prosím. (Kód chyby: %1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr "Chyba při načítání klubu kampaně. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "Došlo k chybě při načítání trofejí (kód: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při aktualizaci klubových aktivit. Prosím opakujte. (Kód "
+"chyby: %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr "Chyba při aktualizaci loga novinky. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Došlo k chybě při aktualizaci soukromí aktivity. Prosím opakujte. (Kód "
+"chyby: %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr "Chyba při nahrávání map, prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr "Došlo k chybě při nahrávání map. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při nahrávání loga aktivity. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při nahrávání médii místnosti. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr "Chyba při nahrávání vaší mapy, prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při nahrávání vašeho média. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr "Došlo k chybě při ověřování aktivity. Prosím opakujte. (Kód chyby: %1)"
+
+msgid "Events"
+msgstr "Události"
+
+msgid "Exit"
+msgstr "Ukončit"
+
+msgid "F6 to cancel"
+msgstr "F6 pro zrušení"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "ANALYTIK FINANČNÍHO PLÁNOVÁNÍ"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "SENIOR ŘEDITEL FINANČNÍHO PLÁNOVÁNÍ"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "FINANČNÍ PLÁNOVÁNÍ, PROVOZ STUDIA & QC"
+
+msgid "FRONT-END ENGINEER"
+msgstr "FRONT-END INŽENÝR"
+
+msgid "Fifth (Press 5)"
+msgstr "Pátý (Stiskněte 5)"
+
+msgid "Finish timeout"
+msgstr "Čas ukončení"
+
+msgid "First (Press 1)"
+msgstr "První (Stiskněte 1)"
+
+msgid "Forced laps number"
+msgstr "Vynucený počet okruhů"
+
+msgid "Fourth (Press 4)"
+msgstr "Čtvrtý (Stiskněte 4)"
+
+msgid "Free for all"
+msgstr "Všichni proti všem"
+
+msgid "Friday"
+msgstr "Pátek"
+
+msgid "Fullspeed"
+msgstr "Fullspeed"
+
+msgid "Fusion with another server for more players"
+msgstr "Sloučit s jiným serverem pro víc hráčů"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECIALISTÉ HERNÍ AKTIVITY, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "VÝZKUM HERNÍ ANALÝZY"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "MANAŽER OPERACÍ SOUVISEJÍCÍCH S HROU A SLUŽBAMI"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "MANAŽER OPERACÍ HRY A SLUŽEB"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "SPECIALISTA OPERACÍ HRY A SLUŽEB"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "VŠEOBECNÝ MANAŽER CRC"
+
+msgid "GRAPHIC ARTIST"
+msgstr "GRAFICKÝ UMĚLEC"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAFIK"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "MANAŽER SKUPIN, VÝKONNOST MÉDII, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "MANAŽER SKUPIN, STRATEGIE MÉDII, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "MANAŽER SKUPIN, WEBOVÁ PRODUKCE, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "MANAŽER SKUPINY VYDÁNÍ"
+
+msgid "Game mode"
+msgstr "Herní mód"
+
+msgid "Game mode: %1"
+msgstr "Herní mód: %1"
+
+msgid "Garage"
+msgstr "Garáž"
+
+msgid "Generate"
+msgstr "Vygenerovat"
+
+msgid "Get the Club access for one year"
+msgstr "Pořiďte si Club access na jeden rok"
+
+msgid "Get the Club access for three years"
+msgstr "Získejte Club access na tři roky"
+
+msgid "Get the Standard access for one year"
+msgstr "Pořiďte si Standard access na jeden rok"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "Získejte to nejlepší z kampaní hráčů v arkádovém kanálu"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "Získejte editor záznamů, editor vzhledů a jednoduchý editor tratí"
+
+msgid "Give up"
+msgstr "Vzdát se"
+
+msgid "Give up %1"
+msgstr "Vzdát se %1"
+
+msgid "Give up Daily cup?"
+msgstr "Vzdát se Denního poháru?"
+
+msgid "Go to map list"
+msgstr "Přejít na seznam map"
+
+msgid "Going to next map"
+msgstr "Přecházím na další mapu"
+
+msgid "Gold"
+msgstr "Zlatá"
+
+msgid "Gold medal"
+msgstr "Zlatá medaile"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "VEDOUCÍ CENTRA VZTAHŮ SE ZÁKAZNÍKY NCSA"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "VEDOUCÍ SOCIÁLNÍCH MÉDII EMEA"
+
+msgid "HQ PRODUCER"
+msgstr "HQ PRODUCENT"
+
+msgid "HQ PRODUCERS"
+msgstr "HQ PRODUCENTI"
+
+msgid "HR SPECIALIST"
+msgstr "SPECIALISTA HR"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Hide"
+msgstr "Skrýt"
+
+msgid "Home Activities"
+msgstr "Domovské aktivity"
+
+msgid "Home display"
+msgstr "Hlavní strana"
+
+msgid "Hot Seat"
+msgstr "Horké křeslo"
+
+msgid "HotSeat"
+msgstr "Horké křeslo"
+
+msgid "Hotseat"
+msgstr "Horké křeslo"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "MANAŽER TÝMU INFRASTRUKTURY"
+
+msgid "INTERN LIVE QA"
+msgstr "STÁŽISTA LIVE QA"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "MEZINÁRODNÍ PRODUKTOVÝ MANAŽER"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Pokud si vyberete krajinu, můžete ztratit všechnu vaší práci."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"Pokud se vzdáte, budete moct pokračovat ve hraní v kanálu, ale nebudete se "
+"moct zúčastnit Denního Knockoutu."
+
+msgid "Image browser"
+msgstr "Prohlížeč obrázků"
+
+msgid "Improve"
+msgstr "Vylepšit"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Interval from %1 pos."
+msgstr "Interval od %1 poz."
+
+msgid "Invite friends"
+msgstr "Pozvat přátele"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "Teď není možné hlasovat pro toto nastavení serveru."
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "JUNIOR MANAŽER ÚČTŮ"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "JUNIOR TESTER AUTOMATIZACE"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "JUNIOR TESTER VÝVOJE"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR ANALYTIK FINANČNÍHO PLÁNOVÁNÍ"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "JUNIOR LIVE QA & SÍŤOVÝ SPECIALISTA"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "JUNIOR PRODUKTOVÝ MANAŽER"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "JUNIOR KOORDINÁTOR PRODUKCE"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMÁTOR"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR SPECIALISTA QC SÍTĚ"
+
+msgid "JUNIOR TESTER"
+msgstr "JUNIOR TESTER"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "JUNIOR UX NÁVRHÁŘ"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "JUNIOR WEBOVÝ VÝVOJÁŘ"
+
+msgid "Join"
+msgstr "Připojit"
+
+msgid "Join %1"
+msgstr "Připojit k %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "Připojujte se ke klubovým aktivitám a sledujte klubová pořadí"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr ""
+"Připojujte se k veřejným klubovým aktivitám: kampaním a online místnostem"
+
+msgid "Jump to map"
+msgstr "Přeskočit na mapu"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "ZNALOSTNÍ SPECIALISTA"
+
+msgid "KOs per round"
+msgstr "KO za kolo"
+
+msgid "Knockout match starts in %1"
+msgstr "Zápas knockoutu začíná za %1"
+
+msgid "L1 button"
+msgstr "Tlačítko L1"
+
+msgid "L3 button"
+msgstr "Tlačítko L3"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "VEDOUCÍ CHARAKTERNÍ UMĚLEC"
+
+msgid "LEAD DESIGNER"
+msgstr "VEDOUCÍ NÁVRHÁŘ"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "VEDOUCÍ UMĚLEC PROSTŘEDÍ"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "VEDOUCÍ FRONT-END INŽENÝR"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "VEDOUCÍ GRAFICKÝ UMĚLEC"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "VEDOUCÍ ONLINE INŽENÝR"
+
+msgid "LEAD PROGRAMMER"
+msgstr "VEDOUCÍ PROGRAMÁTOR"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "VEDOUCÍ TECHNICKÝ UMĚLEC"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "VEDOUCÍ UX PORADCE"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "VEDOUCÍ UMĚLEC VOZIDLA"
+
+msgid "LINE DESIGNER"
+msgstr "ŘADOVÝ NÁVRHÁŘ"
+
+msgid "LINE DESIGNERS"
+msgstr "ŘADOVÍ NÁVRHÁŘI"
+
+msgid "LIVE COORDINATOR"
+msgstr "LIVE KOORDINÁTOR"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "KOORDINÁTOR NOVINEK LIVE OPERACÍ"
+
+msgid "LIVE PRODUCER"
+msgstr "LIVE PRODUCENT"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "LIVE QA & KOORDINÁTOR SÍTĚ"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "SENIOR ANALYTIK ŽIVÝCH PŘÍJMŮ"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "STRATEGIE ŽIVÝCH PŘÍJMŮ "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "MANAŽER LIVE TÝMU"
+
+msgid "LOCALIZATION"
+msgstr "LOKALIZACE"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "MANAŽER LOKALIZACE"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "SPECIALISTA LOKALIZACE"
+
+msgid "Landscape"
+msgstr "Krajina"
+
+msgid "Lap %1"
+msgstr "Okruh %1"
+
+msgid "Last time"
+msgstr "Poslední čas"
+
+msgid "Leader"
+msgstr "Vedoucí"
+
+msgid "League ranking"
+msgstr "Pořadí v lize"
+
+msgid "Learn more about the Club Edition"
+msgstr "Získejte další info o Club Edition"
+
+msgid "Leave"
+msgstr "Opustit"
+
+msgid "Leave club '%1'"
+msgstr "Opustit klub '%1'"
+
+msgid "Leave random track generator"
+msgstr "Opustit generátor náhodných tratí"
+
+msgid "Left click : move the module"
+msgstr "Levý klik: přesunout modul"
+
+msgid "Link copied!"
+msgstr "Odkaz zkopírován!"
+
+msgid "Live Ranking"
+msgstr "Aktuální pořadí"
+
+msgid "Live ranking"
+msgstr "Aktuální pořadí"
+
+msgid "Live test"
+msgstr "Otestovat naživo"
+
+msgid "Loading"
+msgstr "Načítání"
+
+msgid "Loading activity..."
+msgstr "Načítání aktivity..."
+
+msgid "Loading campaign to edit"
+msgstr "Načítání kampaně k úpravě"
+
+msgid "Loading campaign..."
+msgstr "Načítání kampaně..."
+
+msgid "Loading club activities..."
+msgstr "Načítání klubových aktivit..."
+
+msgid "Loading club room..."
+msgstr "Načítání klubové místnosti..."
+
+msgid "Loading competition..."
+msgstr "Načítání soutěže..."
+
+msgid "Loading offline campaign..."
+msgstr "Načítání offline kampaně..."
+
+msgid "Loading records"
+msgstr "Načítání rekordů"
+
+msgid "Loading room informations..."
+msgstr "Načítání info o místnosti..."
+
+msgid "Loading..."
+msgstr "Načítání..."
+
+msgid "Local multi"
+msgstr "Místní multiplayer"
+
+msgid "Local network"
+msgstr "Místní síť"
+
+msgid "Locked"
+msgstr "Zamknutý"
+
+msgid "Login"
+msgstr "Přihlašovací jméno"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Logo: první viditelný obrázek vašeho klubu.\n"
+"Rozměry: %1 - Formát: PNG, JPEG nebo DDS (DXT5)"
+
+msgid "Lol"
+msgstr "Lol"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "CHARAKTERNÍ UMĚLEC MAGIC LAB"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "ŘEDITEL PRODUKCE MAGIC LAB"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "UMĚLEC VOZIDLA MAGIC LAB"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "MANAŽER HRÁČSKÉ ZKUŠENOSTI, KOMUNITNÍ PROGRAMY"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "MANAŽER, KOMUNITNÍ OBSAH"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "MANAŽER, KOMUNITNÍ VÝVOJ"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "MANAŽER, OPERACE CRM"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "MANAŽER, STRATEGIE ŽIVOTNÍHO CYKLU CRM"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "MANAŽER, WEBOVÝ VÝVOJÁŘ, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "MANAŽER, WEBOVÝ PRODUCENT, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "MANAŽEŘI, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "MANAGING DIRECTOR"
+msgstr "JEDNATEL FIRMY"
+
+msgid "MARKETING"
+msgstr "MARKETING"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "ŘEDITEL MARKETINGU & KOMUNIKACÍ"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "ŘEDITEL MARKETINGU & LOAJALITY"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "MANAŽER SKUPINY MARKETINGU & LOAJALITY"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "MANAŽER MARKETINGOVÉ KAMPANĚ"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "MANAŽER MÉDII, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "ŘEDITEL ZPENĚŽOVÁNÍ"
+
+msgid "Manage server"
+msgstr "Spravovat server"
+
+msgid "Manage track"
+msgstr "Spravovat trať"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr "Mapa %1/%2 - Ponechejte si předchozí body zůstáním mezi 1. a %3%4"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"Mapa %1/%2 - Získejte body dokončením závodu nebo co nejlepším časem okruhu."
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "Mapa '%1' nemohla být nahrána. Prosím opakujte. (Chyba: %2)"
+
+msgid "Map '%1' is not playable."
+msgstr "Mapa '%1' není hratelná."
+
+msgid "Map '%1' not found"
+msgstr "Mapa '%1' nenalezena"
+
+msgid "Map browser"
+msgstr "Prohlížeč map"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "Mapa nemohla být odstraněna. Prosím opakujte. (Chyba: %1)"
+
+msgid "Map editor"
+msgstr "Editor map"
+
+msgid "Map not found"
+msgstr "Mapa nebyla nalezena"
+
+msgid "Map position"
+msgstr "Pozice na mapě"
+
+msgid "Map review"
+msgstr "Hodnocení map"
+
+msgid "Map rounds"
+msgstr "Kola mapy"
+
+msgid "Map saved!"
+msgstr "Mapa uložena!"
+
+msgid "Map uploads"
+msgstr "Nahrané mapy"
+
+msgid "Map validate"
+msgstr "Ověření mapy"
+
+msgid "Maps"
+msgstr "Mapy"
+
+msgid "Maps "
+msgstr "Počet map "
+
+msgid "Maps : "
+msgstr "Mapy: "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "Mapy nemohly být nahrány. Prosím opakujte. (Chyba: %1)"
+
+msgid "Maps list already full"
+msgstr "Seznam map je již plný"
+
+msgid "Match found!"
+msgstr "Zápas nalezen!"
+
+msgid "Match is over"
+msgstr "Zápas skončil."
+
+msgid "Match not started yet."
+msgstr "Zápas zatím nezačal."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "Zápas skončil. Byl/a jste přepojen/a zpět do čekárny."
+
+msgid "Match over. You will be transferred back."
+msgstr "Zápas skončil. Budete přepojen/a zpět."
+
+msgid "Match paused"
+msgstr "Zápas pozastaven"
+
+msgid "Match settings"
+msgstr "Nastavení zápasu"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "Matchmaking zrušen: žádný server k dispozici"
+
+msgid "Matchmaking disabled."
+msgstr "Matchmaking zakázán."
+
+msgid "Matchmaking forced."
+msgstr "Matchmaking vynucen."
+
+msgid "Matchmaking in progress..."
+msgstr "Probíhá Matchmaking..."
+
+msgid "Matchsettings browser"
+msgstr "Prohlížeč nastavení zápasů"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "Nastavení zápasu byla uložena do souboru: %1"
+
+msgid "Max players"
+msgstr "Max. hráčů"
+
+msgid "Max players number"
+msgstr "Max. počet hráčů"
+
+msgid "Max points :"
+msgstr "Max bodů:"
+
+msgid "Max wait time: %1 %2"
+msgstr "Max. čas čekání: %1 %2"
+
+msgid "Medals"
+msgstr "Medaile"
+
+msgid "Middle click : reset the module"
+msgstr "Prostřední klik: obnovit modul"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "Chybí: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "Mód"
+
+msgid "Mode script browser"
+msgstr "Prohlížeč herních skriptů"
+
+msgid "Mode settings"
+msgstr "Nastavení módu"
+
+msgid "Monday"
+msgstr "Pondělí"
+
+msgid "More VIPs"
+msgstr "Víc VIP"
+
+msgid "Move"
+msgstr "Přesunout"
+
+msgid "Move the block to a new location"
+msgstr "Přesunout blok na nové místo"
+
+msgid "Move the cursor"
+msgstr "Posunout kurzor"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "Přesuňte startovní blok a vyberte si, kde začnete vaši trať."
+
+msgid "Multi teams"
+msgstr "Více týmů"
+
+msgid "My clubs"
+msgstr "Moje kluby"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "CENTRUM VZTAHŮ SE ZÁKAZNÍKY NCSA - KOMUNITNÍ TÝM"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "TÝM PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "New author time"
+msgstr "Nový čas autora"
+
+msgid "New best time"
+msgstr "Nový nejlepší čas"
+
+msgid "New medal"
+msgstr "Nová medaile"
+
+msgid "New rank: %1"
+msgstr "Nové umístění: %1"
+
+msgid "New records disabled"
+msgstr "Nové rekordy zakázány"
+
+msgid "New track"
+msgstr "Nová trať"
+
+msgid "News"
+msgstr "Novinky"
+
+msgid "News creation"
+msgstr "Vytváření novinky"
+
+msgid "News image"
+msgstr "Obrázek novinky"
+
+msgid "News must have a headline."
+msgstr "Novinky musí mít nadpis."
+
+msgid "News must have either a body or an image."
+msgstr "Novinka musí mít buď tělo nebo obrázek."
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Next map"
+msgstr "Další mapa"
+
+msgid "Next map in %1..."
+msgstr "Další mapa za %1..."
+
+msgid "Next medal"
+msgstr "Další medaile"
+
+msgid "Next player"
+msgstr "Další hráč"
+
+msgid "Next zone"
+msgstr "Další zóna"
+
+msgid "Ninth (Press 9)"
+msgstr "Devátý (Stiskněte 9)"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No K.O."
+msgstr "Žádné K.O."
+
+msgid "No accounts found"
+msgstr "Žádné účty nenalezeny"
+
+msgid "No clubs"
+msgstr "Žádné kluby"
+
+msgid "No daily map found to display the rankings"
+msgstr "Nebyla nalezena žádná denní mapa k zobrazení pořadí"
+
+msgid "No maps in this month"
+msgstr "Žádné mapy tento měsíc"
+
+msgid "No monthly campaigns found."
+msgstr "Nebyly nalezeny žádné měsíční kampaně."
+
+msgid "No player"
+msgstr "Žádný hráč"
+
+msgid "No preview available"
+msgstr "Náhled není k dispozici"
+
+msgid "No quarterly campaigns found."
+msgstr "Žádné čtvrtletní kampaně nenalezeny."
+
+msgid "No records"
+msgstr "Žádné rekordy"
+
+msgid "No suitable elements were found in this folder"
+msgstr "Nebyly nalezeny žádné vhodné části v této složce."
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "Příliš málo hráčů se dohodlo hrát odvetu."
+
+msgid "Not ranked"
+msgstr "Nehodnocen"
+
+msgid "Now"
+msgstr "Nyní"
+
+msgid "Number of Laps : "
+msgstr "Počet okruhů: "
+
+msgid "Number of laps"
+msgstr "Počet kol"
+
+msgid "Number of maps per match"
+msgstr "Počet map na zápas"
+
+msgid "Number of rounds per map"
+msgstr "Počet kol na mapu"
+
+msgid "Number of warm up"
+msgstr "Počet zahřívacích kol"
+
+msgid "Number of winners"
+msgstr "Počet vítězů"
+
+msgid "OFFICE MANAGEMENT"
+msgstr "MANAGEMENT KANCELÁŘE"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ONLINE ENGINEER"
+msgstr "ONLINE INŽENÝR"
+
+msgid "ONLINE ENGINEERS"
+msgstr "ONLINE INŽENÝŘI"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "ŘADOVÝ PRODUCENT ONLINE SLUŽEB"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "TÝM ONLINE SLUŽEB"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "MANAŽER ONLINE TECHNICKÉ KOORDINACE"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "MANAŽER ONLINE TECHNOLOGIÍ"
+
+msgid "Official rankings"
+msgstr "Oficiální pořadí"
+
+msgid "Offroad"
+msgstr "Offroad"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Opponents from %1"
+msgstr "Soupeři z %1"
+
+msgid "Optional"
+msgstr "Volitelné"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr "Nebo se připojit k již existující hře kliknutím na jméno hráče vpravo."
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "Other"
+msgstr "Ostatní"
+
+msgid "PC REQUIREMENTS"
+msgstr "PC POŽADAVKY"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "VEDOUCÍ PC POŽADAVKŮ"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "VEDOUCÍ PROJEKTU PC POŽADAVKŮ"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "SPECIALISTA PC POŽADAVKŮ"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "HRÁČSKÁ ZKUŠENOST"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "ASISTENT HRÁČSKÉ ZKUŠENOSTI, KOMUNITNÍ PROGRAMY"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "MANAŽER HRÁČSKÉ ZKUŠENOSTI, NÁSTROJE SPOLUPRÁCE"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "MANAŽER HRÁČSKÉ ZKUŠENOSTI, PROGRAMY PŘEDNÍ LINIE"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "OBLASTNÍ MANAŽER HRÁČSKÉ ZKUŠENOSTI"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "MANAŽER OPERACÍ HRÁČSKÉ ZKUŠENOSTI"
+
+msgid "PR"
+msgstr "PR"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "MANAŽER PŘEDVÍDAVÝCH ANALÝZ"
+
+msgid "PRESIDENT AND CEO"
+msgstr "PREZIDENT A VÝKONNÝ ŘEDITEL"
+
+msgid "PRODUCER"
+msgstr "PRODUCENT"
+
+msgid "PRODUCT OWNER"
+msgstr "VLASTNÍK PRODUKTU"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "SPECIALISTA PRODUKTU"
+
+msgid "PRODUCTION"
+msgstr "PRODUKCE"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "KOORDINÁTOR PRODUKCE"
+
+msgid "PROGRAM MANAGER"
+msgstr "PROGRAMOVÝ MANAŽER"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "PROGRAMOVÝ MANAŽER, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMÁTOR"
+
+msgid "PROJECT ASSISTANT"
+msgstr "ASISTENT PROJEKTU"
+
+msgid "PROJECT MANAGER"
+msgstr "MANAŽER PROJEKTU"
+
+msgid "PROJECT MANAGERS "
+msgstr "PROJEKTOVÍ MANAŽEŘI "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "ASISTENT ONLINE NABYTÍ PROJEKTU, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "PROJEKTOVÝ ŘEDITEL, REDAKČNÍ TECHNOLOGIE"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "ŘEDITEL PUBLIKOVÁNÍ"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Participation registered!"
+msgstr "Účast zaregistrována!"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Past 14 days"
+msgstr "Předchozích 14 dní"
+
+msgid "Paste"
+msgstr "Vložit"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Personal best"
+msgstr "Osobní rekord"
+
+msgid "Pick the controller"
+msgstr "Zvolte ovládání"
+
+msgid "Pick the difficulty"
+msgstr "Zvolte obtížnost"
+
+msgid "Pick the mood"
+msgstr "Zvolte atmosféru"
+
+msgid "Picked by matchmaking"
+msgstr "Vybráno matchmakingem"
+
+msgid "Pink"
+msgstr "Růžová"
+
+msgid "Place a finish block to end your track."
+msgstr "Umístěte cílový block pro ukončení vaší tratě."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"Umísťujte checkpointy, abyste zamezili zkratkám a zjednodušili ostatním "
+"hráčům obnovení na vaší trati."
+
+msgid "Platform"
+msgstr "Platforma"
+
+msgid "Play"
+msgstr "Hrát"
+
+msgid "Play HotSeat"
+msgstr "Hrát Horké křeslo"
+
+msgid "Play a map"
+msgstr "Hrát mapu"
+
+msgid "Play a map locally"
+msgstr "Hrát mapu lokálně"
+
+msgid "Play against %1"
+msgstr "Hrát proti %1"
+
+msgid "Play against a replay"
+msgstr "Hrát proti záznamu"
+
+msgid "Play against opponents"
+msgstr "Hrát proti soupeřům"
+
+msgid "Play alone"
+msgstr "Hrát o samotě"
+
+msgid "Play next map"
+msgstr "Hrát další mapu"
+
+msgid "Play offline"
+msgstr "Hrát offline"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "Hrajte solo a multiplayer na 25 nových mapách každou sezónu"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "Hrát Denní Knockout na kola"
+
+msgid "Player Best Time"
+msgstr "Nejlepší čas hráče"
+
+msgid "Player info"
+msgstr "Info o hráči"
+
+msgid "Player profile"
+msgstr "Profil hráče"
+
+msgid "Players"
+msgstr "Hráči/ů"
+
+msgid "Players are tied!"
+msgstr "Hráči remízovali!"
+
+msgid "Players in server"
+msgstr "Hráči na serveru"
+
+msgid "Players order"
+msgstr "Pořadí hráčů"
+
+msgid "Please reconnect the %1"
+msgstr "Prosím připojte %1 zpět"
+
+msgid "Please select your %1"
+msgstr "Prosím, zvolte svůj/svou %1"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"Prosím zůstaňte v kanále, než začne Knockout. Až bude váš zápas připraven, "
+"budete automaticky přesměrováni."
+
+msgid "Please wait."
+msgstr "Prosím čekejte."
+
+msgid "Points gap"
+msgstr "Rozdíl bodů"
+
+msgid "Points gap :"
+msgstr "Rozdíl bodů:"
+
+msgid "Points limit"
+msgstr "Bodový limit"
+
+msgid "Points limit "
+msgstr "Bodový limit "
+
+msgid "Points limit : "
+msgstr "Bodový limit:"
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "Bodový limit: %1, Aktuální nejlepší skóre: %2"
+
+msgid "Popularity"
+msgstr "Oblíbenost"
+
+msgid "Prebuilt Landscapes"
+msgstr "Připravené krajiny"
+
+msgid "Preferences"
+msgstr "Preference"
+
+msgid "Press a key"
+msgstr "Stiskněte klávesu"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"Stiskněte a přidržte tlačítko \"přidat\" nebo \"odstranit\". Poté pohybem "
+"kurzoru definujte oblast, na kterou bude terén aplikován, a uvolněte "
+"tlačítko."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"Stiskněte %1 pro přepnutí mezi připojeným a odpojeným režimem. V připojeném "
+"režimu je kurzor vždy spojen s tratí. V odpojeném režimu můžete kurzorem "
+"pohybovat svobodně."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "Stiskněte %1 pro přepnutí mezi různými režimy stavění."
+
+msgid "Pressforward"
+msgstr "Pouze dopředu"
+
+msgid "Previous author time"
+msgstr "Předchozí čas autora"
+
+msgid "Previous player"
+msgstr "Předchozí hráč"
+
+msgid "Previous replay saved!"
+msgstr "Předchozí záznam uložen!"
+
+msgid "Previous zone"
+msgstr "Předchozí zóna"
+
+msgid "Privacy setting"
+msgstr "Nastavení soukromí"
+
+msgid "Proceed to lobby"
+msgstr "Pokračovat do čekárny"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "QA LEAD"
+msgstr "VEDOUCÍ QA"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "TÝM PŘÍSTUPNOSTI QC"
+
+msgid "QC NETWORKING"
+msgstr "QC SÍTĚ"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "EXPERT QC SÍTĚ"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "SPECIALISTA QC SÍTĚ"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "VEDOUCÍ TÝMU QC SÍTĚ"
+
+msgid "QUALITY"
+msgstr "KVALITA"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "MANAŽER KONTROLY KVALITY"
+
+msgid "Qualifier rank: %1"
+msgstr "Pořadí z kvalifikace: %1"
+
+msgid "Quantity"
+msgstr "Množství"
+
+msgid "Quarter-final"
+msgstr "Čtvrtfinále"
+
+msgid "Quit"
+msgstr "Konec"
+
+msgid "Quit editor"
+msgstr "Ukončit editor"
+
+msgid "Quit plugin"
+msgstr "Ukončit plugin"
+
+msgid "Quit%1"
+msgstr "Ukončit%1"
+
+msgid "R&D ENGINEER"
+msgstr "INŽENÝR VÝZKUMU A VÝVOJE"
+
+msgid "R&D ENGINEERS"
+msgstr "INŽENÝŘI VÝZKUMU A VÝVOJE"
+
+msgid "R1 button"
+msgstr "Tlačítko R1"
+
+msgid "R3 button"
+msgstr "Tlačítko R3"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "MANAGEMENT VYDÁNÍ"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "MANAGEMENT VYDÁNÍ & ŘEDITEL LOKALIZACE"
+
+msgid "RELEASE MANAGER"
+msgstr "MANAŽER VYDÁNÍ"
+
+msgid "Race"
+msgstr "Závod"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr ""
+"Typ mapy Závod nebyl nalezen nebo nastaven. Vaše mapa možná nepůjde ověřit."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "Závoďte a soutěžte v denním výběru z map hráčů"
+
+msgid "Race ranking"
+msgstr "Výsledky závodu"
+
+msgid "Race validation"
+msgstr "Ověření závodu"
+
+msgid "Random"
+msgstr "Náhodné"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"Náhodná krajina není dostupná v režimu Expert. Prosím vypněte Náhodnou "
+"krajinu a zkuste to znovu."
+
+msgid "Random map"
+msgstr "Náhodná mapa"
+
+msgid "Ranking"
+msgstr "Pořadí"
+
+msgid "Rankings"
+msgstr "Pořadí"
+
+msgid "Ready"
+msgstr "Připraven/a"
+
+msgid "Ready (F6)"
+msgstr "Připraven/a (F6)"
+
+msgid "Record leader ghost"
+msgstr "Nahrát vůdčího ducha"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "Nahrajte ducha vůdce, kterého budou vaši diváci následovat."
+
+msgid "Record the ghost that player will follow"
+msgstr "Nahrát ducha, který bude hráč následovat"
+
+msgid "Records"
+msgstr "Rekordy"
+
+msgid "Red"
+msgstr "Červená"
+
+msgid "Refresh"
+msgstr "Obnovit"
+
+msgid "Register"
+msgstr "Zaregistrovat"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "Registrace se nepodařila (Kód chyby: %1)"
+
+msgid "Remaining time: %1"
+msgstr "Zbývající čas: %1"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Remove from favorite"
+msgstr "Odstranit z oblíbených"
+
+msgid "Remove image"
+msgstr "Odstranit obrázek"
+
+msgid "Remove map"
+msgstr "Odstranit mapu"
+
+msgid "Rename folder"
+msgstr "Přejmenovat složku"
+
+msgid "Replay"
+msgstr "Záznam"
+
+msgid "Replay editor"
+msgstr "Editor záznamů"
+
+msgid "Replay saved!"
+msgstr "Záznam uložen!"
+
+msgid "Reroll decoration"
+msgstr "Obnovit dekoraci"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Reset the UI customization"
+msgstr "Obnovit přizpůsobení uživatelského rozhraní"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "Restart map"
+msgstr "Restartovat mapu"
+
+msgid "Resume"
+msgstr "Pokračovat"
+
+msgid "Resuming match"
+msgstr "Obnovuji zápas"
+
+msgid "Retrieving map list..."
+msgstr "Získávání seznamu map..."
+
+msgid "Retry"
+msgstr "Opakovat"
+
+msgid "Right click : hide/show the module"
+msgstr "Pravý klik: skrýt/zobrazit modul"
+
+msgid "Room"
+msgstr "Místnost"
+
+msgid "Room creation"
+msgstr "Vytváření místnosti"
+
+msgid "Room name"
+msgstr "Jméno místnosti"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráč/ů\n"
+"%4 K.O. za kolo"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráč/ů\n"
+"1 K.O. za kolo"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráč/ů\n"
+"Žádné K.O. toto kolo"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráči/ů\n"
+"%4 K.O. za kolo"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráči/ů\n"
+"1 K.O. za kolo"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"Kolo %1/%2\n"
+"%3 hráči/ů\n"
+"Žádné K.O. toto kolo"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"Kolo %1/%2, %3 hráči/ů\n"
+"%4 K.O. za kolo až do %5 hráčů"
+
+msgid "Round skipped"
+msgstr "Kolo přeskočeno"
+
+msgid "Rounds "
+msgstr "Počet kol "
+
+msgid "Rounds : "
+msgstr "Počet kol: "
+
+msgid "Rules"
+msgstr "Pravidla"
+
+msgid "SALES DIRECTOR"
+msgstr "ŘEDITEL PRODEJE"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "VĚDĚCKÝ ŘEDITEL "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "SENIOR MANAŽER KOMUNITNÍHO ZAPOJENÍ"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SENIOR SPECIALISTA KOMUNITNÍ NÁLADY"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "SENIOR ADMINISTRÁTOR DATABÁZE"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "SENIOR ŘEDITEL, KOMUNITNÍ ZKUŠENOST"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "SENIOR FRONT-END INŽENÝR"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "SENIOR HQ PRODUCENT"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "SENIOR ZNALOSTNÍ SPECIALISTA"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "SENIOR ŘADOVÝ ANALYTIK"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "SENIOR MANAŽER, KOMUNITNÍ VÝVOJ"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "SENIOR MANAŽER, KOMUNITNÍ MANAGEMENT"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "SENIOR RUČNÍ TESTER"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "SENIOR INŽENÝR ONLINE INFRASTRUKTURY"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "SENIOR MANAŽER OPERAČNÍHO MARKETINGU"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "SENIOR PR SPECIALISTA"
+
+msgid "SENIOR PRODUCER"
+msgstr "SENIOR PRODUCENT"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "SENIOR PRODUKTOVÝ MANAŽER"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "SENIOR PROGRAMÁTOR"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "SENIOR SOFTWARE INŽENÝR"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SENIOR SPECIALISTÉ, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "SENIOR ADMINISTRÁTOR SYSTÉMU"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "SENIOR WEBOVÝ VÝVOJÁŘ"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "SENIOR WEBOVÝ PROGRAMÁTOR"
+
+msgid "SITE ADMINISTATOR"
+msgstr "ADMINISTRÁTOR STRÁNKY"
+
+msgid "SOUND DESIGNER"
+msgstr "ZVUKOVÝ NÁVRHÁŘ"
+
+msgid "SPECIAL THANKS"
+msgstr "SPECIÁLNÍ PODĚKOVÁNÍ"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECIALISTÉ, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "SR MANAŽER, HRÁČSKÁ ZKUŠENOST EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "SR. MANAŽER, HRÁČSKÁ ZKUŠENOST, PROGRAMY PŘEDNÍ LINIE"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "SR. MANAŽER HRÁČSKÉ ZKUŠENOSTI, PROGRAMY PŘEDNÍ LINIE"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "SPECIALISTA OBCHODU"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "KOORDINÁTOR PROVOZU STUDIA"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "PORADCI, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "ADMINISTRÁTOR SYSTÉMU"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Save and create cup"
+msgstr "Uložit a vytvořit pohár"
+
+msgid "Save as new"
+msgstr "Uložit jako nový"
+
+msgid "Save for later"
+msgstr "Uložit na později"
+
+msgid "Save map"
+msgstr "Uložit mapu"
+
+msgid "Save previous replay"
+msgstr "Uložit předchozí záznam"
+
+msgid "Save replay"
+msgstr "Uložit záznam"
+
+msgid "Saved Activities"
+msgstr "Uložené aktivity"
+
+msgid "Saving campaign..."
+msgstr "Ukládání kampaně..."
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Obrazovka 16x1: obrázek zobrazený na pódiu stadionu (pod velkou "
+"obrazovkou).\n"
+"Rozměry: %1 - Formát: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Obrazovka 16x9: obrázek zobrazený na velké obrazovce stadionu.\n"
+"Rozměry: %1 - Formát: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Obrazovka 8x1: obrázek zobrazený na tribunách stadionu.\n"
+"Rozměry: %1 - Formát: DDS (DXT5)"
+
+msgid "Scroll down"
+msgstr "Posunout dolů"
+
+msgid "Scroll up"
+msgstr "Posunout nahoru"
+
+msgid "Second (Press 2)"
+msgstr "Druhý (Stiskněte 2)"
+
+msgid "See tutorial again"
+msgstr "Pustit návod znovu"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Select a VIP to play against"
+msgstr "Vyberte VIP pro hru proti"
+
+msgid "Select a billboard"
+msgstr "Vybrat billboard"
+
+msgid "Select a campaign"
+msgstr "Vybrat kampaň"
+
+msgid "Select a color"
+msgstr "Vybrat barvu"
+
+msgid "Select a landscape and start building your track."
+msgstr "Vyberte krajinu a začněte stavět vaši trať."
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"Vyberte si krajinu. Až najdete tu, která se vám líbí, můžete začít s vaší "
+"tratí."
+
+msgid "Select a mode"
+msgstr "Vyberte mód"
+
+msgid "Select a mode before adding maps"
+msgstr "Vyberte mód před přidáním map"
+
+msgid "Select a mode to check map compatibility"
+msgstr "Vyberte mód k zjištění kompatibility map"
+
+msgid "Select a road paint"
+msgstr "Vyberte nátěr cesty"
+
+msgid "Select a round to start"
+msgstr "Vyberte počáteční kolo"
+
+msgid "Select all"
+msgstr "Vybrat vše"
+
+msgid "Select an account"
+msgstr "Vyberte účet"
+
+msgid "Select an image"
+msgstr "Vybrat obrázek"
+
+msgid "Select map"
+msgstr "Vybrat mapu"
+
+msgid "Select maps"
+msgstr "Vybrat mapy"
+
+msgid "Select maps to remove"
+msgstr "Vybrat mapy k odstranění"
+
+msgid "Select mode"
+msgstr "Vyberte mód"
+
+msgid "Select next map"
+msgstr "Vybrat následující mapu"
+
+msgid "Select number of players"
+msgstr "Vyberte počet hráčů"
+
+msgid "Select style"
+msgstr "Vyberte styl"
+
+msgid "Select the location of the starting line"
+msgstr "Vyberte místo startovní čáry"
+
+msgid "Select where you want to start"
+msgstr "Vyberte si, kde chcete začít"
+
+msgid "Select your activity"
+msgstr "Vyberte vaší aktivitu"
+
+msgid "Select zone"
+msgstr "Vybrat zónu"
+
+msgid "Selected campaign"
+msgstr "Vybraná kampaň"
+
+msgid "Selected map"
+msgstr "Vybraná mapa"
+
+msgid "Selected maps"
+msgstr "Vybrané mapy"
+
+msgid "Semi-final"
+msgstr "Semifinále"
+
+msgid "Server account"
+msgstr "Serverový účet"
+
+msgid "Server doesn't exist anymore"
+msgstr "Server už neexistuje"
+
+msgid "Server name"
+msgstr "Jméno serveru"
+
+msgid "Server region"
+msgstr "Oblast serveru"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr "Servery jsou offline nebo v údržbě, prosím opakujte později."
+
+msgid "Set next map"
+msgstr "Vybrat následující mapu"
+
+msgid "Set private"
+msgstr "Nastavit soukromý"
+
+msgid "Set public"
+msgstr "Nastavit veřejný"
+
+msgid "Set/Unset as favorite"
+msgstr "Nastavit jako oblíbený"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Seventh (Press 7)"
+msgstr "Sedmý (Stiskněte 7)"
+
+msgid "Show"
+msgstr "Zobrazit"
+
+msgid "Silver"
+msgstr "Stříbrná"
+
+msgid "Silver medal"
+msgstr "Stříbrná medaile"
+
+msgid "Single Map"
+msgstr "Jedna mapa"
+
+msgid "Sixth (Press 6)"
+msgstr "Šestý (Stiskněte 6)"
+
+msgid "Skin browser"
+msgstr "Prohlížeč vzhledů"
+
+msgid "Skin editor"
+msgstr "Editor vzhledů"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "Nahrávání vzhledu selhalo. (Chyba: %1)"
+
+msgid "Skin uploads"
+msgstr "Nahrané vzhledy"
+
+msgid "Skins"
+msgstr "Vzhledy"
+
+msgid "Skip"
+msgstr "Přeskočit"
+
+msgid "Solo"
+msgstr "Sólo"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"Některé bloky nabízejí několik možností připojení. Jsou reprezentovány "
+"bílými poli. Stiskněte tlačítko \"přepnout\" pro výběr možnosti, kterou "
+"chcete použít."
+
+msgid "Spectate"
+msgstr "Sledovat"
+
+msgid "Spectator"
+msgstr "Divák"
+
+msgid "Spectator password"
+msgstr "Heslo diváka"
+
+msgid "SplitScreen"
+msgstr "Dělený Obraz"
+
+msgid "Splitscreen"
+msgstr "Dělený obraz"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"Standard Access je roční pas nabízející perfektní zážitek pro běžné hráče, "
+"plný kreativity a aktivit!"
+
+msgid "Starter"
+msgstr "Starter"
+
+msgid "Stats"
+msgstr "Statistiky"
+
+msgid "Step ranking"
+msgstr "Pořadí kroku"
+
+msgid "Stop auto-finish"
+msgstr "Zastavit auto-dokončení?"
+
+msgid "Streaming subscriptions"
+msgstr "Předplatná vysílajících"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Subscribe"
+msgstr "Předplatit"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr "Předplaťte si Trackmania %1 pro přístup k recenzi serveru."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvořit klubovou aktivitu."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvořit klub."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvořit místní server."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvořit mapu."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvořit vzhled."
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a vytvářet herní módy."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a vytvářet předměty a dekorace."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a zobrazit klubovou stránku."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a upravovat pokročilé mapy."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a upravovat klubové mapy."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a nalézt místní server."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "Předplaťte si Trackmania %1, abyste se mohl/a připojit ke klubu."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste se mohl/a připojovat ke klubovým "
+"místnostem."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát v arkádovém kanálu."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a otevřít editor záznamů."
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a otevřít jednoduchý editor map."
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a otevřít editor vzhledů."
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát místní mapu."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát soukromou klubovou aktivitu."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát proti záznamu."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát klubové kampaně."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát online soutěže."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát předchozí měsíční kampaně."
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát předchozí čtvrtletní kampaně."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a hrát Horké křeslo."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát aktuální měsíční kampaň."
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát aktuální čtvrtletní kampaň."
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a hrát v režimu děleného obrazu."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr ""
+"Předplaťte si Trackmania %1, abyste mohl/a uložit video v editoru záznamů."
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a nahrát mapu."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a nahrát vzhled."
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "Předplaťte si Trackmania %1, abyste mohl/a používat vlastní vzhled."
+
+msgid "Sunday"
+msgstr "Neděle"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "Podpořte %1$z: \"go %2$z\" do chatu"
+
+msgid "Switch"
+msgstr "Přepnout"
+
+msgid "TEAM LEAD"
+msgstr "VEDOUCÍ TÝMU"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "VEDOUCÍ TÝMŮ, PÉČE O ZÁKAZNÍKY NCSA"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "TECHNICKÝ ANIMÁTOR"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "TECHNICKÝ ŘEDITEL"
+
+msgid "TECHNICAL MANAGER"
+msgstr "TECHNICKÝ MANAŽER"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "VEDOUCÍ TECHNICKÝCH OPERACÍ"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "TECHNICKÝ SPECIALISTA"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "KOORDINÁTOR TECHNICKÉ PODPORY"
+
+msgid "TESTER"
+msgstr "TESTER"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"DĚKUJEME VŠEM ÚŽASNÝM ALFA TESTERŮM ZA TÝM A ZA VŠECHNY HRÁČE KOLEM CELÉHO "
+"SVĚTA, KTEŘÍ SI HRU UŽIJÍ MNOHEM LEPŠÍM ZPŮSOBEM. VAŠE DUŠE A ODBORNOST JSOU "
+"VE SVĚTOVÉ LIZE."
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "SPECIALISTA SLEDOVÁNÍ & ANALYTIK, EMEA"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"TYP: Všichni proti všem\n"
+"CÍL: Zajeďte nejlepší čas před koncem časového limitu."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"TYP: Všichni proti všem\n"
+"CÍL: Zajeďte nejlepší čas na trati."
+
+msgid "Take this slot"
+msgstr "Obsadit tento slot"
+
+msgid "Team versus Team"
+msgstr "Tým proti týmu"
+
+msgid "Tech"
+msgstr "Tech"
+
+msgid "Terraforming in progress"
+msgstr "Probíhá teraformace"
+
+msgid "Terrain"
+msgstr "Terén"
+
+msgid "Test"
+msgstr "Otestovat"
+
+msgid "Test other maps"
+msgstr "Otestovat jiné mapy"
+
+msgid "Test the track"
+msgstr "Testování tratě"
+
+msgid "Test track"
+msgstr "Otestovat trať"
+
+msgid "Test your maps"
+msgstr "Otestovat vaše mapy"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"Club Access je 1 nebo 3roční pas nabízející kompletní zážitek z Trackmanie s "
+"přizpůsobením, soutěžemi na vysoké úrovni a unikátními způsoby socializace "
+"ve hře!"
+
+msgid "The Left Stick"
+msgstr "Levá páčka"
+
+msgid "The Map %1 is already used"
+msgstr "Mapa %1 je již použita"
+
+msgid "The Right Stick"
+msgstr "Pravá páčka"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "Nejlepší mapy mají šanci stát se tratí dne!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "Tělo má maximálně %1 znaků"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "Jméno kampaně nesmí přesáhnout %1 znaků"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "Popis klubu musí být kratší než %1 znaků"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "Jméno klubu má minimálně %1 a maximálně %2 znaků"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "Tag klubu má minimálně %1 a maximálně %2 znaků"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "Vytváření soutěže selhalo (Kód chyby: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr "Dekorace bude odstraněna a budete muset vaši trať znovu ověřit."
+
+msgid "The decoration will be removed."
+msgstr "Dekorace bude odstraněna."
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "Nadpis má maximálně %1 znaků"
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "Výsledková tabule je pro tento den uzavřena!"
+
+msgid "The league is coming back in"
+msgstr "Liga se vrací za"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "Mapa '%1' je již na seznamu"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "Mapa '%1' není kompatibilní s vybraným herním módem"
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr "Mapa '%1' není hratelná. Prosím ověřte mapu a vypočtěte stíny."
+
+msgid "The match will begin shortly ..."
+msgstr "Zápas brzy začne..."
+
+msgid "The matchsettings is not valid"
+msgstr "Nastavení zápasu nejsou platná"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "Jméno má maximálně %1 znaků"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "Jméno soutěže má minimálně %1 znaků a maximálně %2 znaků"
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "Tag jména má maximálně %1 znaků"
+
+msgid "The next match will begin in %1 "
+msgstr "Další zápas začne za %1 "
+
+msgid "The registration closed at : %1 H"
+msgstr "Registrace uzavřena v: %1 H"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "Nelze se připojit k místnosti, prosím opakujte. (Kód chyby: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "Místnost se zakládá a bude připravena za několik sekund."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"Trať nemohla být auto-dokončena. Odstraňte pár bloků před tím, než to "
+"zkusíte znovu."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "Trať skončila ve slepé uličce. Zkuste to jiným směrem"
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr "Trať musí mít otevřený konektor pro auto-dokončení."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "Na vaší trati je %1 pódií. Můžete umístit pouze jedno."
+
+msgid "There are no displayed activities in your club."
+msgstr "Váš klub nezobrazuje žádné aktivity."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "Pro tenhle editor nejsou dostupné žádné makrobloky."
+
+msgid "There are no saved activities in your club."
+msgstr "Žádné uložené aktivity ve vašem klubu."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr "Došlo k chybě při získávání informací o této soutěži. (Kód chyby: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Došlo k chybě při shromažďování pořadí, prosím opakujte později. (Kód chyby: "
+"%1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Došlo k chybě při shromažďování pořadí, prosím opakujte později. (Chyba: "
+"Úloha již není dostupná)"
+
+msgid "Third (Press 3)"
+msgstr "Třetí (Stiskněte 3)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr ""
+"Tato aktivita je soukromá. Musíte být členem klubu, abyste ji mohl/a použít."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"Tento blok má nastavitelný vzhled. Použijte %1 k výběru obrázku, který "
+"chcete použít."
+
+msgid "This competition is closed"
+msgstr "Tato soutěž je uzavřena"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr "Toto je dedikovaný server hostovaný hráčem. Možná je offline."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"Toto je okružní startovní blok. Hráči musí projet všemi checkpointy a tímto "
+"blokem k ověření jednoho kola."
+
+msgid "This map is not playable"
+msgstr "Tato mapa není hratelná"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"Tento matchmaking server hostuje zápas. Nelze se v tuto chvíli připojit."
+
+msgid "This round is a draw."
+msgstr "Kolo skončilo remízou."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"Tento serverový účet je už používaný pro klubovou místnost \"%1\" s ID %2. "
+"Prosím vyberte jiný účet."
+
+msgid "This server will split for less waiting time"
+msgstr "Server bude rozdělen pro kratší čas čekání"
+
+msgid "This track is already validated."
+msgstr "Tato trať je již ověřená."
+
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+msgid "Time Limit"
+msgstr "Časový Limit"
+
+msgid "Time Limit :"
+msgstr "Časový limit:"
+
+msgid "Time limit"
+msgstr "Časový limit"
+
+msgid "Time to beat"
+msgstr "Čas k překonání"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr ""
+"Abyste se tomuto vyhnuli, můžete si vytvořit vlastní krajinu. Stejně "
+"pokračovat?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr ""
+"Abyste tak učinili, musíte dokončit jeden závod, od startu do cíle, "
+"projížděje všemi checkpointy."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "Mapu musíte ověřit, aby ji bylo možno hrát mimo editor."
+
+msgid "Today"
+msgstr "Dnešek"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Top %1"
+msgstr "Top %1"
+
+msgid "Top %1 %2"
+msgstr "Top %1 %2"
+
+msgid "Track"
+msgstr "Trať"
+
+msgid "Track completed."
+msgstr "Trať dokončena."
+
+msgid "Track of the day"
+msgstr "Trať dne"
+
+msgid "Track style"
+msgstr "Styl tratě"
+
+msgid "Training"
+msgstr "Trénink"
+
+msgid "Trial"
+msgstr "Trial"
+
+msgid "Trophies"
+msgstr "Trofeje"
+
+msgid "Try to place checkpoints regularly"
+msgstr "Zkuste umístit checkpointy pravidelně"
+
+msgid "Tuesday"
+msgstr "Úterý"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "ŘADOVÝ PRODUCENT KLUBU UBISOFT"
+
+msgid "UI DESIGNER"
+msgstr "UI NÁVRHÁŘ"
+
+msgid "UI DESIGNER "
+msgstr "UI NÁVRHÁŘ "
+
+msgid "UI PROGRAMMER"
+msgstr "UI PROGRAMÁTOR"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "VEDOUCÍ UI/UX DESIGN TÝMU"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "VEDOUCÍ SPOLUPRACUJÍCÍHO TÝMU UOR"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "VLASTNÍCI PLATFORMY UOR"
+
+msgid "UOR TEAM"
+msgstr "UOR TÝM"
+
+msgid "UOR TEAM LEAD"
+msgstr "VEDOUCÍ TÝMU UOR"
+
+msgid "UPLAY TEAM"
+msgstr "TÝM UPLAY"
+
+msgid "UX DESIGNER"
+msgstr "UX NÁVRHÁŘ"
+
+msgid "UX DESIGNER "
+msgstr "UX NÁVRHÁŘ "
+
+msgid "UX REQUIREMENTS"
+msgstr "UX POŽADAVKY"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "VEDOUCÍ UX POŽADAVKŮ"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "SPECIALISTÉ UX POŽADAVKŮ"
+
+msgid "Unapply"
+msgstr "Nepoužít"
+
+msgid "Unapply skin"
+msgstr "Nepoužít vzhled"
+
+msgid "Unselect all"
+msgstr "Zrušit výběr"
+
+msgid "Unsubscribe"
+msgstr "Odhlásit"
+
+msgid "Update member's role"
+msgstr "Aktualizovat funkci člena"
+
+msgid "Updating club..."
+msgstr "Aktualizování klubu..."
+
+msgid "Upload a map"
+msgstr "Nahrát mapu"
+
+msgid "Upload a skin"
+msgstr "Nahrát vzhled"
+
+msgid "Uploading..."
+msgstr "Nahrávání..."
+
+msgid "Use %1 to move the cursor."
+msgstr "Použijte %1 k posunutí kurzoru."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"Použijte %1 pro otevření obrazovky výběru bloků a výběr kategorie. Poté "
+"použijte %2 pro výběr bloku, který chcete umístit."
+
+msgid "Use a custom points repartition :"
+msgstr "Použít vlastní distribucí bodů:"
+
+msgid "Use alternate rules :"
+msgstr "Použít alternativní pravidla:"
+
+msgid "Use tie-break"
+msgstr "Použít tie-break"
+
+msgid "Use your dedicated server"
+msgstr "Použít váš dedikovaný server"
+
+msgid "VEHICLE ARTIST"
+msgstr "UMĚLEC VOZIDLA"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "VICEPREZIDENT, MANAGEMENT PUBLIKA & ZÁKAZNÍKŮ, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "VICE PREZIDENT, HRÁČSKÁ ZKUŠENOST"
+
+msgid "VIPs from club '%1'"
+msgstr "VIP z klubu '%1'"
+
+msgid "VP EDITORIAL"
+msgstr "REDAKČNÍ VP"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "REDAKČNÍ TECHNOLOGIE VP"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr "VP, FINANČNÍ PLÁNOVÁNÍ, PROVOZ STUDIA & QC"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "VP, ONLINE SLUŽBY"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "VP, MANAŽER PRODUKCE"
+
+msgid "Validate"
+msgstr "Ověřit"
+
+msgid "Validate & exit"
+msgstr "Ověřit & ukončit"
+
+msgid "Validate track"
+msgstr "Ověřit trať"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "Ověřte vaší trať, abyste ji mohl/a hrát mimo editor."
+
+msgid "Validation"
+msgstr "Ověření"
+
+msgid "Validations"
+msgstr "Ověření"
+
+msgid "Version: %1"
+msgstr "Verze: %1"
+
+msgid "Versus"
+msgstr "Proti"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Vertikála: obrázek použitý v seznamu Moje kluby.\n"
+"Rozměry: %1 - Formát: PNG, JPEG nebo DDS (DXT5)"
+
+msgid "View replay"
+msgstr "Zobrazit záznam"
+
+msgid "Vote for a map"
+msgstr "Hlasovat pro mapu"
+
+msgid "Vote for mode settings"
+msgstr "Hlasovat pro změnu nastavení módu"
+
+msgid "Vote to balance teams"
+msgstr "Hlasovat pro balancování týmů"
+
+msgid "Vote to jump to map"
+msgstr "Hlasovat pro přeskok na mapu"
+
+msgid "Vote to play next map"
+msgstr "Hlasovat pro hraní další mapy"
+
+msgid "Vote to restart"
+msgstr "Hlasovat pro restartování"
+
+msgid "Vote to set next map"
+msgstr "Hlasovat pro určení další mapy"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"Hlasování pro mapu pouze zvyšuje šance, že bude vybrána. Každá mapa s "
+"alespoň jedním hlasem má šanci být hrána."
+
+msgid "Vs race record"
+msgstr "Vs rekord závodu"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "SPECIALISTA WEBOVÉHO OBSAHU"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "ASISTENT SPECIALISTY WEBOVÉHO OBSAHU"
+
+msgid "WEB DEVELOPER"
+msgstr "VÝVOJÁŘ WEBU"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "ASISTENT WEBOVÉHO VÝVOJÁŘE, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "WEBOVÝ VÝVOJÁŘ, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "ASISTENT WEBOVÉHO PRODUCENTA, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "WEBOVÝ PRODUCENT, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "PROGRAMÁTOR WEBU"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "MANAŽER WEBOVÉHO PROJEKTU, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "ŘEDITEL WEBOVÝCH SLUŽEB"
+
+msgid "WEB SERVICES TEAM"
+msgstr "TÝM WEBOVÝCH SLUŽEB"
+
+msgid "WEB UI DESIGNER"
+msgstr "UI NÁVRHÁŘ WEBU"
+
+msgid "Waiting for other players."
+msgstr "Čekání na ostatní hráče."
+
+msgid "Waiting for players"
+msgstr "Čekání na hráče"
+
+msgid "Waiting for your allies to be ready."
+msgstr "Čekání, až se vaši spojenci připraví."
+
+msgid "Waiting for your match"
+msgstr "Čeká se na tvůj zápas"
+
+msgid "Waiting for your match to start"
+msgstr "Čekání na začátek vašeho zápasu"
+
+msgid "Warm up"
+msgstr "Zahřívací kolo"
+
+msgid "Warmup"
+msgstr "Zahřívací kolo"
+
+msgid "Warmup: %1/%2"
+msgstr "Zahřívací kola: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"Sledovat\n"
+"zahřívací kolo"
+
+msgid "We are sending you back to the lobby."
+msgstr "Posíláme vás zpátky do čekárny."
+
+msgid "We are sending you back to the match you left."
+msgstr "Posíláme vás zpět do zápasu, který jste opustil/a."
+
+msgid "We are starting a new match."
+msgstr "Začínáme nový zápas."
+
+msgid "Wednesday"
+msgstr "Středa"
+
+msgid "Welcome to Trackmania"
+msgstr "Vítejte v Trackmanii"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Vítejte v denním Nadeo poháru\n"
+"\n"
+"Na dnešní mapě závodíte 10 minut. Potom se budete moct připojit do fáze "
+"knockoutu a získat ještě více trofejí. \n"
+"Své globální umístění na všech serverech můžete vidět na pravé straně "
+"obrazovky."
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Vítejte v denním Nadeo poháru!\n"
+"\n"
+"Dnes závodíte 10 minut. Potom se budete moct připojit do fáze knockoutu a "
+"získat ještě více trofejí!\n"
+"Své globální umístění na všech serverech můžete vidět na pravé straně "
+"obrazovky. Hodně štěstí!"
+
+msgid "Welcome to the club!"
+msgstr "Vítejte v klubu!"
+
+msgid "What do you want to do?"
+msgstr "Co chcete udělat?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"Když vyjmete blok, bude uložen do vaší historie bloků. Potom ho můžete "
+"vložit zpátky na vaši trať nebo vyhodit z historie."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"Když posunete kurzor na blok, který jste umístili, můžete ho zkopírovat, "
+"nebo k němu zkusit automaticky připojit kompatibilní blok."
+
+msgid "Which map would you like to submit?"
+msgstr "Kterou mapu chcete odeslat?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "Během čekání se pokuste stát Králem Čekárny!"
+
+msgid "White"
+msgstr "Bílá"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr "Objevujte základní funkce Trackmanie zdarma se Starter Access."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Xbox One Bezdrátový ovladač"
+
+msgid "Yellow"
+msgstr "Žlutá"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "You are being transferred as a substitute."
+msgstr "Přepojujeme vás jako náhradníka."
+
+msgid "You are being transferred. Please wait."
+msgstr "Přepojujeme vás. Prosím čekejte."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Jste odpojen/a od služby Uplay. (Kód chyby: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Jste odpojen/a od serverů Trackmanie. (Kód chyby: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "Nejste připojeni k službě Uplay."
+
+msgid "You are not subscribed to any club"
+msgstr "Nepředplácíte si žádný klub"
+
+msgid "You are registered"
+msgstr "Jste zaregistrován/a"
+
+msgid "You are suspended"
+msgstr "Jste suspendován/a"
+
+msgid "You can cancel 1 match."
+msgstr "Můžete zrušit 1 zápas."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr "Můžete $<$00f$tpokračovat$> v turnaji a účastnit se zápasu Knockout."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr "Můžete vytvořit vlastní hru kliknutím na tlačítko \"Vytvořit\" níže."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "Blok pódia můžete najít v sekci dekorací ve staviteli tratí."
+
+msgid "You can place only one starting point!"
+msgstr "Můžete umístit pouze jednu startovní pozici!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"Vaší trať můžete otestovat kdykoli. Stiskněte tlačítko \"test\" a vyberte "
+"si, kde začnete."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "Nemůžete zrychlovat před dosažením dalšího checkpointu"
+
+msgid "You can't remove the starting line of the track."
+msgstr "Nemůžete odstranit startovní pozici tratě."
+
+msgid "You don't have any server accounts registered."
+msgstr "Nemáte žádné zaregistrované serverové účty."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr ""
+"Skoro jste dosáhl/a maximálního počtu bloků, který můžete na trať položit."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Byl/a jste odpojen/a od služby Uplay. (Kód chyby: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Byl/a jste odpojen/a od serverů Trackmanie. (Kód chyby: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"Byl/a jste vyloučen/a.\n"
+"[Odměna bude dostupná v další aktualizaci]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Návrat do denního kanálu za 30s"
+
+msgid "You have to place exactly one podium!"
+msgstr "Musíte umístit přesně jedno pódium!"
+
+msgid "You must enter a name for your club"
+msgstr "Musíte dát vašemu klubu jméno"
+
+msgid "You must enter a tag for your club"
+msgstr "Musíte dát vašemu klubu tag"
+
+msgid "You must place at least one checkpoint!"
+msgstr "Musíte umístit alespoň jeden checkpoint!"
+
+msgid "You must place at least one finish line!"
+msgstr "Musíte umístit alespoň jeden cíl!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "Musíte umístit alespoň jeden obnovovací checkpoint!"
+
+msgid "You must select at least one map to play"
+msgstr "Abyste mohli hrát, musíte vybrat alespoň jednu mapu"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "Musíte přidat alespoň 1 mapu do seznamu"
+
+msgid "You need to be a club member to play or download a map."
+msgstr "Musíte být členem klubu, abyste mohl/a hrát/stáhnout mapu."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr "Musíte být členem klubu pro přidání tohoto vzhledu k oblíbeným."
+
+msgid "You need to pick a game mode"
+msgstr "Musíte vybrat herní mód"
+
+msgid "You need to place a starting point!"
+msgstr "Musíte umístit startovní pozici!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr "Dosáhli jste maximálního počtu bloků. Již nemůžete přidat další."
+
+msgid "You will be able to change it later"
+msgstr "Toto můžete změnit později"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "Budete suspendován/a, pokud zrušíte váš další zápas."
+
+msgid "You will have to validate the track again."
+msgstr "Budete muset trať ověřit znovu."
+
+msgid "You will soon be redirected to a match server."
+msgstr "Brzy budete přesměrováni na server zápasu."
+
+msgid "Your map in less than %1 minutes"
+msgstr "Vaše mapa za méně než %1 minut"
+
+msgid "Your search did not return any results"
+msgstr "Nebyly nalezeny žádné výsledky"
+
+msgid "Your subscription ends on %1"
+msgstr "Vaše předplatné končí %1"
+
+msgid "by %1"
+msgstr "od %1"
+
+msgid "club access"
+msgstr "club access"
+
+msgid "controller"
+msgstr "ovladač"
+
+msgid "max %1 characters"
+msgstr "max. %1 znaků"
+
+msgid "per server"
+msgstr "na server"
+
+msgid "standard access"
+msgstr "standard access"
+
+msgid "starter access"
+msgstr "starter access"
+
+msgid "yes"
+msgstr "ano"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "Můžete zrušit %1 zápasů."
+
+msgid "|Action|Quick save"
+msgstr "Rychlé uložení"
+
+msgid "|Alert window title|Warning"
+msgstr "Upozornění"
+
+msgid "|Author|By"
+msgstr "Od"
+
+msgid "|Best score|New"
+msgstr "Nové"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "Checkpoint"
+
+msgid "|BlockCategory|Finish"
+msgstr "Cíl"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "Překážka"
+
+msgid "|BlockCategory|Slope"
+msgstr "Sklon"
+
+msgid "|BlockCategory|Straight"
+msgstr "Rovina"
+
+msgid "|BlockCategory|Transition"
+msgstr "Přechod"
+
+msgid "|BlockCategory|Turbo"
+msgstr "Turbo"
+
+msgid "|BlockCategory|Turn"
+msgstr "Zatáčka"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "Checkpoint"
+
+msgid "|BlockInfo|Finish"
+msgstr "Cíl"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "Okruhy"
+
+msgid "|BlockInfo|Start"
+msgstr "Start"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "Boule"
+
+msgid "|BlockStyle|Decoration"
+msgstr "Dekorace"
+
+msgid "|BlockStyle|Dirt"
+msgstr "Hlína"
+
+msgid "|BlockStyle|Ice"
+msgstr "Led"
+
+msgid "|BlockStyle|Platform"
+msgstr "Plošina"
+
+msgid "|BlockStyle|Simple"
+msgstr "Jednoduchý"
+
+msgid "|BlockStyle|Slope"
+msgstr "Sklon"
+
+msgid "|BlockStyle|Tilt"
+msgstr "Nakloněný"
+
+msgid "|Blocks|Favorites"
+msgstr "Oblíbené"
+
+msgid "|Blocks|Recent"
+msgstr "Nedávné"
+
+msgid "|Camera|Follow"
+msgstr "Sledující"
+
+msgid "|Camera|Free"
+msgstr "Volná"
+
+msgid "|Camera|Replay"
+msgstr "Záznam"
+
+msgid "|Campaign Map|Official"
+msgstr "Oficiální"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|Duben %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|Srpen %1"
+
+msgid "|Campaign|Club"
+msgstr "Klubová"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|Prosinec %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|Únor %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|Leden %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|Červenec %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|Červen %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|Březen %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|Květen %1"
+
+msgid "|Campaign|Monthly"
+msgstr "Měsíční"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|Listopad %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|Říjen %1"
+
+msgid "|Campaign|Official"
+msgstr "Oficiální"
+
+msgid "|Campaign|Private"
+msgstr "Soukromá"
+
+msgid "|Campaign|Public"
+msgstr "Veřejná"
+
+msgid "|Campaign|Quarterly"
+msgstr "Čtvrtletní"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|Září %1"
+
+msgid "|Campaign|Training"
+msgstr "Trénink"
+
+msgid "|Campaign|Unknown"
+msgstr "Neznámá"
+
+msgid "|Cancel|Back"
+msgstr "Zpět"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|Mapy"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|Oficiální pořadí"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|Vzhledy"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|Vítejte"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|Vítejte v klubu! Pozvěte své přátele, aby se připojili k "
+"tomuto klubu a vytvářejte aktivity, které budete sdílet a hrát spolu!"
+
+msgid "|ClubMember|Role"
+msgstr "Role"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "Uzavřený"
+
+msgid "|ClubPrivacy|Private"
+msgstr "Soukromý"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "Soukromý - Přijímat žádosti"
+
+msgid "|ClubPrivacy|Public"
+msgstr "Veřejný"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "Veřejný - Otevřený všem"
+
+msgid "|Club|%1 Member"
+msgstr "%1 Člen"
+
+msgid "|Club|%1 Members"
+msgstr "%1 Členů"
+
+msgid "|Club|Closed"
+msgstr "Uzavřený"
+
+msgid "|Club|Description"
+msgstr "Popis"
+
+msgid "|Club|Join"
+msgstr "Připojit"
+
+msgid "|Club|Leave"
+msgstr "Opustit"
+
+msgid "|Club|Member"
+msgstr "Člen"
+
+msgid "|Club|Members"
+msgstr "Členové"
+
+msgid "|Club|Privacy"
+msgstr "Soukromí"
+
+msgid "|Club|Requests"
+msgstr "Žádosti"
+
+msgid "|Club|VIP"
+msgstr "VIP"
+
+msgid "|Club|request"
+msgstr "žádost"
+
+msgid "|Club|requests"
+msgstr "žádosti"
+
+msgid "|Competition|Coming Soon"
+msgstr "Již brzy"
+
+msgid "|Competition|Private"
+msgstr "Soukromá"
+
+msgid "|Competition|Public"
+msgstr "Veřejná"
+
+msgid "|DataType|Campaign"
+msgstr "Kampaň"
+
+msgid "|DataType|Club"
+msgstr "Klub"
+
+msgid "|DataType|Folder"
+msgstr "Složka"
+
+msgid "|DataType|Image"
+msgstr "Obrázek"
+
+msgid "|DataType|Map"
+msgstr "Mapa"
+
+msgid "|DataType|MatchSettings"
+msgstr "Nastavení zápasu"
+
+msgid "|DataType|None"
+msgstr "Žádné"
+
+msgid "|DataType|Replay"
+msgstr "Záznam"
+
+msgid "|DataType|Room"
+msgstr "Místnost"
+
+msgid "|DataType|Script"
+msgstr "Skript"
+
+msgid "|DataType|Skin"
+msgstr "Vzhled"
+
+msgid "|DidNotFinish|DNF"
+msgstr "DNF"
+
+msgid "|Friday|F"
+msgstr "Pá"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "Dekorace"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "Úprava dekorace"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "Krajina"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "Upravování krajiny"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "Trať"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "Úprava tratě"
+
+msgid "|Game mode - Generation|Random"
+msgstr "Náhodný"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "Pohlednice"
+
+msgid "|GameMode|Cup"
+msgstr "Pohár"
+
+msgid "|GameMode|Knockout"
+msgstr "Knockout"
+
+msgid "|GameMode|Laps"
+msgstr "Okruhy"
+
+msgid "|GameMode|Rounds"
+msgstr "Na kola"
+
+msgid "|GameMode|Teams"
+msgstr "Týmy"
+
+msgid "|GameMode|Time Attack"
+msgstr "Na čas"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "Dekorace"
+
+msgid "|Image|Background"
+msgstr "|Image|Pozadí"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "Obtisk sponzora 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "Obrazovka 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "Obrazovka 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "Obrazovka 8X1"
+
+msgid "|Image|Vertical"
+msgstr "Vertikální"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "Přepnout"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "Vybrat krajinu"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "Opakovat"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "Vrátit"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "Zvýšit"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "Opustit editor"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "Snížit"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "Začít trať"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "Otestovat"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "Otestovat trať"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "Zahodit"
+
+msgid "|Infinitive|Add"
+msgstr "Přidat"
+
+msgid "|Infinitive|Browse"
+msgstr "Procházet"
+
+msgid "|Infinitive|Build your track"
+msgstr "Postavit vaši trať"
+
+msgid "|Infinitive|Cancel"
+msgstr "Zrušit"
+
+msgid "|Infinitive|Confirm"
+msgstr "Potvrdit"
+
+msgid "|Infinitive|Connect"
+msgstr "Připojit"
+
+msgid "|Infinitive|Continue"
+msgstr "Pokračovat"
+
+msgid "|Infinitive|Copy"
+msgstr "Kopírovat"
+
+msgid "|Infinitive|Cut"
+msgstr "Vyjmout"
+
+msgid "|Infinitive|Disconnect"
+msgstr "Odpojit"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "Upravit dekoraci"
+
+msgid "|Infinitive|Edit track"
+msgstr "Upravit trať"
+
+msgid "|Infinitive|Generate"
+msgstr "Vygenerovat"
+
+msgid "|Infinitive|Generate a track"
+msgstr "Vygenerovat trať"
+
+msgid "|Infinitive|Generate another track"
+msgstr "Vygenerovat další trať"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "Vygenerovat dekoraci"
+
+msgid "|Infinitive|Improve record"
+msgstr "Vylepšit rekord"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "Vylepšit ověřovací čas"
+
+msgid "|Infinitive|Move"
+msgstr "Posunout"
+
+msgid "|Infinitive|Place"
+msgstr "Položit"
+
+msgid "|Infinitive|Play"
+msgstr "Hrát"
+
+msgid "|Infinitive|Random"
+msgstr "Náhodnost"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "Nahrát ducha vůdce"
+
+msgid "|Infinitive|Record leader run"
+msgstr "Nahrát jízdu vůdce"
+
+msgid "|Infinitive|Remove"
+msgstr "Odstranit"
+
+msgid "|Infinitive|Rotate"
+msgstr "Otočit"
+
+msgid "|Infinitive|Save"
+msgstr "Uložit"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "Uložit a ověřit"
+
+msgid "|Infinitive|Save as new"
+msgstr "Uložit jako nový"
+
+msgid "|Infinitive|Select"
+msgstr "Vybrat"
+
+msgid "|Infinitive|Validate"
+msgstr "Ověřit"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "Ověřit jízdu vůdce a vrátit se do čekárny?"
+
+msgid "|Infinitive|Validate track"
+msgstr "Ověřit trať"
+
+msgid "|Infinitive|Zoom"
+msgstr "Přiblížit"
+
+msgid "|Information - window title|Track not validated"
+msgstr "Trať neověřena"
+
+msgid "|Input|No binding"
+msgstr "Nepřiřazeno"
+
+msgid "|Keyboard|Enter"
+msgstr "Enter"
+
+msgid "|Landscape|Desert"
+msgstr "Poušť"
+
+msgid "|Landscape|Empty"
+msgstr "Prázdná"
+
+msgid "|Landscape|Hills"
+msgstr "Kopce"
+
+msgid "|Landscape|Mountain"
+msgstr "Hora"
+
+msgid "|Landscape|Pillars"
+msgstr "Sloupy"
+
+msgid "|League|Step %1"
+msgstr "Krok %1"
+
+msgid "|League|map %1/%2"
+msgstr "mapa %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|Kliknutím na tlačítko „Souhlasím“ souhlasíte se sdílením svých "
+"osobních údajů s třetími osobami za účelem zobrazování personalizovaných "
+"reklam v rámci hry. Toto nastavení můžete změnit, pokud si to přejete."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"Malé procento lidí může při sledování obrázků včetně blikajících světel nebo "
+"obrazců, které se mohou ve videohrách objevit, dostat epileptický záchvat. "
+"Dokonce i u lidí, kteří netrpí epilepsií nebo záchvaty, se může projevit "
+"doposud nediagnostikovaný stav, který způsobí „fotosenzitivní epileptické "
+"záchvaty“ při sledování videoher. Záchvaty se mohou projevit několika "
+"různými příznaky, jako jsou například závratě, zdvojené vidění, třes víček "
+"nebo tváře, škubání nebo třes končetin, dezorientace nebo chvilková ztráta "
+"vědomí. Záchvaty mohou rovněž způsobit ztrátu vědomí nebo křeče s následným "
+"zraněním v důsledku pádu nebo nárazu na okolní předměty. \n"
+"\n"
+"Pokud se u vás projeví některý z uvedených příznaků, okamžitě přerušte hru a "
+"vyhledejte lékaře. Povinností rodičů je sledovat děti a zjistit, zda se u "
+"nich neprojeví některý z uvedených příznaků – výskyt epileptických záchvatů "
+"tohoto typu je u dětí a dospívajících pravděpodobnější než u dospělých. "
+"Riziko vzniku fotosenzitivních epileptických záchvatů lze snížit "
+"následujícími opatřeními: posaďte se ve větší vzdálenosti od obrazovky; "
+"používejte menší obrazovku; místnost má být dobře osvětlená; nehrajte "
+"videohry, jste-li ospalí nebo unavení. Pokud se u vás nebo u některého z "
+"vašich příbuzných vyskytly záchvaty nebo epilepsie, před hraním videoher se "
+"poraďte s lékařem."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "Důležitá zdravotní varování v souvislosti s hraním videoher"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|Souhlasím, aby mé osobní údaje byly sdíleny se třetími osobami za "
+"účelem zobrazování reklam v rámci hry, a to v závislosti na mé zemi původu a "
+"mých zálibách."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|Pokud tuto možnost deaktivujete, budou se vám při hře zobrazovat "
+"reklamy, které nebudou vašim zálibám odpovídat tak dobře."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|Nastavení ochrany osobních údajů"
+
+msgid "|Loading screen|Loading"
+msgstr "Načítání"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"Obecně těžké tratě, obsahující překážky k překonání při nízkých rychlostech."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"Většinou krátké, tyto tratě jsou postavené na jedné překážce, která často "
+"vyžaduje štěstí pro své překonání."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr "Tyto tratě by se měly hrát bez upuštění pedálu. Rozjeďte to naplno!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"Tyto tratě jsou vystavěny na základě jednoho silného nápadu nebo konceptu, "
+"díky kterému jsou snadno rozpoznatelné."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr "Tyto tratě jsou obvykle zábavné tratě navíc na konci kampaně."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr "Tyto tratě jsou zasazeny v přírodních oblastech. Neztraťte se!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr "Tyto tratě obsahují spoustu pastí a skoků. Pozor na spodek!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr "Tyto tratě obsahují spoustu zatáček, U-zatáček a zón brzdění."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr "Tyto tratě obsahují masivní skoky, loopingy a wallridy."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"Tyto tratě od vás vyžadují pouze dokončení s nejlepším časem. Žádný povyk, "
+"žádný rozruch, prostě závod!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr "Tyto tratě obsahují dlouhé rovinky, často plné překážek."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"Na těchto mapách musíte držet pouze zrychlování, ničeho jiného se "
+"nedotýkejte."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "Gamepad"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "Myš a klávesnice"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "Pokročilý"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "Jednoduchý"
+
+msgid "|MapMood|Day"
+msgstr "Den"
+
+msgid "|MapMood|Night"
+msgstr "Noc"
+
+msgid "|MapMood|Sunrise"
+msgstr "Ráno"
+
+msgid "|MapMood|Sunset"
+msgstr "Večer"
+
+msgid "|Map|Browse"
+msgstr "Prohlížet"
+
+msgid "|Map|Delete"
+msgstr "Odstranit"
+
+msgid "|Map|Edit"
+msgstr "Upravit"
+
+msgid "|Map|Move"
+msgstr "Přesunout"
+
+msgid "|Map|New"
+msgstr "Nová"
+
+msgid "|Match|Draw"
+msgstr "|Match|Nerozhodně"
+
+msgid "|Medal|Finished"
+msgstr "Dokončeno"
+
+msgid "|Medal|None"
+msgstr "Žádná"
+
+msgid "|Menu|Local"
+msgstr "Místní"
+
+msgid "|Monday|M"
+msgstr "Po"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "Dub %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "Srp %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "Pro %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "Úno %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "Led %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "Čvc %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "Čvn %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "Bře %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "Kvě %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "Lis %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "Říj %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "Zář %1"
+
+msgid "|Month|April"
+msgstr "Duben"
+
+msgid "|Month|August"
+msgstr "Srpen"
+
+msgid "|Month|December"
+msgstr "Prosinec"
+
+msgid "|Month|February"
+msgstr "Únor"
+
+msgid "|Month|January"
+msgstr "Leden"
+
+msgid "|Month|July"
+msgstr "Červenec"
+
+msgid "|Month|June"
+msgstr "Červen"
+
+msgid "|Month|March"
+msgstr "Březen"
+
+msgid "|Month|May"
+msgstr "Květen"
+
+msgid "|Month|November"
+msgstr "Listopad"
+
+msgid "|Month|October"
+msgstr "Říjen"
+
+msgid "|Month|September"
+msgstr "Září"
+
+msgid "|Move camera|Camera"
+msgstr "Kamera"
+
+msgid "|Navigation|Back"
+msgstr "Zpět"
+
+msgid "|News|Body"
+msgstr "Tělo"
+
+msgid "|News|Headline"
+msgstr "Nadpis"
+
+msgid "|News|Title"
+msgstr "Název"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|směrová tlačítka"
+
+msgid "|PC|the left stick"
+msgstr "|PC|levá páčka"
+
+msgid "|PC|the right stick"
+msgstr "|PC|pravá páčka"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|Kolečko"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "Křížek"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|směrová tlačítka"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|levá páčka"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|pravá páčka"
+
+msgid "|Personal best|PB"
+msgstr "PB"
+
+msgid "|Points|pts"
+msgstr "b"
+
+msgid "|Point|pt"
+msgstr "b"
+
+msgid "|Press xx to start|Press"
+msgstr "Stiskněte"
+
+msgid "|Press xx to start|to start"
+msgstr "pro start"
+
+msgid "|Race|Lap"
+msgstr "Okruh"
+
+msgid "|Race|Laps"
+msgstr "Okruhy"
+
+msgid "|Race|Round"
+msgstr "Kolo"
+
+msgid "|RankingZone|Continent"
+msgstr "Kontinent"
+
+msgid "|RankingZone|Country"
+msgstr "Země"
+
+msgid "|RankingZone|District"
+msgstr "Okres"
+
+msgid "|RankingZone|Region"
+msgstr "Oblast"
+
+msgid "|RankingZone|World"
+msgstr "Svět"
+
+msgid "|RankingZone|Zone"
+msgstr "Zóna"
+
+msgid "|Rank|from %1"
+msgstr "k %1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "Obnovit dekoraci"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|Editovat"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|Nahrát"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|Zobrazit"
+
+msgid "|Reset to default button|Default settings"
+msgstr "Původní nastavení"
+
+msgid "|Role|Admin"
+msgstr "Admin"
+
+msgid "|Role|Applicant"
+msgstr "Uchazeč"
+
+msgid "|Role|Content creator"
+msgstr "Tvůrce obsahu"
+
+msgid "|Role|Creator"
+msgstr "Tvůrce"
+
+msgid "|Role|Member"
+msgstr "Člen"
+
+msgid "|Saturday|S"
+msgstr "So"
+
+msgid "|Score|Point"
+msgstr "|Score|Bod"
+
+msgid "|Score|Points"
+msgstr "|Score|Bodů"
+
+msgid "|Season|Autumn"
+msgstr "Podzim"
+
+msgid "|Season|Spring"
+msgstr "Jaro"
+
+msgid "|Season|Summer"
+msgstr "Léto"
+
+msgid "|Season|Winter"
+msgstr "Zima"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "Centrální Kanada"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "Severozápadní Čína"
+
+msgid "|ServerRegion|EU West"
+msgstr "Západní Evropa"
+
+msgid "|Server|Live"
+msgstr "Aktuální"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "Rychlá"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "Kvalita osvětlení"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "Pěkná"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "Vystřelovač"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "Volnoběh"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "Vynucená akcelerace"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "Křehký"
+
+msgid "|SpecialBlock|No grip"
+msgstr "Bez přilnavosti"
+
+msgid "|SpecialBlock|No steering"
+msgstr "Bez zatáčení"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "Reaktorové zrychlení %1"
+
+msgid "|SpecialBlock|Reset"
+msgstr "Obnoveno"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "Zpomalení"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "Super vystřelovač"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "Reaktorové zrychlení %1"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "Super turbo"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "Turbo"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "Ultra turbo"
+
+msgid "|SpecialBlock|down"
+msgstr "dolů"
+
+msgid "|SpecialBlock|up"
+msgstr "nahoru"
+
+msgid "|Spectator Target|All"
+msgstr "Všichni"
+
+msgid "|Spectator Target|Single"
+msgstr "Jediný"
+
+msgid "|Status|Finalist"
+msgstr "Finalista"
+
+msgid "|Status|K.O."
+msgstr "K.O."
+
+msgid "|Status|K.O. #%1"
+msgstr "K.O. #%1"
+
+msgid "|Status|Racing"
+msgstr "Závodí"
+
+msgid "|Status|Winner"
+msgstr "Vítěz"
+
+msgid "|Streamer|Channel"
+msgstr "Kanál"
+
+msgid "|Streaming|Platform"
+msgstr "Platforma"
+
+msgid "|Subscription|Ends on"
+msgstr "Končí"
+
+msgid "|Sunday|S"
+msgstr "Ne"
+
+msgid "|Tabs|Clubs"
+msgstr "Kluby"
+
+msgid "|Tabs|Create"
+msgstr "Tvořit"
+
+msgid "|Tabs|Live"
+msgstr "Živě"
+
+msgid "|Tabs|Local"
+msgstr "Místní"
+
+msgid "|Tabs|Solo"
+msgstr "Sólo"
+
+msgid "|Thursday|T"
+msgstr "Čt"
+
+msgid "|Time|Best"
+msgstr "Nejlepší"
+
+msgid "|Time|Previous"
+msgstr "Předchozí"
+
+msgid "|Track|Block"
+msgstr "Blok"
+
+msgid "|Tuesday|T"
+msgstr "Út"
+
+msgid "|Validation choice|No"
+msgstr "Ne"
+
+msgid "|Validation choice|Yes"
+msgstr "Ano"
+
+msgid "|Verb|Stay"
+msgstr "Zůstat"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|Klikněte pro obsazení slotu"
+
+msgid "|Warning|Caution"
+msgstr "Pozor"
+
+msgid "|Wednesday|W"
+msgstr "St"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "Nová trať"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "Upravit trať"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|směrová tlačítka"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|levá páčka"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|pravá páčka"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|Evropa"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|Střední Východ"
+
+msgid "|Zone|North America"
+msgstr "|Zone|Severní Amerika"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|Oceánie"
+
+msgid "|Zone|South America"
+msgstr "|Zone|Jižní Amerika"
+
+msgid "|Zone|World"
+msgstr "|Zone|Svět"
+
+msgid "|plural 4 letters max|mins"
+msgstr "mins"
+
+msgid "|singular 3 letters max|min"
+msgstr "min"

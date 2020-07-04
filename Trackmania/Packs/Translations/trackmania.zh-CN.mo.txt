@@ -1,0 +1,5056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-07-01 06:18+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Chinese, China (Simplified Han)\n"
+"Language: zh-CN-Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "$%1Author"
+msgstr "$%1作者"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$>是大厅之王！"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$>现在是%2%3！"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$>加入了游戏"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$>离开了游戏"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$>拿下了%2！"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$>赢下了第%2阶段"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$>在本地图获胜！"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$>赢得了比赛！"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$>赢得了本回合！"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$>赢得了比赛！"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1名玩家将被淘汰"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f001名玩家将被淘汰"
+
+msgid "$f90No elimination this round"
+msgstr "$f90本回合无人被淘汰"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$z在$<$t$6F9淘汰赛$>模式中，目标是成为最后幸存的玩家。  \n"
+" \n"
+"你将会在回合模式参加一系列的比赛。$<$t$6F9在每局比赛后，排名最后的玩家将会被"
+"淘汰$>！ \n"
+" \n"
+"淘汰所有对手的玩家将会成为获胜者。"
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$z在$<$t$6F9圈数赛$>模式中，目标是通过 $<$t$6F9检查点$>，驾驶尽可能长的里"
+"程。\n"
+" \n"
+"圈数赛模式将在多圈（循环）地图上进行，每个地图仅游玩一次。\n"
+" \n"
+"当时间结束后，通过最多$<$t$6F9检查点$>的玩家将会成为$<$t$6F9获胜者r$>。出现平"
+"局时，率先通过最后一个检查点的玩家将成为获胜者。"
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$z在$<$t$6F9回合赛$z$z$>模式中，目标是获取最多的$<$t$6F9积分。\n"
+" \n"
+"$z$>回合模式将会进行$<$t$6F9一系列比赛$z$>。 \n"
+"当你在比赛中获得了高$<$t$6F9排名$z$>，你会获得$<$t$6F9积分$z$>，计入你的总"
+"分。\n"
+" \n"
+"总分率先达到$<$t$6F9积分限制$z$>的玩家将会成为$<$t$6F9获胜者$z$>。（例如30"
+"分）"
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$z在$<$t$6F9团队赛$>模式中，你必须选择一个队伍：$<$t$f00红队$>或$<$t$10c蓝队"
+"$>。\n"
+" \n"
+"团队赛模式将进行$<$t$6F9一系列比赛$>。\n"
+"你的团队目标是赢得尽可能多的$<$t$6F9积分$>。\n"
+" \n"
+"如果比赛结束时你取得较高的$<$t$6F9排名$>，就可以为你的团队获取$<$t$6F9积分"
+"$>。\n"
+"总分率先达到$<$t$6F9积分限制$>的团队将会成为$<$t$6F9获胜团队$>。（例如5分）"
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$z在$<$t$6F9计时赛$>模式中,，你的目标是跑出$<$t$6F9最快时间$>。\n"
+" \n"
+"你可以不受次数限制地反复尝试，并且按照你的意愿按重置键进行$<$t$6F9重试$>。\n"
+" \n"
+"当时间结束时，跑出$<$t$6F9最快时间$>的玩家将会成为$<$t$6F9获胜者$>。"
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$z奖杯赛模式将会$<$t$6F9在多个地图上进行的一系列比赛$>。\n"
+" \n"
+"当你在比赛中获得了高$<$t$6F9排名$>，你将会获得$<$t$6F9积分$>，计入你的总"
+"分。\n"
+"服务器可能会设置热身赛，以供玩家在正式比赛前熟悉地图。\n"
+" \n"
+"想要获胜，你必须首先获得足够的分数<$t$6F9积分限制$>，进而成$<$t$6F9决赛选手"
+"$>。当你成为决赛选手以后，你必须以$<$t$6F9第一名$>完成比赛才能获得奖杯。当有3"
+"名玩家成为决赛选手并首先完成后，奖杯赛模式结束。"
+
+msgid "%1 is not a Stadium map"
+msgstr "%1不是竞技场地图"
+
+msgid "%1 is not playable"
+msgstr "%1不可玩"
+
+msgid "%1 map"
+msgstr "%1张地图"
+
+msgid "%1 maps"
+msgstr "%1张地图"
+
+msgid "%1 players"
+msgstr "%1名玩家"
+
+msgid "%1 replays selected"
+msgstr "已选择%1个录像回放"
+
+msgid "%1 until %2 Players"
+msgstr "还需淘汰%1人以达到%2玩家"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$>取消了开始比赛。"
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$>加入一场比赛。"
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$>作为替补加入了比赛。"
+
+msgid "%1's server"
+msgstr "%1的服务器"
+
+msgid "%1Best CP %2"
+msgstr "%1最佳检查点%2"
+
+msgid "%1Best race"
+msgstr "%1最佳成绩"
+
+msgid "%1Personal best"
+msgstr "%1个人最佳"
+
+msgid "1 player"
+msgstr "1名玩家"
+
+msgid "16th final"
+msgstr "1/16决赛"
+
+msgid "8th final"
+msgstr "1/8决赛"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "无障碍支持专员"
+
+msgid "ACCOUNT MANAGER"
+msgstr "客户经理"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "年龄分级协调"
+
+msgid "ANALYST"
+msgstr "分析师"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持分析师"
+
+msgid "ART DIRECTOR"
+msgstr "美术总监"
+
+msgid "ARTISTS"
+msgstr "美术师"
+
+msgid "ASSISTANT MANAGER"
+msgstr "经理助理"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "副总监"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "社区开发副总监"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "客户关系管理副总监"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "欧洲、中东和非洲沟通副总监"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "运营策略副总监"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "助理运营协调"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "计算机平台测试助理主管"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "助理制作人"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "技术副总监"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "用户体验助理设计师 "
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Activities"
+msgstr "活动"
+
+msgid "Activities must have a name."
+msgstr "活动必须要有一个名字。"
+
+msgid "Activity"
+msgstr "活动"
+
+msgid "Add"
+msgstr "增加"
+
+msgid "Add to favorite"
+msgstr "加入收藏"
+
+msgid "Adding map to queue..."
+msgstr "正在添加地图至游玩列表…"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+msgid "Against replay"
+msgstr "对决回放"
+
+msgid "All clubs"
+msgstr "全部俱乐部"
+
+msgid "All fields must be completed"
+msgstr "必须完成所有栏位"
+
+msgid "Allies"
+msgstr "队友"
+
+msgid "Ally"
+msgstr "队友"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr "加入时发生错误，请再试一次。（错误代码：%1）"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr "在获取下一场比赛时出现了错误。请重试。（错误代码：%1）"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr "获取你的帐户时出错，请重试。（错误代码：%1）"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "发生错误，请重试。（错误：%1）"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "任何在此地形上进行的修改都会丢失。"
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "此赛道中任何未保存的修改都将丢失。"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Apply skin"
+msgstr "使用皮肤"
+
+msgid "Arcade"
+msgstr "街机"
+
+msgid "Are you really sure you want to %1?"
+msgstr "确定要%1吗？"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "确定要离开比赛吗？"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "你是否想创建一条新的赛道？"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "确定要删除你的俱乐部吗？"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "你是否确定你想编辑装饰？"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "你是否确定你想编辑这条赛道？"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "你确定你想生成另一个赛道？"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "你确定想离开编辑器吗？"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "确定要退出《赛道狂飙》吗？"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "你确定想选择另一个地形吗？"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"在三年结束之后，保留300张官方地图，\n"
+"1095张每日赛道，以及高级赛道编辑器"
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"在一年结束之后，保留100张官方地图，\n"
+"365张每日赛道，以及高级赛道编辑器"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Author medal"
+msgstr "作者奖牌"
+
+msgid "Author time"
+msgstr "作者用时"
+
+msgid "Auto-finish"
+msgstr "自动完成赛道"
+
+msgid "Automatic retry in %1 second."
+msgstr "在%1秒后自动重试。"
+
+msgid "Automatic retry in %1 seconds."
+msgstr "在%1秒后自动重试。"
+
+msgid "Average lap"
+msgstr "平均圈速"
+
+msgid "Average waiting time"
+msgstr "平均等待时间"
+
+msgid "BRAND DIRECTOR"
+msgstr "品牌总监"
+
+msgid "BRAND MANAGER"
+msgstr "品牌经理"
+
+msgid "BUSINESS ANALYST"
+msgstr "商业分析师"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "商务运营协调"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "业务运营经理"
+
+msgid "Back"
+msgstr "返回"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"背景：您俱乐部详情页面的背景图片。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid "Balance teams"
+msgstr "平衡队伍"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr "小心！这个方块将会停止你的引擎，直到你穿过一个新的检查点为止。"
+
+msgid "Be in the top %1"
+msgstr "进入前%1名"
+
+msgid "Best lap"
+msgstr "最快圈速"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "最快圈速$fff(%1)$g%2"
+
+msgid "Best lap: %1"
+msgstr "最快圈速：%1"
+
+msgid "Best time :"
+msgstr "最佳时间："
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Block selection"
+msgstr "选择方块"
+
+msgid "Blocked by the terrain"
+msgstr "被地形阻挡"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Bronze"
+msgstr "铜牌"
+
+msgid "Bronze medal"
+msgstr "铜牌"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "请创建你的赛道并通过放置一个终点方块来完成它。"
+
+msgid "By %1"
+msgstr "来自%1"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "首席创意官"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "中国区产品经理"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "欧洲、中东和非洲沟通经理"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "沟通总监"
+
+msgid "COMMUNITY"
+msgstr "社区"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "社区内容设计师"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "社区内容制作人"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "社区内容专员"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "社区内容策略师"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "社区管理"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "社区管理团队主管"
+
+msgid "COMMUNITY MANAGER"
+msgstr "社区经理"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "社区反馈专员"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "社区团队负责人"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "社区团队运营经理"
+
+msgid "COMPOSER"
+msgstr "作曲家"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "亚洲消费者体验区域经理"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "消费者体验经理"
+
+msgid "CONTENT DIRECTOR"
+msgstr "内容总监"
+
+msgid "CONTENT MANAGER"
+msgstr "内容经理"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "创意总监"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "创意前端工程师"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "客户关系管理数据分析师"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "客户关系管理图像设计师"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "客户关系管理整合专员"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "客户关系管理整合团队主管 "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "客户关系管理生命周期助理"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "客户关系管理生命周期专员"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "客户关系管理多通道专员"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "客户关系管理运营经理"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "客户关系管理运营专员"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "客户关系管理运营专员助理"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "客户关系管理执行经理"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "客户关系管理程序经理"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "客户体验经理"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "客户支持副总监"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "客户支持开发副总监"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "客户支持信息团队"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "客户支持学习和开发团队"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "客户支持质量保证团队"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "资深客户支持信息经理"
+
+msgid "Campaign"
+msgstr "赛事"
+
+msgid "Campaign creation"
+msgstr "创建赛事"
+
+msgid "Campaign edition"
+msgstr "编辑赛事"
+
+msgid "Campaign library"
+msgstr "赛事库"
+
+msgid "Campaign's name"
+msgstr "赛事名称"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "无法从此类目中放置任何方块，请尝试另一组类目"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel request"
+msgstr "取消请求"
+
+msgid "Category"
+msgstr "目录"
+
+msgid "Champion mode"
+msgstr "冠军赛模式"
+
+msgid "Change map"
+msgstr "更换地图"
+
+msgid "Change opponents"
+msgstr "更换对手"
+
+msgid "Change team"
+msgstr "更换队伍"
+
+msgid "Change the building mode"
+msgstr "更改创造模式"
+
+msgid "Change the connection mode"
+msgstr "更改连接模式"
+
+msgid "Chat time"
+msgstr "聊天时间"
+
+msgid "Choose a campaign to use"
+msgstr "选择想要使用的赛事"
+
+msgid "Choose a mode"
+msgstr "选择模式"
+
+msgid "Choose a skin"
+msgstr "选择一个皮肤"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"选择每种装饰风格的所占比例，然后按下“生成”键。当你对相应的装饰效果风格感到满"
+"意之后，你可以开始验证你的赛道。"
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"请选择你喜欢的类型并生成装饰。设置你喜欢的装饰后，你就可以验证你的赛道。"
+
+msgid "Choose your team"
+msgstr "选择你的队伍"
+
+msgid "Clan"
+msgstr "车队"
+
+msgid "Click on a player to invite them to your party."
+msgstr "点选玩家以邀请他们加入你的派对。"
+
+msgid "Click on a player to join their party."
+msgstr "点选玩家以加入他们的派对。"
+
+msgid "Click on a player to set them as ally."
+msgstr "点选玩家以将他们设置为队友。"
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "点击界面模组来编辑属性"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Club"
+msgstr "俱乐部"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部背景图片删除失败，请重试。（错误 %1）"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr "俱乐部背景图片编辑失败，请重试。（错误 %1）"
+
+msgid "Club campaigns"
+msgstr "俱乐部赛事"
+
+msgid "Club coming soon!"
+msgstr "俱乐部功能即将推出！"
+
+msgid "Club creation"
+msgstr "创建俱乐部"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "俱乐部创建失败，请重试。（错误%1）"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部印花删除失败，请重试。（错误 %1）"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr "俱乐部印花编辑失败，请重试。（错误 %1）"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部赞助商印花删除失败，请重试。（错误 %1）"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr "俱乐部赞助商印花编辑失败，请重试。（错误 %1）"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr "俱乐部印花上传失败，请重试。（错误 %1）"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部删除失败。请重试。（错误%1）"
+
+msgid "Club edition"
+msgstr "编辑俱乐部"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部徽标删除失败。请重试。（错误%1）"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr "俱乐部徽标编辑失败。请重试。（错误 %1）"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr "俱乐部徽标上传失败，请重试。（错误%1）"
+
+msgid "Club rooms"
+msgstr "俱乐部房间"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图16删除失败，请重试。（错误 %1）"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图16编辑失败，请重试。（错误 %1）"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图2删除失败，请重试。（错误 %1）"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图2编辑失败，请重试。（错误 %1）"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图8删除失败，请重试。（错误 %1）"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr "俱乐部屏幕截图8编辑失败，请重试。（错误 %1）"
+
+msgid "Club skins"
+msgstr "俱乐部皮肤"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "俱乐部更新失败。请重试。（错误%1）"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr "俱乐部垂直图像删除失败，请重试。（错误 %1）"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr "俱乐部垂直图像编辑失败，请重试。（错误 %1）"
+
+msgid "Clubs"
+msgstr "俱乐部"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "收集抽奖券，每个人都可以参与！"
+
+msgid "Coming soon!"
+msgstr "即将推出！"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Compete every week in the national league"
+msgstr "每个星期在国家联赛中竞技"
+
+msgid "Compete in the open grand league"
+msgstr "在公开大联赛中竞技"
+
+msgid "Competition"
+msgstr "竞赛"
+
+msgid "Concept"
+msgstr "概念"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Confirm your choice"
+msgstr "确定你的选择"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connection timed out"
+msgstr "连接超时"
+
+msgid "Connector selection"
+msgstr "连接器选择"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy and connect"
+msgstr "复制并连接"
+
+msgid "Copy server link"
+msgstr "复制服务器链接"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "无法连接至《赛道狂飙》服务器。"
+
+msgid "Could not load records"
+msgstr "无法载入纪录"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create a new map"
+msgstr "创建新地图"
+
+msgid "Create a new skin"
+msgstr "创建新皮肤"
+
+msgid "Create activity"
+msgstr "创建活动"
+
+msgid "Create campaign"
+msgstr "创建赛事"
+
+msgid "Create club"
+msgstr "创建俱乐部"
+
+msgid "Create map"
+msgstr "创建地图"
+
+msgid "Create map uploads"
+msgstr "创建上传地图"
+
+msgid "Create room"
+msgstr "创建房间"
+
+msgid "Create skin uploads"
+msgstr "创建上传皮肤"
+
+msgid "Create the map of the show"
+msgstr "创建展示地图"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"使用高级编辑器创建赛道，并在在线模式中测试地图\n"
+"无限制的创建并分享你的竞速视频"
+
+msgid "Create your club and share your masterpieces"
+msgstr "创建你的俱乐部并分享你的大作"
+
+msgid "Create your tracks"
+msgstr "创建你的赛道"
+
+msgid "Creating activity..."
+msgstr "正在创建活动…"
+
+msgid "Creating campaign..."
+msgstr "正在创建赛事…"
+
+msgid "Creating club room..."
+msgstr "正在创建俱乐部房间…"
+
+msgid "Creating club..."
+msgstr "正在创建俱乐部…"
+
+msgid "Credits"
+msgstr "制作人员"
+
+msgid "Cumulate team points :"
+msgstr "累计团队积分："
+
+msgid "Current map"
+msgstr "当前地图"
+
+msgid "Current match best score"
+msgstr "当前比赛最佳得分"
+
+msgid "Current match score"
+msgstr "当前比赛得分"
+
+msgid "Current player"
+msgstr "当前玩家"
+
+msgid "Customization"
+msgstr "自定义"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "使用俱乐部或自己的皮肤来自定义你的赛车"
+
+msgid "Cut and paste"
+msgstr "剪切和粘贴"
+
+msgid "DATA ANALYST"
+msgstr "数据分析师"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "开发和品质经理"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "开发测试员"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "数字内容发行人"
+
+msgid "DIRECTOR"
+msgstr "总监"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "资深媒体和客户关系管理总监"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "品牌发展总监"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "客户体验总监"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "欧洲、中东和非洲沟通总监"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "欧洲、中东和非洲社区参与总监"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "玩家体验总监"
+
+msgid "DIRECTORS"
+msgstr "总监"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "DUALSHOCK®4无线控制器"
+
+msgid "Daily Cup Knockout"
+msgstr "每日淘汰杯赛"
+
+msgid "Daily cup"
+msgstr "每日杯赛"
+
+msgid "Daily rankings"
+msgstr "每日排名"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Deactivate"
+msgstr "停用"
+
+msgid "Dead end"
+msgstr "死路"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"赞助商贴花：显示在赛道周围赞助商条幅上的图片。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"贴花：可以显示在路面上的图片（如起点，检查点及终点）。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid "Decoration"
+msgstr "装饰"
+
+msgid "Delete club"
+msgstr "删除俱乐部"
+
+msgid "Deleting club..."
+msgstr "正在删除俱乐部…"
+
+msgid "Did you like this map?"
+msgstr "您喜欢这张地图吗？"
+
+msgid "Disable give up"
+msgstr "禁用放弃"
+
+msgid "Do Not Show Again"
+msgstr "不再显示"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "在倒计时结束前尽全力跑出最快时间。"
+
+msgid "Do you want to create a cup with this map?"
+msgstr "你是否想用此地图创建一局杯赛？"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "你想生成另一个赛道还是游玩这个赛道？"
+
+msgid "Do you want to improve the validation time?"
+msgstr "你是否想刷新你的验证时间？"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "你是否想离开随机赛道生成器？"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "你是否想放置一个检查点？"
+
+msgid "Do you want to play a rematch?"
+msgstr "你想要进行重赛？"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "你想退出插件还是返回至编辑器？"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "你是否想使用以下名称来保存你的地图？"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "你是否确定想停止自动完成赛道？"
+
+msgid "Do you want to validate the track now?"
+msgstr "你是否想现在验证此赛道？"
+
+msgid "Don't forget to save your track!"
+msgstr "不要忘记保存你的赛道！"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Draw of the lottery"
+msgstr "获奖奖券"
+
+msgid "Duel"
+msgstr "对决"
+
+msgid "Duration of one warm up"
+msgstr "单次热身时长"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "剪辑技术"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "欧洲、中东和非洲客户关系中心 - 社区团队"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "欧洲、中东和非洲客户关系中心 - 玩家支持团队"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "欧洲、中东和非洲客户管理"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "欧洲、中东和非洲信息团队"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持工程师"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "场景美术师"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "执行助理和人力资源经理"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "世界工作室群执行总监"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "外部合作伙伴"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "获得奖牌并在地区排名中跟踪你的进度"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit '%1'"
+msgstr "编辑“%1”"
+
+msgid "Edit a map"
+msgstr "编辑地图"
+
+msgid "Edit a skin"
+msgstr "编辑皮肤"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "编辑活动“$<%1$>”"
+
+msgid "Edit campaign"
+msgstr "编辑赛事"
+
+msgid "Edit decoration"
+msgstr "编辑装饰"
+
+msgid "Edit replay"
+msgstr "编辑回放"
+
+msgid "Edit room"
+msgstr "编辑房间"
+
+msgid "Edit room '%1'"
+msgstr "编辑房间“%1”"
+
+msgid "Edit terrain"
+msgstr "编辑地形"
+
+msgid "Edit track"
+msgstr "编辑赛道"
+
+msgid "Editing activity..."
+msgstr "正在编辑活动…"
+
+msgid "Editing club room..."
+msgstr "正在编辑俱乐部房间…"
+
+msgid "Eighth (Press 8)"
+msgstr "第八位（按下8键）"
+
+msgid "End of warmup, match starting..."
+msgstr "热身结束，比赛即将开始…"
+
+msgid "Engine disabled"
+msgstr "引擎关闭"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "已有足够多的玩家同意重赛。"
+
+msgid "Entry"
+msgstr "条目"
+
+msgid "Error"
+msgstr "错误"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr "添加你的地图至队列时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr "创建赛事时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr "创建活动时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr "创建房间时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr "编辑活动时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr "编辑房间时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr "获取%1类型赛事时发生错误。请重试。（错误代码：%2）"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr "获取Nadeo服务器地图列表时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr "从Nadeo服务获取月度赛事时发生错误，请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr "获取地图玩家俱乐部排名时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr "获取Nadeo服务器季度赛事时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr "在获取活动信息时出错，请重试。（错误代码：%1）"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr "获取服务器加入链接时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "在获取地图数据时发生错误。（错误代码：%1）"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr "加入服务器时出错，请重试（错误代码：%1）"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "载入排名时发生了错误（代码：%1）"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "载入房间细节时发生错误。（错误代码：%1）"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "载入房间地图时发生错误。（错误代码：%1）"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr "载入Nadeo服务器分数时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr "载入赛事时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr "载入赛事所属俱乐部时出错。请重试。（错误代码：%1）"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "载入奖杯时发生错误。（代码：%1）"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr "更新俱乐部活动时发生错误，请重试。（错误代码：%1）"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr "更新新闻媒体图标时出错。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr "更新活动隐私设置时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr "上传地图时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr "上传地图时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr "上传活动徽标时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr "上传房间媒体时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr "上传你的地图时发生错误，请重试。（错误代码：%1）"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr "上传你的媒体时发生错误。请重试。（错误代码：%1）"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr "验证活动时发生错误。请重试。（错误代码：%1）"
+
+msgid "Events"
+msgstr "活动"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "F6 to cancel"
+msgstr "按F6键取消"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "财务规划分析师"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "资深财务规划总监"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "财务预算，工作室群运营和品质控制"
+
+msgid "FRONT-END ENGINEER"
+msgstr "前端工程师"
+
+msgid "Fifth (Press 5)"
+msgstr "第五位（按下5键）"
+
+msgid "Finish timeout"
+msgstr "结束超时"
+
+msgid "First (Press 1)"
+msgstr "第一位（按下1键）"
+
+msgid "Forced laps number"
+msgstr "强制圈数"
+
+msgid "Fourth (Press 4)"
+msgstr "第四位（按下4键）"
+
+msgid "Free for all"
+msgstr "个人竞技"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Fullspeed"
+msgstr "全速"
+
+msgid "Fusion with another server for more players"
+msgstr "通过合并服务器来增加玩家数量"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持游戏活动专员"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "游戏分析研究"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "游戏和服务运营助理经理"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "游戏和服务运营经理"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "游戏与服务运营专员"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "客户关系中心总经理"
+
+msgid "GRAPHIC ARTIST"
+msgstr "图形美术师"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "图形设计师"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "欧洲、中东和非洲媒体演出经理"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "欧洲、中东和非洲媒体策略经理"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "欧洲、中东和非洲网站制作小组经理"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "小组版本经理"
+
+msgid "Game mode"
+msgstr "游戏模式"
+
+msgid "Game mode: %1"
+msgstr "游戏模式：%1"
+
+msgid "Garage"
+msgstr "车库"
+
+msgid "Generate"
+msgstr "生成"
+
+msgid "Get the Club access for one year"
+msgstr "购买一年的俱乐部版赛道狂飙"
+
+msgid "Get the Club access for three years"
+msgstr "购买3年俱乐部会员"
+
+msgid "Get the Standard access for one year"
+msgstr "购买一年的标准版赛道狂飙"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "在街机频道中游玩来自玩家们的自制赛事"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "获取回放功能，皮肤和简易赛道编辑器"
+
+msgid "Give up"
+msgstr "放弃"
+
+msgid "Give up %1"
+msgstr "放弃%1"
+
+msgid "Give up Daily cup?"
+msgstr "放弃每日杯赛？"
+
+msgid "Go to map list"
+msgstr "前往地图列表"
+
+msgid "Going to next map"
+msgstr "前往下一个地图"
+
+msgid "Gold"
+msgstr "金牌"
+
+msgid "Gold medal"
+msgstr "金牌"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "美洲客户关系中心主管"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "欧洲、中东和非洲社交媒体主管"
+
+msgid "HQ PRODUCER"
+msgstr "总部制作人"
+
+msgid "HQ PRODUCERS"
+msgstr "总部制作人"
+
+msgid "HR SPECIALIST"
+msgstr "人力资源专员"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Home Activities"
+msgstr "主页活动"
+
+msgid "Home display"
+msgstr "主页显示"
+
+msgid "Hot Seat"
+msgstr "热座"
+
+msgid "HotSeat"
+msgstr "热座模式"
+
+msgid "Hotseat"
+msgstr "热座模式"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "基础设施团队经理"
+
+msgid "INTERN LIVE QA"
+msgstr "在线质量监控实习生"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "国际产品经理"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "如果你选择一个场景，你可能会失去你所有的进度。"
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr "如果选择放弃，你仍可以继续在频道内游玩，但是你将不能参与每日淘汰赛。"
+
+msgid "Image browser"
+msgstr "图片浏览器"
+
+msgid "Improve"
+msgstr "刷新纪录"
+
+msgid "Information"
+msgstr "详情"
+
+msgid "Interval from %1 pos."
+msgstr "与第%1位的差距"
+
+msgid "Invite friends"
+msgstr "邀请朋友"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "目前暂不能投票修改此服务器设置。"
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "初级客户经理"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "初级自动化测试员"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "初级开发测试员"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "初级财务预算分析师"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "初级在线质量监控和网络专员"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "初级产品经理"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "初级制作协调"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "初级程序员"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "初级网络质量监控专员"
+
+msgid "JUNIOR TESTER"
+msgstr "初级测试员"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "初级用户体验设计师"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "初级网站开发员"
+
+msgid "Join"
+msgstr "加入 "
+
+msgid "Join %1"
+msgstr "加入%1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "加入俱乐部活动并查看俱乐部排名"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "加入包括赛事和在线房间在内的公开俱乐部活动"
+
+msgid "Jump to map"
+msgstr "跳转至地图"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "信息专员"
+
+msgid "KOs per round"
+msgstr "每回合淘汰数"
+
+msgid "Knockout match starts in %1"
+msgstr "淘汰赛将在%1后开始"
+
+msgid "L1 button"
+msgstr "L1键"
+
+msgid "L3 button"
+msgstr "L3键"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "角色美术师主管"
+
+msgid "LEAD DESIGNER"
+msgstr "设计师主管"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "场景美术师主管"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "前端工程师主管"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "图形美术师主管"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "网络工程师主管"
+
+msgid "LEAD PROGRAMMER"
+msgstr "程序员主管"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "技术美术师主管"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "用户体验监制主管"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "车辆美术师主管"
+
+msgid "LINE DESIGNER"
+msgstr "执行设计师"
+
+msgid "LINE DESIGNERS"
+msgstr "执行设计师"
+
+msgid "LIVE COORDINATOR"
+msgstr "运营协调"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "运营新闻协调"
+
+msgid "LIVE PRODUCER"
+msgstr "运营制作人"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "在线质量监控和网络协调"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "资深运营应收分析师"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "运营营收策略 "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "运营团队经理"
+
+msgid "LOCALIZATION"
+msgstr "本地化"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "本地化经理"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "本地化专员"
+
+msgid "Landscape"
+msgstr "场景"
+
+msgid "Lap %1"
+msgstr "第%1圈"
+
+msgid "Last time"
+msgstr "上次用时"
+
+msgid "Leader"
+msgstr "领先者"
+
+msgid "League ranking"
+msgstr "联赛排名"
+
+msgid "Learn more about the Club Edition"
+msgstr "了解更多有关俱乐部版的详情"
+
+msgid "Leave"
+msgstr "离开"
+
+msgid "Leave club '%1'"
+msgstr "离开“%1\"俱乐部"
+
+msgid "Leave random track generator"
+msgstr "离开随机赛道生成器"
+
+msgid "Left click : move the module"
+msgstr "鼠标左键：移动模组"
+
+msgid "Link copied!"
+msgstr "链接已复制！"
+
+msgid "Live Ranking"
+msgstr "实时排名"
+
+msgid "Live ranking"
+msgstr "实时排名"
+
+msgid "Live test"
+msgstr "在线测试"
+
+msgid "Loading"
+msgstr "正在载入"
+
+msgid "Loading activity..."
+msgstr "正在载入活动…"
+
+msgid "Loading campaign to edit"
+msgstr "正在载入编辑赛事"
+
+msgid "Loading campaign..."
+msgstr "正在载入赛事…"
+
+msgid "Loading club activities..."
+msgstr "正在载入俱乐部活动…"
+
+msgid "Loading club room..."
+msgstr "正在载入俱乐部房间…"
+
+msgid "Loading competition..."
+msgstr "正在载入竞赛…"
+
+msgid "Loading offline campaign..."
+msgstr "正在载入离线赛事…"
+
+msgid "Loading records"
+msgstr "正在载入纪录"
+
+msgid "Loading room informations..."
+msgstr "正在载入房间信息…"
+
+msgid "Loading..."
+msgstr "载入中…"
+
+msgid "Local multi"
+msgstr "本地多人"
+
+msgid "Local network"
+msgstr "本地网络"
+
+msgid "Locked"
+msgstr "锁定"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Logo"
+msgstr "徽标"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"图标：您俱乐部的首选可见图片。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid "Lol"
+msgstr "障碍"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "Magic Lab角色美术师"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "Magic Lab制作指导"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "Magic Lab车辆美术师"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "社区项目玩家体验经理"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "社区内容经理"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "社区开发经理"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "客户关系管理运营经理"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "客户关系管理生命周期策略经理"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "欧洲、中东和非洲网站开发经理"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "欧洲、中东和非洲网站制作人经理"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持经理"
+
+msgid "MANAGING DIRECTOR"
+msgstr "管理总监"
+
+msgid "MARKETING"
+msgstr "营销"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "营销和沟通总监"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "营销和忠诚度总监"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "营销和忠诚度小组经理"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "营销活动经理"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "欧洲、中东和非洲媒体经理"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "盈利总监"
+
+msgid "Manage server"
+msgstr "管理服务器"
+
+msgid "Manage track"
+msgstr "管理赛道"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr "地图%1/%2 - 通过排名1至%3%4名来保留之前的积分"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr "地图%1/%2 - 完成竞赛或跑出单圈最好成绩以获取积分"
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "地图“%1”无法上传，请重试。（错误：%2）"
+
+msgid "Map '%1' is not playable."
+msgstr "无法游玩地图\"%1”。"
+
+msgid "Map '%1' not found"
+msgstr "地图“%1”未找到"
+
+msgid "Map browser"
+msgstr "地图浏览器"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "无法删除地图。请重试。（错误：%1）"
+
+msgid "Map editor"
+msgstr "地图编辑器"
+
+msgid "Map not found"
+msgstr "无法找到地图"
+
+msgid "Map position"
+msgstr "地图位置"
+
+msgid "Map review"
+msgstr "地图评测"
+
+msgid "Map rounds"
+msgstr "地图回合"
+
+msgid "Map saved!"
+msgstr "地图已保存！"
+
+msgid "Map uploads"
+msgstr "地图上传"
+
+msgid "Map validate"
+msgstr "验证地图"
+
+msgid "Maps"
+msgstr "地图"
+
+msgid "Maps "
+msgstr "地图 "
+
+msgid "Maps : "
+msgstr "地图： "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "地图无法上传，请重试。（错误：%1）"
+
+msgid "Maps list already full"
+msgstr "地图列表已满"
+
+msgid "Match found!"
+msgstr "已找到比赛！"
+
+msgid "Match is over"
+msgstr "比赛结束"
+
+msgid "Match not started yet."
+msgstr "比赛还没有开始。"
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "比赛结束。你应该已经被转回至大厅。"
+
+msgid "Match over. You will be transferred back."
+msgstr "比赛结束。你将被转回。"
+
+msgid "Match paused"
+msgstr "比赛暂停"
+
+msgid "Match settings"
+msgstr "比赛设置"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "在线匹配已取消：没有可用的服务器"
+
+msgid "Matchmaking disabled."
+msgstr "已禁用匹配。"
+
+msgid "Matchmaking forced."
+msgstr "强制启用匹配。"
+
+msgid "Matchmaking in progress..."
+msgstr "赛事匹配进行中…"
+
+msgid "Matchsettings browser"
+msgstr "比赛设置浏览器"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "比赛设置已经保存为文件：%1"
+
+msgid "Max players"
+msgstr "最多玩家"
+
+msgid "Max players number"
+msgstr "最多玩家数量"
+
+msgid "Max points :"
+msgstr "最多积分："
+
+msgid "Max wait time: %1 %2"
+msgstr "最长等待时间：%1 %2"
+
+msgid "Medals"
+msgstr "奖牌"
+
+msgid "Middle click : reset the module"
+msgstr "鼠标中键：重置模组"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "缺失：%1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Mode script browser"
+msgstr "模式脚本浏览器"
+
+msgid "Mode settings"
+msgstr "模式设置"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "More VIPs"
+msgstr "更多VIP"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move the block to a new location"
+msgstr "移动方块至一个新的位置"
+
+msgid "Move the cursor"
+msgstr "移动光标"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "请通过移动起点方块来设置赛道的起点的位置。"
+
+msgid "Multi teams"
+msgstr "多队竞争"
+
+msgid "My clubs"
+msgstr "我的俱乐部"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "美洲客户关系中心 - 社区团队"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "美洲客户支持团队"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "New author time"
+msgstr "新的作者用时"
+
+msgid "New best time"
+msgstr "新的最快时间"
+
+msgid "New medal"
+msgstr "新的奖牌"
+
+msgid "New rank: %1"
+msgstr "新的排名：%1"
+
+msgid "New records disabled"
+msgstr "已禁用新纪录"
+
+msgid "New track"
+msgstr "新赛道"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "News creation"
+msgstr "创建新闻"
+
+msgid "News image"
+msgstr "新闻配图"
+
+msgid "News must have a headline."
+msgstr "新闻必须有一个头条。"
+
+msgid "News must have either a body or an image."
+msgstr "新闻必须要有一条正文或一张图片。"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "Next map"
+msgstr "下一个地图"
+
+msgid "Next map in %1..."
+msgstr "下一张地图 %1..."
+
+msgid "Next medal"
+msgstr "下一个奖牌"
+
+msgid "Next player"
+msgstr "下一位玩家"
+
+msgid "Next zone"
+msgstr "下一个区域"
+
+msgid "Ninth (Press 9)"
+msgstr "第九位（按下9键）"
+
+msgid "No"
+msgstr "否"
+
+msgid "No K.O."
+msgstr "无淘汰"
+
+msgid "No accounts found"
+msgstr "没有找到账户"
+
+msgid "No clubs"
+msgstr "暂无俱乐部"
+
+msgid "No daily map found to display the rankings"
+msgstr "无可供显示排名的每日地图"
+
+msgid "No maps in this month"
+msgstr "没有本月地图"
+
+msgid "No monthly campaigns found."
+msgstr "未找到月度赛事。"
+
+msgid "No player"
+msgstr "暂无玩家"
+
+msgid "No preview available"
+msgstr "无预览"
+
+msgid "No quarterly campaigns found."
+msgstr "没有找到季度赛事。"
+
+msgid "No records"
+msgstr "暂无纪录"
+
+msgid "No suitable elements were found in this folder"
+msgstr "此文件夹内暂无适用元素"
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "没有足够多的玩家同意重新进行比赛。"
+
+msgid "Not ranked"
+msgstr "暂无排名"
+
+msgid "Now"
+msgstr "现在"
+
+msgid "Number of Laps : "
+msgstr "圈数： "
+
+msgid "Number of laps"
+msgstr "圈数"
+
+msgid "Number of maps per match"
+msgstr "每场比赛的地图数"
+
+msgid "Number of rounds per map"
+msgstr "每张地图的回合数"
+
+msgid "Number of warm up"
+msgstr "热身次数"
+
+msgid "Number of winners"
+msgstr "获胜者数量"
+
+msgid "OFFICE MANAGEMENT"
+msgstr "办公室管理"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "ONLINE ENGINEER"
+msgstr "网络工程师"
+
+msgid "ONLINE ENGINEERS"
+msgstr "网络工程师"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "网络服务运营制作人"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "网络服务团队"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "网络技术协调经理"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "网络技术经理"
+
+msgid "Official rankings"
+msgstr "官方排名"
+
+msgid "Offroad"
+msgstr "越野"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "Opponents from %1"
+msgstr "来自%1的对手"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr "或者通过点击右侧玩家名字加入现有派对。"
+
+msgid "Orange"
+msgstr "橙色"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "PC REQUIREMENTS"
+msgstr "计算机平台测试"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "计算机平台测试主管"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "计算机平台策划项目主管"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "计算机平台测试专员"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "玩家体验"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "社区项目玩家体验助理"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "团队协同玩家体验经理"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "前线项目玩家体验经理"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "玩家支持区域经理"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "玩家支持运营经理"
+
+msgid "PR"
+msgstr "公关"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "预测分析研究员"
+
+msgid "PRESIDENT AND CEO"
+msgstr "总裁及首席执行官"
+
+msgid "PRODUCER"
+msgstr "制作人"
+
+msgid "PRODUCT OWNER"
+msgstr "产品主管"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "产品专员"
+
+msgid "PRODUCTION"
+msgstr "制作"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "制作协调"
+
+msgid "PROGRAM MANAGER"
+msgstr "程序经理"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "欧洲、中东和非洲程序经理"
+
+msgid "PROGRAMMER"
+msgstr "程序员"
+
+msgid "PROJECT ASSISTANT"
+msgstr "项目助理"
+
+msgid "PROJECT MANAGER"
+msgstr "项目经理"
+
+msgid "PROJECT MANAGERS "
+msgstr "项目经理 "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "欧洲、中东和非洲项目网络招募助理"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "剪辑技术项目总监"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "出版总监"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Participation registered!"
+msgstr "已注册参与！"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Past 14 days"
+msgstr "过去14天"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Personal best"
+msgstr "个人最佳"
+
+msgid "Pick the controller"
+msgstr "选择控制器"
+
+msgid "Pick the difficulty"
+msgstr "选择难度"
+
+msgid "Pick the mood"
+msgstr "选择氛围"
+
+msgid "Picked by matchmaking"
+msgstr "被赛事匹配选中"
+
+msgid "Pink"
+msgstr "粉色"
+
+msgid "Place a finish block to end your track."
+msgstr "通过放置终点方块来完成你的赛道。"
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr "请合理放置检查点来避免赛道中出现近路，并给玩家提供更容易的重置机会。"
+
+msgid "Platform"
+msgstr "平台"
+
+msgid "Play"
+msgstr "游玩"
+
+msgid "Play HotSeat"
+msgstr "游玩热座模式"
+
+msgid "Play a map"
+msgstr "游玩地图"
+
+msgid "Play a map locally"
+msgstr "在本地游玩一个地图"
+
+msgid "Play against %1"
+msgstr "挑战%1"
+
+msgid "Play against a replay"
+msgstr "与回放进行对决"
+
+msgid "Play against opponents"
+msgstr "挑战对手"
+
+msgid "Play alone"
+msgstr "独自游玩"
+
+msgid "Play next map"
+msgstr "游玩下一个地图"
+
+msgid "Play offline"
+msgstr "离线游戏"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "在每个赛季中以单人模式和多人模式游玩25张新地图"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "游玩每日回合淘汰赛"
+
+msgid "Player Best Time"
+msgstr "玩家最佳时间"
+
+msgid "Player info"
+msgstr "玩家信息"
+
+msgid "Player profile"
+msgstr "玩家个人资料"
+
+msgid "Players"
+msgstr "玩家"
+
+msgid "Players are tied!"
+msgstr "平局！"
+
+msgid "Players in server"
+msgstr "在服务器内的玩家"
+
+msgid "Players order"
+msgstr "玩家发车顺序"
+
+msgid "Please reconnect the %1"
+msgstr "请重新连接%1"
+
+msgid "Please select your %1"
+msgstr "请选择你所在的%1"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr "在淘汰赛开始之前请留在频道内。当比赛就绪时，游戏将会自动开始。"
+
+msgid "Please wait."
+msgstr "请稍等。"
+
+msgid "Points gap"
+msgstr "积分差距"
+
+msgid "Points gap :"
+msgstr "积分差距："
+
+msgid "Points limit"
+msgstr "积分限制"
+
+msgid "Points limit "
+msgstr "积分限制 "
+
+msgid "Points limit : "
+msgstr "积分限制："
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "积分限制：%1，当前最佳得分：%2"
+
+msgid "Popularity"
+msgstr "人气"
+
+msgid "Prebuilt Landscapes"
+msgstr "预置场景"
+
+msgid "Preferences"
+msgstr "偏好设置"
+
+msgid "Press a key"
+msgstr "按下任意键"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"按住“增加”或“删除”键。然后移动光标来改变地形的区域，松开按键即可结束更改。"
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"按下%1在连接与非连接模式之间切换。在连接模式下，光标总是依附在赛道上。在非连"
+"接模式下你可以自由移动光标。"
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "按下%1在不同创造模式之间切换。"
+
+msgid "Pressforward"
+msgstr "直前"
+
+msgid "Previous author time"
+msgstr "前一作者用时"
+
+msgid "Previous player"
+msgstr "前一位玩家"
+
+msgid "Previous replay saved!"
+msgstr "前一局回放已保存！"
+
+msgid "Previous zone"
+msgstr "前一个区域"
+
+msgid "Privacy setting"
+msgstr "隐私设置"
+
+msgid "Proceed to lobby"
+msgstr "回到大厅"
+
+msgid "Profile"
+msgstr "资料"
+
+msgid "QA"
+msgstr "品质保证"
+
+msgid "QA LEAD"
+msgstr "质量保证主管"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "无障碍支持质量监控团队"
+
+msgid "QC NETWORKING"
+msgstr "网络质量监控"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "网络质量监控专家"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "网络质量监控专员"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "质量监控网络团队主管"
+
+msgid "QUALITY"
+msgstr "品质"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "质量监控经理"
+
+msgid "Qualifier rank: %1"
+msgstr "晋级赛排名：%1"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Quarter-final"
+msgstr "1/4决赛"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit editor"
+msgstr "退出编辑器"
+
+msgid "Quit plugin"
+msgstr "退出插件"
+
+msgid "Quit%1"
+msgstr "退出%1"
+
+msgid "R&D ENGINEER"
+msgstr "研发工程师"
+
+msgid "R&D ENGINEERS"
+msgstr "研发工程师"
+
+msgid "R1 button"
+msgstr "R1键"
+
+msgid "R3 button"
+msgstr "R3键"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "版本管理"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "版本管理和本地化总监"
+
+msgid "RELEASE MANAGER"
+msgstr "版本经理"
+
+msgid "Race"
+msgstr "竞速"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr "地图类型未发现或尚未设置。你将无法验证你的地图。"
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "在每日玩家地图中相互较量"
+
+msgid "Race ranking"
+msgstr "竞速排名"
+
+msgid "Race validation"
+msgstr "竞速验证"
+
+msgid "Random"
+msgstr "随机"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr "随机场景在专家模式中不可用。请关闭随机场景并重试。"
+
+msgid "Random map"
+msgstr "随机地图"
+
+msgid "Ranking"
+msgstr "排名"
+
+msgid "Rankings"
+msgstr "排名"
+
+msgid "Ready"
+msgstr "准备就绪"
+
+msgid "Ready (F6)"
+msgstr "准备就绪（F6）"
+
+msgid "Record leader ghost"
+msgstr "录制领先者镜像"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "录制玩家将会跟随的镜像路线。"
+
+msgid "Record the ghost that player will follow"
+msgstr "记录玩家可跟随的镜像"
+
+msgid "Records"
+msgstr "纪录"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "注册失败（错误代码：%1）"
+
+msgid "Remaining time: %1"
+msgstr "剩余时间：%1"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove from favorite"
+msgstr "从收藏中移除"
+
+msgid "Remove image"
+msgstr "删除图片"
+
+msgid "Remove map"
+msgstr "移除地图"
+
+msgid "Rename folder"
+msgstr "重命名文件夹"
+
+msgid "Replay"
+msgstr "回放"
+
+msgid "Replay editor"
+msgstr "回放编辑器"
+
+msgid "Replay saved!"
+msgstr "回放已保存！"
+
+msgid "Reroll decoration"
+msgstr "重新生成装饰"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Reset the UI customization"
+msgstr "重置自定义界面"
+
+msgid "Restart"
+msgstr "重新开始"
+
+msgid "Restart map"
+msgstr "重新开始地图"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Resuming match"
+msgstr "继续比赛"
+
+msgid "Retrieving map list..."
+msgstr "正在获取地图列表…"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Right click : hide/show the module"
+msgstr "鼠标右键：隐藏/显示模组切换"
+
+msgid "Room"
+msgstr "房间"
+
+msgid "Room creation"
+msgstr "创建房间"
+
+msgid "Room name"
+msgstr "房间名称"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家\n"
+"每回合淘汰%4名玩家"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家\n"
+"每回合淘汰1名玩家"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家\n"
+"本回合无淘汰"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家比赛中\n"
+"每回合淘汰%4名玩家"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家\n"
+"每回合淘汰1名玩家"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"回合%1/%2\n"
+"%3名玩家\n"
+"本回合无淘汰"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"回合%1/%2，%3名玩家\n"
+"每回合淘汰%4名玩家直至剩下%5名玩家"
+
+msgid "Round skipped"
+msgstr "回合已跳过"
+
+msgid "Rounds "
+msgstr "回合"
+
+msgid "Rounds : "
+msgstr "回合："
+
+msgid "Rules"
+msgstr "规则"
+
+msgid "SALES DIRECTOR"
+msgstr "销售总监"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "科学总监 "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "资深社区参与经理"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "资深社区反馈专员"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "资深数据库管理员"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "资深社区体验总监"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "资深前端工程师"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "资深总部制作人"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "资深信息专员"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "资深执行分析师"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "资深社区开发经理"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "资深社区管理经理"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "资深手工测试员"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "资深网络基础设施工程师"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "资深运营营销经理"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "资深公关专员"
+
+msgid "SENIOR PRODUCER"
+msgstr "资深制作人"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "资深产品经理"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "资深程序员"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "资深软件工程师"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "资深美洲客户支持专员"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "资深系统管理员"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "资深网站开发人员"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "资深网站程序员"
+
+msgid "SITE ADMINISTATOR"
+msgstr "站点管理员"
+
+msgid "SOUND DESIGNER"
+msgstr "音频设计师"
+
+msgid "SPECIAL THANKS"
+msgstr "特别鸣谢"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持专员"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "欧洲、中东和非洲资深玩家体验经理"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "前线项目资深玩家体验经理"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "前线项目资深玩家体验经理"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "店面专员"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "工作室运营协调"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "美洲客户支持监制"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "系统管理员"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save and create cup"
+msgstr "保存并创建杯赛"
+
+msgid "Save as new"
+msgstr "另存为新文件"
+
+msgid "Save for later"
+msgstr "保存并稍后使用"
+
+msgid "Save map"
+msgstr "保存地图"
+
+msgid "Save previous replay"
+msgstr "保存上一个回放"
+
+msgid "Save replay"
+msgstr "保存回放"
+
+msgid "Saved Activities"
+msgstr "已保存的活动"
+
+msgid "Saving campaign..."
+msgstr "正在保存赛事…"
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"屏幕 16x1：在体育场领奖台上显示（大屏幕下方）。\n"
+"尺寸：%1 - 格式：DDS（DXT5）"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"屏幕 16x9：在体育场大屏幕上显示。\n"
+"尺寸：%1 - 格式：DDS （DXT5）"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"屏幕 8x1: 在体育场看台上显示。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid "Scroll down"
+msgstr "向下滚动"
+
+msgid "Scroll up"
+msgstr "向上滚动"
+
+msgid "Second (Press 2)"
+msgstr "第二位（按下2键）"
+
+msgid "See tutorial again"
+msgstr "再次查看教程"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select a VIP to play against"
+msgstr "选择要挑战的VIP"
+
+msgid "Select a billboard"
+msgstr "选择一个广告牌"
+
+msgid "Select a campaign"
+msgstr "选择一个赛事"
+
+msgid "Select a color"
+msgstr "选择一个颜色"
+
+msgid "Select a landscape and start building your track."
+msgstr "选择场景并开始创建你的赛道。"
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr "请选择一个场景。选好后，你就可以开始创建你的赛道。"
+
+msgid "Select a mode"
+msgstr "选择一种模式"
+
+msgid "Select a mode before adding maps"
+msgstr "在添加地图前请选择一种模式"
+
+msgid "Select a mode to check map compatibility"
+msgstr "选择一种模式以检查地图兼容性"
+
+msgid "Select a road paint"
+msgstr "选择一个路面喷漆"
+
+msgid "Select a round to start"
+msgstr "选择一个回合开始"
+
+msgid "Select all"
+msgstr "选择所有"
+
+msgid "Select an account"
+msgstr "选择一个账户"
+
+msgid "Select an image"
+msgstr "选择图片"
+
+msgid "Select map"
+msgstr "选择地图"
+
+msgid "Select maps"
+msgstr "选择地图"
+
+msgid "Select maps to remove"
+msgstr "选择想要移除的地图"
+
+msgid "Select mode"
+msgstr "选择模式"
+
+msgid "Select next map"
+msgstr "选择下一个地图"
+
+msgid "Select number of players"
+msgstr "选择玩家数量"
+
+msgid "Select style"
+msgstr "选择风格"
+
+msgid "Select the location of the starting line"
+msgstr "选择起点位置"
+
+msgid "Select where you want to start"
+msgstr "选择你的出发点"
+
+msgid "Select your activity"
+msgstr "选择你的活动"
+
+msgid "Select zone"
+msgstr "选择区域"
+
+msgid "Selected campaign"
+msgstr "已选择的赛事"
+
+msgid "Selected map"
+msgstr "已选的地图"
+
+msgid "Selected maps"
+msgstr "选择地图"
+
+msgid "Semi-final"
+msgstr "半决赛"
+
+msgid "Server account"
+msgstr "服务器账户"
+
+msgid "Server doesn't exist anymore"
+msgstr "服务器已不存在"
+
+msgid "Server name"
+msgstr "服务器名称"
+
+msgid "Server region"
+msgstr "服务器地区"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr "服务器离线或正在维护，请稍后再试。"
+
+msgid "Set next map"
+msgstr "设置下一个地图"
+
+msgid "Set private"
+msgstr "设为私密"
+
+msgid "Set public"
+msgstr "设为公开"
+
+msgid "Set/Unset as favorite"
+msgstr "加入/移除收藏"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Seventh (Press 7)"
+msgstr "第七位（按下7键）"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Silver"
+msgstr "银牌"
+
+msgid "Silver medal"
+msgstr "银牌"
+
+msgid "Single Map"
+msgstr "单人地图"
+
+msgid "Sixth (Press 6)"
+msgstr "第六位（按下6键）"
+
+msgid "Skin browser"
+msgstr "皮肤浏览器"
+
+msgid "Skin editor"
+msgstr "皮肤编辑器"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "皮肤上传失败。（错误：%1）"
+
+msgid "Skin uploads"
+msgstr "皮肤上传"
+
+msgid "Skins"
+msgstr "皮肤"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Solo"
+msgstr "单人"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"某些方块提供多种连接模式。连接器显示为白色方框。请按下“切换”键来选择你想用的"
+"连接模式。"
+
+msgid "Spectate"
+msgstr "观看"
+
+msgid "Spectator"
+msgstr "观众"
+
+msgid "Spectator password"
+msgstr "观看密码"
+
+msgid "SplitScreen"
+msgstr "分屏"
+
+msgid "Splitscreen"
+msgstr "分屏"
+
+msgid "Standard"
+msgstr "标准版"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr "标准版是为期一年的年票，为常规玩家提供了充满创意活动的完美体验！"
+
+msgid "Starter"
+msgstr "新手版"
+
+msgid "Stats"
+msgstr "统计数据"
+
+msgid "Step ranking"
+msgstr "阶段排名"
+
+msgid "Stop auto-finish"
+msgstr "停止自动完成赛道"
+
+msgid "Streaming subscriptions"
+msgstr "直播订阅"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr "订阅《赛道狂飙》%1即可使用服务器评价功能。"
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "订阅《赛道狂飙》%1即可创建俱乐部活动。"
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "订阅《赛道狂飙》%1即可创建俱乐部。"
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "订阅《赛道狂飙》%1即可创建本地服务器。"
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "订阅《赛道狂飙》%1即可创建地图。"
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "订阅《赛道狂飙》%1即可创建自定义皮肤。"
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr "订阅《赛道狂飙》%1即可创建游戏模式。"
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr "订阅《赛道狂飙》%1即可创建物体和模组。"
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "订阅《赛道狂飙》%1即可展示俱乐部页面。"
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr "订阅《赛道狂飙》%1即可编辑高级地图。"
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "订阅《赛道狂飙》%1即可编辑俱乐部地图。"
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr "订阅《赛道狂飙》%1即可查找本地服务器。"
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "需订阅赛道狂飙%1才能加入俱乐部。"
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr "订阅《赛道狂飙》%1即可进入俱乐部大厅。"
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "订阅《赛道狂飙》%1即可加入街机频道。"
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "订阅《赛道狂飙》%1即可使用回放编辑器。"
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr "订阅《赛道狂飙》%1即可启用简单地图编辑器。"
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "订阅《赛道狂飙》%1即可开启皮肤编辑器。"
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr "订阅《赛道狂飙》%1即可游玩本地地图。"
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr "订阅《赛道狂飙》%1即可游玩私密俱乐部活动。"
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "订阅《赛道狂飙》%1即可与回放进行对决。"
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr "订阅《赛道狂飙》%1即可游玩俱乐部赛事。"
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr "订阅《赛道狂飙》%1即可游玩在线竞赛。"
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr "订阅《赛道狂飙》%1即可畅玩先前的月度赛事。"
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr "订阅《赛道狂飙》%1即可游玩以往季度的地图。"
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr "订阅《赛道狂飙》%1即可游玩热座模式。"
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr "订阅《赛道狂飙》%1即可畅玩月度赛事。"
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr "订阅《赛道狂飙》%1即可游玩当前季度赛事。"
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr "订阅《赛道狂飙》%1即可游玩分屏模式。"
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr "订阅《赛道狂飙》%1即可在回放编辑器中保存视频。"
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "订阅《赛道狂飙》%1即可使用上传地图功能。"
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "订阅《赛道狂飙》%1即可使用上传皮肤功能。"
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "订阅《赛道狂飙》%1即可使用自定义皮肤。"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "支持%1$z:：在聊天中输入“%2$z加油”"
+
+msgid "Switch"
+msgstr "切换"
+
+msgid "TEAM LEAD"
+msgstr "团队主管"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "洲客户支持团队主管"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "技术动画师"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "技术总监"
+
+msgid "TECHNICAL MANAGER"
+msgstr "技术经理"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "技术运营主管"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "技术专员"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "技术支持调度员"
+
+msgid "TESTER"
+msgstr "测试员"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"我们由衷的感谢来自团队内部的预览版本测试员，以及来自世界各地的优秀玩家，是你"
+"们让这个游戏变得更好。你们对游戏的热爱与专业是世界一流的。"
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "欧洲、中东和非洲跟踪和分析专员"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"类型：个人竞技  \n"
+"目标：在倒计时结束之前尽全力跑出最快时间。"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"类型：个人竞技  \n"
+"目标：在赛道上跑出最快时间。"
+
+msgid "Take this slot"
+msgstr "使用此位置"
+
+msgid "Team versus Team"
+msgstr "团队竞技"
+
+msgid "Tech"
+msgstr "技巧"
+
+msgid "Terraforming in progress"
+msgstr "正在调整地形"
+
+msgid "Terrain"
+msgstr "地形"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "Test other maps"
+msgstr "测试其他玩家的地图"
+
+msgid "Test the track"
+msgstr "测试赛道"
+
+msgid "Test track"
+msgstr "测试赛道"
+
+msgid "Test your maps"
+msgstr "测试你的地图"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"俱乐部版是为期一年或三年的年票，提供了最为完整的《赛道狂飙》体验，包括自定义"
+"内容、专业级的竞技赛事和独特的游戏内社交选项！"
+
+msgid "The Left Stick"
+msgstr "左摇杆"
+
+msgid "The Map %1 is already used"
+msgstr "地图%1已被使用"
+
+msgid "The Right Stick"
+msgstr "右摇杆"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "优秀地图将有机会被评选为当日最佳地图！"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "正文最多不能超过%1个字符"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "赛事名称不得超过%1个字符"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "俱乐部的描述必须少于%1个字符"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "俱乐部的名字最少需要%1个字符且最多不超过%2个字符"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "俱乐部的缩写最少需要%1个字符且最多不超过%2个字符"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "创建竞赛失败（错误代码：%1）"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr "所有装饰都会被移除，并且你也必须重新验证赛道。"
+
+msgid "The decoration will be removed."
+msgstr "装饰将会被移除。"
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "标题最多不能超过%1个字符"
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "当日排行榜功能现已关闭！"
+
+msgid "The league is coming back in"
+msgstr "联赛回归时间："
+
+msgid "The map '%1' is already in the playlist"
+msgstr "地图\"%1\"已在游戏列表内"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "地图\"%1”与选择的游戏模式不兼容"
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr "无法游玩地图“%1”。请验证地图，并计算阴影。"
+
+msgid "The match will begin shortly ..."
+msgstr "比赛即将开始…"
+
+msgid "The matchsettings is not valid"
+msgstr "比赛设置文件不可用"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "名字最多不能超过%1个字符"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "竞赛的名称最少需要%1个字符且最多不超过%2个字符"
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "名称缩写最多可以容纳%1个字符"
+
+msgid "The next match will begin in %1 "
+msgstr "下一场比赛将在%1后开始 "
+
+msgid "The registration closed at : %1 H"
+msgstr "注册将在%1时关闭"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "无法连接至此房间，请稍后再试。（错误代码：%1）"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "房间正在开始，将在几秒后准备就绪。"
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr "无法自动完成此赛道。请移除一些方块后再进行重试。"
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "这条赛道通向一条死路。试着前往另一个方向"
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr "这个赛道必须拥有一个开放的连接位置才可被自动完成。"
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "你的赛道中包含了%1个颁奖台。你只能放置一个颁奖台。"
+
+msgid "There are no displayed activities in your club."
+msgstr "你的俱乐部目前没有可显示的活动。"
+
+msgid "There are no macroblocks available for this editor."
+msgstr "此编辑器中没有组合方块可使用。"
+
+msgid "There are no saved activities in your club."
+msgstr "你的俱乐部没有已保存的活动。"
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr "在获取此竞赛时出现了错误。（错误代码：%1）"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr "获取排名信息时发生错误，请稍后再试。（错误代码：%1）"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr "获取排名信息时发生错误，请稍后再试。（错误：进程无效）"
+
+msgid "Third (Press 3)"
+msgstr "第三位（按下3键）"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr "这是一个私密活动，仅俱乐部成员可以使用。"
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr "这个方块有一个可自定义的皮肤。使用%1来选择你想使用的图片。"
+
+msgid "This competition is closed"
+msgstr "此竞赛已经关闭"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr "这是一个由玩家开设的专用服务器。现在可能并不在线。"
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"这是一个多圈赛道起点方块。玩家需在通过所有检查点之后再次通过此方块才算完成一"
+"圈。"
+
+msgid "This map is not playable"
+msgstr "此地图无法游玩"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr "此匹配服务器正在游戏中。当前你不能加入此服务器。"
+
+msgid "This round is a draw."
+msgstr "本回合平局。"
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr "这个服务器账户已经被ID为%2的俱乐部房间\"%1\"使用，请选择另外的账户。"
+
+msgid "This server will split for less waiting time"
+msgstr "即将通过分割当前服务器来减少等待时间"
+
+msgid "This track is already validated."
+msgstr "这个赛道已被验证过。"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Time Limit"
+msgstr "时间限制"
+
+msgid "Time Limit :"
+msgstr "时间限制："
+
+msgid "Time limit"
+msgstr "时间限制"
+
+msgid "Time to beat"
+msgstr "目标时间"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr "你可以创建你自己的场景来避免此情况发生。仍然要继续吗？"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr "如需这么做，你需要先从开始到结束完成一次竞速，并通过所有检查点。"
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "你必须先验证此地图才能在编辑器外游玩它。"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Top"
+msgstr "第"
+
+msgid "Top %1"
+msgstr "第%1名"
+
+msgid "Top %1 %2"
+msgstr "%2第%1"
+
+msgid "Track"
+msgstr "赛道"
+
+msgid "Track completed."
+msgstr "赛道已完成。"
+
+msgid "Track of the day"
+msgstr "今日赛道"
+
+msgid "Track style"
+msgstr "赛道风格"
+
+msgid "Training"
+msgstr "训练"
+
+msgid "Trial"
+msgstr "试炼"
+
+msgid "Trophies"
+msgstr "奖杯"
+
+msgid "Try to place checkpoints regularly"
+msgstr "试着经常放置检查点"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "育碧俱乐部执行制作人"
+
+msgid "UI DESIGNER"
+msgstr "用户界面设计师"
+
+msgid "UI DESIGNER "
+msgstr "用户界面设计师 "
+
+msgid "UI PROGRAMMER"
+msgstr "用户界面程序员"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "用户界面/用户体验设计团队主管"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "在线服务测试团队副主管"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "在线测试服务平台主管"
+
+msgid "UOR TEAM"
+msgstr "在线服务测试团队"
+
+msgid "UOR TEAM LEAD"
+msgstr "在线服务测试团队主管"
+
+msgid "UPLAY TEAM"
+msgstr "优派对团队"
+
+msgid "UX DESIGNER"
+msgstr "用户体验设计师"
+
+msgid "UX DESIGNER "
+msgstr "用户体验设计师 "
+
+msgid "UX REQUIREMENTS"
+msgstr "用户体验测试"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "用户体验优化主管"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "用户体验优化师"
+
+msgid "Unapply"
+msgstr "取消应用"
+
+msgid "Unapply skin"
+msgstr "取消应用皮肤"
+
+msgid "Unselect all"
+msgstr "取消全选"
+
+msgid "Unsubscribe"
+msgstr "取消订阅"
+
+msgid "Update member's role"
+msgstr "更新成员职位"
+
+msgid "Updating club..."
+msgstr "正在更新俱乐部…"
+
+msgid "Upload a map"
+msgstr "上传地图"
+
+msgid "Upload a skin"
+msgstr "上传皮肤"
+
+msgid "Uploading..."
+msgstr "正在上传…"
+
+msgid "Use %1 to move the cursor."
+msgstr "使用%1来移动光标。"
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr "使用%1来打开方块选择界面，并选择目录。然后使用%2来选择你想放置的方块。"
+
+msgid "Use a custom points repartition :"
+msgstr "使用自定义积分分配："
+
+msgid "Use alternate rules :"
+msgstr "使用轮换规则："
+
+msgid "Use tie-break"
+msgstr "使用决胜局"
+
+msgid "Use your dedicated server"
+msgstr "使用你的专用服务器"
+
+msgid "VEHICLE ARTIST"
+msgstr "车辆美术师"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "欧洲、中东和非洲受众和客户管理副总裁"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "玩家体验副总裁"
+
+msgid "VIPs from club '%1'"
+msgstr "来至俱乐部‘%1’的VIP"
+
+msgid "VP EDITORIAL"
+msgstr "剪辑副总裁"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "剪辑技术副总裁"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr "财务规划，工作室运营和质量监控副总裁"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "网络服务副总裁"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "产品经理副总裁"
+
+msgid "Validate"
+msgstr "验证"
+
+msgid "Validate & exit"
+msgstr "验证并退出"
+
+msgid "Validate track"
+msgstr "校验赛道"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "你的赛道需要在完成验证之后才能在编辑器之外使用。"
+
+msgid "Validation"
+msgstr "验证"
+
+msgid "Validations"
+msgstr "验证"
+
+msgid "Version: %1"
+msgstr "版本：%1"
+
+msgid "Versus"
+msgstr "对抗"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"竖版图片：在我的俱乐部列表中显示。\n"
+"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
+
+msgid "View replay"
+msgstr "查看回放"
+
+msgid "Vote for a map"
+msgstr "投票选择地图"
+
+msgid "Vote for mode settings"
+msgstr "投票选择模式设置"
+
+msgid "Vote to balance teams"
+msgstr "投票平衡队伍"
+
+msgid "Vote to jump to map"
+msgstr "投票跳转至地图"
+
+msgid "Vote to play next map"
+msgstr "投票游玩下一个地图"
+
+msgid "Vote to restart"
+msgstr "投票重新开始"
+
+msgid "Vote to set next map"
+msgstr "投票来设置下一个地图"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"投票选择地图只会增加此地图被选中的概率。任何拥有至少一张投票的地图都有几率被"
+"选中。"
+
+msgid "Vs race record"
+msgstr "对抗竞速记录"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "网站内容专员"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "网站内容专员助理"
+
+msgid "WEB DEVELOPER"
+msgstr "网站开发人员"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "欧洲、中东和非洲网站开发助理"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "欧洲、中东和非洲网站开发人员"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "欧洲、中东和非洲网站制作人助理"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "欧洲、中东和非洲网站制作人"
+
+msgid "WEB PROGRAMMER"
+msgstr "网站程序员"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "欧洲、中东和非洲网站项目经理"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "网站服务指导"
+
+msgid "WEB SERVICES TEAM"
+msgstr "网页服务团队"
+
+msgid "WEB UI DESIGNER"
+msgstr "网站用户界面设计师"
+
+msgid "Waiting for other players."
+msgstr "等待其他玩家。"
+
+msgid "Waiting for players"
+msgstr "等待玩家"
+
+msgid "Waiting for your allies to be ready."
+msgstr "等待你的队友准备就绪。"
+
+msgid "Waiting for your match"
+msgstr "等待你的比赛"
+
+msgid "Waiting for your match to start"
+msgstr "等待你的比赛开始"
+
+msgid "Warm up"
+msgstr "热身"
+
+msgid "Warmup"
+msgstr "热身"
+
+msgid "Warmup: %1/%2"
+msgstr "热身：%1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"观看\n"
+"热身"
+
+msgid "We are sending you back to the lobby."
+msgstr "我们正将你送回至大厅。"
+
+msgid "We are sending you back to the match you left."
+msgstr "我们正将你送回之前离开的比赛。"
+
+msgid "We are starting a new match."
+msgstr "我们即将开始一场新的比赛。"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Welcome to Trackmania"
+msgstr "欢迎游玩《赛道狂飙》"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"欢迎来到Nadeo的每日杯赛！\n"
+" \n"
+"在今日地图中进行10分钟赛事后，你将晋级至淘汰赛，获取更多奖杯。\n"
+"你可以在屏幕右侧查看你在所有服务器上全球排名。"
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"欢迎来到Nadeo的每日杯赛！\n"
+" \n"
+"在今日地图中进行10分钟赛事后，你将晋级至淘汰赛，获取更多奖杯。\n"
+"你可以在屏幕右侧查看你在所有服务器上全球排名。祝你好运！"
+
+msgid "Welcome to the club!"
+msgstr "欢迎来到俱乐部！"
+
+msgid "What do you want to do?"
+msgstr "你想要做什么？"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"当你剪切一个方块时，它将暂时存放在你的方块历史记录中。你可以从历史记录中再粘"
+"贴其至你的赛道，或者直接移除。"
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"当你移动光标到你放置的方块上，你可以复制它或者尝试自动连接至一个兼容的方块。"
+
+msgid "Which map would you like to submit?"
+msgstr "你想提交哪张地图？"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "在等候时，试着成为大厅王者吧！"
+
+msgid "White"
+msgstr "白色"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr "用新手版来免费探索《赛道狂飙》的核心功能。"
+
+msgid "Xbox One Wireless Controller"
+msgstr "Xbox One 无线控制器"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You are being transferred as a substitute."
+msgstr "你正在作为替补来被交换。"
+
+msgid "You are being transferred. Please wait."
+msgstr "你正在被交换。请稍等。"
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "你已经从优派对断开连接。（错误代码：%1）"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "你已经从《赛道狂飙》服务器断开连接。（错误代码：%1）"
+
+msgid "You are not connected to Uplay."
+msgstr "你尚未连接至优派对。"
+
+msgid "You are not subscribed to any club"
+msgstr "你没有订阅任何俱乐部"
+
+msgid "You are registered"
+msgstr "你已成功注册"
+
+msgid "You are suspended"
+msgstr "你被禁赛了"
+
+msgid "You can cancel 1 match."
+msgstr "你可以取消1场比赛。"
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr "你可以选择$<$00f$t继续$>参与杯赛并加入一局淘汰赛。"
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr "你可以通过点击下方的创建按钮来创建自己的派对。"
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "你可以在赛道建造器中的装饰目录里找到颁奖台方块。"
+
+msgid "You can place only one starting point!"
+msgstr "只能放置一个起点！"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr "你可以随时测试你的赛道。按下“测试”按钮来选择出发点。"
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "你无法在下一个检查点之前使用加速"
+
+msgid "You can't remove the starting line of the track."
+msgstr "你不能移除赛道的起点。"
+
+msgid "You don't have any server accounts registered."
+msgstr "你没有注册过任何服务器账户。"
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr "你已几乎用尽了最多能使用的放置方块于赛道的数量。"
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "你已经从优派对服务器断开。（错误代码：%1）"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "你已经从《赛道狂飙》服务器断开。（错误代码：%1）"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"你已经被淘汰。\n"
+"[奖励将在未来的更新后可用]\n"
+" \n"
+" \n"
+" \n"
+" \n"
+"将在30秒后回到每日频道"
+
+msgid "You have to place exactly one podium!"
+msgstr "你必须且只能放置一个颁奖台！"
+
+msgid "You must enter a name for your club"
+msgstr "必须为你的俱乐部输入一个名称"
+
+msgid "You must enter a tag for your club"
+msgstr "必须为你的俱乐部输入一个缩写"
+
+msgid "You must place at least one checkpoint!"
+msgstr "至少放置一个检查点！"
+
+msgid "You must place at least one finish line!"
+msgstr "至少放置一条终点线！"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "你必须放置至少一个可重生的检查点！"
+
+msgid "You must select at least one map to play"
+msgstr "你至少必须选择一个地图进行游戏"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "你需要至少添加一张地图至游戏列表"
+
+msgid "You need to be a club member to play or download a map."
+msgstr "你需要成为俱乐部会员才能使用或下载地图。"
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr "你需要成为一名俱乐部的成员才可以将此皮肤设为最爱皮肤。"
+
+msgid "You need to pick a game mode"
+msgstr "你需要选择一个游戏模式"
+
+msgid "You need to place a starting point!"
+msgstr "需要放置起点！"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr "已达到方块最大数量限制。你不能添加更多方块。"
+
+msgid "You will be able to change it later"
+msgstr "你可以稍后再修改它"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "如果取消下一场比赛，你将被禁赛。"
+
+msgid "You will have to validate the track again."
+msgstr "你必须重新验证此赛道。"
+
+msgid "You will soon be redirected to a match server."
+msgstr "你即将被分配至一个比赛服务器。"
+
+msgid "Your map in less than %1 minutes"
+msgstr "您的地图还有不到%1分钟"
+
+msgid "Your search did not return any results"
+msgstr "无搜索结果"
+
+msgid "Your subscription ends on %1"
+msgstr "你的订阅将于%1结束"
+
+msgid "by %1"
+msgstr "由%1制作"
+
+msgid "club access"
+msgstr "俱乐部版"
+
+msgid "controller"
+msgstr "控制器"
+
+msgid "max %1 characters"
+msgstr "最多%1个字符"
+
+msgid "per server"
+msgstr "按服务器"
+
+msgid "standard access"
+msgstr "标准版"
+
+msgid "starter access"
+msgstr "新手版"
+
+msgid "yes"
+msgstr "是"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|你可以取消%1场比赛。"
+
+msgid "|Action|Quick save"
+msgstr "|Action|快速保存"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|警告"
+
+msgid "|Author|By"
+msgstr "|Author|来自"
+
+msgid "|Best score|New"
+msgstr "|Best score|最新"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|检查点"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|终点"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|障碍"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|坡面"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockCategory|直线"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|渐变"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|涡轮增压"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|转向"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|检查点"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|终点"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "|BlockInfo|多圈赛道起点"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|起点"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|凸路"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|装饰"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|尘土"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|冰面"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|平台"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|简易"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockStyle|坡面"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|倾斜"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|喜爱"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|最近"
+
+msgid "|Camera|Follow"
+msgstr "|Camera|跟随"
+
+msgid "|Camera|Free"
+msgstr "|Camera|自由"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|回放"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|官方"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|四月 %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|八月 %1"
+
+msgid "|Campaign|Club"
+msgstr "|Campaign|俱乐部"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|十二月 %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|二月 %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|一月 %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|七月 %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|六月 %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|三月 %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|五月 %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|月度"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|十一月 %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|十月 %1"
+
+msgid "|Campaign|Official"
+msgstr "|Campaign|官方"
+
+msgid "|Campaign|Private"
+msgstr "|Campaign|私密"
+
+msgid "|Campaign|Public"
+msgstr "|Campaign|公共"
+
+msgid "|Campaign|Quarterly"
+msgstr "|Campaign|季赛"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|九月 %1"
+
+msgid "|Campaign|Training"
+msgstr "|Campaign|训练"
+
+msgid "|Campaign|Unknown"
+msgstr "|Campaign|未知"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|返回"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|地图"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|官方排名"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|皮肤"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|欢迎"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|欢迎来到俱乐部！邀请你的朋友们来加入本俱乐部并一起分享与游玩"
+"吧！"
+
+msgid "|ClubMember|Role"
+msgstr "|ClubMember|职位"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|关闭"
+
+msgid "|ClubPrivacy|Private"
+msgstr "|ClubPrivacy|私密"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "|ClubPrivacy|私密 - 接受申请"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|公开"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "|ClubPrivacy|公开 - 向所有人开放"
+
+msgid "|Club|%1 Member"
+msgstr "|Club|%1 会员"
+
+msgid "|Club|%1 Members"
+msgstr "|Club|%1 会员"
+
+msgid "|Club|Closed"
+msgstr "|Club|已关闭"
+
+msgid "|Club|Description"
+msgstr "|Club|描述"
+
+msgid "|Club|Join"
+msgstr "|Club|加入"
+
+msgid "|Club|Leave"
+msgstr "|Club|离开"
+
+msgid "|Club|Member"
+msgstr "|Club|成员"
+
+msgid "|Club|Members"
+msgstr "|Club|会员"
+
+msgid "|Club|Privacy"
+msgstr "|Club|隐私"
+
+msgid "|Club|Requests"
+msgstr "|Club|申请"
+
+msgid "|Club|VIP"
+msgstr "|Club|VIP"
+
+msgid "|Club|request"
+msgstr "|Club|请求"
+
+msgid "|Club|requests"
+msgstr "|Club|请求"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|即将推出"
+
+msgid "|Competition|Private"
+msgstr "|Competition|私密"
+
+msgid "|Competition|Public"
+msgstr "|Competition|公开"
+
+msgid "|DataType|Campaign"
+msgstr "|DataType|赛事"
+
+msgid "|DataType|Club"
+msgstr "|DataType|俱乐部"
+
+msgid "|DataType|Folder"
+msgstr "|DataType|文件夹"
+
+msgid "|DataType|Image"
+msgstr "|DataType|图片"
+
+msgid "|DataType|Map"
+msgstr "|DataType|地图"
+
+msgid "|DataType|MatchSettings"
+msgstr "|DataType|比赛设置"
+
+msgid "|DataType|None"
+msgstr "|DataType|无"
+
+msgid "|DataType|Replay"
+msgstr "|DataType|录像回放"
+
+msgid "|DataType|Room"
+msgstr "|DataType|房间"
+
+msgid "|DataType|Script"
+msgstr "|DataType|脚本"
+
+msgid "|DataType|Skin"
+msgstr "|DataType|皮肤"
+
+msgid "|DidNotFinish|DNF"
+msgstr "|DidNotFinish|未完成"
+
+msgid "|Friday|F"
+msgstr "|Friday|周五"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|装饰"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|编辑装饰"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|场景"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|编辑场景"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|赛道"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|编辑赛道"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|随机生成"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|明信片"
+
+msgid "|GameMode|Cup"
+msgstr "|GameMode|奖杯赛"
+
+msgid "|GameMode|Knockout"
+msgstr "|GameMode|淘汰赛"
+
+msgid "|GameMode|Laps"
+msgstr "|GameMode|绕圈赛"
+
+msgid "|GameMode|Rounds"
+msgstr "|GameMode|回合赛"
+
+msgid "|GameMode|Teams"
+msgstr "|GameMode|团队赛"
+
+msgid "|GameMode|Time Attack"
+msgstr "|GameMode|计时赛"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|装饰"
+
+msgid "|Image|Background"
+msgstr "|Image|背景图片"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|赞助商印花 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|屏幕截图 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|屏幕 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|屏幕截图 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|垂直图片"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive - Change choice|切换"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|选择场景"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|重做"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|撤销"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|升高"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|离开编辑器"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|降低"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|开始制作赛道"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|测试"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|测试赛道"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|移除"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|添加"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|浏览"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|打造你自己的赛道"
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|取消"
+
+msgid "|Infinitive|Confirm"
+msgstr "|Infinitive|确认"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|连接"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|继续"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|复制"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|剪切"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|取消连接"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|编辑装饰"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|编辑赛道"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|生成"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|生成一个赛道"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|生成另一个赛道"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|生成装饰"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|刷新纪录"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|刷新验证时间"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|移动"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|放置"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|游玩"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|随机"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|录制一个引领镜像"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|记录引领路线"
+
+msgid "|Infinitive|Remove"
+msgstr "|Blocks|删除"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|旋转"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|保存"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|保存并验证"
+
+msgid "|Infinitive|Save as new"
+msgstr "|Infinitive|作为新文件保存"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|选择"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|验证"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|验证领路路线并继续到大厅？"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|验证赛道"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|缩放"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|赛道尚未验证"
+
+msgid "|Input|No binding"
+msgstr "|Input|未绑定"
+
+msgid "|Keyboard|Enter"
+msgstr "|Keyboard|回车键"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|沙漠"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|空白"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|山坡"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|山峰"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|石柱"
+
+msgid "|League|Step %1"
+msgstr "|League|第%1阶段"
+
+msgid "|League|map %1/%2"
+msgstr "|League|地图%1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|通过点击“接受”，你授权与第三方分享你的数据，以在游戏世界中显示个性"
+"化广告。你可以根据你的意愿修改偏好设置。"
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"抵制不良游戏，拒绝盗版游戏。\n"
+"注意自我保护，谨防受骗上当。\n"
+"适度游戏益脑，沉迷游戏伤身。\n"
+"合理安排时间，享受健康生活。\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"有极少数的人暴露在某种发光图像或闪光时可能会引发癫痫发作，\n"
+"因此当接触计算机屏幕的某种图像或背景，或进行电玩游戏时，可能就会导致这些人癫"
+"痫发作。\n"
+"在某种情况下，甚至连没有癫痫病史者也可能出现未被诊断出来的癫痫症状。\n"
+"如果你自己或你的亲友有癫痫病史，请在进行游戏之前先咨询医生。\n"
+"如果你在进行电玩或计算机游戏时出现下列症状 – 头昏眼花、视幻觉、眼部或脸部抽"
+"搐、\n"
+"失去意识、失去方向感、手脚痉挛或者精神混淆 – 请立即停止该游戏并咨询医生之后再"
+"继续游戏。"
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "健康游戏忠告"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|我接受与第三方分享我的数据，以在游戏世界中显示个性化广告，这取决于"
+"我所在的国家和我的兴趣。"
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|如果停用此选项，你仍然会在游戏中看到广告，但它们也不会与你感兴趣的"
+"领域匹配。"
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|隐私政策"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|隐私偏好"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|正在载入"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr "|Map style description|相对较难的赛道，有很多需要低速通过的障碍。"
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|通常这些短小的赛道是基于一个需要运气才能通过的障碍来设"
+"计的。"
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr "|Map style description|在游玩这些地图时不需要松开油门。一路狂飙吧！"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"|Map style description|这些赛道是基于作者独特的创意或概念设计的，这使它们具有"
+"很高的辨识度。"
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr "|Map style description|那些赛道通常是在赛事末尾额外添加的趣味地图。"
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr "|Map style description|这些赛道的场景是自然环境。别迷路了！"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr "|Map style description|这些地图有许多陷阱和跳台。注意下面！"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr "|Map style description|这些赛道有很多弯道，调头弯和弯道减速区。"
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr "|Map style description|这些赛道中有很多大的跳台，回环和飞檐走壁。"
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|这些赛道只需要以最快速度完成即可。简简单单，狂飙向前！"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr "|Map style description|这些赛道中通常会有很多充满障碍物的长直道。"
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"|Map style description|在这些地图中你不需要顾虑太多，只要踩下油门就好。"
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "|MapEditorDevice|手柄"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "|MapEditorDevice|鼠标和键盘"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "|MapEditorDifficulty|高级"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "|MapEditorDifficulty|简易"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|白天"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|夜晚"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|日出"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|日落"
+
+msgid "|Map|Browse"
+msgstr "|Map|浏览"
+
+msgid "|Map|Delete"
+msgstr "|Map|删除"
+
+msgid "|Map|Edit"
+msgstr "|Map|编辑"
+
+msgid "|Map|Move"
+msgstr "|Map|移动"
+
+msgid "|Map|New"
+msgstr "|Map|新建"
+
+msgid "|Match|Draw"
+msgstr "|Match|平局"
+
+msgid "|Medal|Finished"
+msgstr "|Medal|已完赛"
+
+msgid "|Medal|None"
+msgstr "|Medal|未完赛"
+
+msgid "|Menu|Local"
+msgstr "|Menu|本地"
+
+msgid "|Monday|M"
+msgstr "|Monday|周一"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|四月 %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|八月 %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|十二月 %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|二月 %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|一月 %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|七月 %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|六月 %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|三月 %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|五月 %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|十一月 %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|十月 %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|九月 %1"
+
+msgid "|Month|April"
+msgstr "|Month|四月"
+
+msgid "|Month|August"
+msgstr "|Month|八月"
+
+msgid "|Month|December"
+msgstr "|Month|十二月"
+
+msgid "|Month|February"
+msgstr "|Month|二月"
+
+msgid "|Month|January"
+msgstr "|Month|一月"
+
+msgid "|Month|July"
+msgstr "|Month|七月"
+
+msgid "|Month|June"
+msgstr "|Month|六月"
+
+msgid "|Month|March"
+msgstr "|Month|三月"
+
+msgid "|Month|May"
+msgstr "|Month|五月"
+
+msgid "|Month|November"
+msgstr "|Month|十一月"
+
+msgid "|Month|October"
+msgstr "|Month|十月"
+
+msgid "|Month|September"
+msgstr "|Month|九月"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|相机"
+
+msgid "|Navigation|Back"
+msgstr "|Navigation|返回"
+
+msgid "|News|Body"
+msgstr "|News|正文"
+
+msgid "|News|Headline"
+msgstr "|News|头条"
+
+msgid "|News|Title"
+msgstr "|News|标题"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|方向键"
+
+msgid "|PC|the left stick"
+msgstr "|PC|左摇杆"
+
+msgid "|PC|the right stick"
+msgstr "|PC|右摇杆"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|圆圈键"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|交叉键"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|方向键"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|左操作杆"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|右操作杆"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|个人最佳"
+
+msgid "|Points|pts"
+msgstr "|Points|分"
+
+msgid "|Point|pt"
+msgstr "|Point|分"
+
+msgid "|Press xx to start|Press"
+msgstr "|Press xx to start|按下"
+
+msgid "|Press xx to start|to start"
+msgstr "|Press xx to start|开始游戏"
+
+msgid "|Race|Lap"
+msgstr "|Time|圈速"
+
+msgid "|Race|Laps"
+msgstr "|Race|圈数"
+
+msgid "|Race|Round"
+msgstr "|Race|回合"
+
+msgid "|RankingZone|Continent"
+msgstr "|RankingZone|地区"
+
+msgid "|RankingZone|Country"
+msgstr "|RankingZone|国家"
+
+msgid "|RankingZone|District"
+msgstr "|RankingZone|区域"
+
+msgid "|RankingZone|Region"
+msgstr "|RankingZone|地区"
+
+msgid "|RankingZone|World"
+msgstr "|RankingZone|世界"
+
+msgid "|RankingZone|Zone"
+msgstr "|RankingZone|区域"
+
+msgid "|Rank|from %1"
+msgstr "|Rank|位于%1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|重新进行装饰"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|编辑"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|录制"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|观看"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|默认设置"
+
+msgid "|Role|Admin"
+msgstr "|Role|管理员"
+
+msgid "|Role|Applicant"
+msgstr "|Role|申请人"
+
+msgid "|Role|Content creator"
+msgstr "|Role|内容创作者"
+
+msgid "|Role|Creator"
+msgstr "|Role|创建者"
+
+msgid "|Role|Member"
+msgstr "|Role|成员"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|周六"
+
+msgid "|Score|Point"
+msgstr "|Score|分"
+
+msgid "|Score|Points"
+msgstr "|Score|分"
+
+msgid "|Season|Autumn"
+msgstr "|Season|秋季赛"
+
+msgid "|Season|Spring"
+msgstr "|Season|春季赛"
+
+msgid "|Season|Summer"
+msgstr "|Season|夏季赛"
+
+msgid "|Season|Winter"
+msgstr "|Season|冬季赛"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|加拿大中部"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|中国西北"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|欧洲西部"
+
+msgid "|Server|Live"
+msgstr "|Server|在线"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|快速"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|阴影质量"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|优良"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|起跳器"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|引擎关闭"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|强制加速"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|车辆易损"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|失去抓地力"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|无法转向"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|向%1喷射"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|重置"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|慢动作"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|超级起跳器"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|超级向%1喷射"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|超级涡轮增压"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|涡轮增压"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|终极涡轮增压"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|下"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|上"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|所有人"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|单人"
+
+msgid "|Status|Finalist"
+msgstr "|Status|决赛选手"
+
+msgid "|Status|K.O."
+msgstr "|Status|淘汰"
+
+msgid "|Status|K.O. #%1"
+msgstr "|Status|淘汰榜第%1名"
+
+msgid "|Status|Racing"
+msgstr "|Status|竞赛中"
+
+msgid "|Status|Winner"
+msgstr "|Status|获胜者"
+
+msgid "|Streamer|Channel"
+msgstr "|Streamer|频道"
+
+msgid "|Streaming|Platform"
+msgstr "|Streaming|平台"
+
+msgid "|Subscription|Ends on"
+msgstr "|Streaming|结束于"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|周日"
+
+msgid "|Tabs|Clubs"
+msgstr "| Tabs | 俱乐部"
+
+msgid "|Tabs|Create"
+msgstr "|Tabs|创造"
+
+msgid "|Tabs|Live"
+msgstr "|Tabs|在线"
+
+msgid "|Tabs|Local"
+msgstr "|Tabs|本地"
+
+msgid "|Tabs|Solo"
+msgstr "|Tabs|单人"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|周四"
+
+msgid "|Time|Best"
+msgstr "|Time|个人最佳"
+
+msgid "|Time|Previous"
+msgstr "|Time|先前圈速"
+
+msgid "|Track|Block"
+msgstr "|Track|方块"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|周二"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|否"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|是"
+
+msgid "|Verb|Stay"
+msgstr "|Verb|留下"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|点击选择此位置"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|注意"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|周三"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|新建赛道"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|编辑赛道"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|方向键"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|左摇杆"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|右摇杆"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|欧洲"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|中东地区"
+
+msgid "|Zone|North America"
+msgstr "|Zone|北美洲"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|大洋洲"
+
+msgid "|Zone|South America"
+msgstr "|Zone|南美洲"
+
+msgid "|Zone|World"
+msgstr "|Zone|世界"
+
+msgid "|plural 4 letters max|mins"
+msgstr "|plural 4 letters max|分钟"
+
+msgid "|singular 3 letters max|min"
+msgstr "|singular 3 letters max|分钟"

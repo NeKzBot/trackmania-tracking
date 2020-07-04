@@ -1,0 +1,5242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-06-30 22:53+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: turc, Turquie\n"
+"Language: tr-TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "$%1Author"
+msgstr "$%1Yapımcı"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$> Lobinin Kralı!"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$> şimdi %2%3!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$> oyuna katıldı"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$> oyundan ayrıldı"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$> %2 sırada!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$> %2. adımı kazandı"
+
+msgid "$<%1$> wins the map!"
+msgstr "Haritayı $<%1$> kazandı!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$> karşılaşmayı kazandı!"
+
+msgid "$<%1$> wins the round!"
+msgstr "Round'u $<%1$> kazandı!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$> karşılaşmayı kazandı!"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1 oyuncu elenecek"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f001 oyuncu elenecek"
+
+msgid "$f90No elimination this round"
+msgstr "$f90Bu turda eleme yok"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$z$<$t$6F9Eleme$> modunda amaç, geriye kalan son oyuncu olmaktır. \n"
+"\n"
+"Round modunda bir yarış dizisi oynanır. $<$t$6F9Her yarışın sonunda, sonda "
+"kalan oyuncular elenir$>!\n"
+"\n"
+"Tüm rakiplerini eleyen oyuncu, karşılaşmayı kazanır."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$z$<$t$6F9Tur$> modunda amaç, $<$t$6F9checkpoint$>leri geçerek olabildiğince "
+"ileriye gitmektir.\n"
+"\n"
+"Tur modunda birden çok tura sahip (döngüsel) haritalarda yarışılır ve her "
+"harita bir kerede oynanır.\n"
+"\n"
+"Süre tamamlandığında, daha çok $<$t$6Fcheckpoint$>'ten geçen oyuncu yarışı $<"
+"$t$6F9kazanır$>. Durum berabere olursa, aynı sayıda checkpoint'ten geçen "
+"oyunculardan son checkpoint'i önce geçmiş olan oyuncu kazanır."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$z$<$t$6F9Round$z$> modunda amaç, maksimum $<$t$6F9puanı$z$> toplamaktır.\n"
+"\n"
+"Round modu, $<$t$6F9çeşitli haritalarda bir dizi yarış$z$>tan oluşur.\n"
+"Bir yarışı iyi bir $<$t$6F9sıra$z$>da tamamladığınızda, toplam puanınıza "
+"eklenecek $<$t$6F9puanlar$z$> kazanırsınız.\n"
+"\n"
+"Yarışın $<$t$6F9galibi$z$>, $<$t$6F9puan limiti$z$>ne ilk ulaşan oyuncudur "
+"(örneğin 30)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$z$<$t$6F9Takım$> modunda birbiriyle yarışan iki takım vardır: $<$t"
+"$f00Kırmızı$> veya $<$t$10cMavi$>.\n"
+"\n"
+"Takım modu $<$t$6F9bir dizi yarış$>tan oluşur.\n"
+"Takım olarak amacınız olabildiğince fazla $<$t$6F9puan$> kazanmaktır.\n"
+"\n"
+"Bir yarışı iyi bir $<$t$6F9sıra$>da bitirdiğinizde, takımınıza $<$t$6F9puan"
+"$> katkınız olur.\n"
+"$<$t$6F9Kazanan takım$>, toplam puanı $<$t$6F9puan limiti$>ne (örneğin 5) "
+"ilk ulaşan takımdır."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$z$<$t$6F9Zamana Karşı$> modunda amaç, $<$t$6F9en iyi zamanı$> elde "
+"etmektir.\n"
+"\n"
+"İstediğiniz kadar deneme şansınız vardır, istediğiniz zaman respawn tuşuna "
+"basarak $<$t$6F9yeniden başlayabilirsiniz$>.\n"
+"\n"
+"Süre dolduğunda $<$t$6F9kazanan oyuncu$>, $<$t$6F9en iyi$> zamanı elde eden "
+"oyuncudur."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$zKupa modu, $<$t$6F9çeşitli haritalarda bir dizi yarıştan oluşur$>.\n"
+"\n"
+"Bir yarışı iyi bir $<$t$6F9sıra$>da tamamladığınızda, toplam puanınıza "
+"eklenecek $<$t$6F9puanlar$> kazanırsınız.\n"
+"Sunucular, her yeni haritaya geçildiğinde önce birkaç ısınma turu atılmasını "
+"önerebilir.\n"
+"\n"
+"Kazanmak için önce $<$t$6F9puan limiti$>ne ulaşıp $<$t$6F9finalist$> olmanız "
+"gerekir. Finalist olduktan sonra kupa kazanmak için yarışı $<$t$6F9birinci "
+"sırada$> bitirmeniz gerekir. 3 oyuncu finalist olmayı ve önce bitirmeyi "
+"başardığında kupa modu sona erer."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1 Stadyum haritası değil"
+
+msgid "%1 is not playable"
+msgstr "%1 oynanabilir durumda değil"
+
+msgid "%1 map"
+msgstr "%1 harita"
+
+msgid "%1 maps"
+msgstr "%1 harita"
+
+msgid "%1 players"
+msgstr "%1 oyuncu"
+
+msgid "%1 replays selected"
+msgstr "%1 replay seçili"
+
+msgid "%1 until %2 Players"
+msgstr "%2 oyuncuya %1 kaldı"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$> maç başlangıcını iptal etti."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$> bir karşılaşmaya katıldı."
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$> maça yedek olarak katıldı."
+
+msgid "%1's server"
+msgstr "%1 oyuncusunun sunucusu"
+
+msgid "%1Best CP %2"
+msgstr "%1En iyi CP %2"
+
+msgid "%1Best race"
+msgstr "%1En iyi yarış"
+
+msgid "%1Personal best"
+msgstr "%1Kişisel en iyi"
+
+msgid "1 player"
+msgstr "1 oyuncu"
+
+msgid "16th final"
+msgstr "1/16 final"
+
+msgid "8th final"
+msgstr "1/8 final"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "ERİŞİLEBİLİRLİK UZMANLARI"
+
+msgid "ACCOUNT MANAGER"
+msgstr "HESAP YÖNETİCİSİ"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "YAŞ SINIFLANDIRMA KOORDİNATÖRÜ"
+
+msgid "ANALYST"
+msgstr "ANALİST"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "ANALİSTLER, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "ART DIRECTOR"
+msgstr "SANAT DİREKTÖRÜ"
+
+msgid "ARTISTS"
+msgstr "SANATÇILAR"
+
+msgid "ASSISTANT MANAGER"
+msgstr "MÜDÜR YARDIMCISI"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "ORTAK DİREKTÖR"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "ORTAK DİREKTÖR, TOPLULUK GELİŞTİRME"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "ORTAK DİREKTÖR, CRM"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "ORTAK DİREKTÖR, İLETİŞİM, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "ORTAK DİREKTÖR, OPERASYONEL STRATEJİ"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "ORTAK CANLI KOORDİNATÖR"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "ORTAK PC GEREKSİNİMLERİ LİDERİ"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "ORTAK YAPIMCI"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "ORTAK TEKNİK DİREKTÖR"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "ORTAK UX TASARIMCISI "
+
+msgid "Accept"
+msgstr "Kabul et"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Activities"
+msgstr "AKTİVİTELER"
+
+msgid "Activities must have a name."
+msgstr "Etkinliklerin bir adı olmalı."
+
+msgid "Activity"
+msgstr "Aktivite"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Add to favorite"
+msgstr "SIK KULLANILANLARA EKLE"
+
+msgid "Adding map to queue..."
+msgstr "Harita sıraya ekleniyor..."
+
+msgid "Administration"
+msgstr "YÖNETİM"
+
+msgid "Advanced options"
+msgstr "GELİŞMİŞ SEÇENEKLER"
+
+msgid "Against replay"
+msgstr "REPLAY'E KARŞI"
+
+msgid "All clubs"
+msgstr "Tüm kulüpler"
+
+msgid "All fields must be completed"
+msgstr "Tüm alanlar doldurulmalıdır"
+
+msgid "Allies"
+msgstr "Müttefikler"
+
+msgid "Ally"
+msgstr "Müttefik"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr "Katılırken bir hata oluştu, lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Bir sonraki maç getirilirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"Hesaplarınıza ulaşırken bir hata oluştu, lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "Bir hata oluştu, lütfen tekrar deneyin. (Hata: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "Bu arazi üzerinde yapılan tüm değişiklikler silinecek."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "Bu pist üzerinde yapılan kaydedilmeyen değişiklikler silinecek."
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Apply skin"
+msgstr "Dış görünüm uygula"
+
+msgid "Arcade"
+msgstr "Arcade"
+
+msgid "Are you really sure you want to %1?"
+msgstr "Emin misiniz: %1?"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "KARŞILAŞMADAN AYRILMAK İSTEDİĞİNİZE EMİN MİSİNİZ?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "Yeni bir pist oluşturmak istediğinize emin misiniz?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "Kulübü silmek istediğinize emin misiniz?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "Dekorasyonu düzenlemek istediğinize emin misiniz?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "Bu pisti düzenlemek istediğinize emin misiniz?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "Başka bir pist oluşturmak istediğinize emin misiniz?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "Editörden ayrılmak istediğinize emin misiniz?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "TRACKMANIA'DAN ÇIKMAK İSTEDİĞİNİZE EMİN MİSİNİZ?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "Başka bir arazi seçmek istediğinize emin misiniz?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"3 YILLIK DÖNEMİN SONUNDA 300 RESMİ HARİTA,\n"
+"1095 GÜNÜN PİSTİ VE GELİŞMİŞ PİST EDİTÖRÜ SİZDE KALIR"
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"1 YILLIK DÖNEMİN SONUNDA 100 RESMİ HARİTA,\n"
+"365 GÜNÜN PİSTİ VE GELİŞMİŞ PİST EDİTÖRÜ SİZDE KALIR"
+
+msgid "Author"
+msgstr "Yapımcı"
+
+msgid "Author medal"
+msgstr "Yapımcı madalyası"
+
+msgid "Author time"
+msgstr "YAPIMCI SÜRESİ"
+
+msgid "Auto-finish"
+msgstr "OTO-BİTİŞ"
+
+msgid "Automatic retry in %1 second."
+msgstr "%1 saniye içinde otomatik olarak tekrar denenecek."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "%1 saniye içinde otomatik olarak tekrar denenecek."
+
+msgid "Average lap"
+msgstr "Ortalama tur"
+
+msgid "Average waiting time"
+msgstr "Ortalama bekleme süresi"
+
+msgid "BRAND DIRECTOR"
+msgstr "MARKA DİREKTÖRÜ"
+
+msgid "BRAND MANAGER"
+msgstr "MARKA MÜDÜRÜ"
+
+msgid "BUSINESS ANALYST"
+msgstr "İŞ ANALİSTİ"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "İŞ OPERASYONLARI KOORDİNATÖRÜ"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "İŞ OPERASYONLARI MÜDÜRÜ"
+
+msgid "Back"
+msgstr "GERİ"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Arka plan: Kulübünüzün detaylar sayfasının arka plan resmi.\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid "Balance teams"
+msgstr "Takımları dengele"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr ""
+"Dikkatli olun! Bu blok, yeni bir checkpoint'ten geçene kadar motorunuzu "
+"devre dışı bırakacaktır."
+
+msgid "Be in the top %1"
+msgstr "İlk %1 içine gir"
+
+msgid "Best lap"
+msgstr "En iyi tur"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "En iyi tur $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "En iyi tur: %1"
+
+msgid "Best time :"
+msgstr "En iyi süre :"
+
+msgid "Black"
+msgstr "SİYAH"
+
+msgid "Block selection"
+msgstr "Blok seçimi"
+
+msgid "Blocked by the terrain"
+msgstr "Arazi tarafından engelleniyor"
+
+msgid "Blue"
+msgstr "MAVİ"
+
+msgid "Bronze"
+msgstr "Bronz"
+
+msgid "Bronze medal"
+msgstr "Bronz madalya"
+
+msgid "Browse"
+msgstr "Gözat"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "Pistinizi oluşturun ve tamamlamak için bitiş bloğu yerleştirin."
+
+msgid "By %1"
+msgstr "%1 TARAFINDAN"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "SORUMLU YARATICI MÜDÜR"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "ÇİN ÜRÜN MÜDÜRÜ"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "İLETİŞİM MÜDÜRÜ, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "İLETİŞİM DİREKTÖRÜ"
+
+msgid "COMMUNITY"
+msgstr "TOPLULUK"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "TOPLULUK İÇERİK TASARIMCISI"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "TOPLULUK İÇERİK ÜRETİCİSİ"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "TOPLULUK İÇERİĞİ UZMANI"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "TOPLULUK İÇERİK STRATEJİSTİ"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "TOPLULUK YÖNETİMİ"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "TOPLULUK YÖNETİMİ EKİP LİDERİ"
+
+msgid "COMMUNITY MANAGER"
+msgstr "TOPLULUK MÜDÜRÜ"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "TOPLULUK KANISI UZMANI"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "TOPLULUK EKİP LİDERİ"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "TOPLULUK EKİBİ CANLI OPERASYONLAR MÜDÜRÜ"
+
+msgid "COMPOSER"
+msgstr "BESTECİ"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "TÜKETİCİ DENEYİMİ BÖLGE MÜDÜRÜ, ASYA"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "TÜKETİCİ DENEYİMİ MÜDÜRÜ"
+
+msgid "CONTENT DIRECTOR"
+msgstr "İÇERİK DİREKTÖRÜ"
+
+msgid "CONTENT MANAGER"
+msgstr "İÇERİK YÖNETİCİSİ"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "KREATİF DİREKTÖR"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "KREATİF FRONT-END MÜHENDİSİ"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "CRM VERİ ANALİSTLERİ"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "CRM GRAFİK TASARIMCI"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "CRM ENTEGRASYON UZMANLARI"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "CRM ENTEGRASYON EKİP LİDERİ "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "CRM YAŞAM DÖNGÜSÜ YARDIMCISI"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "CRM YAŞAM DÖNGÜSÜ UZMANI"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "CRM ÇOKLU KANAL UZMANI"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "CRM OPERASYONLARI MÜDÜRÜ"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "CRM OPERASYONLARI UZMANI"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "CRM OPERASYONLARI UZMAN YARDIMCISI"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "CRM PERFORMANS MÜDÜRÜ"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "CRM PROGRAM MÜDÜRÜ"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "MÜŞTERİ DENEYİMİ MÜDÜRÜ"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "MÜŞTERİ DESTEĞİ ORTAK DİREKTÖRÜ"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "MÜŞTERİ DESTEĞİ GELİŞTİRME ORTAK DİREKTÖRÜ"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "MÜŞTERİ DESTEĞİ BİLGİ EKİBİ"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "MÜŞTERİ DESTEĞİ ÖĞRENİM VE GELİŞİM EKİBİ"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "MÜŞTERİ DESTEĞİ KALİTE KONTROL EKİBİ"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "MÜŞTERİ DESTEĞİ KIDEMLİ BİLGİ MÜDÜRÜ"
+
+msgid "Campaign"
+msgstr "Campaign"
+
+msgid "Campaign creation"
+msgstr "Campaign oluşturma"
+
+msgid "Campaign edition"
+msgstr "Campaign düzenleme"
+
+msgid "Campaign library"
+msgstr "Campaign kitaplığı"
+
+msgid "Campaign's name"
+msgstr "Campaign ismi"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "Bu türden herhangi bir bloğu yerleştiremezsiniz, başka blok deneyin"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Cancel request"
+msgstr "İsteği iptal et"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Champion mode"
+msgstr "Şampiyon modu"
+
+msgid "Change map"
+msgstr "Haritayı değiştir"
+
+msgid "Change opponents"
+msgstr "RAKİPLERİ DEĞİŞTİR"
+
+msgid "Change team"
+msgstr "Takım değiştir"
+
+msgid "Change the building mode"
+msgstr "İnşa modunu değiştir"
+
+msgid "Change the connection mode"
+msgstr "Bağlantı modunu değiştir"
+
+msgid "Chat time"
+msgstr "Chat zamanı"
+
+msgid "Choose a campaign to use"
+msgstr "Kullanacağınız campaign'i seçin"
+
+msgid "Choose a mode"
+msgstr "BİR MOD SEÇİN"
+
+msgid "Choose a skin"
+msgstr "Bir dış görünüm seçin"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"Her bir dekorasyon stilinin oranını seçin ve sonra \"oluştur\" butonuna "
+"basın. Dekorasyonunuzdan memnun olduğunuzda, pistinizi doğrulayabilirsiniz."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"Ne tür bir dekorasyon istediğinizi seçin ve oluşturun. Hoşunuza giden bir "
+"tane bulduğunuzda, pistinizi doğrulayabilirsiniz."
+
+msgid "Choose your team"
+msgstr "Takımını seç"
+
+msgid "Clan"
+msgstr "Klan"
+
+msgid "Click on a player to invite them to your party."
+msgstr "Partinize davet etmek için oyuncunun üzerine tıklayın."
+
+msgid "Click on a player to join their party."
+msgstr "Partisine katılmak için oyuncunun üzerine tıklayın."
+
+msgid "Click on a player to set them as ally."
+msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Club"
+msgstr "Kulüp"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp arka plan resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr "Kulüp arka plan resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club campaigns"
+msgstr "KULÜP CAMPAIGN'LERİ"
+
+msgid "Club coming soon!"
+msgstr "Kulüpler çok yakında!"
+
+msgid "Club creation"
+msgstr "Kulüp kurma"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "Kulüp kurulamadı. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp kaplaması silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr "Kulüp kaplaması düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Kulüp kaplama sponsoru resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"Kulüp kaplama sponsoru resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr "Kulüp kaplaması karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club edition"
+msgstr "KULÜP DÜZENLEME"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp logosu silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr "Kulüp logosu düzenlenemedi. Lütfen tekrar deneyin. (Hata: %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr "Külüp logosu karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club rooms"
+msgstr "KULÜP ODALARI"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp 16x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr "Kulüp 16x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp 2x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr "Kulüp 2x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp 8x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr "Kulüp 8x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club skins"
+msgstr "KULÜPLERE AİT DIŞ GÖRÜNÜMLER"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "Kulüp güncellemenedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr "Kulüp dikey resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr "Kulüp dikey resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
+
+msgid "Clubs"
+msgstr "Kulüpler"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "Piyango biletlerini topla, herkes katılabilir!"
+
+msgid "Coming soon!"
+msgstr "ÇOK YAKINDA!"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Compete every week in the national league"
+msgstr "HER HAFTA ULUSAL LİG'DE YARIŞIN"
+
+msgid "Compete in the open grand league"
+msgstr "OPEN GRAND LEAGUE'DE YARIŞIN"
+
+msgid "Competition"
+msgstr "Karşılaşma"
+
+msgid "Concept"
+msgstr "Konsept"
+
+msgid "Confirm"
+msgstr "Onayla"
+
+msgid "Confirm your choice"
+msgstr "Seçiminizi onaylayın"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+msgid "Connect"
+msgstr "Bağla"
+
+msgid "Connection timed out"
+msgstr "Bağlantı zaman aşımına uğradı"
+
+msgid "Connector selection"
+msgstr "Bağlayıcı seçimi"
+
+msgid "Continue"
+msgstr "Devam Et"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Copy and connect"
+msgstr "Kopyala ve bağla"
+
+msgid "Copy server link"
+msgstr "SUNUCU LİNKİNİ KOPYALA"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Trackmania sunucularına bağlanılamadı."
+
+msgid "Could not load records"
+msgstr "Rekorlar yüklenemedi"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Create a new map"
+msgstr "YENİ BİR HARİTA OLUŞTUR"
+
+msgid "Create a new skin"
+msgstr "YENİ BİR DIŞ GÖRÜNÜM OLUŞTUR"
+
+msgid "Create activity"
+msgstr "ETKİNLİK OLUŞTUR"
+
+msgid "Create campaign"
+msgstr "Campaign oluştur"
+
+msgid "Create club"
+msgstr "Kulüp oluştur"
+
+msgid "Create map"
+msgstr "HARİTA OLUŞTUR"
+
+msgid "Create map uploads"
+msgstr "Harita yüklemeleri oluştur"
+
+msgid "Create room"
+msgstr "Oda kurun"
+
+msgid "Create skin uploads"
+msgstr "Dış görünüm yüklemeleri oluştur"
+
+msgid "Create the map of the show"
+msgstr "Şovun haritasını oluştur"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"GELİŞMİŞ EDİTÖR İLE PİSTLER OLUŞTURUN VE ÇEVRİMİÇİ OLARAK TEST EDİN,\n"
+"SINIRSIZ YARIŞ VİDEOSU OLUŞTURUN VE PAYLAŞIN"
+
+msgid "Create your club and share your masterpieces"
+msgstr "KENDİ KULÜBÜNÜZÜ OLUŞTURUN VE ŞAHESERLERİNİZİ PAYLAŞIN"
+
+msgid "Create your tracks"
+msgstr "Pistlerinizi oluşturun"
+
+msgid "Creating activity..."
+msgstr "Etkinlik oluşturuluyor..."
+
+msgid "Creating campaign..."
+msgstr "Campaign oluşturuluyor..."
+
+msgid "Creating club room..."
+msgstr "Kulüp odası kuruluyor..."
+
+msgid "Creating club..."
+msgstr "Kulüp kuruluyor..."
+
+msgid "Credits"
+msgstr "EMEĞİ GEÇENLER"
+
+msgid "Cumulate team points :"
+msgstr "Kümüle takım puanları"
+
+msgid "Current map"
+msgstr "Şu anki harita"
+
+msgid "Current match best score"
+msgstr "Güncel en iyi karşılaşma skoru"
+
+msgid "Current match score"
+msgstr "Güncel karşılaşma skoru"
+
+msgid "Current player"
+msgstr "Şu anki oyuncu"
+
+msgid "Customization"
+msgstr "Özelleştirme"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "ARACINIZI KENDİNİZE VEYA KULÜPLERE AİT DIŞ GÖRÜNÜMLER İLE ÖZELLEŞTİRİN"
+
+msgid "Cut and paste"
+msgstr "Kes ve yapıştır"
+
+msgid "DATA ANALYST"
+msgstr "VERİ ANALİSTİ"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "GELİŞTİRME VE KALİTE MÜDÜRÜ"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "GELİŞTİRME TEST GÖREVLİSİ"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "DİJİTAL İÇERİK YAYIMCISI"
+
+msgid "DIRECTOR"
+msgstr "DİREKTÖR"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "DİREKTÖR, MEDYA & CRM, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "MARKA GELİŞTİRME DİREKTÖRÜ"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "MÜŞTERİ DENEYİMİ DİREKTÖRÜ"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "DİREKTÖR, İLETİŞİM, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "DİREKTÖR, TOPLULUK ETKİLEŞİMİ, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "DİREKTÖR, OYUNCU DENEYİMİ"
+
+msgid "DIRECTORS"
+msgstr "DİREKTÖRLER"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "DUALSHOCK®4 Kablosuz Kumandası"
+
+msgid "Daily Cup Knockout"
+msgstr "Günlük Kupa: Eleme"
+
+msgid "Daily cup"
+msgstr "Günlük kupa"
+
+msgid "Daily rankings"
+msgstr "Günlük sıralamalar"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Deactivate"
+msgstr "DEVRE DIŞI BIRAK"
+
+msgid "Dead end"
+msgstr "Çıkmaz yol"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Kaplama sponsoru: Yolu çevreleyen kısımda görülen resim.\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Kaplama: Yol yüzeyi üstünde görülen resim (başlangıç, checkpoint ve "
+"bitişte).\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid "Decoration"
+msgstr "Dekorasyon"
+
+msgid "Delete club"
+msgstr "KULÜBÜ SİL"
+
+msgid "Deleting club..."
+msgstr "Kulüp siliniyor..."
+
+msgid "Did you like this map?"
+msgstr "Bu haritayı beğendiniz mi?"
+
+msgid "Disable give up"
+msgstr "Vazgeçmeyi devre dışı bırak"
+
+msgid "Do Not Show Again"
+msgstr "Tekrar Gösterme"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "Geri sayım bitmeden en iyi süreyi elde edin."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "Bu haritayla bir kupa oluşturmak istiyor musunuz?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "Bunu mu oynamak istersiniz, yoksa yeni bir pist oluşturmak mı?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "Doğrulama süresini geliştirmek istiyor musunuz?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "Rastgele pist oluşturucudan ayrılmak istiyor musunuz?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "Şu an bir checkpoint yerleştirmek istiyor musunuz?"
+
+msgid "Do you want to play a rematch?"
+msgstr "Rövanş yarışı yapmak istiyor musunuz?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "Eklentiden çıkıp editöre dönmek istiyor musunuz?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "Haritanızı bu isimle kaydetmek istiyor musunuz?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "Oto-bitişi durdurmak istiyor musunuz?"
+
+msgid "Do you want to validate the track now?"
+msgstr "Pisti şimdi doğrulamak istiyor musunuz?"
+
+msgid "Don't forget to save your track!"
+msgstr "Pistinizi kaydetmeyi unutmayın!"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Draw of the lottery"
+msgstr "Piyango çekilişi"
+
+msgid "Duel"
+msgstr "Düello"
+
+msgid "Duration of one warm up"
+msgstr "Bir ısınma turunun süresi"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "EDİTORYAL TEKNOLOJİSİ"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "EMEA TÜKETİCİ İLİŞKİLERİ MERKEZİ - TOPLULUK EKİBİ"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "EMEA MÜŞTERİ İLİŞKİLERİ MERKEZİ - OYUNCU DESTEK EKİBİ"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "EMEA MÜŞTERİ YÖNETİMİ"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "EMEA BİLGİ EKİBİ"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "MÜHENDİS, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "ORTAM SANATÇISI"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "YÖNETİCİ ASİSTANI & İK MÜDÜRÜ"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "BAŞ YÖNETMEN, ULUSLARARASI STÜDYOLAR"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "HARİCİ ORTAKLAR"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "MADALYALAR KAZANIN VE BÖLGESEL SIRALAMALARDAKİ İLERLEMENİZİ TAKİP EDİN"
+
+msgid "Edit"
+msgstr "DÜZENLE"
+
+msgid "Edit '%1'"
+msgstr "Düzenle: '%1'"
+
+msgid "Edit a map"
+msgstr "BİR HARİTAYI DÜZENLE"
+
+msgid "Edit a skin"
+msgstr "BİR DIŞ GÖRÜNÜM DÜZENLE"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "'$<%1$>' AKTİVİTESİNİ DÜZENLE"
+
+msgid "Edit campaign"
+msgstr "Düzenlemeyi onayla"
+
+msgid "Edit decoration"
+msgstr "Dekorasyonu düzenle"
+
+msgid "Edit replay"
+msgstr "REPLAY'İ DÜZENLE"
+
+msgid "Edit room"
+msgstr "Odayı düzenle"
+
+msgid "Edit room '%1'"
+msgstr "'%1' odasını düzenle"
+
+msgid "Edit terrain"
+msgstr "Araziyi düzenle"
+
+msgid "Edit track"
+msgstr "Pisti düzenle"
+
+msgid "Editing activity..."
+msgstr "Etkinlik düzenleniyor..."
+
+msgid "Editing club room..."
+msgstr "Kulüp odası düzenleniyor..."
+
+msgid "Eighth (Press 8)"
+msgstr "Sekizinci (8'e basın)"
+
+msgid "End of warmup, match starting..."
+msgstr "Isınma bitti, karşılaşma başlıyor..."
+
+msgid "Engine disabled"
+msgstr "Motor kapalı"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etti."
+
+msgid "Entry"
+msgstr "Giriş"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"Haritanız sıraya eklenirken bir hata oluştu, lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Campaign oluşturulurken bir hata meydana geldi. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik oluşturulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr "Oda kurulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik düzenlenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr "Oda düzenlenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"%1 türündeki campaign'ler getirilirken hata oluştu. Lütfen tekrar deneyin. "
+"(Hata kodu: %2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Harita listesini Nadeo Services'tan getirirken hata oluştu. Lütfen tekrar "
+"deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Aylık campaign Nadeo Services'tan getirilirken hata oluştu. Lütfen tekrar "
+"deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Kulüp derecelerinde haritalardaki kullanıcı sıralamaları getirilirken hata "
+"oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Çeyreklik campaign Nadeo Services'tan getirilirken hata oluştu. Lütfen "
+"tekrar deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik bilgisi getirilirken hata oluştu, lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"Sunucuya katılma linkinde bir sorun oluştu, lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "Harita verileri toplanırken hata oluştu. (Hata kodu: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"Sunucuya katılırken hata oluştu, lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "Sıralama yüklenirken hata oluştu (kod: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "Oda ayrıntıları yüklenirken hata oluştu. (Hata kodu: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "Oda haritaları yüklenirken hata oluştu. (Hata kodu: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Skorları Nadeo Services'tan getirirken hata oluştu. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Campaign yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Campaign'in kulübü yüklenirken bir hata oluştu. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"Kulüp aktiviteleri güncellenirken bir hata meydana geldi. Lütfen tekrar "
+"deneyin. (Hata kodu: %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr ""
+"Haber logosu güncellenirken bir hata oluştu. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Etkinliğin gizlilik ayarı güncellenirken hata oluştu. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr ""
+"Haritalar karşıya yüklenirken bir hata oluştu, lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr ""
+"Haritalar karşıya yüklenirken bir hata meydana geldi. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik logosu karşıya yüklenirken hata oluştu. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr ""
+"Oda medyası karşıya yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr ""
+"Harita karşıya yüklenirken hata oluştu, lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr ""
+"Görsel karşıya yüklenirken bir hata meydana geldi. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik doğrulanırken bir hata oluştu. Lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
+
+msgid "Events"
+msgstr "ETKİNLİKLER"
+
+msgid "Exit"
+msgstr "Kapat"
+
+msgid "F6 to cancel"
+msgstr "İptal etmek için F6"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "FİNANSAL PLANLAMA ANALİSTİ"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "KIDEMLİ FİNANSAL PLANLAMA DİREKTÖRÜ"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "FİNANSAL PLANMA, STÜDYO İŞLEMLERİ & KALİTE KONTROL"
+
+msgid "FRONT-END ENGINEER"
+msgstr "FRONT-END MÜHENDİSİ"
+
+msgid "Fifth (Press 5)"
+msgstr "Beşinci (5'e basın)"
+
+msgid "Finish timeout"
+msgstr "Bitiş zamanaşımı"
+
+msgid "First (Press 1)"
+msgstr "Birinci (1'e basın)"
+
+msgid "Forced laps number"
+msgstr "Zorunlu tur sayısı"
+
+msgid "Fourth (Press 4)"
+msgstr "Dördüncü (4'e basın)"
+
+msgid "Free for all"
+msgstr "Herkese açık"
+
+msgid "Friday"
+msgstr "CUMA"
+
+msgid "Fullspeed"
+msgstr "Son sürat"
+
+msgid "Fusion with another server for more players"
+msgstr "Daha fazla oyuncu için başka bir sunucu ile birleştiriliyor"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "OYUN ETKİNLİK UZMANLARI, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "OYUN ANALİZLERİ ARAŞTIRMASI"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "OYUN VE HİZMETLER ORTAK OPERASYON MÜDÜRÜ"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "OYUN VE HİZMETLER OPERASYON MÜDÜRÜ"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "OYUN VE HİZMETLER OPERASYON UZMANLARI"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "GENEL MÜDÜR CRC"
+
+msgid "GRAPHIC ARTIST"
+msgstr "GRAFİK SANATÇISI"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAFİKER"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "GRUP MÜDÜRÜ, MEDYA PERFORMANSI, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "GRUP MÜDÜRÜ, MEDYA STRATEJİSİ, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "GRUP MÜDÜRÜ, WEB ÜRETİMİ, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "GRUP ÇIKIŞ MÜDÜRÜ"
+
+msgid "Game mode"
+msgstr "Oyun modu"
+
+msgid "Game mode: %1"
+msgstr "Oyun modu: %1"
+
+msgid "Garage"
+msgstr "Garaj"
+
+msgid "Generate"
+msgstr "Oluştur"
+
+msgid "Get the Club access for one year"
+msgstr "BİR YILLIK KULÜP ERİŞİMİ ALIN"
+
+msgid "Get the Club access for three years"
+msgstr "ÜÇ YILLIK KULÜP ERİŞİMİ ALIN"
+
+msgid "Get the Standard access for one year"
+msgstr "BİR YILLIK STANDART ERİŞİM ALIN"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "ARCADE KANALINDA EN İYİ OYUNCU CAMPAIGN'LERİNİ OYNAYIN"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "REPLAY, DIŞ GÖRÜNÜM VE BASİT HARİTA EDİTÖRLERİNİ ELDE EDİN"
+
+msgid "Give up"
+msgstr "Vazgeç"
+
+msgid "Give up %1"
+msgstr "Vazgeç %1"
+
+msgid "Give up Daily cup?"
+msgstr "Günlük kupadan vazgeç?"
+
+msgid "Go to map list"
+msgstr "Harita listesini aç"
+
+msgid "Going to next map"
+msgstr "Bir sonraki haritaya geçiliyor"
+
+msgid "Gold"
+msgstr "Altın"
+
+msgid "Gold medal"
+msgstr "Altın madalya"
+
+msgid "Green"
+msgstr "YEŞİL"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "NCSA MÜŞTERİ İLİŞKİLERİ MERKEZİ MÜDÜRÜ"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "EMEA SOSYAL MEDYA MÜDÜRÜ"
+
+msgid "HQ PRODUCER"
+msgstr "YAPIMCI (HQ)"
+
+msgid "HQ PRODUCERS"
+msgstr "YAPIMCILAR (HQ)"
+
+msgid "HR SPECIALIST"
+msgstr "İNSAN KAYNAKLARI UZMANI"
+
+msgid "Help"
+msgstr "YARDIM"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Home Activities"
+msgstr "ANA ETKİNLİKLER"
+
+msgid "Home display"
+msgstr "Ana ekranı göster"
+
+msgid "Hot Seat"
+msgstr "Hot Seat"
+
+msgid "HotSeat"
+msgstr "HotSeat"
+
+msgid "Hotseat"
+msgstr "Hotseat"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "ALTYAPI EKİBİ MÜDÜRÜ"
+
+msgid "INTERN LIVE QA"
+msgstr "CANLI KALİTE KONTROL STAJYERİ"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "ULUSLARARASI ÜRÜN MÜDÜRÜ"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Eğer bir manzara seçerseniz, tüm ilerlemenizi kaybedebilirsiniz."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"Eğer pes ederseniz, kanalda oynamaya devam edebileceksiniz ancak Günlük "
+"Eleme karşılaşmasında yer alamayacaksınız."
+
+msgid "Image browser"
+msgstr "Resim tarayıcısı"
+
+msgid "Improve"
+msgstr "GELİŞTİR"
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "Interval from %1 pos."
+msgstr "%1. ile süre farkı"
+
+msgid "Invite friends"
+msgstr "Arkadaş davet et"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "Bu sunucu ayarı için oylama yapmak şu anda mümkün değil."
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "JUNIOR HESAP YÖNETİCİSİ"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "JUNIOR OTOMASYON TEST GÖREVLİSİ"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "JUNIOR GELİŞTİRME TEST GÖREVLİSİ"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR FİNANSAL PLANLAMA ANALİSTİ"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "JUNIOR KALİTE KONTROL VE AĞ UZMANI"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "JUNIOR ÜRÜN MÜDÜRÜ"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "JUNIOR PRODÜKSİYON KOORDİNATÖRÜ"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMCI"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR KALİTE KONTROL AĞI UZMANI"
+
+msgid "JUNIOR TESTER"
+msgstr "JUNIOR TEST GÖREVLİSİ"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "JUNIOR UX TASARIMCISI"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "JUNIOR WEB GELİŞTİRİCİSİ"
+
+msgid "Join"
+msgstr "KATIL"
+
+msgid "Join %1"
+msgstr "Katıl: %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "KULÜP AKTİVİTELERİNE KATILIN VE KULÜP SIRALAMALARINI GÖRÜN"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "AÇIK KULÜP ETKİNLİKLERİNE KATILIN: CAMPAIGN'LER VE ÇEVRİMİÇİ ODALAR"
+
+msgid "Jump to map"
+msgstr "Haritaya atla"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "BİLGİ UZMANI"
+
+msgid "KOs per round"
+msgstr "Tur başına eleme"
+
+msgid "Knockout match starts in %1"
+msgstr "Eleme maçı %1 içinde başlıyor"
+
+msgid "L1 button"
+msgstr "L1 tuşu"
+
+msgid "L3 button"
+msgstr "L3 tuşu"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "LİDER KARAKTER SANATÇISI"
+
+msgid "LEAD DESIGNER"
+msgstr "LİDER TASARIMCI"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "LİDER ORTAM SANATÇISI"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "LİDER FRONT-END MÜHENDİSİ"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "LİDER GRAFİK SANATÇISI"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "LİDER ÇEVRİMİÇİ MÜHENDİSİ"
+
+msgid "LEAD PROGRAMMER"
+msgstr "LİDER PROGRAMCI"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "LİDER TEKNİK SANATÇI"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "LİDER UX SÜPERVİZÖRÜ"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "LİDER ARAÇ SANATÇISI"
+
+msgid "LINE DESIGNER"
+msgstr "HAT TASARIMCISI"
+
+msgid "LINE DESIGNERS"
+msgstr "HAT TASARIMCILARI"
+
+msgid "LIVE COORDINATOR"
+msgstr "CANLI KOORDİNATÖR"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "CANLI OPERASYONLAR HABER KOORDİNATÖRÜ"
+
+msgid "LIVE PRODUCER"
+msgstr "CANLI YAPIMCI"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "CANLI KALİTE KONTROL & AĞ KOORDİNATÖRÜ"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "KIDEMLİ CANLI KAR ANALİSTİ"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "CANLI KAR STRATEJİSİ "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "CANLI EKİP MÜDÜRÜ"
+
+msgid "LOCALIZATION"
+msgstr "YERELLEŞTİRME"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "YERELLEŞTİRME DİREKTÖRÜ"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "YERELLEŞTİRME UZMANI"
+
+msgid "Landscape"
+msgstr "Manzara"
+
+msgid "Lap %1"
+msgstr "%1. tur"
+
+msgid "Last time"
+msgstr "En son süre"
+
+msgid "Leader"
+msgstr "Lider"
+
+msgid "League ranking"
+msgstr "Lig sıralaması"
+
+msgid "Learn more about the Club Edition"
+msgstr "Kulüp Sürümü hakkında daha fazla bilgi edinin"
+
+msgid "Leave"
+msgstr "AYRIL"
+
+msgid "Leave club '%1'"
+msgstr "Kulüpten ayrıl: '%1'"
+
+msgid "Leave random track generator"
+msgstr "Rastgele pist oluşturucudan ayrıl"
+
+msgid "Left click : move the module"
+msgstr "Sol tık : modülü taşı"
+
+msgid "Link copied!"
+msgstr "Link kopyalandı!"
+
+msgid "Live Ranking"
+msgstr "Canlı Sıralama"
+
+msgid "Live ranking"
+msgstr "CANLI SIRALAMA"
+
+msgid "Live test"
+msgstr "CANLI TEST"
+
+msgid "Loading"
+msgstr "YÜKLENİYOR"
+
+msgid "Loading activity..."
+msgstr "Etkinlik yükleniyor..."
+
+msgid "Loading campaign to edit"
+msgstr "Campaign düzenlenmek için yükleniyor"
+
+msgid "Loading campaign..."
+msgstr "Campaign yükleniyor..."
+
+msgid "Loading club activities..."
+msgstr "Kulüp aktiviteleri yükleniyor..."
+
+msgid "Loading club room..."
+msgstr "Kulüp odası yükleniyor..."
+
+msgid "Loading competition..."
+msgstr "Karşılaşma yükleniyor..."
+
+msgid "Loading offline campaign..."
+msgstr "Çevrimdışı campaign yükleniyor..."
+
+msgid "Loading records"
+msgstr "Rekorlar yükleniyor"
+
+msgid "Loading room informations..."
+msgstr "Oda bilgileri yükleniyor..."
+
+msgid "Loading..."
+msgstr "YÜKLENİYOR..."
+
+msgid "Local multi"
+msgstr "Yerel çoklu"
+
+msgid "Local network"
+msgstr "Yerel ağ"
+
+msgid "Locked"
+msgstr "Kilitli"
+
+msgid "Login"
+msgstr "Giriş yap"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Logo: Kulübünüzün ilk görülen resmi.\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid "Lol"
+msgstr "Lol"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "MAGIC LAB KARAKTER SANATÇISI"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "MAGIC LAB PRODÜKSİYON DİREKTÖRÜ"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "MAGIC LAB ARAÇ SANATÇISI"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "MÜDÜR, OYUNCU DENEYİMİ, TOPLULUK PROGRAMLARI"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "MÜDÜR, TOPLULUK İÇERİĞİ"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "MÜDÜR, TOPLULUK GELİŞTİRME"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "MÜDÜR, CRM OPERASYONLARI"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "MÜDÜR, CRM STRATEJİ YAŞAM DÖNGÜSÜ"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "MÜDÜR, WEB GELİŞTİRİCİSİ, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "MÜDÜR, WEB YAPIMCISI, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "MÜDÜRLER, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "MANAGING DIRECTOR"
+msgstr "YÖNETİM MÜDÜRÜ"
+
+msgid "MARKETING"
+msgstr "PAZARLAMA"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "PAZARLAMA & İLETİŞİM DİREKTÖRÜ"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "PAZARLAMA & SADAKAT DİREKTÖRÜ"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "PAZARLAMA & SADAKAT GRUBU MÜDÜRÜ"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "PAZARLAMA KAMPANYASI MÜDÜRÜ"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "MEDYA MÜDÜRÜ, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "GELİRLEŞTİRME DİREKTÖRÜ"
+
+msgid "Manage server"
+msgstr "SUNUCUYU YÖNET"
+
+msgid "Manage track"
+msgstr "Pisti yönet"
+
+msgid "Map"
+msgstr "Harita"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr ""
+"Harita %1/%2 - Önceki puanlarınızı kaybetmemek için %3%4 sırada veya daha "
+"yukarıda olmalısınız"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"Harita %1/%2 - Yarışı tamamlayarak veya en iyi tur süresini elde ederek puan "
+"kazanın"
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "'%1' haritası karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata: %2)"
+
+msgid "Map '%1' is not playable."
+msgstr "'%1' haritası oynanabilir değil."
+
+msgid "Map '%1' not found"
+msgstr "'%1' haritası bulunamadı"
+
+msgid "Map browser"
+msgstr "Harita tarayıcı"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "Harita kaldırılamadı. Lütfen tekrar deneyin. (Hata: %1)"
+
+msgid "Map editor"
+msgstr "HARİTA EDİTÖRÜ"
+
+msgid "Map not found"
+msgstr "Harita bulunamadı"
+
+msgid "Map position"
+msgstr "Haritadaki konum"
+
+msgid "Map review"
+msgstr "HARİTA İNCELEME"
+
+msgid "Map rounds"
+msgstr "Harita turu"
+
+msgid "Map saved!"
+msgstr "Harita kaydedildi!"
+
+msgid "Map uploads"
+msgstr "HARİTA YÜKLEMELERİ"
+
+msgid "Map validate"
+msgstr "Harita doğrulama"
+
+msgid "Maps"
+msgstr "HARİTALAR"
+
+msgid "Maps "
+msgstr "Haritalar "
+
+msgid "Maps : "
+msgstr "Haritalar : "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "Haritalar karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata: %1)"
+
+msgid "Maps list already full"
+msgstr "Harita listesi zaten dolu"
+
+msgid "Match found!"
+msgstr "Karşılaşma bulundu!"
+
+msgid "Match is over"
+msgstr "Karşılaşma sona erdi"
+
+msgid "Match not started yet."
+msgstr "Maç henüz başlamadı."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "Karşılaşma sona erdi. Lobiye geri gönderilmiş olmalıydınız."
+
+msgid "Match over. You will be transferred back."
+msgstr "Karşılaşma sona erdi. Geri gönderiliyorsunuz."
+
+msgid "Match paused"
+msgstr "Karşılaşma duraklatıldı"
+
+msgid "Match settings"
+msgstr "KARŞILAŞMA AYARLARI"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "Eşleştirme iptal edildi : mevcut sunucu yok"
+
+msgid "Matchmaking disabled."
+msgstr "Eşleştirme devre dışı."
+
+msgid "Matchmaking forced."
+msgstr "Zorunlu eşleştirme."
+
+msgid "Matchmaking in progress..."
+msgstr "Eşleştirme sürüyor..."
+
+msgid "Matchsettings browser"
+msgstr "KARŞILAŞMA AYARLARI GEZGİNİ"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "Karşılaşma ayarları %1 dosyasına kaydedildi"
+
+msgid "Max players"
+msgstr "Maksimum oyuncu"
+
+msgid "Max players number"
+msgstr "Maks oyuncu sayısı"
+
+msgid "Max points :"
+msgstr "Maksimum puan :"
+
+msgid "Max wait time: %1 %2"
+msgstr "MAKS. BEKLEME SÜRESİ: %1 %2"
+
+msgid "Medals"
+msgstr "Madalyalar"
+
+msgid "Middle click : reset the module"
+msgstr "Orta tık : modülü sıfırla"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "Şunlar eksik: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "Mod"
+
+msgid "Mode script browser"
+msgstr "Mod script gezgini"
+
+msgid "Mode settings"
+msgstr "Mod ayarları"
+
+msgid "Monday"
+msgstr "PAZARTESİ"
+
+msgid "More VIPs"
+msgstr "Daha fazla VIP"
+
+msgid "Move"
+msgstr "TAŞI"
+
+msgid "Move the block to a new location"
+msgstr "Bloğu yeni bir yere taşı"
+
+msgid "Move the cursor"
+msgstr "İmleci hareket ettirin"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "Başlangıç bloğunu, pisti başlatmak istediğiniz yere koyun."
+
+msgid "Multi teams"
+msgstr "Çoklu takım"
+
+msgid "My clubs"
+msgstr "KULÜPLERİM"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "NCSA MÜŞTERİ İLİŞKİLERİ MERKEZİ - TOPLULUK EKİBİ"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "NCSA MÜŞTERİ DESTEK EKİBİ"
+
+msgid "Name"
+msgstr "İSİM"
+
+msgid "New author time"
+msgstr "Yeni yapımcı süresi"
+
+msgid "New best time"
+msgstr "Yeni en iyi süre"
+
+msgid "New medal"
+msgstr "Yeni madalya"
+
+msgid "New rank: %1"
+msgstr "Yeni sıralama: %1"
+
+msgid "New records disabled"
+msgstr "Yeni rekorlar devre dışı bırakıldı"
+
+msgid "New track"
+msgstr "YENİ PİST"
+
+msgid "News"
+msgstr "Haberler"
+
+msgid "News creation"
+msgstr "Haber oluşturma"
+
+msgid "News image"
+msgstr "Haber görseli"
+
+msgid "News must have a headline."
+msgstr "Haberlerin bir ana başlığı olmalıdır."
+
+msgid "News must have either a body or an image."
+msgstr "Haberlerin bir gövdesi veya resmi olmalıdır."
+
+msgid "Next"
+msgstr "SONRAKİ"
+
+msgid "Next map"
+msgstr "SONRAKİ HARİTA"
+
+msgid "Next map in %1..."
+msgstr "Sıradaki haritaya %1..."
+
+msgid "Next medal"
+msgstr "SIRADAKİ MADALYA"
+
+msgid "Next player"
+msgstr "Sonraki oyuncu"
+
+msgid "Next zone"
+msgstr "Sonraki bölge"
+
+msgid "Ninth (Press 9)"
+msgstr "Dokuzuncu (9'a basın)"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "No K.O."
+msgstr "Eleme yok"
+
+msgid "No accounts found"
+msgstr "Hesap bulunamadı"
+
+msgid "No clubs"
+msgstr "Kulüp yok"
+
+msgid "No daily map found to display the rankings"
+msgstr "Sıralama gösterilecek günlük harita bulunamadı"
+
+msgid "No maps in this month"
+msgstr "Bu ayda harita yok"
+
+msgid "No monthly campaigns found."
+msgstr "Aylık campaign bulunamadı."
+
+msgid "No player"
+msgstr "Oyuncu yok"
+
+msgid "No preview available"
+msgstr "Önizleme mevcut değil"
+
+msgid "No quarterly campaigns found."
+msgstr "Çeyreklik campaign'ler bulunamadı."
+
+msgid "No records"
+msgstr "Rekor yok"
+
+msgid "No suitable elements were found in this folder"
+msgstr "Bu klasörde uygun öğe bulunamadı"
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etmedi."
+
+msgid "Not ranked"
+msgstr "SIRALAMADA YOK"
+
+msgid "Now"
+msgstr "ŞİMDİ"
+
+msgid "Number of Laps : "
+msgstr "Tur Sayısı : "
+
+msgid "Number of laps"
+msgstr "Tur sayısı"
+
+msgid "Number of maps per match"
+msgstr "Karşılaşma başına harita sayısı"
+
+msgid "Number of rounds per map"
+msgstr "Harita başına round sayısı"
+
+msgid "Number of warm up"
+msgstr "Isınma turu sayısı"
+
+msgid "Number of winners"
+msgstr "Kazananların sayısı"
+
+msgid "OFFICE MANAGEMENT"
+msgstr "OFİS YÖNETİMİ"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "ONLINE ENGINEER"
+msgstr "ÇEVRİMİÇİ MÜHENDİSİ"
+
+msgid "ONLINE ENGINEERS"
+msgstr "ÇEVRİMİÇİ MÜHENDİSLERİ"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "ÇEVRİMİÇİ HİZMETLER HATTI YAPIMCISI"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "ÇEVRİMİÇİ HİZMETLER EKİBİ"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "ÇEVRİMİÇİ TEKNİK KOORDİNASYON MÜDÜRÜ"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "ÇEVRİMİÇİ TEKNOLOJİLER MÜDÜRÜ"
+
+msgid "Official rankings"
+msgstr "Resmî sıralamalar"
+
+msgid "Offroad"
+msgstr "Offroad"
+
+msgid "Ok"
+msgstr "Tamam"
+
+msgid "Opponents from %1"
+msgstr "%1 bölgesinden rakipler"
+
+msgid "Optional"
+msgstr "İsteğe bağlı"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr ""
+"Veya sağ taraftan herhangi bir oyuncunun adına tıklayarak mevcut bir partiye "
+"katılabilirsiniz."
+
+msgid "Orange"
+msgstr "TURUNCU"
+
+msgid "Other"
+msgstr "Diğer"
+
+msgid "PC REQUIREMENTS"
+msgstr "PC GEREKSİNİMLERİ"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "PC GEREKSİNİMLERİ LİDERİ"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "PC GEREKSİNİMLERİ PROJE LİDERİ"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "PC GEREKSİNİMLERİ UZMANLARI"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "OYUNCU DENEYİMİ"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "OYUNCU DENEYİMİ YARDIMCISI, TOPLULUK PROGRAMLARI"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "OYUNCU DENEYİMİ MÜDÜRÜ, İŞBİRLİĞİ ARAÇLARI"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "OYUNCU DENEYİMİ MÜDÜRÜ, FRONTLINE PROGRAMLARI"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "OYUNCU DESTEĞİ BÖLGE MÜDÜRÜ"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "OYUNCU DESTEĞİ OPERASYON MÜDÜRÜ"
+
+msgid "PR"
+msgstr "HALKLA İLİŞKİLER"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "TAHMİNSEL ANALİZ ARAŞTIRMACISI"
+
+msgid "PRESIDENT AND CEO"
+msgstr "BAŞKAN VE CEO"
+
+msgid "PRODUCER"
+msgstr "YAPIMCI"
+
+msgid "PRODUCT OWNER"
+msgstr "ÜRÜN SAHİBİ"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "ÜRÜN UZMANI"
+
+msgid "PRODUCTION"
+msgstr "PRODÜKSİYON"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "PRODÜKSİYON KOORDİNATÖRÜ"
+
+msgid "PROGRAM MANAGER"
+msgstr "PROGRAM MÜDÜRÜ"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "PROGRAM MÜDÜRÜ, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMCI"
+
+msgid "PROJECT ASSISTANT"
+msgstr "PROJE YARDIMCISI"
+
+msgid "PROJECT MANAGER"
+msgstr "PROJE MÜDÜRÜ"
+
+msgid "PROJECT MANAGERS "
+msgstr "PROJE MÜDÜRLERİ "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "PROJE ÇEVRİMİÇİ ALIM YARDIMCISI, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "PROJE DİREKTÖRÜ, EDİTORYAL TEKNOLOJİ"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "YAYIN DİREKTÖRÜ"
+
+msgid "Page Down"
+msgstr "Sayfa Aşağı"
+
+msgid "Page Up"
+msgstr "Sayfa Yukarı"
+
+msgid "Participation registered!"
+msgstr "Katılım kaydedildi!"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Past 14 days"
+msgstr "Son 14 gün"
+
+msgid "Paste"
+msgstr "Yapıştır"
+
+msgid "Pause"
+msgstr "Duraklat"
+
+msgid "Personal best"
+msgstr "KİŞİSEL EN İYİ"
+
+msgid "Pick the controller"
+msgstr "KONTROL ARACI SEÇİMİ"
+
+msgid "Pick the difficulty"
+msgstr "Zorluk seviyesi seç"
+
+msgid "Pick the mood"
+msgstr "MOD SEÇİMİ"
+
+msgid "Picked by matchmaking"
+msgstr "Eşleştirmeyle seçildi"
+
+msgid "Pink"
+msgstr "PEMBE"
+
+msgid "Place a finish block to end your track."
+msgstr "Pistinizi sonlandırmak için bir bitiş bloğu ekleyin."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"Kestirmelerin önüne geçmek ve diğer oyuncuların pistinizde respawn olmasını "
+"kolaylaştırmak için checkpoint'ler yerleştirin."
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Play"
+msgstr "Oyna"
+
+msgid "Play HotSeat"
+msgstr "HotSeat oyna"
+
+msgid "Play a map"
+msgstr "HARİTA SEÇ"
+
+msgid "Play a map locally"
+msgstr "Haritayı yerelde oyna"
+
+msgid "Play against %1"
+msgstr "%1 oyuncusuna karşı oyna"
+
+msgid "Play against a replay"
+msgstr "Replay'e karşı oyna"
+
+msgid "Play against opponents"
+msgstr "RAKİPLERE KARŞI OYNA"
+
+msgid "Play alone"
+msgstr "RAKİP OLMADAN OYNA"
+
+msgid "Play next map"
+msgstr "Bir sonraki haritayı oyna"
+
+msgid "Play offline"
+msgstr "Çevrimdışı oyna"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "HER SEZON 25 YENİ HARİTADA SOLO VE ÇOKLU OYUNCULU OLARAK OYNAYIN"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "Günlük Eleme Turlarını Oynayın"
+
+msgid "Player Best Time"
+msgstr "Oyuncu En İyi Süre"
+
+msgid "Player info"
+msgstr "Oyuncu bilgisi"
+
+msgid "Player profile"
+msgstr "OYUNCU PROFİLİ"
+
+msgid "Players"
+msgstr "Oyuncular"
+
+msgid "Players are tied!"
+msgstr "Oyuncular berabere!"
+
+msgid "Players in server"
+msgstr "Sunucudaki oyuncular"
+
+msgid "Players order"
+msgstr "Oyuncu sırası"
+
+msgid "Please reconnect the %1"
+msgstr "Lütfen yeniden bağlayın: %1"
+
+msgid "Please select your %1"
+msgstr "Lütfen %1 seçiniz"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"Lütfen Eleme başlayana kadar kanalda kalın. Karşılaşma hazır olduğunda "
+"otomatik olarak yönlendirileceksiniz."
+
+msgid "Please wait."
+msgstr "Lütfen bekleyin."
+
+msgid "Points gap"
+msgstr "Puan farkı"
+
+msgid "Points gap :"
+msgstr "Puan aralığı :"
+
+msgid "Points limit"
+msgstr "Puan limiti"
+
+msgid "Points limit "
+msgstr "Puan limiti "
+
+msgid "Points limit : "
+msgstr "Puan limiti : "
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "Puan limiti: %1, Güncel en iyi skor: %2"
+
+msgid "Popularity"
+msgstr "Popülerlik"
+
+msgid "Prebuilt Landscapes"
+msgstr "Önceden Hazırlanmış Manzaralar"
+
+msgid "Preferences"
+msgstr "Tercihler"
+
+msgid "Press a key"
+msgstr "Bir tuşa basın"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"\"Ekle\" ya da \"kaldır\" butonuna basılı tutun. Daha sonra imleci "
+"düzenlemek istediğiniz zeminin üzerine getirin ve butonu serbest bırakın."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"Bağlantılı ve bağlantısız modlar arasında geçiş yapmak için %1 tuşuna basın. "
+"Bağlantılı modda, imleç her zaman piste bağlıdır. Bağlantısız modda ise "
+"imleci serbestçe hareket ettirebilirsiniz."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "Diğer inşa modlarına geçiş yapmak için %1 tuşuna basın."
+
+msgid "Pressforward"
+msgstr "İleri"
+
+msgid "Previous author time"
+msgstr "Önceki yapımcı süresi"
+
+msgid "Previous player"
+msgstr "Önceki oyuncu"
+
+msgid "Previous replay saved!"
+msgstr "ÖNCEKİ REPLAY KAYDEDİLDİ!"
+
+msgid "Previous zone"
+msgstr "Önceki bölge"
+
+msgid "Privacy setting"
+msgstr "GİZLİLİK AYARI"
+
+msgid "Proceed to lobby"
+msgstr "Lobiye devam et"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "QA"
+msgstr "KALİTE KONTROL"
+
+msgid "QA LEAD"
+msgstr "KALİTE KONTROL LİDERİ"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "KALİTE KONTROL ERİŞİLEBİLİRLİK EKİBİ"
+
+msgid "QC NETWORKING"
+msgstr "KALİTE KONTROL AĞI"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "KALİTE KONTROL AĞ UZMANI"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "KALİTE KONTROL AĞ UZMANI"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "KALİTE KONTROL AĞI EKİBİ LİDERİ"
+
+msgid "QUALITY"
+msgstr "KALİTE"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "KALİTE KONTROL MÜDÜRÜ"
+
+msgid "Qualifier rank: %1"
+msgstr "Eleme sıralaması: %1"
+
+msgid "Quantity"
+msgstr "Miktar"
+
+msgid "Quarter-final"
+msgstr "Çeyrek final"
+
+msgid "Quit"
+msgstr "ÇIKIŞ"
+
+msgid "Quit editor"
+msgstr "Editörden çık"
+
+msgid "Quit plugin"
+msgstr "Eklentiden çık"
+
+msgid "Quit%1"
+msgstr "Çık%1"
+
+msgid "R&D ENGINEER"
+msgstr "AR-GE MÜHENDİSİ"
+
+msgid "R&D ENGINEERS"
+msgstr "AR-GE MÜHENDİSLERİ"
+
+msgid "R1 button"
+msgstr "R1 tuşu"
+
+msgid "R3 button"
+msgstr "R3 tuşu"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "ÇIKIŞ YÖNETİMİ"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "ÇIKIŞ YÖNETİMİ & YERELLEŞTİRME DİREKTÖRÜ"
+
+msgid "RELEASE MANAGER"
+msgstr "ÇIKIŞ MÜDÜRÜ"
+
+msgid "Race"
+msgstr "Yarış"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr ""
+"Yarış HaritaTipi bulunmadı veya ayarlanmadı. Haritanızı "
+"doğrulayamayabilirsiniz."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "OYUNCULARIN GÜNLÜK HARİTA SEÇİMLERİNDE YARIŞIN"
+
+msgid "Race ranking"
+msgstr "Yarış sıralaması"
+
+msgid "Race validation"
+msgstr "YARIŞ DOĞRULAMA"
+
+msgid "Random"
+msgstr "Rastgele"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"Rastgele Manzara, Uzman Modunda mevcut değil. Lütfen Rastgele Manzarayı "
+"kapatın ve tekrar deneyin."
+
+msgid "Random map"
+msgstr "Rastgele harita"
+
+msgid "Ranking"
+msgstr "Sıralama"
+
+msgid "Rankings"
+msgstr "Sıralamalar"
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Ready (F6)"
+msgstr "Hazır (F6)"
+
+msgid "Record leader ghost"
+msgstr "Lider hayaleti kaydet"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "İzleyicilerinizin takip edeceği hayalet lideri kaydedin."
+
+msgid "Record the ghost that player will follow"
+msgstr "Oyuncunun takip edeceği hayaleti kaydet"
+
+msgid "Records"
+msgstr "Rekorlar"
+
+msgid "Red"
+msgstr "KIRMIZI"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Register"
+msgstr "Kaydol"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "Kaydolma başarısız (Hata kodu: %1)"
+
+msgid "Remaining time: %1"
+msgstr "Kalan süre: %1"
+
+msgid "Remove"
+msgstr "KALDIR"
+
+msgid "Remove from favorite"
+msgstr "SIK KULLANILANLARDAN KALDIR"
+
+msgid "Remove image"
+msgstr "Resmi kaldır"
+
+msgid "Remove map"
+msgstr "Haritayı kaldır"
+
+msgid "Rename folder"
+msgstr "Klasörü yeniden adlandır"
+
+msgid "Replay"
+msgstr "Replay"
+
+msgid "Replay editor"
+msgstr "REPLAY EDİTÖRÜ"
+
+msgid "Replay saved!"
+msgstr "REPLAY KAYDEDİLDİ!"
+
+msgid "Reroll decoration"
+msgstr "Dekorasyonu yeniden dağıt"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Reset the UI customization"
+msgstr "Arayüz özelleştirmesini sıfırla"
+
+msgid "Restart"
+msgstr "YENİDEN BAŞLAT"
+
+msgid "Restart map"
+msgstr "Haritayı yeniden başlat"
+
+msgid "Resume"
+msgstr "Devam et"
+
+msgid "Resuming match"
+msgstr "Karşılaşma sürdürülüyor"
+
+msgid "Retrieving map list..."
+msgstr "Harita listesi alınıyor..."
+
+msgid "Retry"
+msgstr "Tekrar Dene"
+
+msgid "Right click : hide/show the module"
+msgstr "Sağ tık : modülü gizle/göster"
+
+msgid "Room"
+msgstr "Oda"
+
+msgid "Room creation"
+msgstr "Oda kurma"
+
+msgid "Room name"
+msgstr "Oda ismi"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncu: %3\n"
+"Round başına %4 eleme"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncu: %3\n"
+"Round başına 1 eleme"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncu: %3\n"
+"Bu round'da eleme yok"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncular: %3\n"
+"Round başına %4 eleme"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncular: %3\n"
+"Round başına 1 eleme"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"Round %1/%2\n"
+"Yarışan oyuncular: %3\n"
+"Bu round'da eleme yok"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"Round %1/%2, %3 oyuncu\n"
+"%5 oyuncu kalana kadar round başına %4 eleme"
+
+msgid "Round skipped"
+msgstr "Round atlandı"
+
+msgid "Rounds "
+msgstr "Round'lar "
+
+msgid "Rounds : "
+msgstr "Turlar : "
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "SALES DIRECTOR"
+msgstr "SATIŞ DİREKTÖRÜ"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "BİLİMSEL DİREKTÖR "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "KIDEMLİ TOPLULUK ETKİLEŞİM MÜDÜRÜ"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "KIDEMLİ TOPLULUK KANISI UZMANI"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "KIDEMLİ VERİTABANI YÖNETİCİSİ"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "KIDEMLİ DİREKTÖR, TOPLULUK DENEYİMİ"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "KIDEMLİ FRONT-END MÜHENDİSİ"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "KIDEMLİ YAPIMCI (HQ)"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "KIDEMLİ BİLGİ UZMANI"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "KIDEMLİ HAT ANALİSTİ"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "KIDEMLİ MÜDÜR, TOPLULUK GELİŞTİRME"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "KIDEMLİ MÜDÜR, TOPLULUK YÖNETİMİ"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "KIDEMLİ MANUEL TEST GÖREVLİSİ"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "KIDEMLİ ÇEVRİMİÇİ ALTYAPI MÜHENDİSİ"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "KIDEMLİ OPERASYONEL PAZARLAMA MÜDÜRÜ"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "KIDEMLİ HALKLA İLİŞKİLER UZMANI"
+
+msgid "SENIOR PRODUCER"
+msgstr "KIDEMLİ YAPIMCI"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "KIDEMLİ ÜRÜN MÜDÜRÜ"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "KIDEMLİ PROGRAMCI"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "KIDEMLİ YAZILIM MÜHENDİSİ"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "KIDEMLİ UZMANLAR, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "KIDEMLİ SİSTEM YÖNETİCİSİ"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "KIDEMLİ WEB GELİŞTİRİCİSİ"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "KIDEMLİ WEB PROGRAMCISI"
+
+msgid "SITE ADMINISTATOR"
+msgstr "SİTE YÖNETİCİSİ"
+
+msgid "SOUND DESIGNER"
+msgstr "SES TASARIMCISI"
+
+msgid "SPECIAL THANKS"
+msgstr "ÖZEL TEŞEKKÜRLER"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "UZMANLAR, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "KIDEMLİ MÜDÜR, OYUNCU DENEYİMİ EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "KIDEMLİ MÜDÜR, OYUNCU DENEYİMİ, FRONTLINE PROGRAMLARI"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "KIDEMLİ OYUNCU DENEYİMİ MÜDÜRÜ, FRONTLINE PROGRAMLARI"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "MAĞAZA ÖNÜ UZMANI"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "STÜDYO OPERASYONLARI KOORDİNATÖRÜ"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "SÜPERVİZÖR, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "SİSTEM YÖNETİCİSİ"
+
+msgid "Saturday"
+msgstr "CUMARTESİ"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save and create cup"
+msgstr "Kaydet ve kupa oluştur"
+
+msgid "Save as new"
+msgstr "YENİ OLARAK KAYDET"
+
+msgid "Save for later"
+msgstr "Sonrası için kaydet"
+
+msgid "Save map"
+msgstr "HARİTAYI KAYDET"
+
+msgid "Save previous replay"
+msgstr "ÖNCEKİ REPLAY'İ KAYDET"
+
+msgid "Save replay"
+msgstr "REPLAY'İ KAYDET"
+
+msgid "Saved Activities"
+msgstr "KAYITLI ETKİNLİKLER"
+
+msgid "Saving campaign..."
+msgstr "Campaign kaydediliyor..."
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 16x1: Stadyum podyumunda (büyük ekranın altında) gösterilen resim.\n"
+"Boyut: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 16x9: Stadyumdaki büyük ekranda gösterilen resim.\n"
+"Boyut: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 8x1: Stadyum tribünlerinde gösterilen resim.\n"
+"Boyut: %1 - Format: DDS (DXT5)"
+
+msgid "Scroll down"
+msgstr "Aşağı kaydır"
+
+msgid "Scroll up"
+msgstr "Yukarı kaydır"
+
+msgid "Second (Press 2)"
+msgstr "İkinci (2'ye basın)"
+
+msgid "See tutorial again"
+msgstr "EĞİTİMİ TEKRAR GÖR"
+
+msgid "Select"
+msgstr "SEÇ"
+
+msgid "Select a VIP to play against"
+msgstr "Oynamak için rakip VIP seçin"
+
+msgid "Select a billboard"
+msgstr "Reklam panosu seç"
+
+msgid "Select a campaign"
+msgstr "Bir campaign seçin"
+
+msgid "Select a color"
+msgstr "Renk seç"
+
+msgid "Select a landscape and start building your track."
+msgstr "Bir manzara seçin ve pistinizi oluşturmaya başlayın."
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"Bir manzara seçin. Hoşunuza gideni bulduğunuzda, pistinizi oluşturmaya "
+"başlayabilirsiniz."
+
+msgid "Select a mode"
+msgstr "BİR MOD SEÇİN"
+
+msgid "Select a mode before adding maps"
+msgstr "HARİTA EKLEMEDEN ÖNCE BİR MOD SEÇİN"
+
+msgid "Select a mode to check map compatibility"
+msgstr "Haritayla uyumunu kontrol etmek için bir mod seçin"
+
+msgid "Select a road paint"
+msgstr "Yol boyası seç"
+
+msgid "Select a round to start"
+msgstr "Başlamak için bir round seçin"
+
+msgid "Select all"
+msgstr "Tümünü seç"
+
+msgid "Select an account"
+msgstr "Bir hesap seçin"
+
+msgid "Select an image"
+msgstr "Bir resim seç"
+
+msgid "Select map"
+msgstr "HARİTA SEÇ"
+
+msgid "Select maps"
+msgstr "Haritaları seç"
+
+msgid "Select maps to remove"
+msgstr "Kaldırılacak haritaları seçin"
+
+msgid "Select mode"
+msgstr "MOD SEÇİN"
+
+msgid "Select next map"
+msgstr "Sonraki haritayı seçin"
+
+msgid "Select number of players"
+msgstr "OYUNCU SAYISINI SEÇİN"
+
+msgid "Select style"
+msgstr "Stil seç"
+
+msgid "Select the location of the starting line"
+msgstr "Başlangıç çizgisinin yerini seç"
+
+msgid "Select where you want to start"
+msgstr "Başlamak istediğiniz yeri seçin"
+
+msgid "Select your activity"
+msgstr "AKTİVİTENİZİ SEÇİN"
+
+msgid "Select zone"
+msgstr "Bölge seçiniz"
+
+msgid "Selected campaign"
+msgstr "Seçilen campaign"
+
+msgid "Selected map"
+msgstr "Seçili harita"
+
+msgid "Selected maps"
+msgstr "Seçilen haritalar"
+
+msgid "Semi-final"
+msgstr "Yarı final"
+
+msgid "Server account"
+msgstr "Sunucu hesabı"
+
+msgid "Server doesn't exist anymore"
+msgstr "Sunucu artık mevcut değil"
+
+msgid "Server name"
+msgstr "Sunucu adı"
+
+msgid "Server region"
+msgstr "Sunucu bölgesi"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr "Sunucular çevrimdışı veya bakımda, lütfen daha sonra tekrar deneyin."
+
+msgid "Set next map"
+msgstr "Sonraki haritayı ayarla"
+
+msgid "Set private"
+msgstr "ÖZEL OLARAK AYARLA"
+
+msgid "Set public"
+msgstr "HERKESE AÇIK OLARAK AYARLA"
+
+msgid "Set/Unset as favorite"
+msgstr "Sık kullanılanlara ekle/kaldır"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Seventh (Press 7)"
+msgstr "Yedinci (7'ye basın)"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Silver"
+msgstr "Gümüş"
+
+msgid "Silver medal"
+msgstr "Gümüş madalya"
+
+msgid "Single Map"
+msgstr "Tek Harita"
+
+msgid "Sixth (Press 6)"
+msgstr "Altıncı (6'ya basın)"
+
+msgid "Skin browser"
+msgstr "Dış görünüm tarayıcısı"
+
+msgid "Skin editor"
+msgstr "DIŞ GÖRÜNÜM EDİTÖRÜ"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "Dış görünüm yüklemesi başarısız. (Hata: %1)"
+
+msgid "Skin uploads"
+msgstr "DIŞ GÖRÜNÜM YÜKLEMELERİ"
+
+msgid "Skins"
+msgstr "DIŞ GÖRÜNÜMLER"
+
+msgid "Skip"
+msgstr "Atla"
+
+msgid "Solo"
+msgstr "Solo"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"Bazı bloklar birkaç bağlayıcı seçeneği sunar. Bunlar beyaz kutularla "
+"belirtilmiştir. Kullanmak istediğinizi seçmek için \"değiştir\" tuşuna basın."
+
+msgid "Spectate"
+msgstr "İzle"
+
+msgid "Spectator"
+msgstr "İZLEYİCİ"
+
+msgid "Spectator password"
+msgstr "İzleyici parolası"
+
+msgid "SplitScreen"
+msgstr "BölünmüşEkran"
+
+msgid "Splitscreen"
+msgstr "Bölünmüş ekran"
+
+msgid "Standard"
+msgstr "Standart"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"Standart Erişim, oyunculara yaratıcılık ve aktivitelerle dolu mükemmel bir "
+"deneyim sunan, 1 yıllık bir üyeliktir!"
+
+msgid "Starter"
+msgstr "BAŞLANGIÇ"
+
+msgid "Stats"
+msgstr "İstatistikler"
+
+msgid "Step ranking"
+msgstr "Basamak sıralaması"
+
+msgid "Stop auto-finish"
+msgstr "Oto-bitişi durdur"
+
+msgid "Streaming subscriptions"
+msgstr "Yayın abonelikleri"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Subscribe"
+msgstr "Abone ol"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr ""
+"İnceleme server'ına erişmek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr ""
+"Bir kulüp etkinliği oluşturmak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr ""
+"Bir kulüp oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr ""
+"Bir yerel sunucu oluşturmak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "Harita oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr ""
+"Dış görünüm oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr ""
+"Oyun modları oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr ""
+"Öğeler ve modlar oluşturmak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr ""
+"Bir kulüp sayfasını görüntülemek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr ""
+"Gelişmiş haritaları düzenlemek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr ""
+"Kulüp haritalarını düzenlemek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr ""
+"Bir yerel sunucu bulmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "Bir kulübe katılmak için Trackmania %1'ne abone olun."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr ""
+"Kulübün odalarına katılmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr ""
+"Arcade kanalına katılmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr ""
+"Replay editörünü açmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr "Basit harita editörünü açmak için abone olun: Trackmania %1"
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr ""
+"Dış görünüm editörünü açmak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr ""
+"Yerel bir haritada oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr ""
+"Özel bir kulüp etkinliğinde oynamak için Trackmania %1 sürümüne abone olun."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr ""
+"Bir replay'e karşı oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr ""
+"Kulübün campaign'lerini oynamak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr ""
+"Çevrimiçi karşılaşmalarda yer almak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr "Geçmiş aylık campaign'leri oynamak için abone olun: Trackmania %1"
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr ""
+"Geçmiş çeyreklik campaign'leri oynamak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr ""
+"HotSeat modunda oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr "Aylık canlı campaign'i oynamak için abone olun: Trackmania %1"
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr ""
+"Mevcut çeyreklik campaign'i canlı oynamak için Trackmania'nın %1 sürümüne "
+"abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr ""
+"Bölünmüş ekran modunda oynamak için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr ""
+"Replay editöründe bir harita kaydetmek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr ""
+"Harita karşıya yüklemek için Trackmania'nın %1 sürümüne abone olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr ""
+"Karşıya dış görünüm yüklemek için Trackmania'nın %1 sürümüne abone "
+"olmalısınız."
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "Özel bir dış görünüm kullanmak için Trackmania %1 sürümüne abone olun."
+
+msgid "Sunday"
+msgstr "PAZAR"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "Sohbette \"hadi %2$z\" yazarak %1$z oyuncusuna destek olun"
+
+msgid "Switch"
+msgstr "Değiştir"
+
+msgid "TEAM LEAD"
+msgstr "EKİP LİDERİ"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "TAKIM LİDERLERİ, NCSA MÜŞTERİ DESTEĞİ"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "TEKNİK ANİMATÖR"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "TEKNİK DİREKTÖR"
+
+msgid "TECHNICAL MANAGER"
+msgstr "TEKNİK MÜDÜR"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "TEKNİK OPERASYON LİDERİ"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "TEKNİK UZMAN"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "TEKNİK DESTEK KOORDİNATÖRÜ"
+
+msgid "TESTER"
+msgstr "TEST GÖREVLİSİ"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"NADEO EKİBİNDEN VE DÜNYANIN HER TARAFINDAKİ OYUNCULARDAN OLUŞAN, OYUNUN "
+"KEYFİNİ DAHA İYİ BİR ŞEKİLDE ALACAK İNANILMAZ ALPHA TESTER'LARA TEŞEKKÜR "
+"EDERİZ. RUHUNUZ VE UZMANLIĞINIZ DÜNYA SINIFI LİGİNDE."
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "İZLEME & ANALİZ UZMANI, EMEA"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"TÜR: Herkese açık\n"
+"HEDEF: Geri sayım bitmeden en iyi süreyi elde edin."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"TÜR: Herkese açık\n"
+"HEDEF: Haritadaki en iyi zamanı elde edin."
+
+msgid "Take this slot"
+msgstr "Bu slotu al"
+
+msgid "Team versus Team"
+msgstr "Takım vs Takım"
+
+msgid "Tech"
+msgstr "Teknik"
+
+msgid "Terraforming in progress"
+msgstr "Arazi düzenlemesi yapılıyor"
+
+msgid "Terrain"
+msgstr "Arazi"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Test other maps"
+msgstr "DİĞER HARİTALARI TEST ET"
+
+msgid "Test the track"
+msgstr "Pisti test et"
+
+msgid "Test track"
+msgstr "Pisti test et"
+
+msgid "Test your maps"
+msgstr "KENDİ HARİTALARINI TEST ET"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"Kulüp Erişimi, 1 veya 3 yıllık abonelikle; özelleştirme seçenekleri, "
+"profesyonel karşılaşmalar ve benzersiz oyun içi sosyalleşme imkanları ile "
+"eksiksiz bir Trackmania deneyimi sunar!"
+
+msgid "The Left Stick"
+msgstr "Sol Analog"
+
+msgid "The Map %1 is already used"
+msgstr "%1 haritası zaten kullanımda"
+
+msgid "The Right Stick"
+msgstr "Sağ Analog"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "EN İYİ PİSTLERİN GÜNÜN PİSTİ SEÇİLME ŞANSI VARDIR!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "Gövde en fazla %1 karakterden oluşabilir"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "Campaign ismi %1 karakteri aşmamalıdır"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "Kulüp açıklaması %1 karakterden kısa olmalıdır"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "Kulüp ismi en az %1 ve en fazla %2 karakterden oluşmalıdır"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "KULÜP ETİKETİ EN AZ %1 VE EN FAZLA %2 KARAKTERDEN OLUŞMALIDIR"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "Karşılaşmanın oluşturulması başarısız oldu (Hata kodu: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr "Dekorasyon kaldırılacak ve pisti yeniden onaylamanız gerekecek."
+
+msgid "The decoration will be removed."
+msgstr "Dekorasyon kaldırılacak."
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "Ana başlık en fazla %1 karakterden oluşabilir"
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "LİDER TABLOSU KAPALI!"
+
+msgid "The league is coming back in"
+msgstr "Lig devam edecek:"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "'%1' haritası zaten oynatma listesinde"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "'%1' haritası seçilen oyun modu ile uyumlu değil"
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr ""
+"'%1' haritası oynanamıyor. Lütfen haritayı doğrulayın ve gölgeleri "
+"hesaplayın."
+
+msgid "The match will begin shortly ..."
+msgstr "Karşılaşma kısa süre içinde başlayacak..."
+
+msgid "The matchsettings is not valid"
+msgstr "Karşılaşma ayarları geçerli değil"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "İsim en fazla %1 karaktere sahip olabilir"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "Karşılaşmanın ismi en az %1 ve en fazla %2 karakterden oluşmalıdır"
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "İsim etiketinde en fazla %1 karakter olabilir"
+
+msgid "The next match will begin in %1 "
+msgstr "Bir sonraki karşılaşma %1 içinde başlayacak  "
+
+msgid "The registration closed at : %1 H"
+msgstr "Kayıt alımı kapanış saati : %1 S"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "Odaya ulaşılamıyor, lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "Oda başlıyor, birkaç saniye içinde hazır olacak."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"Pistte oto-bitiş yapılamadı. Tekrar denemeden önce birkaç bloğu kaldırın."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "Pist çıkmaz yolda. Farklı bir yöne gitmeyi deneyin."
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr ""
+"Piste oto-finiş uygulanabilmesi için, pistte ucu açık bağlayıcı bulunmalıdır."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "Pistinizde %1 podyum mevcut. Sadece bir tane yerleştirebilirsiniz."
+
+msgid "There are no displayed activities in your club."
+msgstr "Kulübünüzde görüntülenen bir etkinlik yok."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "Bu editör için uygun makroblok mevcut değil."
+
+msgid "There are no saved activities in your club."
+msgstr "Kulübünüzde kaydedilmiş aktivite yok."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr ""
+"Bu karşılaşma hakkındaki bilgiler getirilirken hata oluştu. (Hata kodu: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Sıralamalar toplanırken hata oluştu, lütfen daha sonra tekrar deneyin. (Hata "
+"kodu: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Sıralamalar toplanırken hata oluştu, lütfen daha sonra tekrar deneyin. "
+"(Hata: Görev artık mevcut değil)"
+
+msgid "Third (Press 3)"
+msgstr "Üçüncü (3'e basın)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr "Bu etkinlik özeldir, kullanmak için kulüp üyesi olmalısınız."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"Bu bloğun özelleştirilebilir bir dış görünümü var. Kullanmak istediğiniz "
+"resmi seçmek için %1 kullanın."
+
+msgid "This competition is closed"
+msgstr "Bu karşılaşma kapalı"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr ""
+"Bu bir oyuncu tarafından oluşturulmuş özel bir sunucudur. Çevrim dışı "
+"olabilir."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"Bu bir çoklu tur başlangıç bloğudur. Oyuncular bir turu doğrulamak için tüm "
+"checkpoint'lerden ve ardından bu bloktan geçmelidir."
+
+msgid "This map is not playable"
+msgstr "Bu harita oynanamaz"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"Bu eşleştirme sunucusunda bir karşılaşma gerçekleşiyor. Şu anda "
+"katılamazsınız."
+
+msgid "This round is a draw."
+msgstr "Bu round berabere."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"Bu sunucu hesabı zaten \"%1\" kulüp odasında %2 ID'si ile kullanılıyor. "
+"Lütfen başka bir hesap seçin."
+
+msgid "This server will split for less waiting time"
+msgstr "Bu sunucu daha az bekleme süresi için bölünecek"
+
+msgid "This track is already validated."
+msgstr "Bu pist zaten doğrulanmış."
+
+msgid "Thursday"
+msgstr "PERŞEMBE"
+
+msgid "Time Limit"
+msgstr "SÜRE LİMİTİ"
+
+msgid "Time Limit :"
+msgstr "SÜRE LİMİTİ :"
+
+msgid "Time limit"
+msgstr "SÜRE LİMİTİ"
+
+msgid "Time to beat"
+msgstr "Geçilecek süre"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr ""
+"Bunun olmasını engellemek için, kendi manzaralarınızı oluşturabilirsiniz. "
+"Yine de devam edilsin mi?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr ""
+"Bunu yapmak için, bir yarışı tüm checkpoint'lerden geçerek, baştan sonra "
+"bitirmeniz gerekiyor."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "Bu pisti editör dışında oynamak için doğrulamanız gerekmektedir."
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "Top"
+msgstr "En iyi"
+
+msgid "Top %1"
+msgstr "EN İYİ %1."
+
+msgid "Top %1 %2"
+msgstr "%2 en iyi %1."
+
+msgid "Track"
+msgstr "PİST"
+
+msgid "Track completed."
+msgstr "Pist tamamlandı."
+
+msgid "Track of the day"
+msgstr "GÜNÜN PİSTİ"
+
+msgid "Track style"
+msgstr "Pist stili"
+
+msgid "Training"
+msgstr "Antrenman"
+
+msgid "Trial"
+msgstr "Deneme"
+
+msgid "Trophies"
+msgstr "Kupalar"
+
+msgid "Try to place checkpoints regularly"
+msgstr "Checkpoint'leri belirli aralıklarla yerleştirmeyi deneyin"
+
+msgid "Tuesday"
+msgstr "SALI"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "UBISOFT KULÜP HATTI YAPIMCISI"
+
+msgid "UI DESIGNER"
+msgstr "UI TASARIMCISI"
+
+msgid "UI DESIGNER "
+msgstr "UI TASARIMCISI "
+
+msgid "UI PROGRAMMER"
+msgstr "UI PROGRAMCISI"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "UI/UX TASARIM EKİP LİDERİ"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "UOR ORTAK TAKIM LİDERİ"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "UOR PLATFORM SAHİPLERİ"
+
+msgid "UOR TEAM"
+msgstr "UOR EKİBİ"
+
+msgid "UOR TEAM LEAD"
+msgstr "UOR TAKIM LİDERİ"
+
+msgid "UPLAY TEAM"
+msgstr "UPLAY EKİBİ"
+
+msgid "UX DESIGNER"
+msgstr "UX TASARIMCISI"
+
+msgid "UX DESIGNER "
+msgstr "UX TASARIMCISI "
+
+msgid "UX REQUIREMENTS"
+msgstr "UX GEREKSİNİMLERİ"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "UX GEREKSİNİMLERİ LİDERİ"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "UX GEREKSİNİMLERİ UZMANLARI"
+
+msgid "Unapply"
+msgstr "Uygulananı kaldır"
+
+msgid "Unapply skin"
+msgstr "DIŞ GÖRÜNÜMÜ İPTAL ET"
+
+msgid "Unselect all"
+msgstr "Tümünün seçimini kaldır"
+
+msgid "Unsubscribe"
+msgstr "Abonelikten çık"
+
+msgid "Update member's role"
+msgstr "Üyenin rolünü güncelle"
+
+msgid "Updating club..."
+msgstr "Kulüp güncelleniyor..."
+
+msgid "Upload a map"
+msgstr "Karşıya harita yükle"
+
+msgid "Upload a skin"
+msgstr "KARŞIYA DIŞ GÖRÜNÜM YÜKLE"
+
+msgid "Uploading..."
+msgstr "Karşıya yükleniyor..."
+
+msgid "Use %1 to move the cursor."
+msgstr "İmleci %1 ile hareket ettirin."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"Blok seçim ekranını açmak ve bir kategori seçmek için %1 tuşuna basın, "
+"ardından yerleştirmek istediğiniz bloğu seçmek için %2 tuşuna basın."
+
+msgid "Use a custom points repartition :"
+msgstr "Özel puan yeniden bölümü kullan"
+
+msgid "Use alternate rules :"
+msgstr "Alternatif kuralları kullan"
+
+msgid "Use tie-break"
+msgstr "Beraberlik bozmayı kullan"
+
+msgid "Use your dedicated server"
+msgstr "Adanmış sunucunuzu kullanın"
+
+msgid "VEHICLE ARTIST"
+msgstr "ARAÇ SANATÇISI"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "BAŞKAN YARDIMCISI, KİTLE & MÜŞTERİ YÖNETİMİ, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "BAŞKAN YARDIMCISI, MÜŞTERİ DENEYİMİ"
+
+msgid "VIPs from club '%1'"
+msgstr "'%1' kulübünden VIP'ler"
+
+msgid "VP EDITORIAL"
+msgstr "BAŞKAN YRD., EDİTORYAL"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "BAŞKAN YARDIMCISI, EDİTORYAL TEKNOLOJİ"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr ""
+"BAŞKAN YARDIMCISI, FİNANSAL PLANLAMA, STÜDYO OPERASYONLARI VE KALİTE KONTROL"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "BAŞKAN YARDIMCISI, ÇEVRİMİÇİ HİZMETLER"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "BAŞKAN YARDIMCISI, PRODÜKSİYON MÜDÜRÜ"
+
+msgid "Validate"
+msgstr "Doğrula"
+
+msgid "Validate & exit"
+msgstr "Doğrula & çık"
+
+msgid "Validate track"
+msgstr "Pisti doğrula"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "Pistinizde editörün dışında oynamak için, pistinizi doğrulayın."
+
+msgid "Validation"
+msgstr "Doğrulama"
+
+msgid "Validations"
+msgstr "Doğrulamalar"
+
+msgid "Version: %1"
+msgstr "Versiyon: %1"
+
+msgid "Versus"
+msgstr "Karşı"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Dikey: Kulüplerim listesinde kullanılan resim.\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid "View replay"
+msgstr "Replay'i görüntüle"
+
+msgid "Vote for a map"
+msgstr "Harita oyla"
+
+msgid "Vote for mode settings"
+msgstr "MOD AYARLARI İÇİN OYLAMA"
+
+msgid "Vote to balance teams"
+msgstr "TAKIMLARI DENGELEMEK İÇİN OYLAMA"
+
+msgid "Vote to jump to map"
+msgstr "SEÇİLİ HARİTAYA GİTMEK İÇİN OYLAMA"
+
+msgid "Vote to play next map"
+msgstr "SONRAKİ HARİTA İÇİN OYLAMA"
+
+msgid "Vote to restart"
+msgstr "YENİDEN BAŞLATMA İÇİN OYLAMA"
+
+msgid "Vote to set next map"
+msgstr "SONRAKİ HARİTAYI SEÇMEK İÇİN OYLAMA"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"Bir haritaya oy vermek, yalnızca haritanın seçilme şansını artırır. En az "
+"bir oya sahip herhangi bir haritanın oynanma şansı mevcuttur."
+
+msgid "Vs race record"
+msgstr "Yarış rekoruna karşı"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "WEB İÇERİK UZMANI"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "WEB İÇERİK UZMANI YARDIMCISI"
+
+msgid "WEB DEVELOPER"
+msgstr "WEB GELİŞTİRİCİ"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "WEB GELİŞTİRİCİ YARDIMCISI, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "WEB GELİŞTİRİCİSİ, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "WEB YAPIMCI YARDIMCISI, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "WEB YAPIMCISI, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "WEB PROGRAMCISI"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "WEB PROJE MÜDÜRÜ, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "WEB HİZMETLERİ DİREKTÖRÜ"
+
+msgid "WEB SERVICES TEAM"
+msgstr "WEB SUNUCULARI EKİBİ"
+
+msgid "WEB UI DESIGNER"
+msgstr "WEB ARAYÜZ TASARIMCISI"
+
+msgid "Waiting for other players."
+msgstr "Diğer oyuncular bekleniyor."
+
+msgid "Waiting for players"
+msgstr "Oyuncular bekleniyor"
+
+msgid "Waiting for your allies to be ready."
+msgstr "Müttefiklerinizin hazır olması bekleniyor."
+
+msgid "Waiting for your match"
+msgstr "Karşılaşmanız için bekleniyor"
+
+msgid "Waiting for your match to start"
+msgstr "Karşılaşmanızın başlaması için bekleniyor"
+
+msgid "Warm up"
+msgstr "Isınma"
+
+msgid "Warmup"
+msgstr "Isınma"
+
+msgid "Warmup: %1/%2"
+msgstr "Isınma: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"İzle\n"
+"ısınma"
+
+msgid "We are sending you back to the lobby."
+msgstr "Sizi lobiye geri gönderiyoruz."
+
+msgid "We are sending you back to the match you left."
+msgstr "Sizi ayrıldığınız karşılaşmaya geri gönderiyoruz."
+
+msgid "We are starting a new match."
+msgstr "Yeni bir karşılaşma başlatıyoruz."
+
+msgid "Wednesday"
+msgstr "ÇARŞAMBA"
+
+msgid "Welcome to Trackmania"
+msgstr "Trackmania'ya Hoş Geldiniz"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Nadeo günlük kupasına hoş geldiniz!\n"
+"\n"
+"Günün haritasında 10 dakikalığına yarışın. Sonrasında eleme aşamasına "
+"katılarak daha fazla kupa kazanabileceksiniz. \n"
+"Tüm sunucular arasındaki küresel sıralamanızı ekranınız üzerinden "
+"görebilirsiniz. İyi şanslar!"
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Nadeo günlük kupasına hoş geldiniz!\n"
+"\n"
+"Günün haritasında 10 dakikalığına yarışın. Sonrasında eleme aşamasına "
+"katılarak daha fazla kupa kazanabileceksiniz. \n"
+"Tüm sunucular arasındaki küresel sıralamanızı ekranınız üzerinden "
+"görebilirsiniz. İyi şanslar!"
+
+msgid "Welcome to the club!"
+msgstr "Kulübe hoş geldiniz!"
+
+msgid "What do you want to do?"
+msgstr "Ne yapmak istersiniz?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"Bir blok kesildiğinde, blok geçmişinde saklanır. Daha sonra bu bloğu "
+"pistinize geri yapıştırabilir veya blok geçmişinden kaldırabilirsiniz."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"İmleci yerleştirdiğiniz bir bloğun üzerine getirdiğinizde, bloğu "
+"kopyalayabilir veya otomatik olarak uyumlu bir blok bağlamayı "
+"deneyebilirsiniz."
+
+msgid "Which map would you like to submit?"
+msgstr "HANGİ HARİTAYI GÖNDERMEK İSTERSİNİZ?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "Beklerken, Lobinin Kralı olmayı deneyin!"
+
+msgid "White"
+msgstr "BEYAZ"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr ""
+"Başlangıç Erişimi ile Trackmania'nın temel özelliklerini ücretsiz keşfedin."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Xbox One Kablosuz Kumandası"
+
+msgid "Yellow"
+msgstr "SARI"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "You are being transferred as a substitute."
+msgstr "Yedek olarak transfer edilyorsunuz."
+
+msgid "You are being transferred. Please wait."
+msgstr "Transfer ediliyorsunuz. Lütfen bekleyin..."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Uplay bağlantınız kesildi. (Hata kodu: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Trackmania sunucularına olan bağlantınız kesildi. (Hata kodu: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "Uplay'e bağlı değilsiniz."
+
+msgid "You are not subscribed to any club"
+msgstr "Herhangi bir kulübe abone değilsiniz"
+
+msgid "You are registered"
+msgstr "Kaydınız alındı"
+
+msgid "You are suspended"
+msgstr "Askıya alındınız"
+
+msgid "You can cancel 1 match."
+msgstr "1 karşılaşmayı iptal edebilirsiniz."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr ""
+"Kupaya $<$00f$tdevam ederek$> bir Eleme karşılaşmasında yer almayı "
+"seçebilirsiniz."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr ""
+"Aşağıdaki 'Oluştur' butonuna basarak kendi partinizi oluşturabilirsiniz."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr ""
+"Podyum bloğunu harita oluşturucunun dekorasyon kısmında bulabilirsiniz."
+
+msgid "You can place only one starting point!"
+msgstr "Sadece bir başlangıç noktası yerleştirebilirsiniz!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"İstediğiniz zaman pistinizi test edebilirsiniz. Nereden başlayacağınızı "
+"seçmek için \"test\" tuşuna basın."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "Bir sonraki checkpointe kadar hızlanamazsınız"
+
+msgid "You can't remove the starting line of the track."
+msgstr "Pistin başlangıç çizgisini kaldıramazsınız."
+
+msgid "You don't have any server accounts registered."
+msgstr "Kayıtlı sunucu hesabınız bulunmuyor."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr "Piste yerleştirilebilecek maksimum blok sayısına ulaşmak üzeresiniz."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Uplay bağlantınız kesildi. (Hata kodu: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Trackmania sunucularına olan bağlantınız kesildi. (Hata kodu: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"Elendiniz.\n"
+"[Ödül gelecek bir güncellemede mevcut olacak.]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Günlük kanala 30 saniye içinde yönlendirileceksiniz."
+
+msgid "You have to place exactly one podium!"
+msgstr "Sadece bir podyum yerleştirmelisiniz!"
+
+msgid "You must enter a name for your club"
+msgstr "Kulübünüz için bir isim girmelisiniz"
+
+msgid "You must enter a tag for your club"
+msgstr "Kulübünüz için bir etiket girmelisiniz"
+
+msgid "You must place at least one checkpoint!"
+msgstr "En az bir checkpoint yerleştirmelisiniz!"
+
+msgid "You must place at least one finish line!"
+msgstr "En az bir bitiş çizgisi yerleştirmelisiniz!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "En az bir adet respawn olunabilen checkpoint yerleştirmelisiniz!"
+
+msgid "You must select at least one map to play"
+msgstr "Oynamak için en az bir harita seçmelisiniz"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "Oynatma listesine en az 1 harita eklemelisiniz"
+
+msgid "You need to be a club member to play or download a map."
+msgstr ""
+"Bir haritada oynamak veya haritayı indirmek için kulüp üyesi olmalısınız."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr ""
+"Bu dış görünümü favori olarak seçmek için bir kulübe üye olmanız gerekiyor."
+
+msgid "You need to pick a game mode"
+msgstr "BİR OYUN MODU SEÇMELİSİNİZ"
+
+msgid "You need to place a starting point!"
+msgstr "Pistin başlangıç noktasını yerleştirmelisiniz!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr "Maksimum blok sayısına ulaştınız. Daha fazla ekleyemezsiniz."
+
+msgid "You will be able to change it later"
+msgstr "Daha sonra değiştirebilirsiniz"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "Bir sonraki karşılaşmayı iptal ederseniz askıya alınacaksınız."
+
+msgid "You will have to validate the track again."
+msgstr "Pisti yeniden doğrulamanız gerekecek."
+
+msgid "You will soon be redirected to a match server."
+msgstr "Yakında bir karşılaşma sunucusuna yönlendirileceksiniz"
+
+msgid "Your map in less than %1 minutes"
+msgstr "Haritanıza kalan süre: %1 dk.dan daha az"
+
+msgid "Your search did not return any results"
+msgstr "Aramada herhangi bir sonuç bulunamadı"
+
+msgid "Your subscription ends on %1"
+msgstr "Aboneliğiniz %1 tarihinde sona erecek"
+
+msgid "by %1"
+msgstr "%1 TARAFINDAN"
+
+msgid "club access"
+msgstr "KULÜP ERİŞİMİ"
+
+msgid "controller"
+msgstr "kontrol aracı"
+
+msgid "max %1 characters"
+msgstr "maks %1 karakter"
+
+msgid "per server"
+msgstr "sunucu başına"
+
+msgid "standard access"
+msgstr "STANDART ERİŞİM"
+
+msgid "starter access"
+msgstr "BAŞLANGIÇ ERİŞİMİ"
+
+msgid "yes"
+msgstr "evet"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|%1 karşılaşmayı iptal edebilirsiniz."
+
+msgid "|Action|Quick save"
+msgstr "|Action|Hızlı kayıt"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|Uyarı"
+
+msgid "|Author|By"
+msgstr "|Author|Yapımcı"
+
+msgid "|Best score|New"
+msgstr "|Best score|Yeni"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|Checkpoint"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|Bitiş"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|Engel"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|Rampa"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockCategory|Düz"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|Geçiş"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|Turbo"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|Dönüş"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|Checkpoint"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|BİTİŞ"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "|BlockInfo|Çoklu tur"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|BAŞLANGIÇ"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|KAVİS"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|Dekorasyon"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|Toprak"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|Buz"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|Platform"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|Basit"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockStyle|Rampa"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|Eğimli"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|Favoriler"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|Son kullanılanlar"
+
+msgid "|Camera|Follow"
+msgstr "|Camera|Takip"
+
+msgid "|Camera|Free"
+msgstr "|Camera|Serbest"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|Replay"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|Resmî"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|NİSAN %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|AĞUSTOS %1"
+
+msgid "|Campaign|Club"
+msgstr "|Campaign|Kulüp"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|ARALIK %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|ŞUBAT %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|OCAK %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|TEMMUZ %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|HAZİRAN %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|MART %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|MAYIS %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|Aylık"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|KASIM %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|EKİM %1"
+
+msgid "|Campaign|Official"
+msgstr "|Campaign|Resmi"
+
+msgid "|Campaign|Private"
+msgstr "|Campaign|Özel"
+
+msgid "|Campaign|Public"
+msgstr "|Campaign|Herkese açık"
+
+msgid "|Campaign|Quarterly"
+msgstr "|Campaign|Çeyreklik"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|EYLÜL %1"
+
+msgid "|Campaign|Training"
+msgstr "|Campaign|Antrenman"
+
+msgid "|Campaign|Unknown"
+msgstr "|Campaign|Bilinmeyen"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|GERİ"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|HARİTALAR"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|RESMİ SIRALAMALAR"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|Dış görünümler"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|HOŞ GELDİNİZ"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|Kulübe hoş geldiniz! Arkadaşlarınızı bu kulübe katılmaya davet "
+"edin ve birlikte oynayıp paylaşmak üzere etkinlikler oluşturun!"
+
+msgid "|ClubMember|Role"
+msgstr "|ClubMember|Rol"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|KAPALI"
+
+msgid "|ClubPrivacy|Private"
+msgstr "|ClubPrivacy|ÖZEL - KAPALI"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "|ClubPrivacy|ÖZEL - İSTEK ÜZERİNE"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|HERKESE AÇIK"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "|ClubPrivacy|AÇIK - HERKES KATILABİLİR"
+
+msgid "|Club|%1 Member"
+msgstr "|Club|%1 Üye"
+
+msgid "|Club|%1 Members"
+msgstr "|Club|%1 Üye"
+
+msgid "|Club|Closed"
+msgstr "|Club|Özel - Davet bazlı"
+
+msgid "|Club|Description"
+msgstr "|Club|AÇIKLAMA"
+
+msgid "|Club|Join"
+msgstr "|Club|KATIL"
+
+msgid "|Club|Leave"
+msgstr "|Club|Ayrıl"
+
+msgid "|Club|Member"
+msgstr "|Club|Üye"
+
+msgid "|Club|Members"
+msgstr "|Club|Üyeler"
+
+msgid "|Club|Privacy"
+msgstr "|Club|GİZLİLİK"
+
+msgid "|Club|Requests"
+msgstr "|Club|İstekler"
+
+msgid "|Club|VIP"
+msgstr "|Club|VIP"
+
+msgid "|Club|request"
+msgstr "|Club|talep"
+
+msgid "|Club|requests"
+msgstr "|Club|talepler"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|Çok yakında"
+
+msgid "|Competition|Private"
+msgstr "|Competition|Özel"
+
+msgid "|Competition|Public"
+msgstr "|Competition|Herkese açık"
+
+msgid "|DataType|Campaign"
+msgstr "|DataType|Campaign"
+
+msgid "|DataType|Club"
+msgstr "|DataType|Kulüp"
+
+msgid "|DataType|Folder"
+msgstr "|DataType|Klasör"
+
+msgid "|DataType|Image"
+msgstr "|DataType|Resim"
+
+msgid "|DataType|Map"
+msgstr "|DataType|Harita"
+
+msgid "|DataType|MatchSettings"
+msgstr "|DataType|KarşılaşmaAyarları"
+
+msgid "|DataType|None"
+msgstr "|DataType|Yok"
+
+msgid "|DataType|Replay"
+msgstr "|DataType|Replay"
+
+msgid "|DataType|Room"
+msgstr "|DataType|Oda"
+
+msgid "|DataType|Script"
+msgstr "|DataType|Script"
+
+msgid "|DataType|Skin"
+msgstr "|DataType|Dış görünüm"
+
+msgid "|DidNotFinish|DNF"
+msgstr "|DidNotFinish|DNF"
+
+msgid "|Friday|F"
+msgstr "|Friday|C"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|Dekorasyon"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|Dekorasyon düzenleme"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|Manzara"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|Manzara düzenleme"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|Pist"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|Pist düzenleme"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|Rastgele"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|Kartpostallar"
+
+msgid "|GameMode|Cup"
+msgstr "|GameMode|Kupa"
+
+msgid "|GameMode|Knockout"
+msgstr "|GameMode|Elemeler"
+
+msgid "|GameMode|Laps"
+msgstr "|GameMode|Turlar"
+
+msgid "|GameMode|Rounds"
+msgstr "|GameMode|Round"
+
+msgid "|GameMode|Teams"
+msgstr "|GameMode|TAKIMLAR"
+
+msgid "|GameMode|Time Attack"
+msgstr "|GameMode|ZAMANA KARŞI"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|Dekorasyon"
+
+msgid "|Image|Background"
+msgstr "|Image|Arka plan"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|Kaplama sponsoru 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|Ekran 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|Ekran 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|Ekran 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|Dikey"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive - Change choice|Değiştir"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|Manzara seç"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|Yinele"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|Geri al"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|YÜKSELT"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|Editörden ayrıl"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|ALÇALT"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|Piste başla"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|Test Et"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|Pisti test et"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|At"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|Ekle"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|Gözat"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|Pist inşa et"
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|İptal Et"
+
+msgid "|Infinitive|Confirm"
+msgstr "|Infinitive|Onayla"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|Bağla"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|Devam Et"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|Kopyala"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|Kes"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|Bağlantıyı Kes"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|Dekorasyon düzenle"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|Pisti düzenle"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|Oluştur"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|Pist oluştur"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|Başka bir pist oluştur"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|Dekorasyon oluştur"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|Rekoru geliştir"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|Doğrulama süresini geliştir"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|Taşı"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|Yerleştir"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|Oyna"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|Rastgele"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|Bir lider hayalet kaydet"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|Lider kaydı oluştur"
+
+msgid "|Infinitive|Remove"
+msgstr "|Infinitive|Kaldır"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|Döndür"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|Kaydet"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|Kaydet ve Doğrula"
+
+msgid "|Infinitive|Save as new"
+msgstr "|Infinitive|YENİ OLARAK KAYDET"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|Seç"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|Doğrula"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|Lider kaydı doğrulanıp lobiye devam edilsin mi?"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|Pisti doğrula"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|Yakınlaş"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|Pist doğrulanmadı"
+
+msgid "|Input|No binding"
+msgstr "|Input|Tuş atanmamış"
+
+msgid "|Keyboard|Enter"
+msgstr "|Keyboard|Enter"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|Çöl"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|Boş"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|Tepeler"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|Dağ"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|Sütunlar"
+
+msgid "|League|Step %1"
+msgstr "|League|Adım %1"
+
+msgid "|League|map %1/%2"
+msgstr "|League|harita %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|“Kabul Et” seçeneğine tıklayarak oyun dünyasında "
+"kişiselleştirilmiş reklamları görüntülemek için verilerinizin üçüncü "
+"taraflarla paylaşılmasına izin vermiş olursunuz. Bunu yapmak isterseniz "
+"tercihlerinizi değiştirebilirsiniz."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"Çok az sayıda olmakla beraber, bazı kişiler belirli ışık desenlerine veya "
+"yanıp sönen ışıklara maruz kaldıklarında epilepsi nöbeti geçirebilmektedir.\n"
+"Bilgisayar ekranında veya bir video oyunu oynarken belirli desen veya arka "
+"planlara maruz kalmak, bu kişilerde epilepsi nöbetini tetikleyebilir.\n"
+"Birtakım koşullar, daha önce hiç nöbet geçirmemiş veya epilepsi tanısı "
+"konmamış kişilerde dahi epileptik semptomların ortaya çıkmasına sebep "
+"olabilmektedir.\n"
+"Eğer siz veya ailenizden biri epilepsi geçmişine sahipse, oynamadan önce "
+"doktorunuza başvurunuz.\n"
+"\n"
+"Bir video oyunu oynarken:\n"
+"\n"
+"Baş dönmesi, bulanık görme, göz veya kas seğirmeleri, bilinç kaybı, denge "
+"kaybı, herhangi bir istemsiz hareket veya kasılma gibi semptomlardan "
+"herhangi birini yaşarsanız\n"
+"DERHAL oynamayı bırakmalı ve oynamaya devam etmeden önce doktorunuza "
+"başvurmalısınız."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "UYARI: OYNAMADAN ÖNCE OKUYUN"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|Ülkeme ve ilgi alanlarıma bağlı olarak kişiselleştirilmiş "
+"reklamların oyun dünyasında gösterilmesini sağlamak için verilerimin üçüncü "
+"taraflarla paylaşılacağını kabul ediyorum."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|Bu seçenek devre dışı bırakılmışsa oyunda reklamlar görmeye devam "
+"edersiniz ancak bunlar ilgi alanlarınızla eşleşmez."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|GİZLİLİK POLİTİKASI"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|Gizlilik tercihleri"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|Yükleniyor"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"|Map style description|Engellerin üstesinden düşük hızda gelmeyi gerektiren, "
+"genellikle zor pistlerdir."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|Çoğunlukla kısa olan bu pistler, genellikle, aşılması "
+"için şans gerektiren tek bir engele sahiptir."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr ""
+"|Map style description|Bu haritalar gaz kesmeden ilerlemek üzerine "
+"kurulmuştur. Tam gaz ileri!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"|Map style description|Bu pistler, tek bir güçlü fikir veya konsept üzerine "
+"inşa edilmiştir, bu da onları oldukça fark edilebilir hale getirir."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr ""
+"|Map style description|Bu pistler genellikle campaign sonlarında bulunan, "
+"eğlenceli bonus haritalardır."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr ""
+"|Map style description|Bu pistler doğal alanlarda kurulmuştur. Kaybolmayın!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr ""
+"|Map style description|Bu pistlerde çok fazla tuzak ve sıçrama mevcut. "
+"Aşağıya dikkat!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr ""
+"|Map style description|Bu pistler birçok dönüş, u-dönüşü ve fren alanları "
+"içerir."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr ""
+"|Map style description|Bu pistler büyük zıplamalara, döngülere ve duvarda "
+"gitme bölümlerine sahiptir."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|Bu pistlerde tek yapmanız gereken yarışı en iyi "
+"sürede bitirmek. Stres yok, sıkıntı yok, sadece yarış!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr ""
+"|Map style description|Bu pistler, genellikle engellerle dolu, düz yollardan "
+"oluşur."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"|Map style description|Bu haritalarda tek yapmanız gereken gaza basmaya "
+"devam etmek, başka hiçbir şeye dokunmayın."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "|MapEditorDevice|OYUN KUMANDASI"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "|MapEditorDevice|FARE VE KLAVYE"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "|MapEditorDifficulty|GELİŞMİŞ"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "|MapEditorDifficulty|BASİT"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Gündüz"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Gece"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Gündoğumu"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Günbatımı"
+
+msgid "|Map|Browse"
+msgstr "|Map|Gözat"
+
+msgid "|Map|Delete"
+msgstr "|Map|Sil"
+
+msgid "|Map|Edit"
+msgstr "|Map|Düzenle"
+
+msgid "|Map|Move"
+msgstr "|Map|Taşı"
+
+msgid "|Map|New"
+msgstr "|Map|Yeni"
+
+msgid "|Match|Draw"
+msgstr "|Match|Berabere"
+
+msgid "|Medal|Finished"
+msgstr "|Medal|Tamamlandı"
+
+msgid "|Medal|None"
+msgstr "|Medal|Hiçbiri"
+
+msgid "|Menu|Local"
+msgstr "|Menu|Yerel"
+
+msgid "|Monday|M"
+msgstr "|Monday|P"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|NİS %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|AĞU %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|ARA %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|ŞUB %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|OCA %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|TEM %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|HAZ %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|MAR %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|MAY %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|KAS %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|EKİ %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|EYL %1"
+
+msgid "|Month|April"
+msgstr "|Month|Nisan"
+
+msgid "|Month|August"
+msgstr "|Month|Ağustos"
+
+msgid "|Month|December"
+msgstr "|Month|Aralık"
+
+msgid "|Month|February"
+msgstr "|Month|Şubat"
+
+msgid "|Month|January"
+msgstr "|Month|Ocak"
+
+msgid "|Month|July"
+msgstr "|Month|Temmuz"
+
+msgid "|Month|June"
+msgstr "|Month|Haziran"
+
+msgid "|Month|March"
+msgstr "|Month|Mart"
+
+msgid "|Month|May"
+msgstr "|Month|Mayıs"
+
+msgid "|Month|November"
+msgstr "|Month|Kasım"
+
+msgid "|Month|October"
+msgstr "|Month|Ekim"
+
+msgid "|Month|September"
+msgstr "|Month|Eylül"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|Kamera"
+
+msgid "|Navigation|Back"
+msgstr "|Navigation|GERİ"
+
+msgid "|News|Body"
+msgstr "|News|Gövde"
+
+msgid "|News|Headline"
+msgstr "|News|Ana Başlık"
+
+msgid "|News|Title"
+msgstr "|News|Başlık"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|yön tuşları"
+
+msgid "|PC|the left stick"
+msgstr "|PC|sol analog"
+
+msgid "|PC|the right stick"
+msgstr "|PC|sağ analog"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|Daire tuşu"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|Çarpı tuşu"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|yön tuşları"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|sol analog"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|sağ analog"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|KR"
+
+msgid "|Points|pts"
+msgstr "|Points|Puan"
+
+msgid "|Point|pt"
+msgstr "|Point|Puan"
+
+msgid "|Press xx to start|Press"
+msgstr "|Press xx to start|Başlamak için"
+
+msgid "|Press xx to start|to start"
+msgstr "|Press xx to start|tuşuna basın"
+
+msgid "|Race|Lap"
+msgstr "|Race|Tur"
+
+msgid "|Race|Laps"
+msgstr "|Race|Turlar"
+
+msgid "|Race|Round"
+msgstr "|Race|Round"
+
+msgid "|RankingZone|Continent"
+msgstr "|RankingZone|KITA"
+
+msgid "|RankingZone|Country"
+msgstr "|RankingZone|Ülke"
+
+msgid "|RankingZone|District"
+msgstr "|RankingZone|Bölüm"
+
+msgid "|RankingZone|Region"
+msgstr "|RankingZone|Alan"
+
+msgid "|RankingZone|World"
+msgstr "|RankingZone|Dünya"
+
+msgid "|RankingZone|Zone"
+msgstr "|RankingZone|Bölge"
+
+msgid "|Rank|from %1"
+msgstr "|Rank|%1 içinden"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|Dekorasyonu yeniden dağıt"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|DÜZENLE"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|ÇEK"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|GÖRÜNTÜLE"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|Varsayılan ayarlar"
+
+msgid "|Role|Admin"
+msgstr "|Role|Yönetici"
+
+msgid "|Role|Applicant"
+msgstr "|Role|Başvuran"
+
+msgid "|Role|Content creator"
+msgstr "|Role|İçerik üreticisi"
+
+msgid "|Role|Creator"
+msgstr "|Role|Oluşturan"
+
+msgid "|Role|Member"
+msgstr "|Role|Üye"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|C"
+
+msgid "|Score|Point"
+msgstr "|Score|Puan"
+
+msgid "|Score|Points"
+msgstr "|Score|Puan"
+
+msgid "|Season|Autumn"
+msgstr "|Season|Sonbahar"
+
+msgid "|Season|Spring"
+msgstr "|Season|İlkbahar"
+
+msgid "|Season|Summer"
+msgstr "|Season|Yaz"
+
+msgid "|Season|Winter"
+msgstr "|Season|Kış"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|Kanada - Merkez"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|Kuzeybatı Çin"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|Batı Avrupa"
+
+msgid "|Server|Live"
+msgstr "|Server|Şu anda"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|Hızlı"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|Işık kalitesi"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|İyi"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|ZIPLAMA"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|MOTOR KAPALI"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|SABİT HIZ"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|ARAÇ HASAR ALABİLİR"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|YOL TUTUŞU YOK"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|DİREKSİYON KİLİTLİ"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|%1 İTİCİLER DEVREDE"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|SIFIRLANDI"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|AĞIR ÇEKİM"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|SÜPER ZIPLAMA"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|SÜPER %1 İTİCİLER DEVREDE"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|SÜPER TURBO"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|TURBO"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|ULTRA TURBO"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|AŞAĞI"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|YUKARI"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|Hepsi"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|Tek"
+
+msgid "|Status|Finalist"
+msgstr "|Status|Finalist"
+
+msgid "|Status|K.O."
+msgstr "|Status|Elendi"
+
+msgid "|Status|K.O. #%1"
+msgstr "|Status|#%1., elendi"
+
+msgid "|Status|Racing"
+msgstr "|Status|Yarışıyor"
+
+msgid "|Status|Winner"
+msgstr "|Status|Kazanan"
+
+msgid "|Streamer|Channel"
+msgstr "|Streamer|Kanal"
+
+msgid "|Streaming|Platform"
+msgstr "|Streaming|Platform"
+
+msgid "|Subscription|Ends on"
+msgstr "|Subscription|Bitiyor"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|P"
+
+msgid "|Tabs|Clubs"
+msgstr "|Tabs|KULÜP"
+
+msgid "|Tabs|Create"
+msgstr "|Tabs|OLUŞTUR"
+
+msgid "|Tabs|Live"
+msgstr "|Tabs|CANLI"
+
+msgid "|Tabs|Local"
+msgstr "|Tabs|YEREL"
+
+msgid "|Tabs|Solo"
+msgstr "|Tabs|SOLO"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|P"
+
+msgid "|Time|Best"
+msgstr "|Time|En iyi"
+
+msgid "|Time|Previous"
+msgstr "|Time|Önceki"
+
+msgid "|Track|Block"
+msgstr "|Track|Blok"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|S"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|HAYIR"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|EVET"
+
+msgid "|Verb|Stay"
+msgstr "|Verb|Kal"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|Bu slotu almak için tıklayın"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|Dikkat"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|Ç"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|Yeni pist"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|Pisti düzenle"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|yön tuşları"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|sol analog"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|sağ analog"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|AVRUPA"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|ORTA DOĞU"
+
+msgid "|Zone|North America"
+msgstr "|Zone|KUZEY AMERİKA"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|OKYANUSYA"
+
+msgid "|Zone|South America"
+msgstr "|Zone|GÜNEY AMERİKA"
+
+msgid "|Zone|World"
+msgstr "|Zone|DÜNYA"
+
+msgid "|plural 4 letters max|mins"
+msgstr "|plural 4 letters max|dk"
+
+msgid "|singular 3 letters max|min"
+msgstr "|singular 3 letters max|dk"

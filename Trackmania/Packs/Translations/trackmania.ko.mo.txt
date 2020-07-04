@@ -1,0 +1,5107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-07-01 13:11+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "$%1Author"
+msgstr "$%1작성자"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$>님은 로비의 왕입니다!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$>님이 게임에 참여했습니다"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$>님이 게임을 나갔습니다"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$>님이 %2위를 차지했습니다!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$>님이 %2단계 승리"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$>님이 맵에서 승리했습니다!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$>님이 매치에서 승리했습니다!"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$>님이 라운드에서 승리했습니다!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$>님이 경기에 승리했습니다!"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1명의 플레이어가 탈락하게 됩니다."
+
+msgid "$f001 player will be eliminated"
+msgstr "$f001명의 플레이어가 탈락하게 됩니다."
+
+msgid "$f90No elimination this round"
+msgstr "$f90이번 라운드에서는 탈락자가 없습니다."
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$zIn $<$t$6F9Knockout$> 모드, 목표는 마지막까지 남는 플레이어가 되는 것입니"
+"다.\n"
+"\n"
+"라운드 모드로 연속해서 경기를 이어나갈 수 있습니다. $<$t$6F9At the end of "
+"each race, the last players are eliminated$>!\n"
+"\n"
+"다른 플레이어를 모두 이긴 플레이어가 우승합니다."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$zIn $<$t$6F9Laps$> 모드, 목표는 가능한 빨리 달려서 $<$t$6F9checkpoints$>를 "
+"넘는 것입니다.\n"
+"\n"
+"멀티랩(순환형) 맵의 랩 모드가 나오며, 모든 맵이 한 번에 등장합니다.\n"
+"\n"
+"$<$t$6F9winner$>는 제한 시간 내 $<$t$6F9checkpoints$>에 가장 빨리 도착한 사람"
+"입니다. 무승부가 되면, 승자는 마지막 체크 포인트를 먼저 지난 사람이 됩니다."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$zIn $<$t$6F9Rounds$z$z$> 모드, 목표는 $<$t$6F9points$z$>를 얻어서 이기는 것"
+"입니다.\n"
+"\n"
+"라운드 모드는 $<$t$6F9a series of races$z$>로 구성되어 있습니다.\n"
+"좋은 $<$t$6F9position$z$>에서 경기를 마치면, $<$t$6F9points$z$>만큼 포인트가 "
+"올라갑니다.\n"
+"\n"
+"$<$t$6F9winner$z$>는 처음으로 $<$t$6F9point limit$z$>에 도달한 플레이어입니다"
+"(예시 30 포인트)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$zIn $<$t$6F9Team$> 모드, 팀을 선택할 수 있습니다: $<$t$f00Red$> 또는 $<$t"
+"$10cBlue$>.\n"
+"\n"
+"팀 모드는 $<$t$6F9a series of races$>로 구성되어 있습니다.\n"
+"목표는 팀의 $<$t$6F9points$>를 최대치로 올려서 이기는 것입니다.\n"
+"\n"
+"좋은 $<$t$6F9position$>에서 경기를 마치면, 속한 팀의 포인트가 $<$t$6F9points"
+"$>만큼 올라갑니다.\n"
+"$<$t$6F9winning team$>은 처음으로 $<$t$6F9point limit$>에 도달한 팀입니다(예"
+"시 5포인트)."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$zIn $<$t$6F9Time Attack$> 모드, 목표 시간은 $<$t$6F9best time$>입니다.\n"
+"\n"
+"원하는 만큼 시도할 수 있습니다. $<$t$6F9retry$>하려면 부활 버튼을 누르십시"
+"오.\n"
+"\n"
+"시간이 다 되었을 때, $<$t$6F9winner$>는 $<$t$6F9best time$>를 기록한 플레이어"
+"입니다."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$z컵 모드는 $<$t$6F9a series of races on multiple maps$>로 구성되어 있습니"
+"다.\n"
+"\n"
+"좋은 $<$t$6F9position$>에서 경기를 마치면, $<$t$6F9points$>를 얻을 수 있습니"
+"다.\n"
+"서버에서는 맵에 익숙해질 수 있도록 웜업 레이스를 제안할 수 있습니다.\n"
+"\n"
+"$<$t$6F9point limit$>에 먼저 도착해서 $<$t$6F9finalist$>가 되어야 이깁니다. "
+"파이널 리스트에 들어가면, $<$t$6F9first position$>자리에서 경기를 하게 됩니"
+"다. 3명의 플레이어가 파이널리스트가 되고 1등으로 경기를 마치면 컵 모드가 종료"
+"됩니다."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1은(는) 스타디움 맵이 아닙니다."
+
+msgid "%1 is not playable"
+msgstr "%1은(는) 플레이할 수 없음"
+
+msgid "%1 map"
+msgstr "%1 맵"
+
+msgid "%1 maps"
+msgstr "%1 맵"
+
+msgid "%1 players"
+msgstr "플레이어 %1명"
+
+msgid "%1 replays selected"
+msgstr "리플레이 %1개 선택됨"
+
+msgid "%1 until %2 Players"
+msgstr "플레이어 %2명까지 %1"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$>님이 매치 시작을 취소했습니다."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$>님이 매치에 참여했습니다."
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$>님이 교체 선수로 자신의 매치에 참여했습니다."
+
+msgid "%1's server"
+msgstr "%1의 서버"
+
+msgid "%1Best CP %2"
+msgstr "%1최고의 CP %2"
+
+msgid "%1Best race"
+msgstr "%1최고의 레이스"
+
+msgid "%1Personal best"
+msgstr "%1개인 최고기록"
+
+msgid "1 player"
+msgstr "플레이어 1명"
+
+msgid "16th final"
+msgstr "16번째 결승"
+
+msgid "8th final"
+msgstr "8번째 결승"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "ACCESSIBILITY 전문가"
+
+msgid "ACCOUNT MANAGER"
+msgstr "영업과장"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "AGE RATING 코디네이터"
+
+msgid "ANALYST"
+msgstr "애널리스트"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "사원, NCSA 고객 지원"
+
+msgid "ART DIRECTOR"
+msgstr "아트 디렉터"
+
+msgid "ARTISTS"
+msgstr "ARTISTS"
+
+msgid "ASSISTANT MANAGER"
+msgstr "대리"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "ASSOCIATE 디렉터"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "지역개발 이사"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "CRM 이사"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "커뮤니케이션 이사, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "이사, 운영 전략"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "ASSOCIATE 라이브 코디네이터"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "PC 요구사항 부책임자"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "주임 프로듀서"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "주임 테크니컬 디렉터"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "ASSOCIATE UX 디자이너 "
+
+msgid "Accept"
+msgstr "수락"
+
+msgid "Activate"
+msgstr "활성화"
+
+msgid "Activities"
+msgstr "활동"
+
+msgid "Activities must have a name."
+msgstr "활동 이름이 있어야 합니다."
+
+msgid "Activity"
+msgstr "활동"
+
+msgid "Add"
+msgstr "더하기"
+
+msgid "Add to favorite"
+msgstr "즐겨찾기에 추가"
+
+msgid "Adding map to queue..."
+msgstr "대기열에 맵 추가하는 중..."
+
+msgid "Administration"
+msgstr "관리"
+
+msgid "Advanced options"
+msgstr "고급 옵션"
+
+msgid "Against replay"
+msgstr "리플레이 상대"
+
+msgid "All clubs"
+msgstr "모든 클럽"
+
+msgid "All fields must be completed"
+msgstr "모든 항목을 작성해야 합니다."
+
+msgid "Allies"
+msgstr "아군"
+
+msgid "Ally"
+msgstr "아군"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr "참여하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"다음 경기를 불러오는 과정에서 에러가 발생했습니다. 다시 시도하십시오. (에러 "
+"코드: %1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"계정을 검색하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "오류가 발생했습니다. 나중에 다시 시도하십시오. (오류: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "해당 지형에 적용된 수정 사항이 저장되지 않습니다."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "트랙에 저장되지 않은 수정 사항이 사라집니다."
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Apply skin"
+msgstr "스킨 적용"
+
+msgid "Arcade"
+msgstr "아케이드"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "정말로 경기에서 나가시겠습니까?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "정말로 새로운 트랙을 만들고 싶으십니까?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "정말로 클럽을 삭제하시겠습니까?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "정말로 장식을 편집하기를 원하십니까?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "정말 트랙을 수정하기를 원하십니까?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "정말로 다른 트랙을 생성하기를 원하십니까?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "정말 에디터를 나가시겠습니까?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "Trackmania를 종료하시겠습니까?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "정말 다른 지형을 선택하기를 원하십니까?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"3년 기간이 끝나도 300개의 공식 맵과 하루 1095개의 트랙, \n"
+"고급 트랙 편집기를 사용할 수 있습니다."
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"1년 기간이 끝나도 100개의 공식 맵과 하루 365개의 트랙, \n"
+"고급 트랙 편집기를 사용할 수 있습니다."
+
+msgid "Author"
+msgstr "작성자"
+
+msgid "Author medal"
+msgstr "작성자 메달"
+
+msgid "Author time"
+msgstr "작성자 시간"
+
+msgid "Auto-finish"
+msgstr "자동 결승점"
+
+msgid "Automatic retry in %1 second."
+msgstr "%1초 후에 자동으로 재시도합니다."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "%1초 후에 자동으로 재시도합니다."
+
+msgid "Average lap"
+msgstr "평균 랩 타임"
+
+msgid "Average waiting time"
+msgstr "평균 대기 시간"
+
+msgid "BRAND DIRECTOR"
+msgstr "브랜드 이사"
+
+msgid "BRAND MANAGER"
+msgstr "BRAND MANAGER"
+
+msgid "BUSINESS ANALYST"
+msgstr "BUSINESS ANALYST"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "사업 운영 코디네이터"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "사업운영과장"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"배경: 클럽 세부사항 페이지의 뒤편 이미지입니다.\n"
+"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
+
+msgid "Balance teams"
+msgstr "팀 균형 맞추기"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr "조심하십시오! 이 블록은 새로운 체크 포인트까지 엔진 사용을 멈춥니다."
+
+msgid "Be in the top %1"
+msgstr "최상위 %1위 안에 드십시오"
+
+msgid "Best lap"
+msgstr "베스트 랩"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "베스트 랩 $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "베스트 랩: %1"
+
+msgid "Best time :"
+msgstr "최고 기록 :"
+
+msgid "Black"
+msgstr "검은색"
+
+msgid "Block selection"
+msgstr "블록 선택"
+
+msgid "Blocked by the terrain"
+msgstr "지형으로 차단하기"
+
+msgid "Blue"
+msgstr "파란색"
+
+msgid "Bronze"
+msgstr "동"
+
+msgid "Bronze medal"
+msgstr "동메달"
+
+msgid "Browse"
+msgstr "검색하기"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "트랙을 생성한 후, 종료하고 싶은 지점에 결승점 블록을 두십시오."
+
+msgid "By %1"
+msgstr "%1 제작"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "최고 크리에이티브 책임자"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "중국제품과장"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "커뮤니케이션과장, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "COMMUNICATIONS DIRECTOR"
+
+msgid "COMMUNITY"
+msgstr "커뮤니티"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "커뮤니티 컨텐츠 디자이너"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "커뮤니티 컨텐츠 프로듀서"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "커뮤니티 컨텐츠 주임"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "커뮤니티 컨텐츠 전략가"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "COMMUNITY MANAGEMENT"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "커뮤니티 관리 대리"
+
+msgid "COMMUNITY MANAGER"
+msgstr "커뮤니티 과장"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "커뮤니티 센티멘트 주임"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "커뮤니티 팀장"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "커뮤니티 팀 라이브 오퍼레이션 과장"
+
+msgid "COMPOSER"
+msgstr "작곡가"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "고객경험지역과장, 아시아"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "고객경험과장"
+
+msgid "CONTENT DIRECTOR"
+msgstr "CONTENT DIRECTOR"
+
+msgid "CONTENT MANAGER"
+msgstr "CONTENT MANAGER"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "CREATIVE DIRECTOR"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "CREATIVE FRONT-END ENGINEER"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "CRM 데이터 애널리스트"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "CRM 그래픽 디자이너"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "CRM 통합 주임"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "CRM 통합 팀장 "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "CRM 주기 어시스턴트"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "CRM 주기 주임"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "CRM 다채널 주임"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "CRM 운영과장"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "CRM 운영주임"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "CRM 운영주임 어시스턴트"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "CRM 성능과장"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "CRM 프로그램과장"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "고객경험과장"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "고객지원 이사"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "고객지원개발 이사"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "고객지원지식팀"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "고객지원 학습개발팀"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "고객지원 품질관리팀"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "고객지원지식차장"
+
+msgid "Campaign"
+msgstr "캠페인"
+
+msgid "Campaign creation"
+msgstr "캠페인 생성"
+
+msgid "Campaign edition"
+msgstr "캠페인 편집"
+
+msgid "Campaign library"
+msgstr "캠페인 라이브러리"
+
+msgid "Campaign's name"
+msgstr "캠페인 이름"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "이 종류의 블록은 놓을 수 없으므로 다른 종류를 시도해보십시오."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancel request"
+msgstr "요청 취소"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "Champion mode"
+msgstr "챔피언 모드"
+
+msgid "Change map"
+msgstr "맵 변경"
+
+msgid "Change opponents"
+msgstr "상대 변경"
+
+msgid "Change team"
+msgstr "팀 변경"
+
+msgid "Change the building mode"
+msgstr "생성 모드 변경"
+
+msgid "Change the connection mode"
+msgstr "연결 모드 변경"
+
+msgid "Chat time"
+msgstr "마지막 시간"
+
+msgid "Choose a campaign to use"
+msgstr "사용할 캠페인을 선택하십시오"
+
+msgid "Choose a mode"
+msgstr "모드 선택"
+
+msgid "Choose a skin"
+msgstr "스킨 선택"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"장식 스타일을 선택하고 \"생성하기\" 버튼을 누르십시오. 장식이 마음에 든다면 "
+"트랙을 인증하십시오."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"원하는 장식을 선택하십시오. 마음에 드는 장식으로 트랙을 꾸밀 수 있습니다."
+
+msgid "Choose your team"
+msgstr "팀을 고르세요"
+
+msgid "Clan"
+msgstr "클랜"
+
+msgid "Click on a player to invite them to your party."
+msgstr "파티에 초대할 플레이어를 클릭하십시오."
+
+msgid "Click on a player to join their party."
+msgstr "그들의 파티에 참여시킬 플레이어를 클릭하십시오."
+
+msgid "Click on a player to set them as ally."
+msgstr "아군으로 설정할 플레이어를 클릭하십시오."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "UI 모듈을 클릭해 속성을 변경하십시오"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Club"
+msgstr "클럽"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "클럽 배경 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr "클럽 배경 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club campaigns"
+msgstr "클럽 캠페인"
+
+msgid "Club coming soon!"
+msgstr "클럽이 곧 추가됩니다!"
+
+msgid "Club creation"
+msgstr "클럽 생성"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "클럽 생성에 실패했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr "클럽 데칼을 삭제하지 못했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr "클럽 데칼 편집에 실패했습니다. 다시 시도하십시오. (에러 %1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"클럽 데칼 스폰서 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"클럽 데칼 스폰서 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr "클럽 데칼 업로드에 실패했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "클럽을 삭제하지 못했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club edition"
+msgstr "클럽 에디션"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr "클럽 로고를 삭제하지 못했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr "클럽 로고 편집에 실패했습니다. 다시 시도하십시오. (에러 %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr "클럽 로고를 업로드하지 못했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club rooms"
+msgstr "클럽 룸"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 16 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 16 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 2 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 2 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 8 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr "클럽 스크린 8 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club skins"
+msgstr "클럽 스킨"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "클럽을 업데이트하지 못했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr "클럽 버티컬 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr "클럽 버티컬 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Clubs"
+msgstr "클럽"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "추첨 티켓을 모으십시오. 누구나 참여할 수 있습니다!"
+
+msgid "Coming soon!"
+msgstr "공개 임박!"
+
+msgid "Comment"
+msgstr "코멘트"
+
+msgid "Compete every week in the national league"
+msgstr "매주 국가별 리그에서 경기를 해보십시오."
+
+msgid "Compete in the open grand league"
+msgstr "오픈 그랜드 리그에서 경기를 해보십시오."
+
+msgid "Competition"
+msgstr "경기"
+
+msgid "Concept"
+msgstr "컨셉"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Confirm your choice"
+msgstr "선택 내용을 확인하십시오."
+
+msgid "Confirmation"
+msgstr "확인"
+
+msgid "Connect"
+msgstr "연결"
+
+msgid "Connection timed out"
+msgstr "연결 시간이 종료되었습니다"
+
+msgid "Connector selection"
+msgstr "커넥터 선택"
+
+msgid "Continue"
+msgstr "계속하기"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Copy and connect"
+msgstr "복사해서 연결하기"
+
+msgid "Copy server link"
+msgstr "서버 링크 복사"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Trackmania 서버에 연결할 수 없습니다."
+
+msgid "Could not load records"
+msgstr "기록을 불러오지 못했습니다."
+
+msgid "Create"
+msgstr "생성하기"
+
+msgid "Create a new map"
+msgstr "새로운 맵을 만드십시오"
+
+msgid "Create a new skin"
+msgstr "새 스킨 만들기"
+
+msgid "Create activity"
+msgstr "활동 만들기"
+
+msgid "Create campaign"
+msgstr "캠페인 만들기"
+
+msgid "Create club"
+msgstr "클럽 만들기"
+
+msgid "Create map"
+msgstr "맵 만들기"
+
+msgid "Create map uploads"
+msgstr "맵 업로드 생성"
+
+msgid "Create room"
+msgstr "룸 만들기"
+
+msgid "Create skin uploads"
+msgstr "스킨 업로드 생성"
+
+msgid "Create the map of the show"
+msgstr "쇼 맵 만들기"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"고급 편집기에서 트랙을 만들고 온라인으로 테스트해보십시오. \n"
+"경기 비디오를 제한없이 생성하고 공유할 수 있습니다."
+
+msgid "Create your club and share your masterpieces"
+msgstr "클럽을 만들고 작품을 공유해보십시오."
+
+msgid "Create your tracks"
+msgstr "트랙 만들기"
+
+msgid "Creating activity..."
+msgstr "활동 만드는 중..."
+
+msgid "Creating campaign..."
+msgstr "캠페인 만드는 중..."
+
+msgid "Creating club room..."
+msgstr "클럽 룸 생성 중..."
+
+msgid "Creating club..."
+msgstr "클럽 만드는 중..."
+
+msgid "Credits"
+msgstr "크레딧"
+
+msgid "Cumulate team points :"
+msgstr "팀 포인트 누적:"
+
+msgid "Current map"
+msgstr "현재 지도"
+
+msgid "Current match best score"
+msgstr "현재 매치 최고 점수"
+
+msgid "Current match score"
+msgstr "현재 매치 점수"
+
+msgid "Current player"
+msgstr "현재 플레이어"
+
+msgid "Customization"
+msgstr "사용자 지정"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "개인 또는 클럽 스킨으로 차를 꾸며보십시오."
+
+msgid "Cut and paste"
+msgstr "잘라내고 붙여넣기"
+
+msgid "DATA ANALYST"
+msgstr "데이터 애널리스트"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "개발품질과장"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "개발 테스터"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "디지털 컨텐츠 퍼블리셔"
+
+msgid "DIRECTOR"
+msgstr "상무"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "미디어&CRM 상무, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "브랜드 개발 상무"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "고객경험 상무"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "커뮤니케이션 상무, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "지역활동 상무, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "플레이어경험 상무"
+
+msgid "DIRECTORS"
+msgstr "DIRECTORS"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "DUALSHOCK®4 무선 컨트롤러"
+
+msgid "Daily Cup Knockout"
+msgstr "데일리 컵 녹아웃"
+
+msgid "Daily cup"
+msgstr "데일리 컵"
+
+msgid "Daily rankings"
+msgstr "일일 랭킹"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Deactivate"
+msgstr "비활성화"
+
+msgid "Dead end"
+msgstr "막다른 길"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"데칼 스폰서: 도로를 둘러싼 스폰서 배너에 보이는 이미지입니다.\n"
+"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"데칼: 도로 표면에 보이는 이미지입니다 (출발점, 체크포인트 및 결승점).\n"
+"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
+
+msgid "Decoration"
+msgstr "장식"
+
+msgid "Delete club"
+msgstr "클럽 삭제"
+
+msgid "Deleting club..."
+msgstr "클럽 삭제 중..."
+
+msgid "Did you like this map?"
+msgstr "이 맵에 만족하셨습니까?"
+
+msgid "Disable give up"
+msgstr "포기 비활성화"
+
+msgid "Do Not Show Again"
+msgstr "다시 보지 않기"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "카운트다운이 종료되기 전에 최고의 기록을 달성하십시오."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "이 맵에 컵을 설치하겠습니까?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "다른 트랙을 만드시겠습니까, 아니면 이 트랙으로 플레이하시겠습니까?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "유효 시간을 늘리고 싶으십니까?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "랜덤 트랙 생성기에서 나가시겠습니까?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "이곳에 체크포인트를 두시겠습니까?"
+
+msgid "Do you want to play a rematch?"
+msgstr "리매치 하시겠습니까?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "플러그인을 그만두거나 에디터로 돌아오기를 원하십니까?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "그 이름으로 맵을 저장하시겠습니까?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "자동 결승점 설정을 중단하시겠습니까?"
+
+msgid "Do you want to validate the track now?"
+msgstr "트랙을 지금 활성화시키겠습니까?"
+
+msgid "Don't forget to save your track!"
+msgstr "트랙을 저장하는 것을 잊지 마십시오!"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Draw of the lottery"
+msgstr "로또 추첨"
+
+msgid "Duel"
+msgstr "결투"
+
+msgid "Duration of one warm up"
+msgstr "워밍업 1회 지속시간"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "EDITORIAL TECHNOLOGY"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "EMEA 소비자관계센터 커뮤니티 팀"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "EMEA 소비자관계센터 플레이어지원팀"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "EMEA 고객 관리"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "EMEA KNOWLEDGE 팀"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "사원, NCSA 고객 지원"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "ENVIRONMENT ARTIST"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "EXECUTIVE ASSISTANT & HR MANAGER"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "외부 협력업체"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "메달을 얻고 지역 랭킹이 얼마나 올랐는지 확인해보십시오."
+
+msgid "Edit"
+msgstr "편집하기"
+
+msgid "Edit '%1'"
+msgstr "'%1' 편집"
+
+msgid "Edit a map"
+msgstr "맵을 편집하십시오"
+
+msgid "Edit a skin"
+msgstr "스킨 편집하기"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "'$<%1$>' 활동 편집"
+
+msgid "Edit campaign"
+msgstr "캠페인 편집하기"
+
+msgid "Edit decoration"
+msgstr "장식 수정"
+
+msgid "Edit replay"
+msgstr "리플레이 편집"
+
+msgid "Edit room"
+msgstr "룸 편집"
+
+msgid "Edit room '%1'"
+msgstr "'%1' 룸 편집하기"
+
+msgid "Edit terrain"
+msgstr "지형 편집"
+
+msgid "Edit track"
+msgstr "트랙 수정"
+
+msgid "Editing activity..."
+msgstr "활동 편집하는 중..."
+
+msgid "Editing club room..."
+msgstr "클럽 룸 편집하는 중..."
+
+msgid "Eighth (Press 8)"
+msgstr "8위(8을 누르세요)"
+
+msgid "End of warmup, match starting..."
+msgstr "워밍업 종료. 경기 시작하는 중..."
+
+msgid "Engine disabled"
+msgstr "엔진 정지"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "충분한 수의 플레이어가 리매치에 동의했습니다."
+
+msgid "Entry"
+msgstr "항목"
+
+msgid "Error"
+msgstr "오류"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"맵을 대기열에 추가하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코"
+"드: %1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr ""
+"캠페인을 만드는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr "활동을 생성하지 못했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr ""
+"룸을 생성하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr "활동을 편집하지 못했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr "룸을 편집하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"%1 유형 캠페인을 가져오는 중 오류가 발생했습니다. 다시 시도하십시오. (오류 코"
+"드: %2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Nadeo Services에서 맵 목록을 가져오는 중 오류가 발생했습니다. 다시 시도하십시"
+"오. (오류 코드: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Nadeo Services에서 월간 캠페인을 가져오는 중 오류가 발생했습니다. 다시 시도하"
+"십시오. (오류 코드: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"클럽 랭킹에서 맵 상 플레이어 위치를 가져오지 못했습니다. 다시 시도하십시오. "
+"(오류 코드: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Nadeo Services에서 분기별 캠페인을 가져오는 중 오류가 발생했습니다. 다시 시도"
+"하십시오. (오류 코드: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"활동 정보 활동 정보 로딩에 실패했습니다. 다시 시도하십시오. (에러 코드: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"서버 참여 링크를 가져오는 중 오류가 발생했습니다. 다시 시도하십시오. (오류 코"
+"드: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "맵 데이터를 수집하는 중 오류가 발생했습니다. (오류 코드: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"서버에 입장하던 중 에러가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "순위 로딩 중 에러가 발생했습니다 (코드: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "룸 정보를 불러오는 도중 오류가 발생했습니다. (오류 코드: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "룸 맵을 불러오는 도중 오류가 발생했습니다. (오류 코드: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Nadeo Services에서 점수를 불러오는 중 오류가 발생했습니다. 다시 시도하십시"
+"오. (오류 코드: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr ""
+"캠페인을 불러오는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: "
+"%1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"클럽 캠페인 로딩 중 오류가 발생했습니다. 다시 시도하십시오. (에러 코드: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "트로피 로딩 중 에러 발생(코드: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"클럽 활동을 업데이트하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 "
+"코드: %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr ""
+"뉴스 미디어 로고 업데이트 중 오류가 발생했습니다. 다시 시도하십시오. (에러 코"
+"드: %1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"활동의 개인정보를 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오"
+"류 코드: %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr ""
+"맵을 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr ""
+"맵을 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr "활동 로고를 업로드하지 못했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr ""
+"룸 미디어를 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코"
+"드: %1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr ""
+"맵을 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr ""
+"미디어를 업로드하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: "
+"%1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr ""
+"활동을 확인하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Events"
+msgstr "이벤트"
+
+msgid "Exit"
+msgstr "나가기"
+
+msgid "F6 to cancel"
+msgstr "취소하려면 F6을 누르세요"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "재무 설계 사원"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "FINANCIAL PLANNING SENIOR DIRECTOR"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+
+msgid "FRONT-END ENGINEER"
+msgstr "FRONT-END ENGINEER"
+
+msgid "Fifth (Press 5)"
+msgstr "5위(5를 누르세요)"
+
+msgid "Finish timeout"
+msgstr "종료 타임아웃"
+
+msgid "First (Press 1)"
+msgstr "1위(1을 누르세요)"
+
+msgid "Forced laps number"
+msgstr "최대 플레이어 수"
+
+msgid "Fourth (Press 4)"
+msgstr "4위(4를 누르세요)"
+
+msgid "Free for all"
+msgstr "개인전"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Fullspeed"
+msgstr "최고 속력"
+
+msgid "Fusion with another server for more players"
+msgstr "더 많은 플레이어가 필요할 경우 다른 서버와 통합하십시오."
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "게임 활동 주임, NCSA 고객 지원"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "GAME ANALYTICS RESEARCH"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "게임 및 서비스 운영 담당대리"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "게임 및 서비스 운영과장"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "게임 및 서비스 운영주임"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "CRC 상무이사"
+
+msgid "GRAPHIC ARTIST"
+msgstr "그래픽 아티스트"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAPHIC DESIGNER"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "미디어 퍼포먼스 그룹 매니저, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "미디어 전략 그룹 매니저, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "웹 프로듀싱 그룹 매니저, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "GROUP RELEASE MANAGER"
+
+msgid "Game mode"
+msgstr "게임 모드"
+
+msgid "Game mode: %1"
+msgstr "게임 모드: %1"
+
+msgid "Garage"
+msgstr "차고"
+
+msgid "Generate"
+msgstr "생성하기"
+
+msgid "Get the Club access for one year"
+msgstr "클럽 액세스 1년 구독하기"
+
+msgid "Get the Club access for three years"
+msgstr "3년 동안 이용할 수 있는 클럽 액세스를 구매해보십시오."
+
+msgid "Get the Standard access for one year"
+msgstr "스탠다드 액세스 1년 구독하기"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "아케이드 채널에서 최고의 플레이어 캠페인을 획득하십시오."
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "리플레이, 스킨 및 간단 트랙 편집기를 획득하십시오."
+
+msgid "Give up"
+msgstr "포기"
+
+msgid "Give up %1"
+msgstr "%1 포기"
+
+msgid "Give up Daily cup?"
+msgstr "일일 컵을 포기하시겠습니까?"
+
+msgid "Go to map list"
+msgstr "맵 목록으로 이동"
+
+msgid "Going to next map"
+msgstr "다음 맵으로 이동 중"
+
+msgid "Gold"
+msgstr "금"
+
+msgid "Gold medal"
+msgstr "금메달"
+
+msgid "Green"
+msgstr "녹색"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "NCSA 고객 관계 센터장"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "EMEA 소셜 미디어 대표"
+
+msgid "HQ PRODUCER"
+msgstr "HQ PRODUCER"
+
+msgid "HQ PRODUCERS"
+msgstr "HQ 프로듀서"
+
+msgid "HR SPECIALIST"
+msgstr "HR 주임"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Hide"
+msgstr "숨기기"
+
+msgid "Home Activities"
+msgstr "홈 활동"
+
+msgid "Home display"
+msgstr "홈 화면"
+
+msgid "Hot Seat"
+msgstr "Hot Seat"
+
+msgid "HotSeat"
+msgstr "핫시트"
+
+msgid "Hotseat"
+msgstr "핫시트"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "INFRASTRUCTURE TEAM MANAGER"
+
+msgid "INTERN LIVE QA"
+msgstr "인턴 라이브 품질검사"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "국제제품과장"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"포기하시면 채널에서 계속 플레이할 수는 있지만, 일일 녹아웃 매치에는 참여할 "
+"수 없습니다."
+
+msgid "Image browser"
+msgstr "이미지 브라우저"
+
+msgid "Improve"
+msgstr "재도전"
+
+msgid "Information"
+msgstr "정보"
+
+msgid "Interval from %1 pos."
+msgstr "%1위와의 간격"
+
+msgid "Invite friends"
+msgstr "친구 초대"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "현재 해당 서버 설정 투표가 불가능합니다."
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "책임영업관리자"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "책임 자동화 테스터"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "책임 개발 테스터"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR FINANCIAL PLANNING ANALYST"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "사원 라이브 품질검사 및 네트워크 주임"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "책임제품관리자"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "책임 프로덕션 코디네이터"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMMER"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR QC NETWORKING SPECIALIST"
+
+msgid "JUNIOR TESTER"
+msgstr "책임 테스터"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "책임 UX 디자이너"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "책임 웹 개발자"
+
+msgid "Join"
+msgstr "참여하기"
+
+msgid "Join %1"
+msgstr "%1 참여하기"
+
+msgid "Join club activitites and see club rankings"
+msgstr "클럽 활동에 참여하고 클럽 랭킹을 확인해보십시오."
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "공개 클럽 활동에 참여보십시오. 캠페인과 온라인 룸"
+
+msgid "Jump to map"
+msgstr "맵으로 점프"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "KNOWLEDGE SPECIALIST"
+
+msgid "KOs per round"
+msgstr "라운드당 KO"
+
+msgid "Knockout match starts in %1"
+msgstr "녹아웃 매치 %1 후 시작"
+
+msgid "L1 button"
+msgstr "L1 버튼"
+
+msgid "L3 button"
+msgstr "L3 버튼"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "수석 캐릭터 아티스트"
+
+msgid "LEAD DESIGNER"
+msgstr "수석 디자이너"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "수석 환경 아티스트"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "LEAD FRONT-END ENGINEER"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "수석 그래픽 아티스트"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "수석 온라인 엔지니어"
+
+msgid "LEAD PROGRAMMER"
+msgstr "수석 프로그래머"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "수석 기술 아티스트"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "수석 UX  슈퍼바이저"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "수석 차량 아티스트"
+
+msgid "LINE DESIGNER"
+msgstr "LINE DESIGNER"
+
+msgid "LINE DESIGNERS"
+msgstr "라인 디자이너"
+
+msgid "LIVE COORDINATOR"
+msgstr "LIVE COORDINATOR"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "라이브 오퍼레이션 뉴스 코디네이터"
+
+msgid "LIVE PRODUCER"
+msgstr "라이브 프로듀서"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "라이브 품질검사 & 네트워크 실무자"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "LIVE REVENUES SENIOR ANALYST"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "LIVE REVENUES STRATEGY "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "LIVE TEAM MANAGER"
+
+msgid "LOCALIZATION"
+msgstr "현지화"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "현지화 과장"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "현지화 주임"
+
+msgid "Landscape"
+msgstr "풍경"
+
+msgid "Lap %1"
+msgstr "랩 %1"
+
+msgid "Last time"
+msgstr "마지막 시간"
+
+msgid "Leader"
+msgstr "선두"
+
+msgid "League ranking"
+msgstr "리그 랭킹"
+
+msgid "Learn more about the Club Edition"
+msgstr "클럽 에디션 자세히 알아보기"
+
+msgid "Leave"
+msgstr "나가기"
+
+msgid "Leave club '%1'"
+msgstr "클럽 '%1' 나가기"
+
+msgid "Leave random track generator"
+msgstr "랜덤 트랙 생성기 나가기"
+
+msgid "Left click : move the module"
+msgstr "좌클릭: 모듈을 이동합니다"
+
+msgid "Link copied!"
+msgstr "링크가 클립보드에 복사되었습니다!"
+
+msgid "Live Ranking"
+msgstr "라이브 랭킹"
+
+msgid "Live ranking"
+msgstr "라이브 랭킹"
+
+msgid "Live test"
+msgstr "라이브 테스트"
+
+msgid "Loading"
+msgstr "불러오는 중"
+
+msgid "Loading activity..."
+msgstr "활동 로딩 중..."
+
+msgid "Loading campaign to edit"
+msgstr "편집할 캠페인 불러오는 중"
+
+msgid "Loading campaign..."
+msgstr "캠페인 불러오는 중..."
+
+msgid "Loading club activities..."
+msgstr "클럽 활동 불러오는 중..."
+
+msgid "Loading club room..."
+msgstr "클럽 룸 불러오는 중..."
+
+msgid "Loading competition..."
+msgstr "경기 로딩..."
+
+msgid "Loading offline campaign..."
+msgstr "캠페인 불러오는 중..."
+
+msgid "Loading records"
+msgstr "기록 불러오는 중"
+
+msgid "Loading room informations..."
+msgstr "룸 정보 불러오는 중..."
+
+msgid "Loading..."
+msgstr "불러오는 중..."
+
+msgid "Local multi"
+msgstr "로컬 멀티"
+
+msgid "Local network"
+msgstr "로컬 네트워크"
+
+msgid "Locked"
+msgstr "잠금"
+
+msgid "Login"
+msgstr "로그인 아이디"
+
+msgid "Logo"
+msgstr "로고"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"로고: 클럽에서 가장 먼저 보이는 이미지입니다.\n"
+"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
+
+msgid "Lol"
+msgstr "Lol"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "매직 랩 캐릭터 아티스트"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "매직 랩 프로덕션 상무"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "매직 랩 차량 아티스트"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "플레이어경험과장, 커뮤니티 프로그램"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "과장, 커뮤니티 컨텐츠"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "과장, 커뮤니티 개발"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "CRM 운영과장"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "CRM 전략주기과장"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "웹 개발과장, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "웹 프로듀서과장, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "과장들, NCSA 고객 지원"
+
+msgid "MANAGING DIRECTOR"
+msgstr "MANAGING DIRECTOR"
+
+msgid "MARKETING"
+msgstr "MARKETING"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "마케팅 & 커뮤니케이션 상무"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "MARKETING & LOYALTY DIRECTOR"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "MARKETING & LOYALTY GROUP MANAGER"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "마케팅 캠페인 과장"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "미디어과장, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "MONETISATION DIRECTOR"
+
+msgid "Manage server"
+msgstr "서버 관리하기"
+
+msgid "Manage track"
+msgstr "트랙 관리하기"
+
+msgid "Map"
+msgstr "맵"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"맵 %1/%2 - 레이스를 완료하거나 최고 랩타임을 기록해 점수를 획득하십시오."
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "'%1' 맵을 업로드하지 못했습니다. 다시 시도하십시오. (오류:%2)"
+
+msgid "Map '%1' is not playable."
+msgstr "'%1' 맵은 플레이할 수 없습니다."
+
+msgid "Map '%1' not found"
+msgstr "'%1' 맵을 찾을 수 없습니다"
+
+msgid "Map browser"
+msgstr "맵 브라우저"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "맵을 삭제하지 못했습니다. 다시 시도하십시오. (오류: %1)"
+
+msgid "Map editor"
+msgstr "맵 편집기"
+
+msgid "Map not found"
+msgstr "맵을 찾지 못했습니다"
+
+msgid "Map position"
+msgstr "맵 위치"
+
+msgid "Map review"
+msgstr "맵 검토"
+
+msgid "Map rounds"
+msgstr "맵 라운드"
+
+msgid "Map saved!"
+msgstr "맵 저장됨!"
+
+msgid "Map uploads"
+msgstr "맵 업로드"
+
+msgid "Map validate"
+msgstr "맵 활성화"
+
+msgid "Maps"
+msgstr "맵"
+
+msgid "Maps "
+msgstr "맵 "
+
+msgid "Maps : "
+msgstr "맵: "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "맵을 업로드하지 못했습니다. 다시 시도하십시오. (오류: %1)"
+
+msgid "Maps list already full"
+msgstr "맵 목록이 이미 가득 찼습니다"
+
+msgid "Match found!"
+msgstr "매치 발견!"
+
+msgid "Match is over"
+msgstr "경기가 끝났습니다"
+
+msgid "Match not started yet."
+msgstr "매치가 아직 시작되지 않았습니다."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "매치가 끝났습니다. 로비로 돌아가야 합니다."
+
+msgid "Match over. You will be transferred back."
+msgstr "매치가 끝났습니다. 이전 화면으로 돌아가게 됩니다."
+
+msgid "Match paused"
+msgstr "경기 일시 정지됨"
+
+msgid "Match settings"
+msgstr "매치 설정"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "매치메이킹 취소됨: 이용 가능한 서버가 없습니다"
+
+msgid "Matchmaking disabled."
+msgstr "매치메이킹이 비활성화되었습니다."
+
+msgid "Matchmaking forced."
+msgstr "매치메이킹이 강제로 진행됩니다."
+
+msgid "Matchmaking in progress..."
+msgstr "매치메이킹이 진행 중입니다..."
+
+msgid "Matchsettings browser"
+msgstr "매치 설정 브라우저"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "매치 설정이 %1 파일에 저장됩니다."
+
+msgid "Max players"
+msgstr "최대 플레이어 수"
+
+msgid "Max players number"
+msgstr "최대 플레이어 수"
+
+msgid "Max points :"
+msgstr "최대 포인트 :"
+
+msgid "Max wait time: %1 %2"
+msgstr "최대 대기 시간: %1 %2"
+
+msgid "Medals"
+msgstr "메달"
+
+msgid "Middle click : reset the module"
+msgstr "가운데 클릭: 모듈을 초기화합니다"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "없음: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "모드"
+
+msgid "Mode script browser"
+msgstr "모드 스크립트 브라우저"
+
+msgid "Mode settings"
+msgstr "모드 설정"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "More VIPs"
+msgstr "VIP 더보기"
+
+msgid "Move"
+msgstr "이동"
+
+msgid "Move the block to a new location"
+msgstr "블록을 새로운 장소로 이동"
+
+msgid "Move the cursor"
+msgstr "커서 이동"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "시작 블록을 옮겨서 경기를 시작하고 싶은 지점을 선택하십시오."
+
+msgid "Multi teams"
+msgstr "여러 팀"
+
+msgid "My clubs"
+msgstr "내 클럽"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "NCSA 고객 관계 센터 - 커뮤니티팀"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "NCSA 고객 지원팀"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "New author time"
+msgstr "새로운 작성자 기록"
+
+msgid "New best time"
+msgstr "새 최고 기록"
+
+msgid "New medal"
+msgstr "새 메달"
+
+msgid "New rank: %1"
+msgstr "새로운 랭킹: %1"
+
+msgid "New records disabled"
+msgstr "신규 기록 비활성화됨"
+
+msgid "New track"
+msgstr "새로운 트랙"
+
+msgid "News"
+msgstr "뉴스"
+
+msgid "News creation"
+msgstr "뉴스 제작"
+
+msgid "News image"
+msgstr "뉴스 사진"
+
+msgid "News must have a headline."
+msgstr "뉴스 표제가 있어야 합니다."
+
+msgid "News must have either a body or an image."
+msgstr "뉴스에는 내용 또는 사진이 들어가야 합니다."
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Next map"
+msgstr "다음 맵"
+
+msgid "Next map in %1..."
+msgstr "다음 지도까지 %1..."
+
+msgid "Next medal"
+msgstr "다음 메달 기록"
+
+msgid "Next player"
+msgstr "다음 플레이어"
+
+msgid "Next zone"
+msgstr "다음 지역"
+
+msgid "Ninth (Press 9)"
+msgstr "9위(9를 누르세요)"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "No K.O."
+msgstr "KO 없음"
+
+msgid "No accounts found"
+msgstr "발견된 계정 없음"
+
+msgid "No clubs"
+msgstr "클럽 없음"
+
+msgid "No daily map found to display the rankings"
+msgstr "랭킹을 표시할 일일 맵이 발견되지 않았습니다."
+
+msgid "No maps in this month"
+msgstr "해당 월에는 맵이 없습니다"
+
+msgid "No monthly campaigns found."
+msgstr "월간 캠페인을 찾을 수 없습니다."
+
+msgid "No player"
+msgstr "플레이어 없음"
+
+msgid "No preview available"
+msgstr "미리 보기가 없습니다."
+
+msgid "No quarterly campaigns found."
+msgstr "발견된 분기별 캠페인이 없습니다."
+
+msgid "No records"
+msgstr "기록 없음"
+
+msgid "No suitable elements were found in this folder"
+msgstr "이 폴더에서 적절한 요소를 찾지 못했습니다."
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "리매치에 동의한 플레이어가 충분하지 않습니다."
+
+msgid "Not ranked"
+msgstr "랭킹 없음"
+
+msgid "Now"
+msgstr "지금"
+
+msgid "Number of Laps : "
+msgstr "랩 수: "
+
+msgid "Number of laps"
+msgstr "랩 수"
+
+msgid "Number of maps per match"
+msgstr "랩 수: "
+
+msgid "Number of rounds per map"
+msgstr "랩 수: "
+
+msgid "Number of warm up"
+msgstr "랩 수: "
+
+msgid "Number of winners"
+msgstr "랩 수: "
+
+msgid "OFFICE MANAGEMENT"
+msgstr "사무 관리"
+
+msgid "OK"
+msgstr "확인"
+
+msgid "ONLINE ENGINEER"
+msgstr "ONLINE ENGINEER"
+
+msgid "ONLINE ENGINEERS"
+msgstr "온라인 엔지니어"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "ONLINE SERVICES LINE PRODUCER"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "ONLINE SERVICES 팀"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "ONLINE TECHNICAL COORDINATION MANAGER"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "ONLINE TECHNOLOGIES MANAGER"
+
+msgid "Official rankings"
+msgstr "공식 랭킹"
+
+msgid "Offroad"
+msgstr "오프로드"
+
+msgid "Ok"
+msgstr "확인"
+
+msgid "Opponents from %1"
+msgstr "%1 지역 상대"
+
+msgid "Optional"
+msgstr "선택 사항"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr "또는 오른쪽의 플레이어 이름을 클릭해 기존 파티에 참여하십시오."
+
+msgid "Orange"
+msgstr "주황색"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "PC REQUIREMENTS"
+msgstr "PC 요구사항"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "PC 요구사항 대리"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "PC 요구사항 프로젝트장"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "PC 요구사항 주임들"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "플레이어 경험"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "플레이어경험주임, 커뮤니티 프로그램"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "플레이어경험과장, 콜라보레이션 툴즈"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "플레이어경험과장, 프론트라인 프로그램"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "플레이어지원 지역과장"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "플레이어지원 운영과장"
+
+msgid "PR"
+msgstr "홍보"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "PREDICTIVE ANALYTICS RESEARCHER"
+
+msgid "PRESIDENT AND CEO"
+msgstr "PRESIDENT & CEO"
+
+msgid "PRODUCER"
+msgstr "프로듀서"
+
+msgid "PRODUCT OWNER"
+msgstr "제품 소유주"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "제품주임"
+
+msgid "PRODUCTION"
+msgstr "PRODUCTION"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "프로덕션 코디네이터"
+
+msgid "PROGRAM MANAGER"
+msgstr "프로그램과장"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "프로그램과장, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMMER"
+
+msgid "PROJECT ASSISTANT"
+msgstr "프로젝트사원"
+
+msgid "PROJECT MANAGER"
+msgstr "프로젝트과장"
+
+msgid "PROJECT MANAGERS "
+msgstr "PROJECT MANAGERS "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "프로젝트 온라인 획득 사원, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "배급 상무"
+
+msgid "Page Down"
+msgstr "페이지 아래로"
+
+msgid "Page Up"
+msgstr "페이지 위로"
+
+msgid "Participation registered!"
+msgstr "참여가 등록되었습니다!"
+
+msgid "Password"
+msgstr "암호"
+
+msgid "Past 14 days"
+msgstr "최근 14일"
+
+msgid "Paste"
+msgstr "붙여넣기"
+
+msgid "Pause"
+msgstr "일시 중지"
+
+msgid "Personal best"
+msgstr "개인 최고 기록"
+
+msgid "Pick the controller"
+msgstr "컨트롤러 선택"
+
+msgid "Pick the difficulty"
+msgstr "난이도 선택"
+
+msgid "Pick the mood"
+msgstr "분위기 선택"
+
+msgid "Picked by matchmaking"
+msgstr "매치메이킹에 의해 선택됨"
+
+msgid "Pink"
+msgstr "핑크색"
+
+msgid "Place a finish block to end your track."
+msgstr "트랙의 끝에 결승점 블록을 두십시오."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"지름길 이용 방지를 위해 체크포인트를 두십시오. 다른 플레이어들이 트랙에서 더 "
+"쉽게 부활할 수 있습니다."
+
+msgid "Platform"
+msgstr "플랫폼"
+
+msgid "Play"
+msgstr "플레이"
+
+msgid "Play HotSeat"
+msgstr "핫시트 플레이"
+
+msgid "Play a map"
+msgstr "맵 플레이하기"
+
+msgid "Play a map locally"
+msgstr "맵을 로컬에서 플레이합니다"
+
+msgid "Play against %1"
+msgstr "%1과 경쟁하기"
+
+msgid "Play against a replay"
+msgstr "리플레이를 상대로 플레이하기"
+
+msgid "Play against opponents"
+msgstr "상대와 플레이하기"
+
+msgid "Play alone"
+msgstr "혼자 플레이하기"
+
+msgid "Play next map"
+msgstr "다음 맵 플레이"
+
+msgid "Play offline"
+msgstr "오프라인 플레이"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr ""
+"매 시즌 새로운 맵 25개를 혼자 또는 여러 사람과 함께 플레이할 수 있습니다."
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "일일 라운드 녹아웃을 플레이하십시오"
+
+msgid "Player Best Time"
+msgstr "플레이어 최고 기록"
+
+msgid "Player info"
+msgstr "플레이어 정보"
+
+msgid "Player profile"
+msgstr "플레이어 프로필"
+
+msgid "Players"
+msgstr "플레이어"
+
+msgid "Players are tied!"
+msgstr "플레이어들이 비겼습니다!"
+
+msgid "Players in server"
+msgstr "서버에 접속 중인 플레이어"
+
+msgid "Players order"
+msgstr "플레이어 순서"
+
+msgid "Please reconnect the %1"
+msgstr "%1와 다시 연결하십시오."
+
+msgid "Please select your %1"
+msgstr "%1을(를) 선택하십시오."
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"녹아웃이 시작될 때까지 채널에 머무십시오. 매치가 준비되면 자동으로 이동됩니"
+"다."
+
+msgid "Please wait."
+msgstr "잠시만 기다리십시오."
+
+msgid "Points gap"
+msgstr "점수 차이"
+
+msgid "Points gap :"
+msgstr "점수 차이"
+
+msgid "Points limit"
+msgstr "점수 제한 "
+
+msgid "Points limit "
+msgstr "점수 제한 "
+
+msgid "Points limit : "
+msgstr "포인트 제한: "
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "점수 제한: %1, 현재 최고 점수: %2"
+
+msgid "Popularity"
+msgstr "인기도"
+
+msgid "Prebuilt Landscapes"
+msgstr "사전 설치된 풍경"
+
+msgid "Preferences"
+msgstr "선택사항"
+
+msgid "Press a key"
+msgstr "키를 누르십시오"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"\"더하기\" 또는 \"제거하기\" 버튼을 당겨서 적용하고 싶은 지역으로 끌어 당기십"
+"시오."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"연결 모드 또는 비연결 모드로 변경하려면 %1를 누르십시오. 연결 모드에서 커서"
+"는 항상 트랙 위에 있습니다. 비연결 모드에서는 커서를 자유롭게 움직일 수 있습"
+"니다."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "다른 생성 모드로 변경하려면 %1를 누르십시오."
+
+msgid "Pressforward"
+msgstr "프레스포워드"
+
+msgid "Previous author time"
+msgstr "이전 작성자 기록"
+
+msgid "Previous player"
+msgstr "이전 플레이어"
+
+msgid "Previous replay saved!"
+msgstr "이전 리플레이가 저장되었습니다!"
+
+msgid "Previous zone"
+msgstr "이전 지역"
+
+msgid "Privacy setting"
+msgstr "프라이버시 설정"
+
+msgid "Proceed to lobby"
+msgstr "로비로 나가기"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "QA"
+msgstr "품질 검사"
+
+msgid "QA LEAD"
+msgstr "QA 수석"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "QC ACCESSIBILITY 팀"
+
+msgid "QC NETWORKING"
+msgstr "QC NETWORKING"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "QC NETWORKING EXPERT"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "QC NETWORKING SPECIALIST"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "QC NETWORKING TEAM LEAD"
+
+msgid "QUALITY"
+msgstr "품질"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "품질 관리 과장"
+
+msgid "Qualifier rank: %1"
+msgstr "예선 등수: %1"
+
+msgid "Quantity"
+msgstr "수량"
+
+msgid "Quarter-final"
+msgstr "준준결승"
+
+msgid "Quit"
+msgstr "나가기"
+
+msgid "Quit editor"
+msgstr "에디터 종료"
+
+msgid "Quit plugin"
+msgstr "플러그인 중단"
+
+msgid "Quit%1"
+msgstr "나가기%1"
+
+msgid "R&D ENGINEER"
+msgstr "R&D ENGINEER"
+
+msgid "R&D ENGINEERS"
+msgstr "R&D 엔지니어"
+
+msgid "R1 button"
+msgstr "R1 버튼"
+
+msgid "R3 button"
+msgstr "R3 버튼"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "RELEASE MANAGEMENT"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+
+msgid "RELEASE MANAGER"
+msgstr "RELEASE MANAGER"
+
+msgid "Race"
+msgstr "레이스"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr "레이스 맵타입을 확인할 수 없습니다. 귀하의 맵을 유효화할 수 없습니다."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "일일 플레이 맵 선택에서 경기해보십시오."
+
+msgid "Race ranking"
+msgstr "레이스 랭킹"
+
+msgid "Race validation"
+msgstr "레이스 확인"
+
+msgid "Random"
+msgstr "랜덤"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"전문가 모드에서는 랜덤 풍경을 설정할 수 없습니다. 랜덤 풍경을 끄고 다시 시도"
+"하십시오."
+
+msgid "Random map"
+msgstr "랜덤 지도"
+
+msgid "Ranking"
+msgstr "랭킹"
+
+msgid "Rankings"
+msgstr "랭킹"
+
+msgid "Ready"
+msgstr "준비"
+
+msgid "Ready (F6)"
+msgstr "준비(F6)"
+
+msgid "Record leader ghost"
+msgstr "리더 고스트 기록하기"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "시청자들이 볼 수 있는 고스트 리더를 기록하십시오."
+
+msgid "Record the ghost that player will follow"
+msgstr "플레이어가 따라갈 고스트를 기록하십시오."
+
+msgid "Records"
+msgstr "기록"
+
+msgid "Red"
+msgstr "빨간색"
+
+msgid "Refresh"
+msgstr "새로고침"
+
+msgid "Register"
+msgstr "등록"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "등록 실패 (에러 코드: %1)"
+
+msgid "Remaining time: %1"
+msgstr "남은 시간: %1"
+
+msgid "Remove"
+msgstr "삭제하기"
+
+msgid "Remove from favorite"
+msgstr "즐겨찾기에서 삭제"
+
+msgid "Remove image"
+msgstr "이미지 제거하기"
+
+msgid "Remove map"
+msgstr "맵 제거하기"
+
+msgid "Rename folder"
+msgstr "폴더 이름 변경"
+
+msgid "Replay"
+msgstr "리플레이"
+
+msgid "Replay editor"
+msgstr "리플레이 편집기"
+
+msgid "Replay saved!"
+msgstr "리플레이가 저장되었습니다!"
+
+msgid "Reroll decoration"
+msgstr "장식 재등록"
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Reset the UI customization"
+msgstr "UI 사용자 지정 초기화"
+
+msgid "Restart"
+msgstr "재시작"
+
+msgid "Restart map"
+msgstr "맵 다시 시작하기"
+
+msgid "Resume"
+msgstr "계속하기"
+
+msgid "Resuming match"
+msgstr "매치 다시 시작"
+
+msgid "Retrieving map list..."
+msgstr "맵 목록을 불러오는 중..."
+
+msgid "Retry"
+msgstr "재시도"
+
+msgid "Right click : hide/show the module"
+msgstr "우클릭: 모듈을 숨기거나 표시합니다"
+
+msgid "Room"
+msgstr "룸"
+
+msgid "Room creation"
+msgstr "룸 생성"
+
+msgid "Room name"
+msgstr "룸 이름"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  라운드당 %4 KO"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  라운드당 1 KO"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  이번 라운드에 KO 없음"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  라운드당 %4 KO"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  라운드당 1 KO"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  이번 라운드에 KO 없음"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr "라운드 %1/%2  |  플레이어 %3명  |  플레이어가 %5명이 될 때까지 %4 KO"
+
+msgid "Round skipped"
+msgstr "라운드 건너뜀"
+
+msgid "Rounds "
+msgstr "라운드 "
+
+msgid "Rounds : "
+msgstr "라운드: "
+
+msgid "Rules"
+msgstr "규칙"
+
+msgid "SALES DIRECTOR"
+msgstr "영업 상무"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "SCIENTIFIC DIRECTOR "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "커뮤니티 참여 차장"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "선임 커뮤니티센티먼트주임"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "선임 데이터베이스 관리자"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "전무이사, 커뮤니티 경험"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "SENIOR FRONT-END ENGINEER"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "SENIOR HQ PRODUCER"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "SENIOR KNOWLEDGE SPECIALIST"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "SENIOR LINE ANALYST"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "차장, 커뮤니티 개발"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "차장, 커뮤니티 관리"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "선임 매뉴얼 테스터"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "선임 온라인 인프라 엔지니어"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "운영 마케팅 차장"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "홍보 대리"
+
+msgid "SENIOR PRODUCER"
+msgstr "선임 프로듀서"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "SENIOR PRODUCT MANAGER"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "선임 프로그래머"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "선임 소프트웨어 엔지니어"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "대리들, NCSA 고객 지원"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "선임 시스템 관리자"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "선임 웹 개발자"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "선임 웹 프로그래머"
+
+msgid "SITE ADMINISTATOR"
+msgstr "사이트 관리자"
+
+msgid "SOUND DESIGNER"
+msgstr "SOUND DESIGNER"
+
+msgid "SPECIAL THANKS"
+msgstr "감사한 분들"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "실무자들, NCSA 고객 지원"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "차장, 플레이어 경험 EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "플레이어경험차장, 프론트라인 프로그램"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "플레이어경험차장, 프론트라인 프로그램"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "STORE FRONT SPECIALIST"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "STUDIO OPERATIONS COORDINATOR"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "실무진, NCSA 고객 지원"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "시스템 관리자"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save and create cup"
+msgstr "컵 저장 및 제작"
+
+msgid "Save as new"
+msgstr "다른 이름으로 저장"
+
+msgid "Save for later"
+msgstr "나중을 위해 저장"
+
+msgid "Save map"
+msgstr "맵 저장"
+
+msgid "Save previous replay"
+msgstr "이전 리플레이 저장"
+
+msgid "Save replay"
+msgstr "리플레이 저장"
+
+msgid "Saved Activities"
+msgstr "저장한 활동"
+
+msgid "Saving campaign..."
+msgstr "캠페인 저장하는 중..."
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"화면 16x1: 경기장의 시상대에 표시되는 이미지입니다 (큰 화면 아래편).\n"
+"면적: %1 - 형식: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"화면 16x9: 경기장의 큰 화면에 표시되는 이미지입니다.\n"
+"면적: %1 - 형식: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"화면 8x1: 경기장의 관람석에 표시되는 이미지입니다.\n"
+"면적: %1 - 형식: DDS (DXT5)"
+
+msgid "Scroll down"
+msgstr "스크롤 내리기"
+
+msgid "Scroll up"
+msgstr "스크롤 올리기"
+
+msgid "Second (Press 2)"
+msgstr "2위(2를 누르세요)"
+
+msgid "See tutorial again"
+msgstr "튜토리얼 다시 보기"
+
+msgid "Select"
+msgstr "선택하기"
+
+msgid "Select a VIP to play against"
+msgstr "경쟁할 VIP를 선택하십시오."
+
+msgid "Select a billboard"
+msgstr "빌보드 선택"
+
+msgid "Select a campaign"
+msgstr "캠페인 선택"
+
+msgid "Select a color"
+msgstr "색상 선택하기"
+
+msgid "Select a landscape and start building your track."
+msgstr "풍경을 선택하고 트랙을 생성하십시오."
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"풍경을 선택하십시오. 마음에 드는 풍경을 선택하면, 경기를 시작할 수 있습니다."
+
+msgid "Select a mode"
+msgstr "모드 선택"
+
+msgid "Select a mode before adding maps"
+msgstr "맵을 추가하기 전에 모드를 선택하십시오."
+
+msgid "Select a mode to check map compatibility"
+msgstr "맵 호환성을 검사하려면 모드를 선택하십시오."
+
+msgid "Select a road paint"
+msgstr "길 페인트 선택"
+
+msgid "Select a round to start"
+msgstr "시작하려면 라운드를 선택하십시오"
+
+msgid "Select all"
+msgstr "모두 선택"
+
+msgid "Select an account"
+msgstr "계정을 선택하십시오."
+
+msgid "Select an image"
+msgstr "이미지 선택하기"
+
+msgid "Select map"
+msgstr "맵 선택"
+
+msgid "Select maps"
+msgstr "맵 선택하기"
+
+msgid "Select maps to remove"
+msgstr "맵을 선택하거나 삭제"
+
+msgid "Select mode"
+msgstr "모드 선택:"
+
+msgid "Select next map"
+msgstr "다음 맵 선택하기"
+
+msgid "Select number of players"
+msgstr "플레이어 수 선택:"
+
+msgid "Select style"
+msgstr "스타일 선택"
+
+msgid "Select the location of the starting line"
+msgstr "시작점을 선택하십시오."
+
+msgid "Select where you want to start"
+msgstr "시작점 선택하기"
+
+msgid "Select your activity"
+msgstr "활동을 선택하십시오."
+
+msgid "Select zone"
+msgstr "지역 선택"
+
+msgid "Selected campaign"
+msgstr "선택된 캠페인"
+
+msgid "Selected map"
+msgstr "선택된 맵"
+
+msgid "Selected maps"
+msgstr "선택된 맵"
+
+msgid "Semi-final"
+msgstr "준결승"
+
+msgid "Server account"
+msgstr "서버 계정"
+
+msgid "Server doesn't exist anymore"
+msgstr "서버가 더 이상 존재하지 않습니다."
+
+msgid "Server name"
+msgstr "서버 이름"
+
+msgid "Server region"
+msgstr "서버 지역"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr "서버가 오프라인이거나 점검 중입니다, 나중에 다시 시도하십시오."
+
+msgid "Set next map"
+msgstr "다음 맵 설정하기"
+
+msgid "Set private"
+msgstr "비공개로 설정"
+
+msgid "Set public"
+msgstr "공개로 설정"
+
+msgid "Set/Unset as favorite"
+msgstr "즐겨찾기로 설정/취소"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Seventh (Press 7)"
+msgstr "7위(7을 누르세요)"
+
+msgid "Show"
+msgstr "표시하기"
+
+msgid "Silver"
+msgstr "은"
+
+msgid "Silver medal"
+msgstr "은메달"
+
+msgid "Single Map"
+msgstr "싱글 맵"
+
+msgid "Sixth (Press 6)"
+msgstr "6위(6을 누르세요)"
+
+msgid "Skin browser"
+msgstr "스킨 브라우저"
+
+msgid "Skin editor"
+msgstr "스킨 에디터"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "스킨을 업로드에 실패했습니다. (오류: %1)"
+
+msgid "Skin uploads"
+msgstr "스킨 업로드"
+
+msgid "Skins"
+msgstr "스킨"
+
+msgid "Skip"
+msgstr "통과"
+
+msgid "Solo"
+msgstr "솔로"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"흰색 박스는 연결 지점을 만들어줍니다. \"변경\" 버튼을 눌러서 사용할 박스를 고"
+"르십시오."
+
+msgid "Spectate"
+msgstr "구경하기"
+
+msgid "Spectator"
+msgstr "관전자"
+
+msgid "Spectator password"
+msgstr "관전자 암호"
+
+msgid "SplitScreen"
+msgstr "분할 화면"
+
+msgid "Splitscreen"
+msgstr "분할 화면"
+
+msgid "Standard"
+msgstr "스탠다드"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr "스탠다드 액세스는 게임 내 모든 활동을 즐길 수 있는 1년 패스권입니다."
+
+msgid "Starter"
+msgstr "스타터"
+
+msgid "Stats"
+msgstr "통계"
+
+msgid "Step ranking"
+msgstr "단계 랭킹"
+
+msgid "Stop auto-finish"
+msgstr "자동 결승점 설정 중단"
+
+msgid "Streaming subscriptions"
+msgstr "스트리밍 구독"
+
+msgid "Style"
+msgstr "스타일"
+
+msgid "Subscribe"
+msgstr "구독"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr "서버 리뷰를 보려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "클럽 활동을 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "클럽을 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "로컬 서버를 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "맵을 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "스킨을 제작하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr "게임 모드를 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr "아이템과 모드를 만들려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "클럽 페이지를 보여주려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr "고급 맵을 편집하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "클럽 맵을 편집하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr "로컬 서버를 찾으려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "클럽에 참가하려면 Trackmania %1를 구독하십시오."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr "클럽 룸에 참여하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "아케이드 채널에 참여하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "리플레이 에디터를 열려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr "기본 맵 에디터를 열려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "스킨 에디터를 열려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr "로컬 맵으로 플레이하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr "개인 클럽 활동을 플레이하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "리플레이를 상대로 경기하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr "클럽 캠페인에 참여하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr "온라인 경기를 하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr "지난 월간 캠페인을 하시려면 Trackmania %1를 구독하십시오."
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr "지난 분기 캠페인에 참여하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr "핫시트 모드로 플레이하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr "월간 라이브 캠페인을 하시려면 Trackmania %1를 구독하십시오."
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr "분기 라이브 캠페인에 참여하려면 Trackmania %1에 가입하십시오"
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr "분리 화면 모드로 플레이하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr ""
+"리플레이 에디터 내에서 비디오를 저장하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "맵을 업로드하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "스킨을 업로드하려면 Trackmania %1에 가입하십시오."
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "커스텀 스킨을 사용하려면 Trackmania %1에 가입하십시오."
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "채팅에서 %1$z: \"go %2$z\" 지원"
+
+msgid "Switch"
+msgstr "변경"
+
+msgid "TEAM LEAD"
+msgstr "TEAM LEAD"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "대리들, NCSA 고객 지원"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "기술 애니메이터"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "기술상무"
+
+msgid "TECHNICAL MANAGER"
+msgstr "기술과장"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "기술 운영 수석"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "TECHNICAL SPECIALIST"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "기술 지원 코디네이터"
+
+msgid "TESTER"
+msgstr "테스터"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"더 나은 게임이 될 수 있도록 도와주신 전 세계의 플레이어와 수 많은 알파 테스터"
+"분들께 감사 인사를 전합니다. 여러분의 열정과 전문 지식은 세계 최고 수준이라"
+"고 생각합니다."
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "추적&분석 주임, EMEA"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"유형: 개인전\n"
+"목표: 카운트다운이 종료되기 전에 최고의 기록을 달성하십시오."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"유형: 개인전\n"
+"목표: 트랙에서 최고 기록을 수립하십시오."
+
+msgid "Take this slot"
+msgstr "이 슬롯을 사용하십시오"
+
+msgid "Team versus Team"
+msgstr "팀전"
+
+msgid "Tech"
+msgstr "기술"
+
+msgid "Terraforming in progress"
+msgstr "지형 제작 중"
+
+msgid "Terrain"
+msgstr "지형"
+
+msgid "Test"
+msgstr "테스트"
+
+msgid "Test other maps"
+msgstr "다른 맵 테스트"
+
+msgid "Test the track"
+msgstr "트랙 테스트"
+
+msgid "Test track"
+msgstr "트랙 테스트"
+
+msgid "Test your maps"
+msgstr "내 맵 테스트"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"클럽 액세스는 1년 또는 3년 패스권이며 Trackmania에서 커스텀을 통해 가장 최고"
+"의 경험을 누리고, 프로 레벨 경기, 게임 내에서 사람들과 어울릴 수 있는 독특한 "
+"채널을 이용할 수 있는 기회를 제공합니다."
+
+msgid "The Left Stick"
+msgstr "왼쪽 스틱"
+
+msgid "The Map %1 is already used"
+msgstr "%1 맵은 이미 사용 중입니다"
+
+msgid "The Right Stick"
+msgstr "오른쪽 스틱"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "최고의 맵은 오늘의 트랙으로 선정될 기회가 주어집니다!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "내용은 최대 %1 글자입니다."
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "캠페인 이름은 %1자 이하여야 합니다."
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "클럽 설명은 %1자 미만이어야 합니다."
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "클럽 이름은 최소 %1자 최대 %2자여야 합니다"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "클럽 태그는 최소 %1자 최대 %2자여야 합니다"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "경기 생성에 실패했습니다. (에러 코드: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr "장식은 제거할 수 있으며, 트랙을 다시 유효화해야 합니다."
+
+msgid "The decoration will be removed."
+msgstr "장식이 제거됩니다."
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "표제는 최대 %1 글자입니다."
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "오늘의 순위표는 지금 폐쇄됩니다!"
+
+msgid "The league is coming back in"
+msgstr "리그 재개까지 남은 시간:"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "'%1' 맵은 이미 플레이리스트에 있습니다."
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "'%1' 맵은 선택된 게임 모드와 호환되지 않습니다."
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr "'%1' 맵은 플레이할 수 없습니다. 맵 인하고 음영을 계산하십시오."
+
+msgid "The match will begin shortly ..."
+msgstr "매치가 곧 시작됩니다..."
+
+msgid "The matchsettings is not valid"
+msgstr "경기 설정이 올바르지 않습니다."
+
+msgid "The name has a maximum of %1 characters"
+msgstr "이름은 최대 %1 글자입니다."
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "경기 이름은 최소 %1 글자, 최대 %2글자입니다."
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "이름 태그는 최대 %1자까지 입니다"
+
+msgid "The next match will begin in %1 "
+msgstr "다음 경기가 %1 후 시작됩니다. "
+
+msgid "The registration closed at : %1 H"
+msgstr "남은 등록 시간: %1 시간"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "룸에 접근할 수 없습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "룸이 시작 중이며 몇 초 안에 준비됩니다."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"자동 결승점 설정을 할 수 없습니다. 블록 몇 개를 제거하고 다시 시도해보십시오."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "막다른 골목에 있습니다. 다른 방향으로 가십시오."
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr "자동 결승점 설정을 하려면 트랙에 오픈 커넥터가 있어야 합니다."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "트랙에 %1 연단이 있습니다. 하나만 선택하십시오."
+
+msgid "There are no displayed activities in your club."
+msgstr "클럽에 개제된 활동이 없습니다."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "에디터에 사용할 수 있는 매크로블록이 없습니다."
+
+msgid "There are no saved activities in your club."
+msgstr "클럽에 저장된 활동이 없습니다."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr ""
+"해당 경기에 대한 정보를 가져오는 과정에서 오류가 발생했습니다. (에러 코드: "
+"%1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"랭킹을 수집하던 중 오류가 발생했습니다. 나중에 다시 시도하십시오. (오류 코"
+"드: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"랭킹을 수집하던 중 오류가 발생했습니다. 나중에 다시 시도하십시오. (오류: 더 "
+"이상 존재하지 않는 작업)"
+
+msgid "Third (Press 3)"
+msgstr "3위(3을 누르세요)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr "클럽 회원이 되어야 사용할 수 있는 개인 활동입니다."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"이 블록은 커스텀이 가능합니다. 사용하고 싶은 사진을 누르려면 %1를 쓰십시오."
+
+msgid "This competition is closed"
+msgstr "마감된 경기입니다."
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr "플레이어가 호스팅하는 전용 서버입니다. 오프라인 상태일 수 있습니다."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"멀티랩 시작 블록입니다. 플레이어는 모든 체크포인트를 지나야 하며, 이 블록을 "
+"지나야 랩을 한 번 완료한 것으로 인증됩니다."
+
+msgid "This map is not playable"
+msgstr "이 맵은 플레이할 수 없습니다."
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"이 매치메이킹 서버에서 매치를 호스팅 중입니다. 지금은 참여할 수 없습니다."
+
+msgid "This round is a draw."
+msgstr "이번 라운드는 무승부입니다."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"이 서버 계정은 ID가 %2인 클럽 룸 \"%1\" 의해 사용 중입니다. 다른 계정을 선택"
+"하십시오."
+
+msgid "This server will split for less waiting time"
+msgstr "본 서버는 대기 시간 감소를 위해 분할됩니다."
+
+msgid "This track is already validated."
+msgstr "이미 유효한 트랙입니다."
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Time Limit"
+msgstr "시간 제한"
+
+msgid "Time Limit :"
+msgstr "시간 제한:"
+
+msgid "Time limit"
+msgstr "시간 제한"
+
+msgid "Time to beat"
+msgstr "앞지를 시간입니다"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr "그렇지 않으면, 자신만의 풍경을 만들 수 있습니다. 계속하시겠습니까?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr "먼저 모든 체크 포인트를 지나 시작점부터 결승점까지 통과해야 합니다."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "트랙을 에디터 밖에서 플레이하려면 먼저 활성화해야 합니다."
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Top"
+msgstr "최상위"
+
+msgid "Top %1"
+msgstr "최상위 %1위"
+
+msgid "Top %1 %2"
+msgstr "%2 최상위 %1위"
+
+msgid "Track"
+msgstr "트랙"
+
+msgid "Track completed."
+msgstr "트랙 완성"
+
+msgid "Track of the day"
+msgstr "오늘의 트랙"
+
+msgid "Track style"
+msgstr "트랙 스타일"
+
+msgid "Training"
+msgstr "트레이닝"
+
+msgid "Trial"
+msgstr "시험"
+
+msgid "Trophies"
+msgstr "트로피"
+
+msgid "Try to place checkpoints regularly"
+msgstr "체크포인트를 규칙적으로 두십시오."
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "UBISOFT CLUB LINE PRODUCER"
+
+msgid "UI DESIGNER"
+msgstr "UI DESIGNER"
+
+msgid "UI DESIGNER "
+msgstr "UI DESIGNER "
+
+msgid "UI PROGRAMMER"
+msgstr "UI 프로그래머"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "UI/UX DESIGN TEAM LEAD"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "UOR ASSOCIATE TEAM LEAD"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "UOR PLATFORM OWNERS"
+
+msgid "UOR TEAM"
+msgstr "UOR 팀"
+
+msgid "UOR TEAM LEAD"
+msgstr "UOR TEAM LEAD"
+
+msgid "UPLAY TEAM"
+msgstr "UPLAY 팀"
+
+msgid "UX DESIGNER"
+msgstr "UX 디자이너"
+
+msgid "UX DESIGNER "
+msgstr "UX DESIGNER "
+
+msgid "UX REQUIREMENTS"
+msgstr "UX REQUIREMENTS"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "UX REQUIREMENTS LEAD"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "UX REQUIREMENTS SPECIALISTS"
+
+msgid "Unapply"
+msgstr "적용 취소"
+
+msgid "Unapply skin"
+msgstr "스킨 적용 취소"
+
+msgid "Unselect all"
+msgstr "모두 선택 취소"
+
+msgid "Unsubscribe"
+msgstr "탈퇴하기"
+
+msgid "Update member's role"
+msgstr "멤버 역할 업데이트"
+
+msgid "Updating club..."
+msgstr "클럽 업데이트 중..."
+
+msgid "Upload a map"
+msgstr "맵 업로드"
+
+msgid "Upload a skin"
+msgstr "스킨 업로드"
+
+msgid "Uploading..."
+msgstr "업로드하는 중..."
+
+msgid "Use %1 to move the cursor."
+msgstr "%1로 커서를 이동하십시오."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"%1를 사용하여 블록 선택 화면을 열고 카테고리를 선택하십시오. %2를 사용하여 블"
+"록을 놓고 싶은 장소를 선택하십시오."
+
+msgid "Use a custom points repartition :"
+msgstr "커스텀 포인트 분배 사용"
+
+msgid "Use alternate rules :"
+msgstr "대체 규칙 사용:"
+
+msgid "Use tie-break"
+msgstr "타이 브레이크 사용"
+
+msgid "Use your dedicated server"
+msgstr "자신의 전용 서버 사용"
+
+msgid "VEHICLE ARTIST"
+msgstr "차량 아티스트"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "관객 & 고객 관리상무, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "상무, 플레이어 경험"
+
+msgid "VIPs from club '%1'"
+msgstr "클럽 '%1'의 VIP"
+
+msgid "VP EDITORIAL"
+msgstr "VP EDITORIAL"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "VP EDITORIAL TECHNOLOGY"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "VP, ONLINE SERVICES"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "VP, PRODUCTION MANAGER"
+
+msgid "Validate"
+msgstr "인증"
+
+msgid "Validate & exit"
+msgstr "활성화 & 나가기"
+
+msgid "Validate track"
+msgstr "트랙 인증"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "트랙을 에디터 밖에서 사용할 수 있도록 인증하십시오."
+
+msgid "Validation"
+msgstr "인증"
+
+msgid "Validations"
+msgstr "인증"
+
+msgid "Version: %1"
+msgstr "버전: %1"
+
+msgid "Versus"
+msgstr "Versus"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"버티칼: 내 클럽 목록에 사용되는 이미지입니다.\n"
+"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
+
+msgid "View replay"
+msgstr "리플레이 보기"
+
+msgid "Vote for a map"
+msgstr "맵 투표"
+
+msgid "Vote for mode settings"
+msgstr "모드 설정을 위해 투표하십시오"
+
+msgid "Vote to balance teams"
+msgstr "팀들의 균형을 맞추려면 투표하십시오"
+
+msgid "Vote to jump to map"
+msgstr "맵으로 바로 이동하려면 투표하십시오"
+
+msgid "Vote to play next map"
+msgstr "다음 맵을 플레이하려면 투표하십시오"
+
+msgid "Vote to restart"
+msgstr "재시작하려면 투표하십시오"
+
+msgid "Vote to set next map"
+msgstr "다음 맵을 설정하려면 투표하십시오"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"맵에 대한 투표는 맵이 선택될 가능성을 높여줍니다. 한 표 이상을 받으면 어떤 맵"
+"이든 플레이될 수 있습니다."
+
+msgid "Vs race record"
+msgstr "레이스 최고 기록과 차이"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "웹 컨텐츠주임"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "웹 컨텐츠사원"
+
+msgid "WEB DEVELOPER"
+msgstr "WEB DEVELOPER"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "웹 개발사원, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "웹 개발자, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "웹 프로듀서사원, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "웹 프로듀서, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "웹 프로그래머"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "웹 프로젝트과장, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "WEB SERVICES DIRECTOR"
+
+msgid "WEB SERVICES TEAM"
+msgstr "WEB SERVICES 팀"
+
+msgid "WEB UI DESIGNER"
+msgstr "웹 UI 디자이너"
+
+msgid "Waiting for other players."
+msgstr "다른 플레이어를 기다리는 중입니다."
+
+msgid "Waiting for players"
+msgstr "플레이어 기다리는 중"
+
+msgid "Waiting for your allies to be ready."
+msgstr "아군의 준비를 기다리는 중입니다."
+
+msgid "Waiting for your match"
+msgstr "내 매치 기다리는 중"
+
+msgid "Waiting for your match to start"
+msgstr "매치 시작을 기다리는 중"
+
+msgid "Warm up"
+msgstr "워밍업"
+
+msgid "Warmup"
+msgstr "워밍업"
+
+msgid "Warmup: %1/%2"
+msgstr "워밍업: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"시계\n"
+"워밍업"
+
+msgid "We are sending you back to the lobby."
+msgstr "플레이어를 로비로 돌려보내는 중입니다."
+
+msgid "We are sending you back to the match you left."
+msgstr "기존 매치로 플레이어를 돌려보내는 중입니다."
+
+msgid "We are starting a new match."
+msgstr "새 매치를 시작하는 중입니다."
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Welcome to Trackmania"
+msgstr "Trackmania에 잘 오셨습니다."
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Nadeo 일일 컵에 오신 것을 환영합니다\n"
+"\n"
+"오늘의 맵에서 10분 동안 레이스를 펼치십시오. 후에 녹아웃 단계에 참여해 더 많"
+"은 트로피를 획득할 수 있습니다. \n"
+"화면 오른쪽에서 모든 서버에 걸친 전체 랭킹을 볼 수 있습니다."
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Nadeo 일일 컵에 오신 것을 환영합니다!\n"
+"\n"
+"오늘의 맵에서 10분 동안 레이스를 펼치십시오. 후에 녹아웃 단계에 참여해 더 많"
+"은 트로피를 획득할 수 있습니다. \n"
+"화면 오른쪽에서 모든 서버에 걸친 전체 랭킹을 볼 수 있습니다. 행운을 빕니다!"
+
+msgid "Welcome to the club!"
+msgstr "클럽에 오신 것을 환영합니다!"
+
+msgid "What do you want to do?"
+msgstr "무엇을 하기를 원하십시까?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"블록을 잘라내면 블록 기록에 남습니다. 트랙에 다시 붙여넣기를 하거나 기록에서 "
+"삭제할 수 있습니다."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"블록 위로 커서를 옮기면, 복사하거나 호환할 수 있는 블록으로 자동적으로 연결"
+"할 수 있습니다."
+
+msgid "Which map would you like to submit?"
+msgstr "어느 맵을 제출하시겠습니까?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "기다리는 동안 로비의 왕이 돼보세요!"
+
+msgid "White"
+msgstr "흰색"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr ""
+"스타터 액세스에서는 Trackmania의 주요 요소를 무료로 이용해볼 수 있습니다."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Xbox One 무선 컨트롤러"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "You are being transferred as a substitute."
+msgstr "교체 선수로 이동 중입니다."
+
+msgid "You are being transferred. Please wait."
+msgstr "이동되고 있습니다. 잠시 기다려주십시오."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Uplay와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Trackmania 서버와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "구독한 클럽이 없습니다."
+
+msgid "You are not subscribed to any club"
+msgstr "구독한 클럽이 없습니다."
+
+msgid "You are registered"
+msgstr "등록되었습니다."
+
+msgid "You are suspended"
+msgstr "플레이가 중단되었습니다"
+
+msgid "You can cancel 1 match."
+msgstr "매치를 1번 취소할 수 있습니다."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr "컵을 $<$00f$t계속$>하고 녹아웃 매치에 참여하도록 선택할 수 있습니다."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr "아래의 생성 버튼을 클릭해 자신의 파티를 만들 수 있습니다."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "트랙 빌더의 장식 섹션에서 연단 블록을 찾을 수 있습니다."
+
+msgid "You can place only one starting point!"
+msgstr "출발점은 하나만 배치할 수 있습니다!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"트랙을 언제든 점검해볼 수 있습니다. 시작하고 싶은 지점에서 '테스트' 버튼을 누"
+"르십시오."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "다음 체크포인트까지 악셀을 밟을 수 없습니다."
+
+msgid "You can't remove the starting line of the track."
+msgstr "트랙의 시작점은 지울 수 없습니다."
+
+msgid "You don't have any server accounts registered."
+msgstr "등록된 서버 계정을 보유하고 있지 않습니다."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr "트랙에 놓을 수 있는 최대 블록 허용량을 거의 다 사용하였습니다."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Uplay와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Trackmania 서버와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"탈락하셨습니다.\n"
+"[이후의 업데이트에서 보상을 받을 수 있습니다]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"30초 안에 일일 채널로 이동"
+
+msgid "You have to place exactly one podium!"
+msgstr "정확히 하나의 연단을 제작해야 합니다."
+
+msgid "You must enter a name for your club"
+msgstr "클럽 이름을 입력해야 합니다."
+
+msgid "You must enter a tag for your club"
+msgstr "클럽의 태그를 입력해야 합니다."
+
+msgid "You must place at least one checkpoint!"
+msgstr "최소 한 개의 체크 포인트를 배치해야 합니다!"
+
+msgid "You must place at least one finish line!"
+msgstr "최소 한 개의 결승선을 배치해야 합니다!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "적어도 하나 이상의 부활 체크포인트를 제작해야 합니다."
+
+msgid "You must select at least one map to play"
+msgstr "플레이할 맵을 하나 이상 선택해야 합니다"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "플레이리스트에 맵을 최소 1개 이상 추가해야 합니다."
+
+msgid "You need to be a club member to play or download a map."
+msgstr "맵을 플레이 또는 다운로드하려면 클럽 회원이 되어야 합니다."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr "해당 스킨을 즐겨 찾기에 넣으려면 클럽 회원이 되어야 합니다."
+
+msgid "You need to pick a game mode"
+msgstr "게임 모드를 선택해야 합니다."
+
+msgid "You need to place a starting point!"
+msgstr "출발점을 배치해야 합니다!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr "최대 생성 블록을 넘어섰습니다. 더 이상 블록을 생성할 수 없습니다."
+
+msgid "You will be able to change it later"
+msgstr "나중에 변경할 수 있습니다."
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "다음 매치를 취소하면 플레이가 중단됩니다."
+
+msgid "You will have to validate the track again."
+msgstr "트랙을 다시 활성화해야 합니다."
+
+msgid "You will soon be redirected to a match server."
+msgstr "매치 서버로 곧 이동합니다."
+
+msgid "Your map in less than %1 minutes"
+msgstr "지도 검토까지 남은 시간 %1 분"
+
+msgid "Your search did not return any results"
+msgstr "검색 결과가 없습니다."
+
+msgid "Your subscription ends on %1"
+msgstr "구독이 %1에 종료됩니다."
+
+msgid "by %1"
+msgstr "%1 제작"
+
+msgid "club access"
+msgstr "클럽 액세스"
+
+msgid "controller"
+msgstr "컨트롤러"
+
+msgid "max %1 characters"
+msgstr "최대 %1자"
+
+msgid "per server"
+msgstr "서버 당"
+
+msgid "standard access"
+msgstr "스탠다드 액세스"
+
+msgid "starter access"
+msgstr "스타터 액세스"
+
+msgid "yes"
+msgstr "예"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|매치를 %1번 취소할 수 있습니다."
+
+msgid "|Action|Quick save"
+msgstr "|Action|빠른 저장"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|경고"
+
+msgid "|Author|By"
+msgstr "|Author|작성자"
+
+msgid "|Best score|New"
+msgstr "|Best score|New"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|체크포인트"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|결승점"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|장애물"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|내리막"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockStyle|직진"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|변경"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|터보"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|턴"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|체크포인트"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|결승점"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "|BlockInfo|멀티랩"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|시작점"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|충돌"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|장식"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|먼지"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|빙판"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|플랫폼"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|기본"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockStyle|내리막"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|오르막"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|즐겨찾기"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|최근 기록"
+
+msgid "|Camera|Follow"
+msgstr "|Camera|따라가기"
+
+msgid "|Camera|Free"
+msgstr "|Camera|자유"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|리플레이"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|공식"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|4월 %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|8월 %1"
+
+msgid "|Campaign|Club"
+msgstr "|Campaign|클럽"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|12월 %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|2월 %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|1월 %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|7월 %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|6월 %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|3월 %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|5월 %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|월간"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|11월 %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|10월 %1"
+
+msgid "|Campaign|Official"
+msgstr "|Campaign|공식"
+
+msgid "|Campaign|Private"
+msgstr "|Campaign|비공개"
+
+msgid "|Campaign|Public"
+msgstr "|Campaign|공개"
+
+msgid "|Campaign|Quarterly"
+msgstr "|Campaign|분기별"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|9월 %1"
+
+msgid "|Campaign|Training"
+msgstr "|Campaign|훈련"
+
+msgid "|Campaign|Unknown"
+msgstr "|Campaign|알 수 없음"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|뒤로 가기"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|지도"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|공식 랭킹"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|스킨"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|환영합니다"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|클럽에 오신 것을 환영합니다! 친구들을 이 클럽에 초대하여 함께 "
+"공유하고 즐길 수 있는 활동들을 생성해 보십시오!"
+
+msgid "|ClubMember|Role"
+msgstr "|ClubMember|역할"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|개방하지 않음"
+
+msgid "|ClubPrivacy|Private"
+msgstr "|ClubPrivacy|개인"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "|ClubPrivacy|개인 - 요청 수락"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|공개"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "|ClubPrivacy|일반 - 모든 사람에게 공개"
+
+msgid "|Club|%1 Member"
+msgstr "|Club|%1 회원"
+
+msgid "|Club|%1 Members"
+msgstr "|Club|%1 회원"
+
+msgid "|Club|Closed"
+msgstr "|Club|개방하지 않음"
+
+msgid "|Club|Description"
+msgstr "|Club|설명"
+
+msgid "|Club|Join"
+msgstr "|Club|가입"
+
+msgid "|Club|Leave"
+msgstr "|Club|탈퇴"
+
+msgid "|Club|Member"
+msgstr "|Club|회원"
+
+msgid "|Club|Members"
+msgstr "|Club|회원"
+
+msgid "|Club|Privacy"
+msgstr "|Club|프라이버시"
+
+msgid "|Club|Requests"
+msgstr "|Club|요청"
+
+msgid "|Club|VIP"
+msgstr "|Club|VIP"
+
+msgid "|Club|request"
+msgstr "|Club|요청"
+
+msgid "|Club|requests"
+msgstr "|Club|요청"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|공개 예정"
+
+msgid "|Competition|Private"
+msgstr "|Competition|개인"
+
+msgid "|Competition|Public"
+msgstr "|Competition|공개"
+
+msgid "|DataType|Campaign"
+msgstr "|DataType|캠페인"
+
+msgid "|DataType|Club"
+msgstr "|DataType|클럽"
+
+msgid "|DataType|Folder"
+msgstr "|DataType|폴더"
+
+msgid "|DataType|Image"
+msgstr "|DataType|이미지"
+
+msgid "|DataType|Map"
+msgstr "|DataType|맵"
+
+msgid "|DataType|MatchSettings"
+msgstr "|DataType|매치 설정"
+
+msgid "|DataType|None"
+msgstr "|DataType|없음"
+
+msgid "|DataType|Replay"
+msgstr "|DataType|리플레이"
+
+msgid "|DataType|Room"
+msgstr "|DataType|룸"
+
+msgid "|DataType|Script"
+msgstr "|DataType|스크립트"
+
+msgid "|DataType|Skin"
+msgstr "|DataType|스킨"
+
+msgid "|DidNotFinish|DNF"
+msgstr "|DidNotFinish|DNF"
+
+msgid "|Friday|F"
+msgstr "|Friday|금요일"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|장식"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|장식 편집"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|풍경"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|풍경 편집"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|트랙"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|트랙 편집"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|랜덤"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|엽서"
+
+msgid "|GameMode|Cup"
+msgstr "|GameMode|컵"
+
+msgid "|GameMode|Knockout"
+msgstr "|GameMode|녹아웃"
+
+msgid "|GameMode|Laps"
+msgstr "|GameMode|랩"
+
+msgid "|GameMode|Rounds"
+msgstr "|GameMode|라운드"
+
+msgid "|GameMode|Teams"
+msgstr "|GameMode|팀"
+
+msgid "|GameMode|Time Attack"
+msgstr "|GameMode|타임 어택"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|장식"
+
+msgid "|Image|Background"
+msgstr "|Image|배경"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|데칼 스폰서 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|화면 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|화면 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|화면 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|수직"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive|변경"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|풍경 선택"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|다시하기"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|취소하기"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|올리기"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|편집 종료"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|내리기"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|트랙 시작"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|테스트"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|트랙 테스트"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|버리기"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|더하기"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|불러오기"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|트랙을 만드십시오."
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|취소"
+
+msgid "|Infinitive|Confirm"
+msgstr "|Infinitive|확인"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|연결"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|계속하기"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|복사"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|자르기"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|끊기"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|장식 편집"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|트랙 편집"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|생성"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|트랙 생성하기"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|다른 트랙 생성"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|장식 생성"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|기록 갱신하기"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|유효 시간 연장"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|이동"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|놓기"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|플레이"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|랜덤"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|리더 고스트 기록"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|실행 기록"
+
+msgid "|Infinitive|Remove"
+msgstr "|Infinitive|제거"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|회전"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|저장"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|저장 및 활성화"
+
+msgid "|Infinitive|Save as new"
+msgstr "|Infinitive|다른 이름으로 저장하기"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|선택"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|인증"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|리더 실행을 유효화하고, 로비로 나가겠습니까?"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|트랙 유효화"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|줌"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|유효하지 않은 트랙"
+
+msgid "|Input|No binding"
+msgstr "|Input|바인딩 없음"
+
+msgid "|Keyboard|Enter"
+msgstr "|Keyboard|Enter"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|사막"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|없음"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|언덕"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|산"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|기둥"
+
+msgid "|League|Step %1"
+msgstr "|League|%1단계"
+
+msgid "|League|map %1/%2"
+msgstr "|League|맵 %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|“수락”을 클릭하면, 데이터가 제 3자에게 공유되도록 허가하는 것으로 "
+"간주되며 그에 따라 게임 내에서 맞춤형 광고가 표시될 수 있습니다. 그렇게 하기"
+"를 원하실 경우, 설정을 변경할 수 있습니다."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"극소수의 사람들은 번쩍이는 빛이나 무늬 같은 시각적 이미지에 노출될 경우 발작"
+"을 일으킬 수 있습니다. 컴퓨터 스크린을 통해서나 비디오 게임을 하는 동안 특정"
+"한 빛의 자극에 의해 이러한 광과민성 간질 발작이 일어날 수 있는 것입니다. 또"
+"한 발작 증세나 간질 병력이 없던 사람도 특정한 상황에서는 이러한 광과민성 간"
+"질 발작을 일으킬 수 있습니다. 본인은 물론 친척 중에서 발작 또는 간질 병력이 "
+"있는 사람이 있다면 게임을 하기 전에 의사와 상의하십시오. 만약 비디오 게임 또"
+"는 컴퓨터 게임을 하는 도중 현기증, 환각, 눈이나 얼굴의 경련, 의식 장애, 방향 "
+"감각 상실, 그 외 무의식적인 떨림이나 경련과 같은 증상을 한 가지라도 경험하게 "
+"되면, 즉시 게임을 중단하고 다시 게임을 하기 전에 의사와 상의하십시오."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "경고: 플레이하기 전에 반드시 읽어 주십시오"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|나는 제3자에게 데이터를 공유하는 것에 동의하며, 나의 국가와 기호를 "
+"기반으로, 게임에서 개성화 광고를 게재하는 것에 동의합니다."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|해당 옵션을 비활성화시키면 게임 도중에 광고는 계속 표시되지만 더 이"
+"상 귀하의 기호에 맞추어 게재되지 않습니다."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|UBI 개인 정보 보호 정책"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|개인 정보 설정"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|로딩"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"|Map style description|빠른 스피드로만 넘어설 수 있는 장애물들이 있는 어려운 "
+"트랙입니다."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|통과하기 어려운 단일 장애물이 등장하는 트랙으로, 시간"
+"이 촉박할 수 있습니다."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr ""
+"|Map style description|엑셀을 계속 밟아야 하는 맵입니다. 최대한 속력을 내보십"
+"시오!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr "|Map style description|알아보기 쉬운 단순한 트랙입니다."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr ""
+"|Map style description|캠페인의 마지막에 등장하는 재미있는 추가 맵입니다."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr ""
+"|Map style description|자연 지형 위에 있는 트랙입니다. 길을 헤매지 않도록 조"
+"심하십시오!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr ""
+"|Map style description|트랩과 점프가 많은 트랙입니다. 아래를 조심하십시오!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr "|Map style description|커브, 유턴, 브레이킹 존이 많은 트랙입니다."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr "|Map style description|엄청난 점프와 루프, 벽타기가 필요한 트랙입니다."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|정해진 시간 내 완주해야 하는 트랙입니다. 아무 생각 말"
+"고 달리십시오!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr "|Map style description|장애물이 가끔 등장하는 긴 직선 도로입니다."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr "|Map style description|악셀 외에는 아무것도 필요 없는 맵입니다."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "|MapEditorDevice|게임패드"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "|MapEditorDevice|마우스 및 키보드"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "|MapEditorDifficulty|고급"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "|MapEditorDifficulty|초급"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|낮"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|밤"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|일출"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|일몰"
+
+msgid "|Map|Browse"
+msgstr "|Map|검색"
+
+msgid "|Map|Delete"
+msgstr "|Map|삭제"
+
+msgid "|Map|Edit"
+msgstr "|Map|편집"
+
+msgid "|Map|Move"
+msgstr "|Map|이동"
+
+msgid "|Map|New"
+msgstr "|Map|신규"
+
+msgid "|Match|Draw"
+msgstr "|Match|무승부"
+
+msgid "|Medal|Finished"
+msgstr "|Medal|완료됨"
+
+msgid "|Medal|None"
+msgstr "|Medal|없음"
+
+msgid "|Menu|Local"
+msgstr "|Menu|로컬"
+
+msgid "|Monday|M"
+msgstr "|Monday|월요일"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|4월 %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|8월 %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|12월 %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|2월 %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|1월 %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|7월 %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|6월 %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|3월 %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|5월 %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|11월 %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|10월 %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|9월 %1"
+
+msgid "|Month|April"
+msgstr "|Month|4월"
+
+msgid "|Month|August"
+msgstr "|Month|8월"
+
+msgid "|Month|December"
+msgstr "|Month|12월"
+
+msgid "|Month|February"
+msgstr "|Month|2월"
+
+msgid "|Month|January"
+msgstr "|Month|1월"
+
+msgid "|Month|July"
+msgstr "|Month|7월"
+
+msgid "|Month|June"
+msgstr "|Month|6월"
+
+msgid "|Month|March"
+msgstr "|Month|3월"
+
+msgid "|Month|May"
+msgstr "|Month|5월"
+
+msgid "|Month|November"
+msgstr "|Month|11월"
+
+msgid "|Month|October"
+msgstr "|Month|10월"
+
+msgid "|Month|September"
+msgstr "|Month|9월"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|카메라"
+
+msgid "|Navigation|Back"
+msgstr "|Navigation|뒤로"
+
+msgid "|News|Body"
+msgstr "|News|내용"
+
+msgid "|News|Headline"
+msgstr "|News|표제"
+
+msgid "|News|Title"
+msgstr "|News|제목"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|방향 버튼"
+
+msgid "|PC|the left stick"
+msgstr "|PC|왼쪽 스틱"
+
+msgid "|PC|the right stick"
+msgstr "|PC|오른쪽 스틱"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|동그라미 버튼"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|십자가 버튼"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|방향 버튼"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|왼쪽 스틱"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|오른쪽 스틱"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|최고기록"
+
+msgid "|Points|pts"
+msgstr "|Points|점"
+
+msgid "|Point|pt"
+msgstr "|Point|점"
+
+msgid "|Press xx to start|Press"
+msgstr "|Press xx to start|시작하려면"
+
+msgid "|Press xx to start|to start"
+msgstr "|Press xx to start|을 누르십시오"
+
+msgid "|Race|Lap"
+msgstr "|Race|랩"
+
+msgid "|Race|Laps"
+msgstr "|Race|랩"
+
+msgid "|Race|Round"
+msgstr "|Race|레이스"
+
+msgid "|RankingZone|Continent"
+msgstr "|RankingZone|대륙"
+
+msgid "|RankingZone|Country"
+msgstr "|RankingZone|국가"
+
+msgid "|RankingZone|District"
+msgstr "|RankingZone|지구"
+
+msgid "|RankingZone|Region"
+msgstr "|RankingZone|지역"
+
+msgid "|RankingZone|World"
+msgstr "|RankingZone|세계"
+
+msgid "|RankingZone|Zone"
+msgstr "|RankingZone|구역"
+
+msgid "|Rank|from %1"
+msgstr "|Rank|%1와의 차이"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|장식 재등록"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|편집"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|촬영"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|시청"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|기본 세팅"
+
+msgid "|Role|Admin"
+msgstr "|Role|관리자"
+
+msgid "|Role|Applicant"
+msgstr "|Role|지원자"
+
+msgid "|Role|Content creator"
+msgstr "|Role|콘텐츠 크리에이터"
+
+msgid "|Role|Creator"
+msgstr "|Role|생성자"
+
+msgid "|Role|Member"
+msgstr "|Role|멤버"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|토요일"
+
+msgid "|Score|Point"
+msgstr "|Score|포인트"
+
+msgid "|Score|Points"
+msgstr "|Score|포인트"
+
+msgid "|Season|Autumn"
+msgstr "|Season|가을"
+
+msgid "|Season|Spring"
+msgstr "|Season|봄"
+
+msgid "|Season|Summer"
+msgstr "|Season|여름"
+
+msgid "|Season|Winter"
+msgstr "|Season|겨울"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|Canada Central"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|China Northwest"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|EU West"
+
+msgid "|Server|Live"
+msgstr "|Server|라이브"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|빠르게"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|조명 설정"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|정확하게"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|범퍼"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|엔진 끔"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|강제 가속"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|불안정함"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|그립 없음"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|스티어링 없음"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|리액터 부스트 %1"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|초기화"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|슬로 모션"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|슈퍼 범퍼"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|수퍼 리액터 부스트 %1"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|슈퍼 터보"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|터보"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|울트라 터보"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|아래"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|위"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|전체"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|단일"
+
+msgid "|Status|Finalist"
+msgstr "|Status|결승 진출자"
+
+msgid "|Status|K.O."
+msgstr "|Status|KO"
+
+msgid "|Status|K.O. #%1"
+msgstr "|Status|KO %1위"
+
+msgid "|Status|Racing"
+msgstr "|Status|레이싱 중"
+
+msgid "|Status|Winner"
+msgstr "|Status|우승"
+
+msgid "|Streamer|Channel"
+msgstr "|Streamer|채널"
+
+msgid "|Streaming|Platform"
+msgstr "|Streaming|플랫폼"
+
+msgid "|Subscription|Ends on"
+msgstr "|Subscription|남은 날짜"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|일요일"
+
+msgid "|Tabs|Clubs"
+msgstr "|Tabs|클럽"
+
+msgid "|Tabs|Create"
+msgstr "|Tabs|만들기"
+
+msgid "|Tabs|Live"
+msgstr "|Tabs|라이브"
+
+msgid "|Tabs|Local"
+msgstr "|Tabs|로컬"
+
+msgid "|Tabs|Solo"
+msgstr "|Tabs|솔로"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|목요일"
+
+msgid "|Time|Best"
+msgstr "|Time|최고"
+
+msgid "|Time|Previous"
+msgstr "|Time|이전"
+
+msgid "|Track|Block"
+msgstr "|Track|블록"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|화요일"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|아니오"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|예"
+
+msgid "|Verb|Stay"
+msgstr "|Verb|남기"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|다음 슬롯을 사용하려면 클릭하십시오"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|주의"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|수요일"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|새로운 트랙"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|트랙 편집"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|방향 버튼"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|왼쪽 스틱"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|오른쪽 스틱"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|유럽"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|중동"
+
+msgid "|Zone|North America"
+msgstr "|Zone|북미"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|오세아니아"
+
+msgid "|Zone|South America"
+msgstr "|Zone|남미"
+
+msgid "|Zone|World"
+msgstr "|Zone|세계"
+
+msgid "|plural 4 letters max|mins"
+msgstr "|plural 4 letters max|분"
+
+msgid "|singular 3 letters max|min"
+msgstr "|singular 3 letters max|분"

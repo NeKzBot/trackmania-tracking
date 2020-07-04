@@ -1,0 +1,5096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-06-30 21:31+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "$%1Author"
+msgstr "$%1Ophavsmand"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$> er Kongen af lobbyen!"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "<%1$> er nu %2%3!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$> tilsluttede sig spillet"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$> forlod spillet"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$> tager %2 pladsen!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$> vinder trin %2"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$> vinder banen!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$> vinder kampen!"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$> vinder denne runde!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$> vandt kampen!"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1 spillere vil blive elimineret"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f001 spiller vil blive elimineret"
+
+msgid "$f90No elimination this round"
+msgstr "$f90Ingen elimination i denne runde"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$zI $<$t$6F9Knockout$> er målet at blive dén sidste tilbageværende spiller.\n"
+"\n"
+"Du spiller en serie a ræs ligesom i spiltypen Runder. $<$t$6F9Ved "
+"afslutningen af hvert ræs elimineres de spillere, som er sidst$>!\n"
+"\n"
+"Vinderen er dén spiller, som eliminerer alle sine modstandere."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$zI $<$t$6F9Omgange$> er målet at køre så langt som muligt ved at passere $<"
+"$t$6F9kontrolpunkter$>.\n"
+"\n"
+"Spiltypen Omgange finder sted på fleromgangs- (cykliske) baner, og spilles "
+"på én gang for hver bane.\n"
+"\n"
+"Når tiden er udløbet, er $<$t$6F9vinderen$> dén spiller, som har passeret "
+"flest $<$t$6F9kontrolpunkter$>. I tilfælde af uafgjorte er vinderen dén "
+"spiller, som har passeret det sidste kontrolpunkt først."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$zI $<$t$6F9Runder$z$z$> er målet for dit hold at vinde et maksimalt antal "
+"af $<$t$6F9point.\n"
+"\n"
+"$z$>Spiltypen Runder består af $<$t$6F9en serie af ræs$z$>.\n"
+"Når du afslutter et ræs med en god $<$t$6F9placering$z$>, får du $<$t"
+"$6F9point$z$> tilføjet til din pointsum.\n"
+"\n"
+"$<$t$6F9Vinderen$z$> er dén første spiller, hvis pointsum når $<$t"
+"$6F9pointgrænsen$z$> (F.eks. 30)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$zI $<$t$6F9Hold$> skal du vælge et hold : $<$t$f00Rød$> eller $<$t$10cBlå"
+"$>.\n"
+"\n"
+"Spiltypen Hold består af $<$t$6F9en serie af ræs$>.\n"
+"Målet for dit hold er at indbringe et maksimalt antal af $<$t$6F9point$>.\n"
+"\n"
+"Når du afslutter et ræs med en god $<$t$6F9placering$>, giver du $<$t"
+"$6F9point$> til dit hold.\n"
+"Dét $<$t$6F9vindende hold$> er dét første hold, hvis pointsum når $<$t"
+"$6F9pointgrænsen$> (F.eks. 5)."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$zI $<$t$6F9Time Attack$> er målet at sætte dén $<$t$6F9bedste tid$>.\n"
+"\n"
+"Du har så mange forsøg, som du ønsker, og du kan $<$t$6F9forsøge igen$>, når "
+"du ønsker, ved at trykke på respawn-knappen.\n"
+"\n"
+"Når tiden er udløbet, er $<$t$6F9vinderen$> dén spiller med dén $<$t"
+"$6F9bedste tid$>."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$zTurneringsspilformen består af $<$t$6F9en serie af ræs på flere baner$>.\n"
+"\n"
+"Når du afslutter et ræs med en god $<$t$6F9placering$>, får du $<$t$6F9point"
+"$> tilføjet til din pointsum.\n"
+"Servere vil måske foreslå opvarmningsrunder for at du kan blive fortrolig "
+"med en bane inden start.\n"
+"\n"
+"For at vinde må du først nå $<$t$6F9pointgrænsen$> for at blive en $<$t"
+"$6F9finalist$>. Så snart at du er finalist, må du gennemføre en runde på $<$t"
+"$6F9førstepladsen$> for at vinde turneringen. Turneringsspilformen "
+"afsluttes, så snart 3 spillere har formået at blive finalister og gennemføre "
+"en runde på førstepladsen."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1 er ikke en Stadium-bane"
+
+msgid "%1 is not playable"
+msgstr "%1 kan ikke spilles"
+
+msgid "%1 map"
+msgstr "%1 bane"
+
+msgid "%1 maps"
+msgstr "%1 baner"
+
+msgid "%1 players"
+msgstr "%1 spillere"
+
+msgid "%1 replays selected"
+msgstr "%1 gengivelser valgt"
+
+msgid "%1 until %2 Players"
+msgstr "%1 indtil %2 Spillere"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$> annullerede kampstart."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$> tilslutter sig en kamp."
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$> tilsluttede sig sin kamp som en stedfortræder."
+
+msgid "%1's server"
+msgstr "%1's server"
+
+msgid "%1Best CP %2"
+msgstr "%1Bedste CP %2"
+
+msgid "%1Best race"
+msgstr "%1Bedste ræs"
+
+msgid "%1Personal best"
+msgstr "%1Personlig bedste"
+
+msgid "1 player"
+msgstr "1 spiller"
+
+msgid "16th final"
+msgstr "1/16-finale"
+
+msgid "8th final"
+msgstr "1/8-finale"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "ACCESSIBILITY SPECIALISTS"
+
+msgid "ACCOUNT MANAGER"
+msgstr "ACCOUNT MANAGER"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "AGE RATING COORDINATOR"
+
+msgid "ANALYST"
+msgstr "ANALYST"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "ANALYSTS, NCSA CUSTOMER SUPPORT"
+
+msgid "ART DIRECTOR"
+msgstr "ART DIRECTOR"
+
+msgid "ARTISTS"
+msgstr "ARTISTS"
+
+msgid "ASSISTANT MANAGER"
+msgstr "ASSISTANT MANAGER"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "ASSOCIATE DIRECTOR"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "ASSOCIATE DIRECTOR CRM"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "ASSOCIATE LIVE COORDINATOR"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "ASSOCIATE PC REQUIREMENTS LEAD"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "ASSOCIATE PRODUCER"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "ASSOCIATE TECHNICAL DIRECTOR"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "ASSOCIATE UX DESIGNER "
+
+msgid "Accept"
+msgstr "Acceptér"
+
+msgid "Activate"
+msgstr "Aktivér"
+
+msgid "Activities"
+msgstr "Aktiviteter"
+
+msgid "Activities must have a name."
+msgstr "Aktiviteter skal have et navn."
+
+msgid "Activity"
+msgstr "Aktivitet"
+
+msgid "Add"
+msgstr "Tilføj"
+
+msgid "Add to favorite"
+msgstr "Tilføj til favorit"
+
+msgid "Adding map to queue..."
+msgstr "Tilføjer bane til kø..."
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Advanced options"
+msgstr "Avancerede valgmuligheder"
+
+msgid "Against replay"
+msgstr "Imod gengivelse"
+
+msgid "All clubs"
+msgstr "Alle klubber"
+
+msgid "All fields must be completed"
+msgstr "Alle felter skal udfyldes"
+
+msgid "Allies"
+msgstr "Allierede"
+
+msgid "Ally"
+msgstr "Allieret"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr "En fejl opstod ved tilslutning, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"En fejl opstod ved hentning af næste kamp. Forsøg venligst igen. (Fejlkode: "
+"%1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"Der opstod en fejl ved hentning af dine konti, forsøg venligst igen. "
+"(Fejlkode: %1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "Der opstod en fejl, forsøg venligst igen. (Fejl: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "Enhver ændring udført på dette terræn, vil gå tabt."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "Enhver ikke-gemt ændring, udført på denne bane, vil gå tabt."
+
+msgid "Apply"
+msgstr "Anvend"
+
+msgid "Apply skin"
+msgstr "Anvend skin"
+
+msgid "Arcade"
+msgstr "Arkade"
+
+msgid "Are you really sure you want to %1?"
+msgstr "Er du sikker på, at du vil %1?"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "Er du virkelig sikker på, at du vil forlade kampen?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "Er du sikker på, at du vil oprette en ny bane?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "Er du sikker på, at du vil slette din klub?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "Er du sikker på, at du vil redigere udsmykningen?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "Er du sikker på, at du vil redigere denne bane?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "Er du sikker på, at du vil generere en anden bane?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "Er du sikker på, at du vil forlade editoren?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "Er du sikker på, at du vil forlade Trackmania?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "Er du sikker på, at du vil vælge et andet terræn?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"Ved udgangen af din 3-årige periode kan du beholde de 300 officielle baner,\n"
+"de 1095 dagens baner og dén avancerede bane-editor."
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"Ved udgangen af din 1-årige periode kan du beholde de 100 officielle baner,\n"
+"de 365 dagens baner og dén avancerede bane-editor"
+
+msgid "Author"
+msgstr "Ophavsmand"
+
+msgid "Author medal"
+msgstr "Ophavsmandens medalje"
+
+msgid "Author time"
+msgstr "Ophavsmandens tid"
+
+msgid "Auto-finish"
+msgstr "Auto-fuldfør"
+
+msgid "Automatic retry in %1 second."
+msgstr "Forsøger automatisk igen om %1 sekund."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "Forsøger automatisk igen om %1 sekunder."
+
+msgid "Average lap"
+msgstr "Gennemsnitlig omgang"
+
+msgid "Average waiting time"
+msgstr "Gennemsnitlig ventetid"
+
+msgid "BRAND DIRECTOR"
+msgstr "BRAND DIRECTOR"
+
+msgid "BRAND MANAGER"
+msgstr "BRAND MANAGER"
+
+msgid "BUSINESS ANALYST"
+msgstr "BUSINESS ANALYST"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "BUSINESS OPERATIONS COORDINATOR"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "BUSINESS OPERATIONS MANAGER"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Balance teams"
+msgstr "Balancér hold"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr ""
+"Vær forsigtig! Denne blok deaktiverer din motor, indtil du krydser et nyt "
+"kontrolpunkt."
+
+msgid "Be in the top %1"
+msgstr "Placér i top %1"
+
+msgid "Best lap"
+msgstr "Bedste omgang"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "Bedste omgang $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "Bedste omgang: %1"
+
+msgid "Best time :"
+msgstr "Bedste tid :"
+
+msgid "Black"
+msgstr "Sort"
+
+msgid "Block selection"
+msgstr "Valg af blokke"
+
+msgid "Blocked by the terrain"
+msgstr "Blokeret af terrænet"
+
+msgid "Blue"
+msgstr "Blå"
+
+msgid "Bronze"
+msgstr "Bronze"
+
+msgid "Bronze medal"
+msgstr "Bronzemedalje"
+
+msgid "Browse"
+msgstr "Skim funktioner af makroblokke"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "Byg din bane, og placér en mållinje-blok for at færdiggøre den."
+
+msgid "By %1"
+msgstr "Af %1"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "CHIEF CREATIVE OFFICER"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "CHINA PRODUCT MANAGER"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "COMMUNICATION MANAGER, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "COMMUNICATIONS DIRECTOR"
+
+msgid "COMMUNITY"
+msgstr "COMMUNITY"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "COMMUNITY CONTENT DESIGNER"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "COMMUNITY CONTENT PRODUCER"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "COMMUNITY CONTENT SPECIALIST"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "COMMUNITY CONTENT STRATEGIST"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "COMMUNITY MANAGEMENT"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "COMMUNITY MANAGEMENT TEAM LEAD"
+
+msgid "COMMUNITY MANAGER"
+msgstr "COMMUNITY MANAGER"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "COMMUNITY SENTIMENT SPECIALIST"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "COMMUNITY TEAM LEAD"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+
+msgid "COMPOSER"
+msgstr "COMPOSER"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "CONSUMER EXPERIENCE MANAGER"
+
+msgid "CONTENT DIRECTOR"
+msgstr "CONTENT DIRECTOR"
+
+msgid "CONTENT MANAGER"
+msgstr "CONTENT MANAGER"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "CREATIVE DIRECTOR"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "CREATIVE FRONT-END ENGINEER"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "CRM DATA ANALYSTS"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "CRM GRAPHIC DESIGNER"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "CRM INTEGRATION SPECIALISTS"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "CRM INTEGRATION TEAM LEADER "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "CRM LIFECYCLE ASSISTANT"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "CRM LIFECYCLE SPECIALIST"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "CRM MULTI CHANNEL SPECIALIST"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "CRM OPERATIONS MANAGER"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "CRM OPERATIONS SPECIALIST"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "CRM OPERATIONS SPECIALISTS ASSISTANT"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "CRM PERFORMANCE MANAGER"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "CRM PROGRAM MANAGER"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "CUSTOMER EXPERIENCE MANAGER"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+
+msgid "Campaign"
+msgstr "Kampagne"
+
+msgid "Campaign creation"
+msgstr "Oprettelse af kampagne"
+
+msgid "Campaign edition"
+msgstr "Redigering af kampagne"
+
+msgid "Campaign library"
+msgstr "Kampagne-bibliotek"
+
+msgid "Campaign's name"
+msgstr "Kampagnens navn"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "Kan ikke placere nogen blok fra denne familie, forsøg med én anden."
+
+msgid "Cancel"
+msgstr "Annullér"
+
+msgid "Cancel request"
+msgstr "Anullér anmodning"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Champion mode"
+msgstr "Champion-spiltilstand"
+
+msgid "Change map"
+msgstr "Skift bane"
+
+msgid "Change opponents"
+msgstr "Skift modstandere"
+
+msgid "Change team"
+msgstr "Skift hold"
+
+msgid "Change the building mode"
+msgstr "Skift bygge-tilstanden"
+
+msgid "Change the connection mode"
+msgstr "Skift sammenkobling-tilstanden"
+
+msgid "Chat time"
+msgstr "Sludretid"
+
+msgid "Choose a campaign to use"
+msgstr "Vælg en kampagne at bruge"
+
+msgid "Choose a mode"
+msgstr "Vælg en spiltilstand"
+
+msgid "Choose a skin"
+msgstr "Vælg et skin"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"Vælg andelen af hver udsmykningsstil, og tryk da på \"generér\"-knappen. Når "
+"du er tilfreds med din udsmykning, kan du validere din bane."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"Vælg hvilken type udsmykning, du vil have, og generér den. Når du finder "
+"dén, der tiltaler dig, kan du validere din bane."
+
+msgid "Choose your team"
+msgstr "Vælg dit hold"
+
+msgid "Clan"
+msgstr "Klan"
+
+msgid "Click on a player to invite them to your party."
+msgstr "Klik på en spiller for at invitere dem til din gruppe."
+
+msgid "Click on a player to join their party."
+msgstr "Klik på en spiller for at tilslutte dig deres gruppe."
+
+msgid "Click on a player to set them as ally."
+msgstr "Klik på en spiller for at indstille dem som allieret."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "Klik på UI-modulerne for at redigere deres egenskaber"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Club"
+msgstr "Klub"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub-baggrund mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af klub-baggrund mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club campaigns"
+msgstr "Klubkampagner"
+
+msgid "Club coming soon!"
+msgstr "Klubfunktionen kommer snart!"
+
+msgid "Club creation"
+msgstr "Oprettelse af klub"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "Oprettelse af klub mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Sletning af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl "
+"%1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Sletning af kluboverføringsmærke-sponsor mislykkedes. Forsøg venligst igen. "
+"(Fejl %1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af kluboverføringsmærke-sponsor mislykkedes. Forsøg venligst "
+"igen. (Fejl %1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr ""
+"Upload af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub mislykkedes. Forsøg venligst igen. (Error %1)"
+
+msgid "Club edition"
+msgstr "Redigering af klub"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klublogo mislykkedes. Forsøg venligst igen. (Error %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr "Redigering af klublogo mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr "Upload af klublogo mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club rooms"
+msgstr "Klubrum"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub-skærm 16 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af klub-skærm 16 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub-skærm 2 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af klub-skærm 2 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub-skærm 8 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af klub-skærm 8 mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club skins"
+msgstr "Klub-skins"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "Opdatering af klub mislykkedes. Forsøg venligst igen. (Error %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr "Sletning af klub-vertikal mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr ""
+"Redigering af klub-vertikal mislykkedes. Forsøg venligst igen. (Fejl %1)"
+
+msgid "Clubs"
+msgstr "Klubber"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "Indsaml lotteri-billetter, alle kan deltage!"
+
+msgid "Coming soon!"
+msgstr "Kommer snart!"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Compete every week in the national league"
+msgstr "Konkurrér i den nationale liga hver uge"
+
+msgid "Compete in the open grand league"
+msgstr "Konkurrér i Open Grand League"
+
+msgid "Competition"
+msgstr "Konkurrence"
+
+msgid "Concept"
+msgstr "Koncept"
+
+msgid "Confirm"
+msgstr "Bekræft"
+
+msgid "Confirm your choice"
+msgstr "Bekræft dit valg"
+
+msgid "Confirmation"
+msgstr "Bekræftelse"
+
+msgid "Connect"
+msgstr "Tilkobl"
+
+msgid "Connection timed out"
+msgstr "Forbindelse afbrudt"
+
+msgid "Connector selection"
+msgstr "Valg af sammenkobling"
+
+msgid "Continue"
+msgstr "Fortsæt"
+
+msgid "Copy"
+msgstr "Kopiér"
+
+msgid "Copy and connect"
+msgstr "Kopiér og tilkobl"
+
+msgid "Copy server link"
+msgstr "Kopiér server-link"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Kunne ikke forbinde til Trackmania-serverne."
+
+msgid "Could not load records"
+msgstr "Kunne ikke indlæse rekorder"
+
+msgid "Create"
+msgstr "Opret"
+
+msgid "Create a new map"
+msgstr "Opret en ny bane"
+
+msgid "Create a new skin"
+msgstr "Opret et nyt skin"
+
+msgid "Create activity"
+msgstr "Opret aktivitet"
+
+msgid "Create campaign"
+msgstr "Opret kampagne"
+
+msgid "Create club"
+msgstr "Opret klub"
+
+msgid "Create map"
+msgstr "Opret bane"
+
+msgid "Create map uploads"
+msgstr "Opret bane-uploads"
+
+msgid "Create room"
+msgstr "Opret rum"
+
+msgid "Create skin uploads"
+msgstr "Opret skin-uploads"
+
+msgid "Create the map of the show"
+msgstr "Opret banen til showet"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"Opret baner med dén avancerede bane-editor og test dem online\n"
+"Opret og del videoer af dine ræs uendeligt"
+
+msgid "Create your club and share your masterpieces"
+msgstr "Opret din klub, og del dine mesterværker"
+
+msgid "Create your tracks"
+msgstr "Opret dine baner"
+
+msgid "Creating activity..."
+msgstr "Opretter aktivitet..."
+
+msgid "Creating campaign..."
+msgstr "Opretter kampagne..."
+
+msgid "Creating club room..."
+msgstr "Opretter klubrum..."
+
+msgid "Creating club..."
+msgstr "Opretter klub..."
+
+msgid "Credits"
+msgstr "Rulletekster"
+
+msgid "Cumulate team points :"
+msgstr "Kumulér holdpoint :"
+
+msgid "Current map"
+msgstr "Nuværende bane"
+
+msgid "Current match best score"
+msgstr "Bedste score for nuværende kamp"
+
+msgid "Current match score"
+msgstr "Pointstilling for nuværende kamp"
+
+msgid "Current player"
+msgstr "Nuværende spiller"
+
+msgid "Customization"
+msgstr "Brugertilpasning"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "Tilpas din bil med dine skins eller klub-skins"
+
+msgid "Cut and paste"
+msgstr "Klip og indsæt"
+
+msgid "DATA ANALYST"
+msgstr "DATA ANALYST"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "DEVELOPMENT AND QUALITY MANAGER"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "DEVELOPMENT TESTER"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "DIGITAL CONTENT PUBLISHER"
+
+msgid "DIRECTOR"
+msgstr "DIRECTOR"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "DIRECTOR MEDIA & CRM, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "DIRECTOR OF BRAND DEVELOPMENT"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "DIRECTOR OF CUSTOMER EXPERIENCE"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "DIRECTOR, COMMUNICATION, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "DIRECTOR, PLAYER EXPERIENCE"
+
+msgid "DIRECTORS"
+msgstr "DIRECTORS"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "DUALSHOCK®4 Trådløs Controller"
+
+msgid "Daily Cup Knockout"
+msgstr "Daglig Turnering-Knockout"
+
+msgid "Daily cup"
+msgstr "Daglig turnering"
+
+msgid "Daily rankings"
+msgstr "Daglige ranglister"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Deactivate"
+msgstr "Deaktivér"
+
+msgid "Dead end"
+msgstr "Blind vej"
+
+msgid "Decoration"
+msgstr "Udsmykning"
+
+msgid "Delete club"
+msgstr "Slet klub"
+
+msgid "Deleting club..."
+msgstr "Sletter klub..."
+
+msgid "Did you like this map?"
+msgstr "Kunne du lide denne bane?"
+
+msgid "Disable give up"
+msgstr "Deaktivér giv op"
+
+msgid "Do Not Show Again"
+msgstr "Vis ikke igen"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "Kør den bedste tid før nedtællingen er ovre."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "Vil du oprette en turnering med denne bane?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "Vil du generere en anden bane eller spille denne?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "Vil du forbedre valideringstiden?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "Vil du forlade tilfældig bane-generatoren?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "Vil du placere et kontrolpunkt nu?"
+
+msgid "Do you want to play a rematch?"
+msgstr "Vil du spille en omkamp?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "Vil du forlade plug-in'et eller vende tilbage til editoren?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "Vil du gemme din bane med dét følgende navn?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "Vil du stoppe auto-fuldførelsen?"
+
+msgid "Do you want to validate the track now?"
+msgstr "Vil du validere banen nu?"
+
+msgid "Don't forget to save your track!"
+msgstr "Glem ikke at gemme din bane!"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Draw of the lottery"
+msgstr "Udtrækning af lotteriet"
+
+msgid "Duel"
+msgstr "Duel"
+
+msgid "Duration of one warm up"
+msgstr "Varighed af én opvarmning"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "EDITORIAL TECHNOLOGY"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "EMEA CUSTOMER MANAGEMENT"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "EMEA KNOWLEDGE TEAM"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "ENGINEER, NCSA CUSTOMER SUPPORT"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "ENVIRONMENT ARTIST"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "EXECUTIVE ASSISTANT & HR MANAGER"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "EXTERNAL PARTNERS"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "Optjen medaljer, og spor dine fremskridt i ranglister for dit område"
+
+msgid "Edit"
+msgstr "Redigér"
+
+msgid "Edit '%1'"
+msgstr "Redigér '%1'"
+
+msgid "Edit a map"
+msgstr "Redigér en bane"
+
+msgid "Edit a skin"
+msgstr "Redigér et skin"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "Redigér aktivitet '$<%1$>'"
+
+msgid "Edit campaign"
+msgstr "Redigér kampagne"
+
+msgid "Edit decoration"
+msgstr "Redigér udsmykning"
+
+msgid "Edit replay"
+msgstr "Redigér gengivelse"
+
+msgid "Edit room"
+msgstr "Redigér rum"
+
+msgid "Edit room '%1'"
+msgstr "Redigér rum '%1'"
+
+msgid "Edit terrain"
+msgstr "Redigér terræn"
+
+msgid "Edit track"
+msgstr "Redigér bane"
+
+msgid "Editing activity..."
+msgstr "Redigerer aktivitet..."
+
+msgid "Editing club room..."
+msgstr "Redigerer klubrum..."
+
+msgid "Eighth (Press 8)"
+msgstr "Ottende (Tryk 8)"
+
+msgid "End of warmup, match starting..."
+msgstr "Opvarmning ovre, kamp starter..."
+
+msgid "Engine disabled"
+msgstr "Motor deaktiveret"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "Nok spillere gik med til at spille en omkamp."
+
+msgid "Entry"
+msgstr "Indgang"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved tilføjelse af din bane til køen, forsøg venligst igen. (Fejlkode: "
+"%1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr "Fejl ved oprettelse af kampagne. Forsøg venligst igen (Fejlkode: %1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved oprettelse af aktiviteten. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr "Fejl ved oprettelse af rummet. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved redigering af aktiviteten. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr "Fejl ved redigering af rummet. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"Fejl ved hentning af kampagner af typen %1. Forsøg venligst igen. (Fejlkode: "
+"%2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Fejl ved hentning af baneliste fra Nadeo Services. Forsøg venligst igen. "
+"(Fejlkode: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Fejl ved hentning af månedlig kampagne fra Nadeo Services. Forsøg venligst "
+"igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Fejl ved hentning af spillerplacering på baner i klubranglister. Forsøg "
+"venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Fejl ved hentning af kvartalsvis kampagne fra Nadeo Services. Forsøg "
+"venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved hentning af aktivitetsinfo, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved hentning af serverens tilslutnings-link, forsøg venligst igen. "
+"(Fejlkode: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "Fejl ved indhentning af banedata. (Fejlkode: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved tilslutning til serveren, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "Fejl ved indlæsning af rangliste (kode: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "Fejl ved indlæsning af rummets oplysninger. (Fejlkode: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "Fejl ved indlæsning af rummets baner. (Fejlkode: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Fejl ved indlæsning af pointstilling fra Nadeo Services. Forsøg venligst "
+"igen. (Fejlkode: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr "Fejl ved indlæsning af kampagne. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Fejl ved indlæsning af kampagnens klub. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "Fejl ved indlæsning af trofæer (kode: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved opdatering af klubaktiviteter. Forsøg venligst igen (Fejlkode: %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved opdatering af nyhedsmedie-logoet. Forsøg venligst igen. (Fejlkode: "
+"%1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Fejl ved opdatering af aktivitetens privatliv. Forsøg venligst igen. "
+"(Fejlkode: %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr "Fejl ved upload af baner, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr "Fejl ved upload af baner. Forsøg venligst igen (Fejlkode: %1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr ""
+"Fejl ved upload af aktivitet-logoet. Forsøg venligst igen. (Fejlkode: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr "Fejl ved upload af rummets medier. Forsøg venligst igen. (Fejlkode %1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr "Fejl ved upload af din bane, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr "Fejl ved upload af dine medier. Forsøg venligst igen (Fejlkode: %1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr "Fejl ved validering af aktivitet. Forsøg venligst igen (Fejlkode: %1)"
+
+msgid "Events"
+msgstr "Begivenheder"
+
+msgid "Exit"
+msgstr "Afslut"
+
+msgid "F6 to cancel"
+msgstr "F6 for at annullere"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "FINANCIAL PLANNING ANALYST"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "FINANCIAL PLANNING SENIOR DIRECTOR"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+
+msgid "FRONT-END ENGINEER"
+msgstr "FRONT-END ENGINEER"
+
+msgid "Fifth (Press 5)"
+msgstr "Femte (Tryk 5)"
+
+msgid "Finish timeout"
+msgstr "Afslut timeout"
+
+msgid "First (Press 1)"
+msgstr "Første (Tryk 1)"
+
+msgid "Forced laps number"
+msgstr "Antal tvungne omgange"
+
+msgid "Fourth (Press 4)"
+msgstr "Fjerde (Tryk 4)"
+
+msgid "Free for all"
+msgstr "Free-for-all"
+
+msgid "Friday"
+msgstr "Fredag"
+
+msgid "Fullspeed"
+msgstr "Fullspeed"
+
+msgid "Fusion with another server for more players"
+msgstr "Fusionér med en anden server med henblik på flere spillere"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "GAME ANALYTICS RESEARCH"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "GAME AND SERVICES OPERATIONS MANAGER"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "GAME AND SERVICES OPERATIONS SPECIALISTS"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "GENERAL MANAGER CRC"
+
+msgid "GRAPHIC ARTIST"
+msgstr "GRAPHIC ARTIST"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAPHIC DESIGNER"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "GROUP MANAGER, WEB PRODUCING, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "GROUP RELEASE MANAGER"
+
+msgid "Game mode"
+msgstr "Spiltype"
+
+msgid "Game mode: %1"
+msgstr "Spiltype: %1"
+
+msgid "Garage"
+msgstr "Værksted"
+
+msgid "Generate"
+msgstr "Generér"
+
+msgid "Get the Club access for three years"
+msgstr "Få Klub-adgangen i tre år"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "Få det bedste ud af spillerkampagner i arkade-kanalen"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "Få gengivelse-, skin- og simpel bane-editorer"
+
+msgid "Give up"
+msgstr "Giv op"
+
+msgid "Give up %1"
+msgstr "Giv op %1"
+
+msgid "Give up Daily cup?"
+msgstr "Opgiv daglig turnering?"
+
+msgid "Go to map list"
+msgstr "Gå til baneliste"
+
+msgid "Going to next map"
+msgstr "Går til næste bane"
+
+msgid "Gold"
+msgstr "Guld"
+
+msgid "Gold medal"
+msgstr "Guldmedalje"
+
+msgid "Green"
+msgstr "Grøn"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "HEAD OF SOCIAL MEDIA EMEA"
+
+msgid "HQ PRODUCER"
+msgstr "HQ PRODUCER"
+
+msgid "HQ PRODUCERS"
+msgstr "HQ PRODUCERS"
+
+msgid "HR SPECIALIST"
+msgstr "HR SPECIALIST"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Hide"
+msgstr "Skjul"
+
+msgid "Home Activities"
+msgstr "Hjemmeaktiviteter"
+
+msgid "Home display"
+msgstr "Hjemmevisning"
+
+msgid "Hot Seat"
+msgstr "Hot Seat"
+
+msgid "HotSeat"
+msgstr "HotSeat"
+
+msgid "Hotseat"
+msgstr "Hotseat"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "INFRASTRUCTURE TEAM MANAGER"
+
+msgid "INTERN LIVE QA"
+msgstr "INTERN LIVE QA"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "INTERNATIONAL PRODUCT MANAGER"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Hvis du vælger et landskab, vil du måske miste alle dine fremskridt."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"Hvis du giver op, vil du kunne fortsætte med at spille i kanalen, men du vil "
+"ikke kunne deltage i den daglige Knockout-kamp."
+
+msgid "Image browser"
+msgstr "Billed-browser"
+
+msgid "Improve"
+msgstr "Forbedre"
+
+msgid "Information"
+msgstr "Oplysninger"
+
+msgid "Interval from %1 pos."
+msgstr "Interval fra %1 pos."
+
+msgid "Invite friends"
+msgstr "Invitér venner"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "Det er i øjeblikket ikke muligt at stemme på denne serverindstilling."
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "JUNIOR ACCOUNT MANAGER"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "JUNIOR AUTOMATION TESTER"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "JUNIOR DEVELOPMENT TESTER"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR FINANCIAL PLANNING ANALYST"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "JUNIOR PRODUCT MANAGER"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "JUNIOR PRODUCTION COORDINATOR"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMMER"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR QC NETWORKING SPECIALIST"
+
+msgid "JUNIOR TESTER"
+msgstr "JUNIOR TESTER"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "JUNIOR UX DESIGNER"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "JUNIOR WEB DEVELOPER"
+
+msgid "Join"
+msgstr "Tilslut"
+
+msgid "Join %1"
+msgstr "Tilslut %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "Tilslut dig klubaktiviteter og se klubrangeringer"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "Tilslut dig offentlige klubaktiviteter: kampagner og online-rum"
+
+msgid "Jump to map"
+msgstr "Spring til bane"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "KNOWLEDGE SPECIALIST"
+
+msgid "KOs per round"
+msgstr "KOs per runde"
+
+msgid "Knockout match starts in %1"
+msgstr "Knockout-kamp starter om %1"
+
+msgid "L1 button"
+msgstr "L1-knap"
+
+msgid "L3 button"
+msgstr "L3-knap"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "LEAD CHARACTER ARTIST"
+
+msgid "LEAD DESIGNER"
+msgstr "LEAD DESIGNER"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "LEAD ENVIRONMENT ARTIST"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "LEAD FRONT-END ENGINEER"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "LEAD GRAPHIC ARTIST"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "LEAD ONLINE ENGINEER"
+
+msgid "LEAD PROGRAMMER"
+msgstr "LEAD PROGRAMMER"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "LEAD TECHNICAL ARTIST"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "LEAD UX SUPERVISOR"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "LEAD VEHICLE ARTIST"
+
+msgid "LINE DESIGNER"
+msgstr "LINE DESIGNER"
+
+msgid "LINE DESIGNERS"
+msgstr "LINE DESIGNERS"
+
+msgid "LIVE COORDINATOR"
+msgstr "LIVE COORDINATOR"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "LIVE OPERATIONS NEWS COORDINATOR"
+
+msgid "LIVE PRODUCER"
+msgstr "LIVE PRODUCER"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "LIVE QA & NETWORK COORDINATOR"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "LIVE REVENUES SENIOR ANALYST"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "LIVE REVENUES STRATEGY "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "LIVE TEAM MANAGER"
+
+msgid "LOCALIZATION"
+msgstr "LOCALIZATION"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "LOCALIZATION MANAGER"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "LOCALIZATION SPECIALIST"
+
+msgid "Landscape"
+msgstr "Landskab"
+
+msgid "Lap %1"
+msgstr "Omgang %1"
+
+msgid "Last time"
+msgstr "Forrige tid"
+
+msgid "Leader"
+msgstr "Føreren"
+
+msgid "League ranking"
+msgstr "Liga-rangliste"
+
+msgid "Learn more about the Club Edition"
+msgstr "Lær mere om Klub-udgaven"
+
+msgid "Leave"
+msgstr "Forlad"
+
+msgid "Leave club '%1'"
+msgstr "Forlad klub '%1'"
+
+msgid "Leave random track generator"
+msgstr "Forlad tilfældig bane-generator"
+
+msgid "Left click : move the module"
+msgstr "Venstreklik : flyt modulet"
+
+msgid "Link copied!"
+msgstr "Link kopieret!"
+
+msgid "Live Ranking"
+msgstr "Live-rangliste"
+
+msgid "Live ranking"
+msgstr "Live-rangliste"
+
+msgid "Live test"
+msgstr "Live-test"
+
+msgid "Loading"
+msgstr "Indlæser"
+
+msgid "Loading activity..."
+msgstr "Indlæser aktivitet..."
+
+msgid "Loading campaign to edit"
+msgstr "Indlæser kampagne til redigering"
+
+msgid "Loading campaign..."
+msgstr "Indlæser kampagne..."
+
+msgid "Loading club activities..."
+msgstr "Indlæser klubaktiviteter..."
+
+msgid "Loading club room..."
+msgstr "Indlæser klubrum..."
+
+msgid "Loading competition..."
+msgstr "Indlæser konkurrence..."
+
+msgid "Loading offline campaign..."
+msgstr "Indlæser offline-kampagne..."
+
+msgid "Loading records"
+msgstr "Indlæser rekorder"
+
+msgid "Loading room informations..."
+msgstr "Indlæser oplysninger om rum..."
+
+msgid "Loading..."
+msgstr "Indlæser..."
+
+msgid "Local multi"
+msgstr "Lokal flere"
+
+msgid "Local network"
+msgstr "Lokalt netværk"
+
+msgid "Locked"
+msgstr "Låst"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Lol"
+msgstr "Lol"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "MAGIC LAB CHARACTER ARTIST"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "MAGIC LAB PRODUCTION DIRECTOR"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "MAGIC LAB VEHICLE ARTIST"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "MANAGER, COMMUNITY CONTENT"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "MANAGER, COMMUNITY DEVELOPMENT"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "MANAGER, CRM OPERATIONS"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "MANAGER, CRM STRATEGY LIFECYCLE"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "MANAGER, WEB DEVELOPER, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "MANAGER, WEB PRODUCER, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "MANAGERS, NCSA CUSTOMER SUPPORT"
+
+msgid "MANAGING DIRECTOR"
+msgstr "MANAGING DIRECTOR"
+
+msgid "MARKETING"
+msgstr "MARKETING"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "MARKETING & COMMUNICATION DIRECTOR"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "MARKETING & LOYALTY DIRECTOR"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "MARKETING & LOYALTY GROUP MANAGER"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "MARKETING CAMPAIGN MANAGER"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "MEDIA MANAGER, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "MONETISATION DIRECTOR"
+
+msgid "Manage server"
+msgstr "Administrér server"
+
+msgid "Manage track"
+msgstr "Administrér bane"
+
+msgid "Map"
+msgstr "Bane"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr ""
+"Bane %1%2 - Behold dine forrige point ved at forblive mellem 1. og %3%4."
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"Bane %1%2 - Vind point ved at gennemføre løbet eller ved at køre dén "
+"hurtigste omgangstid."
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "Bane '%1' kunne ikke uploades. Forsøg venligst igen. (Fejl: %2)"
+
+msgid "Map '%1' is not playable."
+msgstr "Bane '%1' er ikke spilleklar."
+
+msgid "Map '%1' not found"
+msgstr "Bane '%1' blev ikke fundet"
+
+msgid "Map browser"
+msgstr "Bane-browser"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "Bane kunne ikke fjernes. Forsøg venligst igen. (Fejl: %1)"
+
+msgid "Map editor"
+msgstr "Bane-editor"
+
+msgid "Map not found"
+msgstr "Bane ikke fundet"
+
+msgid "Map position"
+msgstr "Baneposition"
+
+msgid "Map review"
+msgstr "Baneanmeldelse"
+
+msgid "Map rounds"
+msgstr "Banerunder"
+
+msgid "Map saved!"
+msgstr "Bane gemt!"
+
+msgid "Map uploads"
+msgstr "Bane-uploads"
+
+msgid "Map validate"
+msgstr "Bane-validering"
+
+msgid "Maps"
+msgstr "Baner"
+
+msgid "Maps "
+msgstr "Baner  "
+
+msgid "Maps : "
+msgstr "Baner : "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "Baner kunne ikke uploades. Forsøg venligst igen. (Fejl: %1)"
+
+msgid "Maps list already full"
+msgstr "Listen med baner er allerede fuld"
+
+msgid "Match found!"
+msgstr "Kamp fundet!"
+
+msgid "Match is over"
+msgstr "Kampen er ovre"
+
+msgid "Match not started yet."
+msgstr "Kampen er ikke startet endnu."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "Kamp ovre. Du burde have været sendt tilbage til lobbyen."
+
+msgid "Match over. You will be transferred back."
+msgstr "Kamp ovre. Du vil blive sendt tilbage."
+
+msgid "Match paused"
+msgstr "Kamp sat på pause"
+
+msgid "Match settings"
+msgstr "Kampindstillinger"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "Matchmaking annulleret : ingen server tilgængelig"
+
+msgid "Matchmaking disabled."
+msgstr "Matchmaking deaktiveret."
+
+msgid "Matchmaking forced."
+msgstr "Matchmaking tvunget."
+
+msgid "Matchmaking in progress..."
+msgstr "Matchmaking i gang..."
+
+msgid "Matchsettings browser"
+msgstr "Kampindstillings-browser"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "Kampindstillinger er blevet gemt i fil: %1"
+
+msgid "Max players"
+msgstr "Maks. spillere"
+
+msgid "Max players number"
+msgstr "Maks. antal spillere"
+
+msgid "Max points :"
+msgstr "Maks. point :"
+
+msgid "Max wait time: %1 %2"
+msgstr "Maks. ventetid: %1 %2"
+
+msgid "Medals"
+msgstr "Medaljer"
+
+msgid "Middle click : reset the module"
+msgstr "Midterklik : nulstil modulet"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "Mangler: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "Type"
+
+msgid "Mode script browser"
+msgstr "Script-browser for spiltilstand"
+
+msgid "Mode settings"
+msgstr "Indstillinger for spiltilstand"
+
+msgid "Monday"
+msgstr "Mandag"
+
+msgid "More VIPs"
+msgstr "Flere VIP'er"
+
+msgid "Move"
+msgstr "Flyt"
+
+msgid "Move the block to a new location"
+msgstr "Flyt blokken til et nyt sted"
+
+msgid "Move the cursor"
+msgstr "Flyt markøren"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "Flyt startlinje-blokken, og vælg hvor du vil starte din bane."
+
+msgid "Multi teams"
+msgstr "Flere hold"
+
+msgid "My clubs"
+msgstr "Mine klubber"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "NCSA CUSTOMER SUPPORT TEAM"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "New author time"
+msgstr "Ny tid af ophavsmand"
+
+msgid "New best time"
+msgstr "Ny bedste tid"
+
+msgid "New medal"
+msgstr "Ny medalje"
+
+msgid "New rank: %1"
+msgstr "Ny rangering: %1"
+
+msgid "New records disabled"
+msgstr "Nye rekorder deaktiveret"
+
+msgid "New track"
+msgstr "Ny bane"
+
+msgid "News"
+msgstr "Nyheder"
+
+msgid "News creation"
+msgstr "Oprettelse af nyhed"
+
+msgid "News image"
+msgstr "Nyhedsbillede"
+
+msgid "News must have a headline."
+msgstr "Nyheder skal have en overskrift"
+
+msgid "News must have either a body or an image."
+msgstr "Nyheder skal enten have et indhold eller et billede."
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "Next map"
+msgstr "Næste bane"
+
+msgid "Next map in %1..."
+msgstr "Næste bane om %1..."
+
+msgid "Next medal"
+msgstr "Næste medalje"
+
+msgid "Next player"
+msgstr "Næste spiller"
+
+msgid "Next zone"
+msgstr "Næste område"
+
+msgid "Ninth (Press 9)"
+msgstr "Niende (Tryk 9)"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No K.O."
+msgstr "Ingen K.O."
+
+msgid "No accounts found"
+msgstr "Ingen konti fundet"
+
+msgid "No clubs"
+msgstr "Ingen klubber"
+
+msgid "No daily map found to display the rankings"
+msgstr "Ingen daglig bane fundet, der viser rangeringer"
+
+msgid "No maps in this month"
+msgstr "Ingen baner i denne måned"
+
+msgid "No monthly campaigns found."
+msgstr "Ingen månedlige kampagner fundet."
+
+msgid "No player"
+msgstr "Ingen spillere"
+
+msgid "No quarterly campaigns found."
+msgstr "Ingen kvartalsvise kampagner fundet."
+
+msgid "No records"
+msgstr "Ingen rekorder"
+
+msgid "No suitable elements were found in this folder"
+msgstr "Ingen passende elementer blev fundet i denne mappe"
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "Ikke nok spillere gik med til at spille en omkamp."
+
+msgid "Not ranked"
+msgstr "Ikke rangeret"
+
+msgid "Now"
+msgstr "Nu"
+
+msgid "Number of Laps : "
+msgstr "Antal omgange : "
+
+msgid "Number of laps"
+msgstr "Antal omgange"
+
+msgid "Number of maps per match"
+msgstr "Antal baner per kamp"
+
+msgid "Number of rounds per map"
+msgstr "Antal runder per bane"
+
+msgid "Number of warm up"
+msgstr "Antal opvarmninger"
+
+msgid "Number of winners"
+msgstr "Antal vindere"
+
+msgid "OFFICE MANAGEMENT"
+msgstr "OFFICE MANAGEMENT"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ONLINE ENGINEER"
+msgstr "ONLINE ENGINEER"
+
+msgid "ONLINE ENGINEERS"
+msgstr "ONLINE ENGINEERS"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "ONLINE SERVICES LINE PRODUCER"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "ONLINE SERVICES TEAM"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "ONLINE TECHNICAL COORDINATION MANAGER"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "ONLINE TECHNOLOGIES MANAGER"
+
+msgid "Official rankings"
+msgstr "Officielle ranglister"
+
+msgid "Offroad"
+msgstr "Offroad"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Opponents from %1"
+msgstr "Modstandere fra %1"
+
+msgid "Optional"
+msgstr "Valgfrit"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr ""
+"Eller tilslutte dig en eksisterende gruppe ved at klikke på et spillernavn i "
+"højre side."
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Other"
+msgstr "Andet"
+
+msgid "PC REQUIREMENTS"
+msgstr "PC REQUIREMENTS"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "PC REQUIREMENTS LEAD"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "PC REQUIREMENTS PROJECT LEAD"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "PC REQUIREMENTS SPECIALISTS"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "PLAYER EXPERIENCE"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "PLAYER EXPERIENCE MANAGER , FRONTLINE PROGRAMS"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "PLAYER SUPPORT AREA MANAGER"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "PLAYER SUPPORT OPERATIONS MANAGER"
+
+msgid "PR"
+msgstr "PR"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "PREDICTIVE ANALYTICS RESEARCHER"
+
+msgid "PRESIDENT AND CEO"
+msgstr "PRESIDENT AND CEO"
+
+msgid "PRODUCER"
+msgstr "PRODUCER"
+
+msgid "PRODUCT OWNER"
+msgstr "PRODUCT OWNER"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "PRODUCT SPECIALIST"
+
+msgid "PRODUCTION"
+msgstr "PRODUCTION"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "PRODUCTION COORDINATOR"
+
+msgid "PROGRAM MANAGER"
+msgstr "PROGRAM MANAGER"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "PROGRAM MANAGER, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMMER"
+
+msgid "PROJECT ASSISTANT"
+msgstr "PROJECT ASSISTANT"
+
+msgid "PROJECT MANAGER"
+msgstr "PROJECT MANAGER"
+
+msgid "PROJECT MANAGERS "
+msgstr "PROJECT MANAGERS "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "PUBLISHING DIRECTOR"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Participation registered!"
+msgstr "Deltagelse registreret!"
+
+msgid "Password"
+msgstr "Kodeord"
+
+msgid "Past 14 days"
+msgstr "Sidste 14 dage"
+
+msgid "Paste"
+msgstr "Indsæt"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Personal best"
+msgstr "Personlig bedste"
+
+msgid "Pick the controller"
+msgstr "Vælg styreenheden"
+
+msgid "Pick the difficulty"
+msgstr "Vælg sværhedsgrad"
+
+msgid "Pick the mood"
+msgstr "Vælg tidspunktet"
+
+msgid "Picked by matchmaking"
+msgstr "Udvalgt af matchmaking"
+
+msgid "Pink"
+msgstr "Lyserød"
+
+msgid "Place a finish block to end your track."
+msgstr "Placér en mållinje-blok for at færdiggøre din bane."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"Placér kontrolpunkter for at undgå genveje, og for at gøre det nemmere for "
+"andre spillere at respawne på din bane."
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Play"
+msgstr "Spil"
+
+msgid "Play HotSeat"
+msgstr "Spil HotSeat"
+
+msgid "Play a map"
+msgstr "Spil en bane"
+
+msgid "Play a map locally"
+msgstr "Spil en bane lokalt"
+
+msgid "Play against a replay"
+msgstr "Spil imod en gengivelse"
+
+msgid "Play against opponents"
+msgstr "Spil imod modstandere"
+
+msgid "Play alone"
+msgstr "Spil alene"
+
+msgid "Play next map"
+msgstr "Spil næste bane"
+
+msgid "Play offline"
+msgstr "Spil offline"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "Spil alene og flere spillere på 25 nye baner hver sæson"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "Spil den Daglige Runde-Knockout"
+
+msgid "Player Best Time"
+msgstr "Spiller Bedste Tid"
+
+msgid "Player info"
+msgstr "Spillerinfo"
+
+msgid "Player profile"
+msgstr "Spillerprofil"
+
+msgid "Players"
+msgstr "Spillere"
+
+msgid "Players are tied!"
+msgstr "Spillere står lige!"
+
+msgid "Players in server"
+msgstr "Spillere på serveren"
+
+msgid "Players order"
+msgstr "Spilleres rækkefølge"
+
+msgid "Please reconnect the %1"
+msgstr "Forbind venligst igen %1"
+
+msgid "Please select your %1"
+msgstr "Vælg venligst dit %1"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"Bliv venligst i kanalen, indtil Knockouten begynder. Du vil automatisk blive "
+"viderestillet, når din kamp er klar."
+
+msgid "Please wait."
+msgstr "Vent venligst."
+
+msgid "Points gap"
+msgstr "Pointforskel"
+
+msgid "Points gap :"
+msgstr "Pointforskel :"
+
+msgid "Points limit"
+msgstr "Pointgrænse"
+
+msgid "Points limit "
+msgstr "Pointgrænse  "
+
+msgid "Points limit : "
+msgstr "Pointgrænse : "
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "Pointgrænse: %1, Nuværende bedste score: %2"
+
+msgid "Popularity"
+msgstr "Popularitet"
+
+msgid "Prebuilt Landscapes"
+msgstr "Forudbyggede landskaber"
+
+msgid "Press a key"
+msgstr "Tryk på en tast"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"Tryk og fasthold \"tilføj\"- eller \"fjern\"-knappen. Dernæst flyt markøren "
+"for at angive området, hvor terra-formningen vil blive anvendt, og slip "
+"knappen."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"Tryk på %1 for at skifte mellem tilkoble- og afkoble-tilstande. I tilkoble-"
+"tilstand er markøren altid fastgjort til banen. I afkoble-tilstand kan du "
+"flytte markøren frit rundt."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "Tryk på %1 for at skifte mellem de forskellige bygge-tilstande."
+
+msgid "Pressforward"
+msgstr "Pressforward"
+
+msgid "Previous author time"
+msgstr "Forrige tid af ophavsmand"
+
+msgid "Previous player"
+msgstr "Forrige spiller"
+
+msgid "Previous replay saved!"
+msgstr "Forrige gengivelse gemt!"
+
+msgid "Previous zone"
+msgstr "Forrige område"
+
+msgid "Privacy setting"
+msgstr "Privatlivsindstilling"
+
+msgid "Proceed to lobby"
+msgstr "Forsæt til lobby"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "QA LEAD"
+msgstr "QA LEAD"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "QC ACCESSIBILITY TEAM"
+
+msgid "QC NETWORKING"
+msgstr "QC NETWORKING"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "QC NETWORKING EXPERT"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "QC NETWORKING SPECIALIST"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "QC NETWORKING TEAM LEAD"
+
+msgid "QUALITY"
+msgstr "KVALITET"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "QUALITY CONTROL MANAGER"
+
+msgid "Qualifier rank: %1"
+msgstr "Kvalifikationskamp-rangering: %1"
+
+msgid "Quantity"
+msgstr "Mængde"
+
+msgid "Quarter-final"
+msgstr "Kvartfinale"
+
+msgid "Quit"
+msgstr "Forlad"
+
+msgid "Quit editor"
+msgstr "Forlad editor"
+
+msgid "Quit plugin"
+msgstr "Forlad plug-in"
+
+msgid "Quit%1"
+msgstr "Afslut%1"
+
+msgid "R&D ENGINEER"
+msgstr "R&D ENGINEER"
+
+msgid "R&D ENGINEERS"
+msgstr "R&D ENGINEERS"
+
+msgid "R1 button"
+msgstr "R1-knap"
+
+msgid "R3 button"
+msgstr "R3-knap"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "RELEASE MANAGEMENT"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "MANAGEMENT & LOCALIZATION DIRECTOR"
+
+msgid "RELEASE MANAGER"
+msgstr "RELEASE MANAGER"
+
+msgid "Race"
+msgstr "Kør"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr ""
+"Ræs BaneType blev ikke fundet eller indstillet. Du vil måske ikke kunne "
+"validere din bane."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "Ræs og konkurrér i dén daglige spillers baneudvalg"
+
+msgid "Race ranking"
+msgstr "Placering i ræs"
+
+msgid "Race validation"
+msgstr "Validering af ræs"
+
+msgid "Random"
+msgstr "Tilfældig"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"Tilfældigt Landskab er ikke tilgængeligt i Ekspert-tilstand. Slå venligst "
+"Tilfældigt Landskab fra, og forsøg igen."
+
+msgid "Random map"
+msgstr "Tilfældig bane"
+
+msgid "Ranking"
+msgstr "Rangering"
+
+msgid "Rankings"
+msgstr "Ranglister"
+
+msgid "Ready"
+msgstr "Klar"
+
+msgid "Ready (F6)"
+msgstr "Klar (F6)"
+
+msgid "Record leader ghost"
+msgstr "Optag førerens skygge-gengivelse"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "Optag skygge-gengivelse af løbsføreren, som dine seere vil følge."
+
+msgid "Record the ghost that player will follow"
+msgstr "Optag skygge-gengivelsen, som spillere vil følge"
+
+msgid "Records"
+msgstr "Rekorder"
+
+msgid "Red"
+msgstr "Rød"
+
+msgid "Refresh"
+msgstr "Opdatér"
+
+msgid "Register"
+msgstr "Tilmeld"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "Tilmelding mislykkedes (Fejlkode: %1)"
+
+msgid "Remaining time: %1"
+msgstr "Resterende tid: %1"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Remove from favorite"
+msgstr "Fjern fra favorit"
+
+msgid "Remove image"
+msgstr "Fjern billede"
+
+msgid "Remove map"
+msgstr "Fjern bane"
+
+msgid "Rename folder"
+msgstr "Omdøb mappe"
+
+msgid "Replay"
+msgstr "Gengivelse"
+
+msgid "Replay editor"
+msgstr "Editor til gengivelser"
+
+msgid "Replay saved!"
+msgstr "Gengivelse gemt!"
+
+msgid "Reroll decoration"
+msgstr "Anden udsmykning"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Reset the UI customization"
+msgstr "Nulstil UI-tilpasningen"
+
+msgid "Restart"
+msgstr "Genstart"
+
+msgid "Restart map"
+msgstr "Genstart bane"
+
+msgid "Resume"
+msgstr "Fortsæt"
+
+msgid "Resuming match"
+msgstr "Fortsætter kamp"
+
+msgid "Retrieving map list..."
+msgstr "Henter baneliste..."
+
+msgid "Retry"
+msgstr "Forsøg igen"
+
+msgid "Right click : hide/show the module"
+msgstr "Højreklik : skjul/vis modulet"
+
+msgid "Room"
+msgstr "Rum"
+
+msgid "Room creation"
+msgstr "Oprettelse af rum"
+
+msgid "Room name"
+msgstr "Rumnavn"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spiller\n"
+"%4 K.O. per runde"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spiller\n"
+"1 K.O. per runde"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spiller kører\n"
+"Ingen K.O. denne runde"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spillere\n"
+"%4 K.O. per runde"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spillere\n"
+"1 K.O. per runde"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"Runde %1/%2\n"
+"%3 spillere kører\n"
+"Ingen K.O. denne runde"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"Runde %1/%2, %3 spillere\n"
+"%4 K.O. per runde indtil %5 spillere"
+
+msgid "Round skipped"
+msgstr "Runde sprunget over"
+
+msgid "Rounds "
+msgstr "Runder "
+
+msgid "Rounds : "
+msgstr "Runder : "
+
+msgid "Rules"
+msgstr "Regler"
+
+msgid "SALES DIRECTOR"
+msgstr "SALES DIRECTOR"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "SCIENTIFIC DIRECTOR "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "SENIOR DATABASE ADMINISTRATOR"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "SENIOR FRONT-END ENGINEER"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "SENIOR HQ PRODUCER"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "SENIOR KNOWLEDGE SPECIALIST"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "SENIOR LINE ANALYST"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "SENIOR MANUAL TESTER"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "SENIOR OPERATIONAL MARKETING MANAGER"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "SENIOR PR SPECIALIST"
+
+msgid "SENIOR PRODUCER"
+msgstr "SENIOR PRODUCER"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "SENIOR PRODUCT MANAGER"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "SENIOR PROGRAMMER"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "SENIOR SOFTWARE ENGINEER"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "SENIOR SYSTEM ADMINISTRATOR"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "SENIOR WEB DEVELOPER"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "SENIOR WEB PROGRAMMER"
+
+msgid "SOUND DESIGNER"
+msgstr "SOUND DESIGNER"
+
+msgid "SPECIAL THANKS"
+msgstr "SPECIAL THANKS"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "SR MANAGER, PLAYER EXPERIENCE EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "SR. MANAGER, PLAYER, FRONTLINE PROGRAMS"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "STORE FRONT SPECIALIST"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "STUDIO OPERATIONS COORDINATOR"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "SYSTEM ADMINISTRATOR"
+
+msgid "Saturday"
+msgstr "Lørdag"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Save and create cup"
+msgstr "Gem og opret turnering"
+
+msgid "Save as new"
+msgstr "Gem som ny"
+
+msgid "Save for later"
+msgstr "Gem til senere"
+
+msgid "Save map"
+msgstr "Gem bane"
+
+msgid "Save previous replay"
+msgstr "Gem forrige gengivelse"
+
+msgid "Save replay"
+msgstr "Gem gengivelse"
+
+msgid "Saved Activities"
+msgstr "Gemte aktiviteter"
+
+msgid "Saving campaign..."
+msgstr "Gemmer kampagne..."
+
+msgid "Scroll down"
+msgstr "Rul ned"
+
+msgid "Scroll up"
+msgstr "Rul op"
+
+msgid "Second (Press 2)"
+msgstr "Anden (Tryk 2)"
+
+msgid "See tutorial again"
+msgstr "Se vejledning igen"
+
+msgid "Select"
+msgstr "Vælg"
+
+msgid "Select a billboard"
+msgstr "Vælg en reklametavle"
+
+msgid "Select a campaign"
+msgstr "Vælg en kampagne"
+
+msgid "Select a color"
+msgstr "Vælg en farve"
+
+msgid "Select a landscape and start building your track."
+msgstr "Vælg et landskab, og begynd at bygge din bane."
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"Vælg et landskab. Når du finder ét, der tiltaler dig, kan du starte din bane."
+
+msgid "Select a mode"
+msgstr "Vælg en spiltype"
+
+msgid "Select a mode before adding maps"
+msgstr "Vælg en spiltype, før du tilføjer baner"
+
+msgid "Select a mode to check map compatibility"
+msgstr "Vælg en spiltype for at tjekke bane-kompatibilitet"
+
+msgid "Select a road paint"
+msgstr "Vælg et vejmaleri"
+
+msgid "Select a round to start"
+msgstr "Vælg en runde for at starte"
+
+msgid "Select all"
+msgstr "Vælg alle"
+
+msgid "Select an account"
+msgstr "Vælg en konto"
+
+msgid "Select an image"
+msgstr "Vælg et billede"
+
+msgid "Select map"
+msgstr "Vælg bane"
+
+msgid "Select maps"
+msgstr "Vælg baner"
+
+msgid "Select maps to remove"
+msgstr "Vælg baner at fjerne"
+
+msgid "Select mode"
+msgstr "Vælg spiltype"
+
+msgid "Select next map"
+msgstr "Vælg næste bane"
+
+msgid "Select number of players"
+msgstr "Vælg antal spillere"
+
+msgid "Select style"
+msgstr "Vælg stilart"
+
+msgid "Select the location of the starting line"
+msgstr "Vælg ét sted til din startlinje"
+
+msgid "Select where you want to start"
+msgstr "Vælg, hvor du vil starte"
+
+msgid "Select your activity"
+msgstr "Vælg din aktivitet"
+
+msgid "Select zone"
+msgstr "Vælg område"
+
+msgid "Selected campaign"
+msgstr "Valgt kampagne"
+
+msgid "Selected map"
+msgstr "Udvalgte bane"
+
+msgid "Selected maps"
+msgstr "Valgte baner"
+
+msgid "Semi-final"
+msgstr "Semifinale"
+
+msgid "Server account"
+msgstr "Serverkonto"
+
+msgid "Server doesn't exist anymore"
+msgstr "Serveren eksisterer ikke længere"
+
+msgid "Server name"
+msgstr "Servernavn"
+
+msgid "Server region"
+msgstr "Server-område"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr ""
+"Servere er offline eller under vedligeholdelse, forsøg venligst igen senere."
+
+msgid "Set next map"
+msgstr "Vælg næste bane"
+
+msgid "Set private"
+msgstr "Gør privat"
+
+msgid "Set public"
+msgstr "Gør offentlig"
+
+msgid "Set/Unset as favorite"
+msgstr "Vælg/Fravælg som favorit"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Seventh (Press 7)"
+msgstr "Syvende (Tryk 7)"
+
+msgid "Show"
+msgstr "Vis"
+
+msgid "Silver"
+msgstr "Sølv"
+
+msgid "Silver medal"
+msgstr "Sølvmedalje"
+
+msgid "Single Map"
+msgstr "Enkelt bane"
+
+msgid "Sixth (Press 6)"
+msgstr "Sjette (Tryk 6)"
+
+msgid "Skin browser"
+msgstr "Skin-browser"
+
+msgid "Skin editor"
+msgstr "Skin-editor"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "Upload af skin mislykkedes. (Fejl: %1)"
+
+msgid "Skin uploads"
+msgstr "Skin-uploads"
+
+msgid "Skins"
+msgstr "Skins"
+
+msgid "Skip"
+msgstr "Spring over"
+
+msgid "Solo"
+msgstr "Solo"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"Nogle blokke tilbyder adskillige sammenkoblingsmuligheder. De er "
+"repræsenteret af hvide bokse. Tryk på \"skift\"-knappen for at vælge dén, du "
+"vil bruge."
+
+msgid "Spectate"
+msgstr "Se med som tilskuer"
+
+msgid "Spectator"
+msgstr "Tilskuer"
+
+msgid "Spectator password"
+msgstr "Tilskuer-adgangskode"
+
+msgid "SplitScreen"
+msgstr "Delt skærm"
+
+msgid "Splitscreen"
+msgstr "Delt skærm"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"Standard-adgang er en 1-årig periode, der tilbyder dén perfekte oplevelse "
+"for almindelige spillere, fuld af kreation og aktiviteter!"
+
+msgid "Starter"
+msgstr "Gratis"
+
+msgid "Stats"
+msgstr "Statistikker"
+
+msgid "Step ranking"
+msgstr "Trin-rangliste"
+
+msgid "Stop auto-finish"
+msgstr "Stop auto-fuldfør"
+
+msgid "Streaming subscriptions"
+msgstr "Streaming-abonnementer"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Subscribe"
+msgstr "Abonnér"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr "Abonnér på Trackmania %1 for at få adgang til server-anmeldelser."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "Abonnér på Trackmania %1 for at oprette en klubaktivitet."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "Abonnér på Trackmania %1 for at oprette en klub."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "Abonnér på Trackmania %1 for at oprette en lokal server."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "Abonnér på Trackmania %1 for at oprette en bane."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "Abonnér på Trackmania %1 for at oprette en beklædning."
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr "Abonnér på Trackmania %1 for at oprette spiltyper."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr "Abonnér på Trackmania %1 for at oprette genstande og modifikationer."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "Abonnér på Trackmania %1 for at fremvise en klubside."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr "Abonnér på Trackmania %1 for at redigere avancerede baner."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "Abonnér på Trackmania %1 for redigere klubbaner."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr "Abonnér på Trackmania %1 for at finde en lokal server."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "Abonnér på Trackmania %1 for at tilslutte dig en klub."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr "Abonnér på Trackmania %1 for at tilslutte sig klubbers rum."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "Abonnér på Trackmania %1 for at tilslutte sig arkade-kanalen."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "Abonnér på Trackmania %1 for at åbne gengivelse-editoren."
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr "Abonnér på Trackmania %1 for at åbne dén simple bane-editor."
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "Abonnér på Trackmania %1 for at åbne skin-editoren."
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr "Abonnér på Trackmania %1 for at spille en lokal bane."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr "Abonnér på Trackmania %1 for at oprette en privat klubaktivitet."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "Abonnér på Trackmania %1 for at spille imod en gengivelse."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr "Abonnér på Trackmania %1 for at spille klubbers kampagner."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr "Abonnér på Trackmania %1 for at spille online-konkurrencer."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr "Abonnér på Trackmania %1 for at spille de forrige månedlige kampagner."
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr ""
+"Abonnér på Trackmania %1 for at spille tidligere kvartalsvise kampagner."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr "Abonnér på Trackmania %1 for at spille HotSeat-tilstanden."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr "Abonnér på Trackmania %1 for at spille dén live månedlige kampagne."
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr "Abonnér på Trackmania %1 for at spille den live kvartalsvise kampagne."
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr "Abonnér på Trackmania %1 for at spille delt skærm-tilstanden."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr "Abonnér på Trackmania %1 for at gemme en video i gengivelse-editoren."
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "Abonnér på Trackmania %1 for at uploade en bane."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "Abonnér på Trackmania %1 for at uploade en beklædning."
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "Abonnér på Trackmania %1 for at bruge en brugerdefineret beklædning."
+
+msgid "Sunday"
+msgstr "Søndag"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "Støt %1$z: \"go %2$z\" i chatten"
+
+msgid "Switch"
+msgstr "Skift"
+
+msgid "TEAM LEAD"
+msgstr "TEAM LEAD"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "TECHNICAL ANIMATOR"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "TECHNICAL DIRECTOR"
+
+msgid "TECHNICAL MANAGER"
+msgstr "TECHNICAL MANAGER"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "TECHNICAL OPERATIONS LEAD"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "TECHNICAL SPECIALIST"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "TECHNICAL SUPPORT COORDINATOR"
+
+msgid "TESTER"
+msgstr "TESTER"
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "TRACKING & ANALYTICS SPECIALIST, EMEA"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"TYPE: Free-for-all\n"
+"MÅL: Kør den bedste tid før nedtællingen er ovre."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"TYPE: Free-for-all\n"
+"OBJEKTIV: Sæt den bedste tid på banen."
+
+msgid "Take this slot"
+msgstr "Tag denne plads"
+
+msgid "Team versus Team"
+msgstr "Hold-mod-Hold"
+
+msgid "Tech"
+msgstr "Tech"
+
+msgid "Terraforming in progress"
+msgstr "Terra-formning i gang"
+
+msgid "Terrain"
+msgstr "Terræn"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Test other maps"
+msgstr "Test andre baner"
+
+msgid "Test the track"
+msgstr "Test banen"
+
+msgid "Test track"
+msgstr "Test bane"
+
+msgid "Test your maps"
+msgstr "Test dine baner"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"Klub-adgangen er et 1-årigt eller 3-årigt kort, der tilbyder dén mest "
+"fuldendte Trackmania-oplevelse med brugertilpasning, konkurrencer på "
+"professionelt niveau og unikke måder at socialisere sig på i spillet!"
+
+msgid "The Left Stick"
+msgstr "Den venstre analog-pind"
+
+msgid "The Map %1 is already used"
+msgstr "Banen %1 er allerede brugt"
+
+msgid "The Right Stick"
+msgstr "Den højre analog-pind"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "De bedste baner har en chance for at blive valgt som dagens bane!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "Indholdet har et maksimum på %1 tegn"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "Kampagnens navn må ikke overstige %1 tegn"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "Beskrivelsen af klubben skal være kortere end %1 tegn"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "Klubnavnet har et minimum på %1 og et maksimum på %2 tegn"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "Klubmærket har et minimum på %1 og et maksimum på %2 tegn"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "Oprettelsen af konkurrencen mislykkedes (Fejlkode: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr ""
+"Udsmykningen vil blive fjernet, og du vil være nødt til at validere banen "
+"igen."
+
+msgid "The decoration will be removed."
+msgstr "Udsmykningen vil blive fjernet."
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "Overskriften har et maksimum på %1 tegn"
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "Pointtavlen er nu lukket for denne dag!"
+
+msgid "The league is coming back in"
+msgstr "Ligaen vender tilbage om"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "Banen '%1' er allerede i spillelisten"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "Banen '%1' er ikke kompatibel med den valgte spiltype"
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr ""
+"Banen '%1' er ikke spilleklar. Validér venligst banen og beregn skyggerne."
+
+msgid "The match will begin shortly ..."
+msgstr "Kampen begynder inden længe..."
+
+msgid "The matchsettings is not valid"
+msgstr "Kampindstillingerne er ikke gyldige"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "Navnet har et maksimum på %1 tegn"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "Konkurrencens navn har et minimum på %1 og et maksimum på %2 tegn"
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "Navnemærket har et maksimum på %1 tegn"
+
+msgid "The next match will begin in %1 "
+msgstr "Dén næste kamp vil starte om %1 "
+
+msgid "The registration closed at : %1 H"
+msgstr "Tilmelding lukkede kl. : %1"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "Rummet er utilgængeligt, forsøg venligst igen. (Fejlkode: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "Rummet igangsættes, det vil være klar om nogle få sekunder."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"Banen kunne ikke auto-fuldføres. Fjern nogle få blokke, før du forsøger igen."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "Banesporet er på en blind vej. Forsøg at gå i en anden retning."
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr "Banen skal have en åben sammenkobling for at blive auto-fuldført."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "Der er %1 podier i din bane. Du kan kun placere ét."
+
+msgid "There are no displayed activities in your club."
+msgstr "Der er ingen fremviste aktiviteter i din klub."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "Der er ingen makroblokke tilgængelige for denne editor."
+
+msgid "There are no saved activities in your club."
+msgstr "Der er ingen gemte aktiviteter i din klub."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr ""
+"Der har været en fejl ved hentning af oplysninger om denne konkurrence. "
+"(Fejlkode: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Der var en fejl ved indhentning af ranglisterne, forsøg venligst igen "
+"senere. (Fejlkode: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Der var en fejl ved indhentning af ranglisterne, forsøg venligst igen "
+"senere. (Fejl: Job ikke længere tilgængeligt)"
+
+msgid "Third (Press 3)"
+msgstr "Tredje (Tryk 3)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr ""
+"Denne aktivitet er privat, du er nødt til at være medlem af klubben for at "
+"kunne bruge den."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"Denne blok har et brugerdefinerbart skin. Brug %1 for at vælge billedet, du "
+"ønsker at bruge."
+
+msgid "This competition is closed"
+msgstr "Denne konkurrence er lukket"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr ""
+"Dette er en dedikeret server, som en spiller er vært for. Den kan måske være "
+"offline."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"Dette er en fleromgangs startlinje-blok. Spillere skal krydse alle "
+"kontrolpunkter og passere igennem denne blok for at validere én omgang."
+
+msgid "This map is not playable"
+msgstr "Denne bane er ikke spilleklar"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"Denne matchmaking-server er vært for en kamp. Du kan ikke tilslutte dig i "
+"øjeblikket."
+
+msgid "This round is a draw."
+msgstr "Denne runde er uafgjort."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"Denne serverkonto er allerede brugt for klubrummet \"%1\", med id %2. Vælg "
+"venligst en anden konto."
+
+msgid "This server will split for less waiting time"
+msgstr "Denne server vil blive opdelt med henblik på mindre ventetid"
+
+msgid "This track is already validated."
+msgstr "Denne bane er allerede valideret."
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Time Limit"
+msgstr "Tidsgrænse"
+
+msgid "Time Limit :"
+msgstr "Tidsgrænse :"
+
+msgid "Time limit"
+msgstr "Tidsgrænse"
+
+msgid "Time to beat"
+msgstr "Tid at slå"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr ""
+"For at undgå dette, kan du oprette dine egne landskaber. Fortsæt alligevel?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr ""
+"For at gøre dette, skal du have færdiggjort ét løb, fra start til slut, "
+"passerende igennem alle kontrolpunkter."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "For at spille denne bane udenfor editoren, skal du validere den."
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Top %1"
+msgstr "Top %1"
+
+msgid "Top %1 %2"
+msgstr "Top %1 %2"
+
+msgid "Track"
+msgstr "Bane"
+
+msgid "Track completed."
+msgstr "Bane færdiggjort."
+
+msgid "Track of the day"
+msgstr "Dagens bane"
+
+msgid "Track style"
+msgstr "Banestilart"
+
+msgid "Training"
+msgstr "Træning"
+
+msgid "Trial"
+msgstr "Trial"
+
+msgid "Trophies"
+msgstr "Trofæer"
+
+msgid "Try to place checkpoints regularly"
+msgstr "Forsøg at placér kontrolpunkter regelmæssigt"
+
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "UBISOFT CLUB LINE PRODUCER"
+
+msgid "UI DESIGNER"
+msgstr "UI DESIGNER"
+
+msgid "UI DESIGNER "
+msgstr "BRUGERFLADEDESIGNERE "
+
+msgid "UI PROGRAMMER"
+msgstr "UI PROGRAMMER"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "UI/UX DESIGN TEAM LEAD"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "UOR ASSOCIATE TEAM LEAD"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "UOR PLATFORM OWNERS"
+
+msgid "UOR TEAM"
+msgstr "UOR TEAM"
+
+msgid "UOR TEAM LEAD"
+msgstr "UOR TEAM LEAD"
+
+msgid "UPLAY TEAM"
+msgstr "UPLAY TEAM"
+
+msgid "UX DESIGNER"
+msgstr "UX DESIGNER"
+
+msgid "UX DESIGNER "
+msgstr "UX DESIGNER "
+
+msgid "UX REQUIREMENTS"
+msgstr "UX REQUIREMENTS"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "UX REQUIREMENTS LEAD"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "UX REQUIREMENTS SPECIALISTS"
+
+msgid "Unapply"
+msgstr "Anvend ikke"
+
+msgid "Unapply skin"
+msgstr "Anvend ikke skin"
+
+msgid "Unselect all"
+msgstr "Fravælg alle"
+
+msgid "Unsubscribe"
+msgstr "Afmeld abonnement"
+
+msgid "Update member's role"
+msgstr "Opdatér medlems rolle"
+
+msgid "Updating club..."
+msgstr "Opdaterer klub..."
+
+msgid "Upload a map"
+msgstr "Upload en bane"
+
+msgid "Upload a skin"
+msgstr "Upload et skin"
+
+msgid "Uploading..."
+msgstr "Uploader..."
+
+msgid "Use %1 to move the cursor."
+msgstr "Brug %1 for at flytte markøren."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"Brug %1 for at åbne skærmen til valg af blokke og for at vælge en kategori. "
+"Dernæst brug %2 til at vælge blokkene, du ønsker at placere."
+
+msgid "Use a custom points repartition :"
+msgstr "Brug en brugerdefineret pointomfordeling :"
+
+msgid "Use alternate rules :"
+msgstr "Brug skiftevise regler :"
+
+msgid "Use tie-break"
+msgstr "Brug tiebreak"
+
+msgid "Use your dedicated server"
+msgstr "Brug din dedikeret server"
+
+msgid "VEHICLE ARTIST"
+msgstr "VEHICLE ARTIST"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "VICE PRESIDENT, PLAYER EXPERIENCE"
+
+msgid "VP EDITORIAL"
+msgstr "VP EDITORIAL"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "VP EDITORIAL TECHNOLOGY"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "VP, ONLINE SERVICES"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "VP, PRODUCTION MANAGER"
+
+msgid "Validate"
+msgstr "Validér"
+
+msgid "Validate & exit"
+msgstr "Validér og forlad"
+
+msgid "Validate track"
+msgstr "Validér bane"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "Validér din bane for at kunne spille den udenfor editoren."
+
+msgid "Validation"
+msgstr "Validering"
+
+msgid "Validations"
+msgstr "Valideringer"
+
+msgid "Version: %1"
+msgstr "Version: %1"
+
+msgid "Versus"
+msgstr "Imod"
+
+msgid "View replay"
+msgstr "Se gengivelse"
+
+msgid "Vote for a map"
+msgstr "Stem på en bane"
+
+msgid "Vote for mode settings"
+msgstr "Stem om spiltilstand-indstillinger"
+
+msgid "Vote to balance teams"
+msgstr "Stem om at balancere hold"
+
+msgid "Vote to jump to map"
+msgstr "Stem om at springe til bane"
+
+msgid "Vote to play next map"
+msgstr "Stem om at spille næste bane"
+
+msgid "Vote to restart"
+msgstr "Stem om at genstarte banen"
+
+msgid "Vote to set next map"
+msgstr "Stem om at vælge næste bane"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"At stemme på en bane forøger blot chancerne for, at den vil blive valgt. "
+"Enhver bane med mindst én stemme har en chance for at blive spillet."
+
+msgid "Vs race record"
+msgstr "Vs ræs-rekord"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "WEB CONTENT SPECIALIST"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "WEB CONTENT SPECIALIST ASSISTANT"
+
+msgid "WEB DEVELOPER"
+msgstr "WEB DEVELOPER"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "WEB DEVELOPER ASSISTANT, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "WEB DEVELOPER, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "WEB PRODUCER ASSISTANT, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "WEB PRODUCER, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "WEB PROGRAMMER"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "WEB PROJECT MANAGER, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "WEB SERVICES DIRECTOR"
+
+msgid "WEB SERVICES TEAM"
+msgstr "WEB SERVICES TEAM"
+
+msgid "WEB UI DESIGNER"
+msgstr "WEB UI DESIGNER"
+
+msgid "Waiting for other players."
+msgstr "Venter på andre spillere."
+
+msgid "Waiting for players"
+msgstr "Venter på spillere"
+
+msgid "Waiting for your allies to be ready."
+msgstr "Venter på, at dine allierede er klar."
+
+msgid "Waiting for your match"
+msgstr "Afventer din kamp"
+
+msgid "Waiting for your match to start"
+msgstr "Venter på, at din kamp starter"
+
+msgid "Warm up"
+msgstr "Opvarmning"
+
+msgid "Warmup"
+msgstr "Opvarmning"
+
+msgid "Warmup: %1/%2"
+msgstr "Opvarmning: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"Se\n"
+"opvarmning"
+
+msgid "We are sending you back to the lobby."
+msgstr "Vi sender dig tilbage til lobbyen."
+
+msgid "We are sending you back to the match you left."
+msgstr "Vi sender dig tilbage til dén kamp, du forlod."
+
+msgid "We are starting a new match."
+msgstr "Vi starter en ny kamp."
+
+msgid "Wednesday"
+msgstr "Onsdag"
+
+msgid "Welcome to Trackmania"
+msgstr "Velkommen til Trackmania"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Velkommen til Nadeo's daglige turnering!\n"
+"\n"
+"Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
+"bagefter og optjene endnu flere trofæer.\n"
+"Du kan se din globale rangering blandt alle servere i højre side af din "
+"skærm."
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Velkommen til Nadeo's daglige turnering!\n"
+"\n"
+"Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
+"bagefter og optjene endnu flere trofæer.\n"
+"Du kan se din globale rangering blandt alle servere i højre side af din "
+"skærm. Held og lykke!"
+
+msgid "Welcome to the club!"
+msgstr "Velkommen i klubben!"
+
+msgid "What do you want to do?"
+msgstr "Hvad vil du gøre?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"Når du klipper en blok, lagres den i din blok-historik. Du kan dernæst "
+"indsætte den i din bane igen eller kassere den fra historikken."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"Når du flytter markøren over på en blok, du har placeret, kan du kopiere den "
+"eller forsøge automatisk at tilkoble en kompatibel blok."
+
+msgid "Which map would you like to submit?"
+msgstr "Hvilken bane kunne du tænke dig at indsende?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "Mens du venter, forsøg da at blive Konge af lobbyen!"
+
+msgid "White"
+msgstr "Hvid"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr "Med Gratis-adgang kan du opdage Trackmania's kernefunktioner gratis."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Xbox One Trådløs Controller"
+
+msgid "Yellow"
+msgstr "Gul"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are being transferred as a substitute."
+msgstr "Du bliver overflyttet som en stedfortræder."
+
+msgid "You are being transferred. Please wait."
+msgstr "Du bliver overflyttet. Vent venligst."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Du er afbrudt fra Uplay. (Fejlkode: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Du er afbrudt fra Trackmania-serverne. (Fejlkode: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "Du er ikke forbundet til Uplay."
+
+msgid "You are not subscribed to any club"
+msgstr "Du har ikke abonneret på nogen klub"
+
+msgid "You are registered"
+msgstr "Du er tilmeldt"
+
+msgid "You are suspended"
+msgstr "Du er udelukket"
+
+msgid "You can cancel 1 match."
+msgstr "Du kan annullere 1 kamp."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr ""
+"Du kan vælge at $<$00f$tfortsætte$> turneringen og deltage i en Knockout-"
+"kamp."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr ""
+"Du kan oprette din egen gruppe ved at klikke på opret-knappen forneden."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "Du kan finde podium-blokken i udsmykningssektionen i banebyggeren."
+
+msgid "You can place only one starting point!"
+msgstr "Du kan kun placere én startlinje!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"Du kan teste din bane på hvilket som helst tidspunkt. Tryk på \"test\"-"
+"knappen for at vælge, hvor du vil starte."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "Du kan ikke accelere før det næste kontrolpunkt"
+
+msgid "You can't remove the starting line of the track."
+msgstr "Du kan ikke fjerne banens startlinje."
+
+msgid "You don't have any server accounts registered."
+msgstr "Du har ingen serverkonti registreret."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr ""
+"Du har næsten nået det maksimale antal blokke, som kan placeres i banen."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Du er blevet afbrudt fra Uplay. (Fejlkode: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Du er blevet afbrudt fra Trackmania-serverne. (Fejlkode: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"Du er blevet elimineret.\n"
+"[Belønning vil være tilgængelig i nærmere opdatering]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Omdirigering til den daglige kanal om 30s"
+
+msgid "You have to place exactly one podium!"
+msgstr "Du skal placere nøjagtigt ét podium!"
+
+msgid "You must enter a name for your club"
+msgstr "Du skal indtaste et navn til din klub"
+
+msgid "You must enter a tag for your club"
+msgstr "Du skal indtaste et mærke til din klub"
+
+msgid "You must place at least one checkpoint!"
+msgstr "Du skal placere mindst ét kontrolpunkt!"
+
+msgid "You must place at least one finish line!"
+msgstr "Du skal placere mindst én mållinje!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "Du skal placere mindst ét respawn-muligt kontrolpunkt!"
+
+msgid "You must select at least one map to play"
+msgstr "Du skal vælge mindst én bane for at spille"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "Du skal vælge mindst 1 bane til spillelisten"
+
+msgid "You need to be a club member to play or download a map."
+msgstr "Du skal være klubmedlem for at kunne spille eller downloade en bane."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr "Du skal være klubmedlem for at vælge denne beklædning som favorit."
+
+msgid "You need to pick a game mode"
+msgstr "Du skal vælge en spiltype"
+
+msgid "You need to place a starting point!"
+msgstr "Du skal placere et startlinje!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr "Du har nået dét maksimale antal blokke. Du kan ikke tilføje flere."
+
+msgid "You will be able to change it later"
+msgstr "Du vil kunne ændre det senere"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "Du vil blive udelukket, hvis du annullerer din næste kamp."
+
+msgid "You will have to validate the track again."
+msgstr "Du bliver nødt til at validere banen igen."
+
+msgid "You will soon be redirected to a match server."
+msgstr "Du bliver snart videresendt til en kamp-server."
+
+msgid "Your map in less than %1 minutes"
+msgstr "Din bane om mindre end %1 minutter"
+
+msgid "Your search did not return any results"
+msgstr "Din søgning gav ingen resultater"
+
+msgid "Your subscription ends on %1"
+msgstr "Dit abonnement slutter d. %1"
+
+msgid "by %1"
+msgstr "af %1"
+
+msgid "club access"
+msgstr "klub-adgang"
+
+msgid "controller"
+msgstr "styreenhed"
+
+msgid "max %1 characters"
+msgstr "maks. %1 tegn"
+
+msgid "per server"
+msgstr "per server"
+
+msgid "standard access"
+msgstr "standard-adgang"
+
+msgid "starter access"
+msgstr "gratis-adgang"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|Du kan annullere %1 kampe"
+
+msgid "|Action|Quick save"
+msgstr "|Action|Hurtig-gem"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|Advarsel"
+
+msgid "|Author|By"
+msgstr "|Author|Af"
+
+msgid "|Best score|New"
+msgstr "|Best score|Ny"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|Kontrolpunkt"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|Slutning"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|Forhindring"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|Rampe"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockCategory|Lige"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|Overgang"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|Turbo"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|Sving"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|Kontrolpunkt"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|Mål"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "Fleromgang"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|Start"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|Udsmykning"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|Jord"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|Is"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|Platform"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|Simpel"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockStyle|Rampe"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|Hældning"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|Favoritter"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|Seneste"
+
+msgid "|Camera|Follow"
+msgstr "|Camera|Følg"
+
+msgid "|Camera|Free"
+msgstr "|Camera|Frit"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|Gengivelse"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|Officiel"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|April %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|August %1"
+
+msgid "|Campaign|Club"
+msgstr "|Campaign|Klub"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|December %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|Februar %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|Januar %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|Juli %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|Juni %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|Marts %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|Maj %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|Månedlig"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|November %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|Oktober %1"
+
+msgid "|Campaign|Official"
+msgstr "|Campaign|Officiel"
+
+msgid "|Campaign|Private"
+msgstr "|Campaign|Privat"
+
+msgid "|Campaign|Public"
+msgstr "|Campaign|Offentlig"
+
+msgid "|Campaign|Quarterly"
+msgstr "|Campaign|Kvartal"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|September %1"
+
+msgid "|Campaign|Training"
+msgstr "|Campaign|Træning"
+
+msgid "|Campaign|Unknown"
+msgstr "|Campaign|Ukendt"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|Tilbage"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|Baner"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|Officielle rangeringer"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|Skins"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|Velkommen"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|Velkommen i klubben! Invitér dine venner til at tilslutte sig "
+"denne klub, og opret aktiviteter til at dele og spille sammen!"
+
+msgid "|ClubMember|Role"
+msgstr "|ClubMember|Rolle"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|Lukket"
+
+msgid "|ClubPrivacy|Private"
+msgstr "|ClubPrivacy|Privat"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "|ClubPrivacy|Privat - Acceptér anmodninger"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|Offentlig"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "|ClubPrivacy|Offentlig - Åben for alle"
+
+msgid "|Club|%1 Member"
+msgstr "|Club|%1 Medlem"
+
+msgid "|Club|%1 Members"
+msgstr "|Club|%1 Medlemmer"
+
+msgid "|Club|Closed"
+msgstr "|Club|Lukket"
+
+msgid "|Club|Description"
+msgstr "|Club|Beskrivelse"
+
+msgid "|Club|Join"
+msgstr "|Club|Tilslut"
+
+msgid "|Club|Leave"
+msgstr "|Club|Forlad"
+
+msgid "|Club|Member"
+msgstr "|Club|Medlem"
+
+msgid "|Club|Members"
+msgstr "|Club|Medlemmer"
+
+msgid "|Club|Privacy"
+msgstr "|Club|Privatliv"
+
+msgid "|Club|Requests"
+msgstr "|Club|Anmodninger"
+
+msgid "|Club|VIP"
+msgstr "|Club|VIP"
+
+msgid "|Club|request"
+msgstr "|Club|anmodning"
+
+msgid "|Club|requests"
+msgstr "|Club|anmodninger"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|Kommer Snart"
+
+msgid "|Competition|Private"
+msgstr "|Competition|Privat"
+
+msgid "|Competition|Public"
+msgstr "|Competition|Offentlig"
+
+msgid "|DataType|Campaign"
+msgstr "|DataType|Kampagne"
+
+msgid "|DataType|Club"
+msgstr "|DataType|Klub"
+
+msgid "|DataType|Folder"
+msgstr "|DataType|Mappe"
+
+msgid "|DataType|Image"
+msgstr "|DataType|Billede"
+
+msgid "|DataType|Map"
+msgstr "|DataType|Bane"
+
+msgid "|DataType|MatchSettings"
+msgstr "|DataType|KampIndstillinger"
+
+msgid "|DataType|None"
+msgstr "|DataType|Ingen"
+
+msgid "|DataType|Replay"
+msgstr "|DataType|Gengivelse"
+
+msgid "|DataType|Room"
+msgstr "|DataType|Rum"
+
+msgid "|DataType|Script"
+msgstr "|DataType|Script"
+
+msgid "|DataType|Skin"
+msgstr "|DataType|Skin"
+
+msgid "|DidNotFinish|DNF"
+msgstr "|DidNotFinish|DNF"
+
+msgid "|Friday|F"
+msgstr "|Friday|F"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|Udsmykning"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|Udsmykning-redigering"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|Landskab"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|Landskab-redigering"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|Bane"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|Bane-redigering"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|Tilfældig"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|Postkort"
+
+msgid "|GameMode|Cup"
+msgstr "|GameMode|Turnering"
+
+msgid "|GameMode|Knockout"
+msgstr "|GameMode|Knockout"
+
+msgid "|GameMode|Laps"
+msgstr "|GameMode|Omgange"
+
+msgid "|GameMode|Rounds"
+msgstr "|GameMode|Runder"
+
+msgid "|GameMode|Teams"
+msgstr "|GameMode|Hold"
+
+msgid "|GameMode|Time Attack"
+msgstr "|GameMode|Time Attack"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|Udsmykning"
+
+msgid "|Image|Background"
+msgstr "|Image|Baggrund"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|Sponsor-mærkat 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|Billede 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|Skærm 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|Billede 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|Vertikal"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive - Change choice|Skift"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|Vælg landskab"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|Annullér fortryd"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|Fortryd"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|Hæv"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|Forlad editor"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|Sænk"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|Start bane"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|Test"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|Test bane"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|Kassér"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|Tilføj"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|Skim"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|Byg din bane"
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|Annullér"
+
+msgid "|Infinitive|Confirm"
+msgstr "|Infinitive|Bekræft"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|Tilkobl"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|Fortsæt"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|Kopiér"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|Klip"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|Afkobl"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|Redigér udsmykning"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|Redigér bane"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|Generér"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|Generér en bane"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|Generér en anden bane"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|Generér udsmykning"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|Forbedre rekord"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|Forbedre valideringstid"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|Flyt"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|Placér"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|Spil"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|Tilfældig"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|Optag en skygge-gengivelse af løbsfører"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|Optag førerens løb"
+
+msgid "|Infinitive|Remove"
+msgstr "|Infinitive|Fjern"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|Rotér"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|Gem"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|Gem og validér"
+
+msgid "|Infinitive|Save as new"
+msgstr "Infinitive|Gem som ny"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|Vælg"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|Validér"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|Validér førerens løb, og fortsæt til lobby?"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|Validér bane"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|Zoom"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|Bane ikke valideret"
+
+msgid "|Input|No binding"
+msgstr "|Input|Ingen tilbundet knap"
+
+msgid "|Keyboard|Enter"
+msgstr "|Keyboard|Enter"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|Ørken"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|Tom"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|Bakker"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|Bjerg"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|Søjler"
+
+msgid "|League|Step %1"
+msgstr "|League|Trin %1"
+
+msgid "|League|map %1/%2"
+msgstr "|League|bane %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|Ved at klikke på \"Acceptér\" giver du tilladelse til, at dine "
+"data deles med tredjeparter for at få vist personlige annoncer i "
+"spilverdenen. Hvis du ønsker at gøre det, kan du ændre dine præferencer."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"En meget lille procentdel af alle mennesker kan opleve epileptiske anfald, "
+"når de udsættes for bestemte lysmønstre eller lysglimt. Eksponering for "
+"visse mønstre eller baggrunde på en computerskærm eller i et computerspil "
+"kan medføre et epileptisk anfald hos disse personer. Visse betingelser kan "
+"udløse hidtil uopdagede epileptiske symptomer selv i personer, der ikke "
+"tidligere har haft anfald eller epilepsi. Hvis du eller nogen i din familie "
+"lider af epilepsi, skal du kontakte din læge, inden du begynder at spille. "
+"Hvis du oplever nogen af følgende symptomer, mens du spiller et "
+"computerspil, skal du straks holde op med at spille og kontakte din læge, "
+"før du spiller videre: svimmelhed, synsforstyrrelser, øjen- eller "
+"muskeltrækninger, bevidstløshed, forvirring, ufrivillige bevægelser eller "
+"krampetrækninger."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "ADVARSEL: LÆS, FØR DU SPILLER"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|Jeg accepterer, at mine data vil blive delt med tredjeparter for "
+"at gøre det muligt for personlige annoncer at blive vist i spilverdenen, "
+"afhængigt af mit land og mine interesser."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|Hvis denne indstilling er deaktiveret, vil du stadig se annoncer i "
+"spillet, men de vil ikke passe så godt til dine interesseområder."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|FORTROLIGHEDSPOLITIK"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|Præferencer for beskyttelse af personlige oplysninger"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|Indlæser"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"|Map style description|Generelt svære baner, der indeholder forhindringer, "
+"som skal klares ved lav hastighed."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|For det meste af tiden korte, er de baner baseret på "
+"en enkelt forhindring, som ofte kræver held at klare succesfuldt."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr ""
+"|Map style description|De baner er bestemt til at blive spillet, uden at "
+"slippe speederen. Giv fuld gas!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"|Map style description|De baner er bygget på én enkel stærk idé eller ét "
+"koncept, hvilket gør dem letgenkendelige."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr ""
+"|Map style description|De baner er generelt nogle sjove ekstra baner i "
+"slutningen af en kampagne."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr ""
+"|Map style description|De baner er sat op i naturskabte områder. Far ikke "
+"vild!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr ""
+"|Map style description|De baner indeholder mange fælder og hop. Pas på "
+"nedenunder!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr ""
+"|Map style description|De baner indeholder mange sving, U-vendinger og "
+"bremsezoner."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr ""
+"|Map style description|De baner indholder enorme hop, loop og wallrides."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|De baner kræver bare, at du gennemfører med dén "
+"bedste tid. Intet besvær, ingen ståhej, bare ræs!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr ""
+"|Map style description|De baner tilbyder lange lige linjer, som ofte er "
+"fyldt med forhindringer."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"|Map style description|På de baner behøver du kun at fortsætte med at trykke "
+"på speederen, tryk ikke på andet."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "|MapEditorDevice|Håndholdt styreenhed"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "|MapEditorDevice|Mus og tastatur"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "|MapEditorDifficulty|Avanceret"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "|MapEditorDifficulty|Simpel"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Dag"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Nat"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Solopgang"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Solnedgang"
+
+msgid "|Map|Browse"
+msgstr "|Map|Søg"
+
+msgid "|Map|Delete"
+msgstr "|Map|Slet"
+
+msgid "|Map|Edit"
+msgstr "|Map|Redigér"
+
+msgid "|Map|Move"
+msgstr "|Map|Flyt"
+
+msgid "|Map|New"
+msgstr "|Map|Ny"
+
+msgid "|Match|Draw"
+msgstr "|Match|Uafgjort"
+
+msgid "|Medal|Finished"
+msgstr "|Medal|Gennemført"
+
+msgid "|Medal|None"
+msgstr "|Medal|Ingen"
+
+msgid "|Menu|Local"
+msgstr "|Menu|Lokal"
+
+msgid "|Monday|M"
+msgstr "|Monday|M"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|Apr %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|Aug %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|Dec %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|Feb %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|Jan %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|Jul %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|Jun %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|Mar %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|Maj %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|Nov %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|Okt %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|Sep %1"
+
+msgid "|Month|April"
+msgstr "|Month|April"
+
+msgid "|Month|August"
+msgstr "|Month|August"
+
+msgid "|Month|December"
+msgstr "|Month|December"
+
+msgid "|Month|February"
+msgstr "|Month|Februar"
+
+msgid "|Month|January"
+msgstr "|Month|Januar"
+
+msgid "|Month|July"
+msgstr "|Month|Juli"
+
+msgid "|Month|June"
+msgstr "|Month|Juni"
+
+msgid "|Month|March"
+msgstr "|Month|Marts"
+
+msgid "|Month|May"
+msgstr "|Month|Maj"
+
+msgid "|Month|November"
+msgstr "|Month|November"
+
+msgid "|Month|October"
+msgstr "|Month|Oktober"
+
+msgid "|Month|September"
+msgstr "|Month|September"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|Kamera"
+
+msgid "|Navigation|Back"
+msgstr "|Navigation|Tilbage"
+
+msgid "|News|Body"
+msgstr "|News|Indhold"
+
+msgid "|News|Headline"
+msgstr "|News|Overskrift"
+
+msgid "|News|Title"
+msgstr "|News|Titel"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|retningsknapperne"
+
+msgid "|PC|the left stick"
+msgstr "|PC|Den venstre analog-pind"
+
+msgid "|PC|the right stick"
+msgstr "|PC|Den højre analog-pind"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|Cirkel-knap"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|Kryds-knap"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|retningsknapperne"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|Den venstre analog-pind"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|Den højre analog-pind"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|PB"
+
+msgid "|Points|pts"
+msgstr "|Point|pt."
+
+msgid "|Point|pt"
+msgstr "|Point|pt."
+
+msgid "|Press xx to start|Press"
+msgstr "|Press xx to start|Tryk"
+
+msgid "|Press xx to start|to start"
+msgstr "|Press xx to start|for at starte"
+
+msgid "|Race|Lap"
+msgstr "Omgang"
+
+msgid "|Race|Laps"
+msgstr "|Race|Omgange"
+
+msgid "|Race|Round"
+msgstr "|Race|Runde"
+
+msgid "|RankingZone|Continent"
+msgstr "|RankingZone|Verdensdel"
+
+msgid "|RankingZone|Country"
+msgstr "|RankingZone|Land"
+
+msgid "|RankingZone|District"
+msgstr "|RankingZone|Distrikt"
+
+msgid "|RankingZone|Region"
+msgstr "|RankingZone|Område"
+
+msgid "|RankingZone|World"
+msgstr "|RankingZone|Verden"
+
+msgid "|RankingZone|Zone"
+msgstr "|RankingZone|Område"
+
+msgid "|Rank|from %1"
+msgstr "|Rank|fra %1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "Generér anden udsmykning"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|Redigér"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "Optag"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|Vis"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|Standardindstillinger"
+
+msgid "|Role|Admin"
+msgstr "[Role|Administrator"
+
+msgid "|Role|Applicant"
+msgstr "|Role|Ansøger"
+
+msgid "|Role|Content creator"
+msgstr "Indholdsskaber"
+
+msgid "|Role|Creator"
+msgstr "|Role|Skaber"
+
+msgid "|Role|Member"
+msgstr "|Role|Medlem"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|L"
+
+msgid "|Score|Point"
+msgstr "|Score|Point"
+
+msgid "|Score|Points"
+msgstr "|Score|Point"
+
+msgid "|Season|Autumn"
+msgstr "|Season|Efterår"
+
+msgid "|Season|Spring"
+msgstr "|Season|Forår"
+
+msgid "|Season|Summer"
+msgstr "|Season|Sommer"
+
+msgid "|Season|Winter"
+msgstr "|Season|Vinter"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|Canada Central"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|Kina Nordvest"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|EU Vest"
+
+msgid "|Server|Live"
+msgstr "|Server|Live"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|Hurtig"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|Belysningskvalitet"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|Pæn"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|Bump"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|Motor slået fra"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|Tvunget acceleration"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|Skrøbelig"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|Intet vejgreb"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|Ingen styring"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|Reaktor-boost %1"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|Nulstil"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|Slowmotion"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|Super-bump"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|Superreaktor-boost %1"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|Super turbo"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|Turbo"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|Ultra-turbo"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|ned"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|op"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|Alle"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|Enkelt"
+
+msgid "|Status|Finalist"
+msgstr "|Status|Finalist"
+
+msgid "|Status|K.O."
+msgstr "|Status|K.O."
+
+msgid "|Status|K.O. #%1"
+msgstr "|Status|K.O. #%1"
+
+msgid "|Status|Racing"
+msgstr "|Status|Kører"
+
+msgid "|Status|Winner"
+msgstr "|Status|Vinder"
+
+msgid "|Streamer|Channel"
+msgstr "|Streamer|Kanal"
+
+msgid "|Streaming|Platform"
+msgstr "|Streaming|Platform"
+
+msgid "|Subscription|Ends on"
+msgstr "|Subscription|Slutter"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|S"
+
+msgid "|Tabs|Clubs"
+msgstr "|Tabs|Klubber"
+
+msgid "|Tabs|Create"
+msgstr "|Tabs|Opret"
+
+msgid "|Tabs|Live"
+msgstr "|Tabs|Live"
+
+msgid "|Tabs|Local"
+msgstr "|Tabs|Lokal"
+
+msgid "|Tabs|Solo"
+msgstr "|Tabs|Solo"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|T"
+
+msgid "|Time|Best"
+msgstr "|Time|Bedste"
+
+msgid "|Time|Previous"
+msgstr "|Time|Forrige"
+
+msgid "|Track|Block"
+msgstr "|Track|Blok"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|T"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|Nej"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|Ja"
+
+msgid "|Verb|Stay"
+msgstr "|Verb|Bliv"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|Tryk for at tage pladsen"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|Advarsel"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|O"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|Ny bane"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|Redigér bane"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|retningsknapperne"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|Den venstre analog-pind"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|Den højre analog-pind"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|Europa"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|Mellemøsten"
+
+msgid "|Zone|North America"
+msgstr "|Zone|Nordamerika"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|Oceanien"
+
+msgid "|Zone|South America"
+msgstr "|Zone|Sydamerika"
+
+msgid "|Zone|World"
+msgstr "|Zone|Verden"
+
+msgid "|plural 4 letters max|mins"
+msgstr "|plural 4 letters max|min"
+
+msgid "|singular 3 letters max|min"
+msgstr "|singular 3 letters max|min"

@@ -1,0 +1,15 @@
+Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackmania/Packs/Stadium_Skins.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Blue.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Cyan.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Green.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Off.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Orange.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Pink.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Purple.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Red.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/White.dds
+      312  2020-02-24 19:24   Skins/Stadium/LightColors/Yellow.dds
+---------                     -------
+     3120                     10 files

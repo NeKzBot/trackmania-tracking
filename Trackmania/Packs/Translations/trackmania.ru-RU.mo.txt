@@ -1,0 +1,4373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-07-01 12:21+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Russian, Russia\n"
+"Language: ru-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "$%1Author"
+msgstr "$%1Автор"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$> Король Лобби!"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$> теперь %2%3!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$> присоединился к игре"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$> покинул игру"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$> занимает %2 место!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$> выигрывает ступень %2"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$> выигрывает на карте!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$> выиграл матч!"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$> выигрывает раунд!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$> Выиграл матч"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1 игроков будут исключены"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f00%1 игрок будет исключён"
+
+msgid "$f90No elimination this round"
+msgstr "$f90Нет выбывших в этом раунде"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$zВ режиме $<$t$6F9Выбывание$>, цель игрока - быть последним оставшимся. \n"
+"\n"
+"Вы играете серии конок, как в режиме Раунды. $<$t$6В конце каждой гонки, "
+"последние игроки исключаются$>!\n"
+"\n"
+"Победителем становится игрок, который исключит всех своих соперников."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$zВ режиме $<$t$6F9Круги$> цель игрока - ехать так долго, насколько это "
+"возможно, проезжая через $<$t$6F9чекпоинты$>.\n"
+"\n"
+"Гонки проходят на круговых картах (циклично) без остановок, для каждой "
+"карты.\n"
+"\n"
+"Когда время закончится, $<$t$6F9победителем$> становится игрок прошедший "
+"максимальное количество $<$t$6F9чекпоинтов$>. В случае ничьей побеждает тот, "
+"кто прошёл последний чекпоинт первым."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$zВ режиме $<$t$6F9Раунды$z$z$> цель игрока - набрать максимальное "
+"количество $<$t$6F9очков.\n"
+"\n"
+"$z$>Этот режим состоит из $<$t$6F9серий гонок$z$>.\n"
+"Если вы завершаете гонку с хорошей $<$t$6F9позицей$z$>, то получаете $<$t"
+"$6F9очки$z$>.\n"
+"\n"
+"$<$t$6F9Победителем$z$> становится первый игрок, который набирает $<$t"
+"$6F9лимит очков$z$> (например, 30)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$zВ режиме $<$t$6F9Команда$> вам необходимо выбрать команду : $<$t$f00Красную"
+"$>или  $<$t$10cСинюю$>.\n"
+"\n"
+"Командный режим состоит из $<$t$6F9серий гонок$>.\n"
+"Цель вашей команды - набрать максимальное количество $<$t$6F9очков$>.\n"
+"\n"
+"Если вы завершаете гонку с хорошей $<$t$6F9позицией$>, то приносите $<$t"
+"$6F9очки$> своей команде\n"
+"$<$t$6F9Командой-победителем$> становится та, которая первой наберёт $<$t"
+"$6F9лимит очков$> (например, 5)."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$zВ режиме $<$t$6F9Гонка на время$> ваша цель - установить $<$t$6F9лучшее "
+"время$>.\n"
+"\n"
+"Количество попыток не ограничено, и вы можете $<$t$6F9начать заново$> в "
+"любой момент, нажав клавишу рестарта.\n"
+"\n"
+"Когда отведённое время истечёт, $<$t$6F9победителем$> объявляется игрок с $<"
+"$t$6F9лучшим результатом$>."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$zРежим кубка включает в себя $<$t$6F9серии гонок на нескольких картах$>.\n"
+"\n"
+"Если вы завершаете гонку с хорошей $<$t$6F9позицией$>, то получаете $<$t"
+"$6F9очки$>.\n"
+"Сервер может предложить вам поучаствовать в разогреве, чтобы получше узнать "
+"карту.\n"
+"\n"
+"Чтобы выиграть, вам сначала надо набрать $<$t$6F9лимит очков$> и стать $<$t"
+"$6F9финалистом$>. После этого вы должны завершить гонку на $<$t$6F9первом "
+"месте$>, чтобы выиграть кубок. Режим кубка завершается, когда только 3 "
+"игрокам удалось стать финалистами и финишировать первыми."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1 не карта Stadium"
+
+msgid "%1 is not playable"
+msgstr "%1 неиграбельна"
+
+msgid "%1 map"
+msgstr "%1 карта"
+
+msgid "%1 maps"
+msgstr "%1 карт"
+
+msgid "%1 players"
+msgstr "%1 игроков"
+
+msgid "%1 replays selected"
+msgstr "%1 повторов выбрано"
+
+msgid "%1 until %2 Players"
+msgstr "%1 до %2 игроков"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$> отменил начало матча."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$> присоединился к матчу."
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$> присоединился в матч, как замена."
+
+msgid "%1's server"
+msgstr "Сервер игрока %1"
+
+msgid "%1Best CP %2"
+msgstr "%1Лучший ЧП %2"
+
+msgid "%1Best race"
+msgstr "%1Лучшая гонка"
+
+msgid "%1Personal best"
+msgstr "%1Лучшее время"
+
+msgid "1 player"
+msgstr "1 игрок"
+
+msgid "16th final"
+msgstr "16-ти финал"
+
+msgid "8th final"
+msgstr "8-ми финал"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Activities"
+msgstr "Активности"
+
+msgid "Activities must have a name."
+msgstr "Активности должны иметь название."
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add to favorite"
+msgstr "Добавить в избранное"
+
+msgid "Adding map to queue..."
+msgstr "Добавление карты в очередь..."
+
+msgid "Administration"
+msgstr "Администрация"
+
+msgid "Advanced options"
+msgstr "Дополнительно"
+
+msgid "Against replay"
+msgstr "Против повтора"
+
+msgid "All clubs"
+msgstr "Все клубы"
+
+msgid "All fields must be completed"
+msgstr "Все поля должны быть заполнены"
+
+msgid "Allies"
+msgstr "Союзники"
+
+msgid "Ally"
+msgstr "Союзник"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при подключении, пожалуйста, повторите снова. (Код ошибки: "
+"%1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Произошла ошибка при получении следующего матча. Пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"Произошла ошибка при получении ваших учётных записей, пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "Произошла ошибка, пожалуйста, повторите снова. (Ошибка: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "Все сделанные изменения на этой местности будут утеряны."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr ""
+"Любые несохранённые изменения, сделанные на этой трассе, будут потеряны."
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Apply skin"
+msgstr "Применить скин"
+
+msgid "Arcade"
+msgstr "Аркада"
+
+msgid "Are you really sure you want to %1?"
+msgstr "Вы действительно уверены, что хотите %1?"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "Вы действительно уверены, что хотите покинуть матч?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "Вы уверены, что хотите создать новую трассу?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "Вы уверены, что хотите удалить свой клуб?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "Вы уверены, что хотите редактировать оформление?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "Вы уверены, что хотите редактировать эту трассу?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "Вы уверены, что хотите сгенерировать другую трассу?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "Вы уверены, что хотите покинуть редактор?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "Вы уверены, что хотите выйти из Trackmania?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "Вы уверены, что хотите выбрать другую местность?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"По истечению 3 летнего периода, вы сохраните 300 официальных карт,\n"
+"1095 трасс дня и расширенный редактор карт"
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"По истечению годового периода, вы сохраните 100 официальных карт,\n"
+"365 трасс дня и расширенный редактор карт"
+
+msgid "Author"
+msgstr "Авторская"
+
+msgid "Author medal"
+msgstr "Авторская медаль"
+
+msgid "Author time"
+msgstr "Время автора"
+
+msgid "Auto-finish"
+msgstr "Авто-финиш"
+
+msgid "Automatic retry in %1 second."
+msgstr "Автоматическое переподключение через %1 секунду."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "Автоматическое переподключение через %1 секунд."
+
+msgid "Average lap"
+msgstr "Средний круг"
+
+msgid "Average waiting time"
+msgstr "Среднее время ожидания"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Фон: заднее изображение страницы сведений о вашем клубе. \n"
+"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
+
+msgid "Balance teams"
+msgstr "Баланс команд"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr ""
+"Будьте осторожны! Этот блок выключит двигатель до тих пор, пока вы не "
+"пересечёте новый чекпоинт."
+
+msgid "Be in the top %1"
+msgstr "Будь в топе %1"
+
+msgid "Best lap"
+msgstr "Лучший круг"
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "Лучший круг $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "Лучший круг: %1"
+
+msgid "Best time :"
+msgstr "Лучшее время :"
+
+msgid "Black"
+msgstr "Чёрный"
+
+msgid "Block selection"
+msgstr "Выбор блока"
+
+msgid "Blocked by the terrain"
+msgstr "Заблокировано ландшафтом"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Bronze"
+msgstr "Бронза"
+
+msgid "Bronze medal"
+msgstr "Бронзовая медаль"
+
+msgid "Browse"
+msgstr "Просмотр"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "Постройте свою трассу и разместите блок финиша, чтобы завершить её."
+
+msgid "By %1"
+msgstr "От %1"
+
+msgid "Campaign"
+msgstr "Кампания"
+
+msgid "Campaign creation"
+msgstr "Создание кампании"
+
+msgid "Campaign edition"
+msgstr "Редактирование кампании"
+
+msgid "Campaign library"
+msgstr "Библиотека кампании"
+
+msgid "Campaign's name"
+msgstr "Название кампании"
+
+msgid "Can't place any block from this family, try another one"
+msgstr ""
+"Невозможно разместить любой блок из этого семейства, попробуйте другой."
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancel request"
+msgstr "Отклонить запрос"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Champion mode"
+msgstr "Режим чемпиона"
+
+msgid "Change map"
+msgstr "Сменить карту"
+
+msgid "Change opponents"
+msgstr "Сменить противников"
+
+msgid "Change team"
+msgstr "Сменить команду"
+
+msgid "Change the building mode"
+msgstr "Смена строительных режимов"
+
+msgid "Change the connection mode"
+msgstr "Смена соединённого/разъединённого режимов"
+
+msgid "Chat time"
+msgstr "Время чата"
+
+msgid "Choose a campaign to use"
+msgstr "Выберите кампанию для использования"
+
+msgid "Choose a mode"
+msgstr "Выберите режим"
+
+msgid "Choose a skin"
+msgstr "Выбор скина"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"Выберите пропорции каждого стиля оформления, затем нажмите кнопку "
+"\"генерировать\". Когда вы удовлетворены оформлением, вы можете подтвердить "
+"свою трассу."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"Выберите, какое оформление вы хотите, а затем сгенерируйте его. Когда вы "
+"найдёте то, которое вам понравится, вы можете подтвердить свою трассу."
+
+msgid "Choose your team"
+msgstr "Выберите вашу команду"
+
+msgid "Clan"
+msgstr "Клан"
+
+msgid "Click on a player to invite them to your party."
+msgstr "Кликните на игрока, чтобы пригласить его в свою группу."
+
+msgid "Click on a player to join their party."
+msgstr "Кликните на игрока, чтобы присоединиться к его группе."
+
+msgid "Click on a player to set them as ally."
+msgstr "Кликните на игрока, чтобы установить его, как союзника."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "Кликните на модули интерфейса для редактирования их свойств"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Club"
+msgstr "Клубный"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr "Не удалось удалить фон клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать фон клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club campaigns"
+msgstr "Кампании клубов"
+
+msgid "Club coming soon!"
+msgstr "Клубы - скоро!"
+
+msgid "Club creation"
+msgstr "Создание клуба"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr "Создание клуба не удалось. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось найти изображение клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать наклейку клуба. Пожалуйста, повторите снова. "
+"(Ошибка %1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить наклейку спонсора. Пожалуйста, повторите снова. (Ошибка "
+"%1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать наклейку спонсора клуба. Пожалуйста, повторите "
+"снова. (Ошибка %1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось загрузить изображение клуба. Пожалуйста, повторите снова. (Ошибка "
+"%1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "Не удалось удалить клуб. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club edition"
+msgstr "Клубное издание"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить логотип клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать лого клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось загрузить логотип клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club rooms"
+msgstr "Комнаты клуба"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить экран 16 клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать экран 16 клуба. Пожалуйста, повторите снова. "
+"(Ошибка %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить экран 2 клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать экран 2 клуба. Пожалуйста, повторите снова. (Ошибка "
+"%1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить экран 8 клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать экран 8 клуба. Пожалуйста, повторите снова. (Ошибка "
+"%1)"
+
+msgid "Club skins"
+msgstr "Скины клуба"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr "Не удалось обновить клуб. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось удалить вертикаль клуба. Пожалуйста, повторите снова. (Ошибка %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr ""
+"Не удалось редактировать вертикаль клуба. Пожалуйста, повторите снова. "
+"(Ошибка %1)"
+
+msgid "Clubs"
+msgstr "Клубы"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "Собирайте лотерейные билеты, каждый может принять участие!"
+
+msgid "Coming soon!"
+msgstr "Скоро!"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Compete every week in the national league"
+msgstr "Соревнуйтесь каждую неделю в национальной лиге"
+
+msgid "Compete in the open grand league"
+msgstr "Соревнуйтесь в открытой высшей лиге"
+
+msgid "Competition"
+msgstr "Соревнование"
+
+msgid "Concept"
+msgstr "Концепт"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Confirm your choice"
+msgstr "Подтвердите выбор"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgid "Connect"
+msgstr "Присоединить"
+
+msgid "Connection timed out"
+msgstr "Время подключения истекло"
+
+msgid "Connector selection"
+msgstr "Выбор соединения"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Copy and connect"
+msgstr "Копирование и присоединение"
+
+msgid "Copy server link"
+msgstr "Скопировать ссылку на сервер"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Не удалось соединится с серверами Trackmania."
+
+msgid "Could not load records"
+msgstr "Не удалось загрузить рекорды"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Create a new map"
+msgstr "Создать новую карту"
+
+msgid "Create a new skin"
+msgstr "Создать новый скин"
+
+msgid "Create activity"
+msgstr "Создать активность"
+
+msgid "Create campaign"
+msgstr "Создать кампанию"
+
+msgid "Create club"
+msgstr "Создать клуб"
+
+msgid "Create map"
+msgstr "Создать карту"
+
+msgid "Create map uploads"
+msgstr "Создать загрузки карт"
+
+msgid "Create room"
+msgstr "Создать комнату"
+
+msgid "Create skin uploads"
+msgstr "Создать загрузки скинов"
+
+msgid "Create the map of the show"
+msgstr "Создать карту для показа"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"Создавайте трассы с расширенным редактором и тестируйте их онлайн\n"
+"Создавайте и делитесь своими видео гонок бесконечно"
+
+msgid "Create your club and share your masterpieces"
+msgstr "Создайте собственный клуб и делитесь вашими шедеврами"
+
+msgid "Create your tracks"
+msgstr "Создавайте свои трассы"
+
+msgid "Creating activity..."
+msgstr "Создание активности..."
+
+msgid "Creating campaign..."
+msgstr "Создание кампании..."
+
+msgid "Creating club room..."
+msgstr "Создание клубной комнаты..."
+
+msgid "Creating club..."
+msgstr "Создание клуба..."
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid "Cumulate team points :"
+msgstr "Общие очки команды :"
+
+msgid "Current map"
+msgstr "Текущая карта"
+
+msgid "Current match best score"
+msgstr "Текущий лучший счёт матча"
+
+msgid "Current match score"
+msgstr "Текущий счёт матча"
+
+msgid "Current player"
+msgstr "Текущий игрок"
+
+msgid "Customization"
+msgstr "Персонализация"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "Настройте машину с помощью собственных скинов или скинов клуба"
+
+msgid "Cut and paste"
+msgstr "Вырезание и вставка"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "Беспроводной контроллер DUALSHOCK®4"
+
+msgid "Daily Cup Knockout"
+msgstr "Ежедневный кубок на выбывание"
+
+msgid "Daily cup"
+msgstr "Ежедневный кубок"
+
+msgid "Daily rankings"
+msgstr "Ежедневные рейтинги"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Deactivate"
+msgstr "Отключить"
+
+msgid "Dead end"
+msgstr "Тупик"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Наклейка спонсора: изображение, видимое на спонсорском баннере, окружающем "
+"дорогу. \n"
+"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Наклейка: изображение, видимое на дорожном покрытии (на старте, чекпойнте и "
+"финише). \n"
+"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
+
+msgid "Decoration"
+msgstr "Оформление"
+
+msgid "Delete club"
+msgstr "Удалить клуб"
+
+msgid "Deleting club..."
+msgstr "Удаление клуба..."
+
+msgid "Did you like this map?"
+msgstr "Вам понравилась эта карта?"
+
+msgid "Disable give up"
+msgstr "Отключить возможность сдаваться"
+
+msgid "Do Not Show Again"
+msgstr "Больше не показывать"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "Установите лучшее время до истечения таймера."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "Вы хотите создать кубок с этой картой?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "Вы хотите сгенерировать другую трассу или играть на этой?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "Вы хотите улучшить время подтверждения?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "Вы хотите выйти из генератора случайных трасс?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "Вы хотите разместить чекпоинт сейчас?"
+
+msgid "Do you want to play a rematch?"
+msgstr "Вы хотите сыграть реванш?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "Вы хотите выйти из плагина или вернуться в редактор?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "Вы хотите сохранить свою карту под следующим именем?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "Вы хотите отключить авто-финиш?"
+
+msgid "Do you want to validate the track now?"
+msgstr "Вы хотите подтвердить трассу сейчас?"
+
+msgid "Don't forget to save your track!"
+msgstr "Не забудьте сохранить свою трассу!"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Draw of the lottery"
+msgstr "Розыгрыш лотереи"
+
+msgid "Duel"
+msgstr "Дуэль"
+
+msgid "Duration of one warm up"
+msgstr "Продолжительность одной разминки"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr ""
+"Зарабатывайте медали и отслеживайте свой прогресс в региональных рангах"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit '%1'"
+msgstr "Редактировать '%1'"
+
+msgid "Edit a map"
+msgstr "Редактировать карту"
+
+msgid "Edit a skin"
+msgstr "Редактировать скин"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "Редактировать активность '$<%1$>'"
+
+msgid "Edit campaign"
+msgstr "Редактировать кампанию"
+
+msgid "Edit decoration"
+msgstr "Редактировать оформление"
+
+msgid "Edit replay"
+msgstr "Редактировать повтор"
+
+msgid "Edit room"
+msgstr "Редактировать комнату"
+
+msgid "Edit room '%1'"
+msgstr "Редактировать комнату '%1'"
+
+msgid "Edit terrain"
+msgstr "Редактирование ландшафта"
+
+msgid "Edit track"
+msgstr "Редактировать трассу"
+
+msgid "Editing activity..."
+msgstr "Редактирование активности..."
+
+msgid "Editing club room..."
+msgstr "Редактирование комнаты клуба..."
+
+msgid "Eighth (Press 8)"
+msgstr "Восьмой (Нажмите 8)"
+
+msgid "End of warmup, match starting..."
+msgstr "Разминка закончена, начало матча..."
+
+msgid "Engine disabled"
+msgstr "Двигатель отключён"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "Большинство игроков согласились сыграть реванш."
+
+msgid "Entry"
+msgstr "Вход"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при добавлении вашей карты в очередь, пожалуйста, повторите снова. "
+"(Код ошибки: %1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при создании кампании. Пожалуйста, повторите снова. (Код ошибки:%1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при создании активности. Пожалуйста, повторите снова. (Код ошибки: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при создании комнаты. Пожалуйста, повторите снова. (Код ошибки: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при создании активности. Пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при редактировании комнаты. Пожалуйста, повторите снова. "
+"(Код ошибки: %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"Ошибка при получении типа кампаний %1. Пожалуйста, повторите снова. (Код "
+"ошибки: %2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Ошибка при получении списка карт с сервисов Nadeo. Пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Произошла ошибка при получении ежемесячной кампании от Nadeo Services. "
+"Пожалуйста, повторите снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Ошибка при получении позиции игрока на картах в рейтинге клуба. Пожалуйста, "
+"повторите снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Ошибка при получении сезонной кампании с сервисов Nadeo. Пожалуйста, "
+"повторите снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при получении информации об активности, пожалуйста, "
+"повторите снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при получении ссылки для соединения с сервером, пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "Произошла ошибка при сборе данных карт. (Код ошибки: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при подключении к серверу, пожалуйста, повторите снова (Код ошибки: "
+"%1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "Произошла ошибка при загрузке рангов (ошибка: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "Произошла ошибка при загрузке элементов комнаты. (Код ошибки: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "Произошла ошибка при загрузке карт комнаты. (Код ошибки: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Ошибка при загрузке результатов с сервисов Nadeo. Пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при загрузке кампании. Пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Произошла ошибка при загрузке клуба кампании. Пожалуйста, повторите снова. "
+"(Код ошибки: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "Произошла ошибка при загрузке трофеев (код: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при обновлении активностей клуба. Пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при обновлении лого новостной медии. Пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Произошла ошибка при обновлении приватности вашей активности. Пожалуйста, "
+"повторите снова. (Код ошибки: %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при загрузке карт, пожалуйста, пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr "Ошибка при загрузке карт. Пожалуйста, повторите снова. (Код ошибки:%1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при загрузки логотипа активности. Пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при загрузке медии комнаты. Пожалуйста, повторите снова. (Код ошибки: "
+"%1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr ""
+"Ошибка при загрузке вашей карты, пожалуйста, повторите снова. (Код ошибки: "
+"%1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при загрузке вашей медии. Пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при подтверждении активности. Пожалуйста, повторите снова. "
+"(Код ошибки: %1)"
+
+msgid "Events"
+msgstr "События"
+
+msgid "Exit"
+msgstr "Выйти"
+
+msgid "F6 to cancel"
+msgstr "F6 для отмены"
+
+msgid "Fifth (Press 5)"
+msgstr "Пятый (Нажмите 5)"
+
+msgid "Finish timeout"
+msgstr "Финишный тайм-аут"
+
+msgid "First (Press 1)"
+msgstr "Первый (Нажмите 1)"
+
+msgid "Forced laps number"
+msgstr "Количество кругов"
+
+msgid "Fourth (Press 4)"
+msgstr "Четвёртый (Нажмите 4)"
+
+msgid "Free for all"
+msgstr "Каждый сам за себя"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Fullspeed"
+msgstr "Фулспид"
+
+msgid "Fusion with another server for more players"
+msgstr "Объединение с другим сервером для большего количества игроков"
+
+msgid "Game mode"
+msgstr "Режим игры"
+
+msgid "Game mode: %1"
+msgstr "Игровой режим: %1"
+
+msgid "Garage"
+msgstr "Гараж"
+
+msgid "Generate"
+msgstr "Генерировать"
+
+msgid "Get the Club access for one year"
+msgstr "Получите клубный доступ на один год"
+
+msgid "Get the Club access for three years"
+msgstr "Получить Клубный доступ на три года"
+
+msgid "Get the Standard access for one year"
+msgstr "Получите стандартный доступ на один год"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "Получите лучшие кампании игроков в аркадном канале"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "Получите редакторы повторов, скинов и простой редактор трасс"
+
+msgid "Give up"
+msgstr "Сдаться"
+
+msgid "Give up %1"
+msgstr "Сдаться %1"
+
+msgid "Give up Daily cup?"
+msgstr "Отказаться от ежедневного кубка?"
+
+msgid "Go to map list"
+msgstr "Перейти к списку карт"
+
+msgid "Going to next map"
+msgstr "Переход к следующей карте"
+
+msgid "Gold"
+msgstr "Золото"
+
+msgid "Gold medal"
+msgstr "Золотая медаль"
+
+msgid "Green"
+msgstr "Зелёный"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Home Activities"
+msgstr "Домашняя активность"
+
+msgid "Home display"
+msgstr "Домашний экран"
+
+msgid "Hot Seat"
+msgstr "Хотсит"
+
+msgid "HotSeat"
+msgstr "Хотсит"
+
+msgid "Hotseat"
+msgstr "Хотсит"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Если вы выберете ландшафт, вы можете потерять весь ваш прогресс."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"Если вы откажетесь, вы сможете продолжать играть на канале, но не сможете "
+"участвовать в ежедневном матче на выбывание."
+
+msgid "Image browser"
+msgstr "Обозреватель изображений"
+
+msgid "Improve"
+msgstr "Улучшить"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Interval from %1 pos."
+msgstr "Интервал от %1 поз."
+
+msgid "Invite friends"
+msgstr "Пригласить друзей"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "В настоящее время невозможно проголосовать за эти настройки сервера."
+
+msgid "Join"
+msgstr "Играть"
+
+msgid "Join %1"
+msgstr "Присоединиться к %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "Присоединитесь к активностям клубов и просматривайте ранги клубов"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr ""
+"Присоединяйтесь к публичной активности клуба: кампании и онлайн-комнаты"
+
+msgid "Jump to map"
+msgstr "Перейти к карте"
+
+msgid "KOs per round"
+msgstr "Выбываний за раунд"
+
+msgid "Knockout match starts in %1"
+msgstr "Матч на выбывание начнётся через %1"
+
+msgid "L1 button"
+msgstr "Кнопка L1"
+
+msgid "L3 button"
+msgstr "Кнопка L3"
+
+msgid "Landscape"
+msgstr "Ландшафт"
+
+msgid "Lap %1"
+msgstr "Круг %1"
+
+msgid "Last time"
+msgstr "Последнее время"
+
+msgid "Leader"
+msgstr "Лидер"
+
+msgid "League ranking"
+msgstr "Рейтинг лиги"
+
+msgid "Learn more about the Club Edition"
+msgstr "Узнать больше о Club Edition"
+
+msgid "Leave"
+msgstr "Выйти"
+
+msgid "Leave club '%1'"
+msgstr "Покинуть клуб '%1'"
+
+msgid "Leave random track generator"
+msgstr "Выйти из генератора случайных трасс"
+
+msgid "Left click : move the module"
+msgstr "Левый клик : переместить модуль"
+
+msgid "Link copied!"
+msgstr "Ссылка скопирована!"
+
+msgid "Live Ranking"
+msgstr "Сетевой рейтинг"
+
+msgid "Live ranking"
+msgstr "Сетевой ранг"
+
+msgid "Live test"
+msgstr "Живой тест"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Loading activity..."
+msgstr "Загрузка активности..."
+
+msgid "Loading campaign to edit"
+msgstr "Загрузка кампании для редактирования"
+
+msgid "Loading campaign..."
+msgstr "Загрузка кампании..."
+
+msgid "Loading club activities..."
+msgstr "Загрузка активностей клуба..."
+
+msgid "Loading club room..."
+msgstr "Загрузка комнаты клуба..."
+
+msgid "Loading competition..."
+msgstr "Загрузка соревнования..."
+
+msgid "Loading offline campaign..."
+msgstr "Загрузка одиночной кампании..."
+
+msgid "Loading records"
+msgstr "Загрузка рекордов"
+
+msgid "Loading room informations..."
+msgstr "Загрузка информации о комнате..."
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Local multi"
+msgstr "Локально"
+
+msgid "Local network"
+msgstr "Сетевая игра"
+
+msgid "Locked"
+msgstr "Заблокирован"
+
+msgid "Login"
+msgstr "Логин"
+
+msgid "Logo"
+msgstr "Лого"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Логотип: первое видимое изображение вашего клуба. \n"
+"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
+
+msgid "Lol"
+msgstr "Лол"
+
+msgid "Manage server"
+msgstr "Управление сервером"
+
+msgid "Manage track"
+msgstr "Управление трассой"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr "Карта %1/%2 - Сохраните свои предыдущие очки, оставаясь между 1 и %3%4"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"Карта %1/%2 - Выиграй очки завершив гонку или набрав лучшее время круга."
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr ""
+"Карта '%1' не может быть загружена. Пожалуйста, повторите снова. (Ошибка: %2)"
+
+msgid "Map '%1' is not playable."
+msgstr "Карта '%1' неиграбельна."
+
+msgid "Map '%1' not found"
+msgstr "Карта '%1' не найдена"
+
+msgid "Map browser"
+msgstr "Обозреватель карт"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "Карта не может быть удалена. Пожалуйста, повторите снова. (Ошибка: %1)"
+
+msgid "Map editor"
+msgstr "Редактор карт"
+
+msgid "Map not found"
+msgstr "Карта не найдена"
+
+msgid "Map position"
+msgstr "Позиция на карте"
+
+msgid "Map review"
+msgstr "Обзор карты"
+
+msgid "Map rounds"
+msgstr "Раунды карты"
+
+msgid "Map saved!"
+msgstr "Карта сохранена!"
+
+msgid "Map uploads"
+msgstr "Загрузка карт"
+
+msgid "Map validate"
+msgstr "Подтверждение карты"
+
+msgid "Maps"
+msgstr "Карты"
+
+msgid "Maps "
+msgstr "Карты "
+
+msgid "Maps : "
+msgstr "Карт : "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr ""
+"Карты не могут быть загружены. Пожалуйста, повторите снова. (Ошибка: %1)"
+
+msgid "Maps list already full"
+msgstr "Список карт уже заполнен"
+
+msgid "Match found!"
+msgstr "Матч найден!"
+
+msgid "Match is over"
+msgstr "Матч окончен"
+
+msgid "Match not started yet."
+msgstr "Матч ещё не начался."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "Матч закончен. Вы должны быть переведены обратно в лобби."
+
+msgid "Match over. You will be transferred back."
+msgstr "Матч закончен. Вы будете переведены обратно."
+
+msgid "Match paused"
+msgstr "Матч приостановлен"
+
+msgid "Match settings"
+msgstr "Настройки матча"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "Создание матча отменено: нет доступного сервера"
+
+msgid "Matchmaking disabled."
+msgstr "Создание матча отключено."
+
+msgid "Matchmaking forced."
+msgstr "Принудительное создание матча."
+
+msgid "Matchmaking in progress..."
+msgstr "Создание матча в процессе..."
+
+msgid "Matchsettings browser"
+msgstr "Обозреватель настроек матча"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "Настройки матча сохранены в файл: %1"
+
+msgid "Max players"
+msgstr "Максимум игроков"
+
+msgid "Max players number"
+msgstr "Максимальное количество игроков"
+
+msgid "Max points :"
+msgstr "Максимум очков :"
+
+msgid "Max wait time: %1 %2"
+msgstr "Максимальное время ожидания: %1 %2"
+
+msgid "Medals"
+msgstr "Медали"
+
+msgid "Middle click : reset the module"
+msgstr "Средний клик : сбросить модуль"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "Пропущено: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Mode script browser"
+msgstr "Обозреватель режима скрипта"
+
+msgid "Mode settings"
+msgstr "Настройки режима"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "More VIPs"
+msgstr "Показать VIP участников"
+
+msgid "Move"
+msgstr "Переместить"
+
+msgid "Move the block to a new location"
+msgstr "Переместить блок на новое место"
+
+msgid "Move the cursor"
+msgstr "Перемещение курсора"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr "Переместите блок старта и выберите, где вы хотите начать вашу трассу."
+
+msgid "Multi teams"
+msgstr "Мульти-команды"
+
+msgid "My clubs"
+msgstr "Мои клубы"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "New author time"
+msgstr "Новое авторское время"
+
+msgid "New best time"
+msgstr "Новое лучшее время"
+
+msgid "New medal"
+msgstr "Новая медаль"
+
+msgid "New rank: %1"
+msgstr "Новый ранг: %1"
+
+msgid "New records disabled"
+msgstr "Новые рекорды отключены"
+
+msgid "New track"
+msgstr "Новая трасса"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "News creation"
+msgstr "Создание новостей"
+
+msgid "News image"
+msgstr "Изображение новостей"
+
+msgid "News must have a headline."
+msgstr "Новости должны иметь заголовок."
+
+msgid "News must have either a body or an image."
+msgstr "Новость должна иметь либо содержание, либо изображение."
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "Next map"
+msgstr "Следующая карта"
+
+msgid "Next map in %1..."
+msgstr "Следующая карта через %1..."
+
+msgid "Next medal"
+msgstr "Следующая медаль"
+
+msgid "Next player"
+msgstr "Следующий игрок"
+
+msgid "Next zone"
+msgstr "Следующая зона"
+
+msgid "Ninth (Press 9)"
+msgstr "Девятый (Нажмите 9)"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No K.O."
+msgstr "Нет выбывших"
+
+msgid "No accounts found"
+msgstr "Учётные записи не найдены"
+
+msgid "No clubs"
+msgstr "Нет клубов"
+
+msgid "No daily map found to display the rankings"
+msgstr "Не найдена ежедневная карта для отображения рейтингов"
+
+msgid "No maps in this month"
+msgstr "Нет карт в этом месяце"
+
+msgid "No monthly campaigns found."
+msgstr "Ежемесячные кампании не найдены."
+
+msgid "No player"
+msgstr "Нет игроков"
+
+msgid "No preview available"
+msgstr "Предварительный просмотр недоступен"
+
+msgid "No quarterly campaigns found."
+msgstr "Сезонные кампании не найдены."
+
+msgid "No records"
+msgstr "Нет рекордов"
+
+msgid "No suitable elements were found in this folder"
+msgstr "В этой папке не найдено подходящих элементов"
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "Большинство игроков не согласились сыграть реванш."
+
+msgid "Not ranked"
+msgstr "Без ранга"
+
+msgid "Now"
+msgstr "Сейчас"
+
+msgid "Number of Laps : "
+msgstr "Количество кругов : "
+
+msgid "Number of laps"
+msgstr "Количество кругов"
+
+msgid "Number of maps per match"
+msgstr "Количество карт за матч"
+
+msgid "Number of rounds per map"
+msgstr "Количество раундов на карте"
+
+msgid "Number of warm up"
+msgstr "Количество разминок"
+
+msgid "Number of winners"
+msgstr "Количество победителей"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Official rankings"
+msgstr "Официальные рейтинги"
+
+msgid "Offroad"
+msgstr "Внедорожье"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Opponents from %1"
+msgstr "Соперники из %1"
+
+msgid "Optional"
+msgstr "Необязательно"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr ""
+"Или присоединиться к существующей группе, кликнув на имя игрока справа."
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Other"
+msgstr "Другой"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Participation registered!"
+msgstr "Участие зарегистрировано!"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Past 14 days"
+msgstr "Последние 14 дней"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Personal best"
+msgstr "Личный рекорд"
+
+msgid "Pick the controller"
+msgstr "Выберите контроллер"
+
+msgid "Pick the difficulty"
+msgstr "Выберите режим"
+
+msgid "Pick the mood"
+msgstr "Выберите время суток"
+
+msgid "Picked by matchmaking"
+msgstr "Выбран созданием матча"
+
+msgid "Pink"
+msgstr "Розовый"
+
+msgid "Place a finish block to end your track."
+msgstr "Разместите блок финиша, чтобы звершить вашу трассу."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"Разместите чекпоинты на вашей трассе, чтобы избежать коротких путей и "
+"сделать рестарт других игроков более простым."
+
+msgid "Platform"
+msgstr "Платформа"
+
+msgid "Play"
+msgstr "Играть"
+
+msgid "Play HotSeat"
+msgstr "Играть в хотсит"
+
+msgid "Play a map"
+msgstr "Играть карту"
+
+msgid "Play a map locally"
+msgstr "Играть карту локально"
+
+msgid "Play against %1"
+msgstr "Играть против %1"
+
+msgid "Play against a replay"
+msgstr "Играть против повтора"
+
+msgid "Play against opponents"
+msgstr "Играть против соперников"
+
+msgid "Play alone"
+msgstr "Играть в одиночку"
+
+msgid "Play next map"
+msgstr "Играть следующую карту"
+
+msgid "Play offline"
+msgstr "Играть в автономном режиме"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "Играйте в соло и мультиплеере на 25 новых трассах каждый сезон"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "Играть в ежедневные раунды на выбывание"
+
+msgid "Player Best Time"
+msgstr "Лучшее время игрока"
+
+msgid "Player info"
+msgstr "Информация об игроке"
+
+msgid "Player profile"
+msgstr "Учётная запись"
+
+msgid "Players"
+msgstr "Игроки"
+
+msgid "Players are tied!"
+msgstr "Ничья!"
+
+msgid "Players in server"
+msgstr "Игроки на сервере"
+
+msgid "Players order"
+msgstr "Порядок игроков"
+
+msgid "Please reconnect the %1"
+msgstr "Пожалуйста, переподключите %1"
+
+msgid "Please select your %1"
+msgstr "Пожалуйста, выберите %1"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"Пожалуйста, оставайтесь на канале до начала матча на выбывание. Вы будете "
+"автоматически перенаправлены, когда ваш матч будет готов."
+
+msgid "Please wait."
+msgstr "Пожалуйста, подождите."
+
+msgid "Points gap"
+msgstr "Отрыв по очкам"
+
+msgid "Points gap :"
+msgstr "Разрыв очков :"
+
+msgid "Points limit"
+msgstr "Лимит очков"
+
+msgid "Points limit "
+msgstr "Лимит очков "
+
+msgid "Points limit : "
+msgstr "Лимит очков : "
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "Лимит очков: %1, Текущий лучший результат: %2"
+
+msgid "Popularity"
+msgstr "Популярность"
+
+msgid "Prebuilt Landscapes"
+msgstr "Готовые пейзажи"
+
+msgid "Preferences"
+msgstr "Настройка конфиденциальности"
+
+msgid "Press a key"
+msgstr "Нажмите клавишу"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"Нажмите и удерживайте кнопку \"добавить\" или \"удалить\". Затем переместите "
+"курсор, чтобы установить зону, где будет произведён терраформинг, и "
+"отпустите кнопку."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"Нажмите на %1 для переключения соединённого и разъединённого режимов. В "
+"соединённом режиме, курсор всегда прикреплён к трассе. В разъединённом "
+"режиме вы можете свободно перемещать курсор."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr ""
+"Нажмите на %1 для переключения между различными режимами строительства."
+
+msgid "Pressforward"
+msgstr "Держи вперёд"
+
+msgid "Previous author time"
+msgstr "Предыдущее авторское время"
+
+msgid "Previous player"
+msgstr "Предыдущий игрок"
+
+msgid "Previous replay saved!"
+msgstr "Предыдущий повтор сохранён!"
+
+msgid "Previous zone"
+msgstr "Предыдущая зона"
+
+msgid "Privacy setting"
+msgstr "Настройка конфиденциальности"
+
+msgid "Proceed to lobby"
+msgstr "Перейти в лобби"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Qualifier rank: %1"
+msgstr "Квалификационный ранг: %1"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Quarter-final"
+msgstr "Четвертьфинал"
+
+msgid "Quit"
+msgstr "Выйти"
+
+msgid "Quit editor"
+msgstr "Выйти из редактора"
+
+msgid "Quit plugin"
+msgstr "Выйти из плагина"
+
+msgid "R1 button"
+msgstr "Кнопка R1"
+
+msgid "R3 button"
+msgstr "Кнопка R3"
+
+msgid "Race"
+msgstr "Гонка"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr ""
+"Тип карты Гонка не был найден или установлен. Возможно, вы не сможете "
+"подтвердить свою карту."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "Играйте и соревнуйтесь на ежедневной карте от игрока"
+
+msgid "Race ranking"
+msgstr "Ранг гонки"
+
+msgid "Race validation"
+msgstr "Проверка гонки"
+
+msgid "Random"
+msgstr "Случайная"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"Случайный ландшафт недоступен в режиме Эксперта. Пожалуйста, выключите "
+"Случайный ландшафт и повторите снова."
+
+msgid "Random map"
+msgstr "Случайная карта"
+
+msgid "Ranking"
+msgstr "Рейтинг"
+
+msgid "Rankings"
+msgstr "Ранги"
+
+msgid "Ready"
+msgstr "Готов"
+
+msgid "Ready (F6)"
+msgstr "Готовность (F6)"
+
+msgid "Record leader ghost"
+msgstr "Записать фантом лидера"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "Записать фантом лидера, за которым будут следовать ваши зрители"
+
+msgid "Record the ghost that player will follow"
+msgstr "Записать фантома, за которым будет следовать игрок"
+
+msgid "Records"
+msgstr "Рекорды"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "Регистрация не удалась (Код ошибки: %1)"
+
+msgid "Remaining time: %1"
+msgstr "Оставшееся время: %1"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove from favorite"
+msgstr "Убрать из избранного"
+
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+msgid "Remove map"
+msgstr "Удалить карту"
+
+msgid "Rename folder"
+msgstr "Переименовать папку"
+
+msgid "Replay"
+msgstr "Повтор"
+
+msgid "Replay editor"
+msgstr "Редактор повторов"
+
+msgid "Replay saved!"
+msgstr "Повтор сохранён!"
+
+msgid "Reroll decoration"
+msgstr "Выбрать другое оформление"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Reset the UI customization"
+msgstr "Сбросить настройки интерфейса"
+
+msgid "Restart"
+msgstr "Заново"
+
+msgid "Restart map"
+msgstr "Перезапустить карту"
+
+msgid "Resume"
+msgstr "Продолжить"
+
+msgid "Resuming match"
+msgstr "Продолжить матч"
+
+msgid "Retrieving map list..."
+msgstr "Получение списка карт..."
+
+msgid "Retry"
+msgstr "Повторить"
+
+msgid "Right click : hide/show the module"
+msgstr "Правый клик : скрыть/показать модуль"
+
+msgid "Room"
+msgstr "Комната"
+
+msgid "Room creation"
+msgstr "Создание комнаты"
+
+msgid "Room name"
+msgstr "Имя комнаты"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игрок\n"
+"%4 Выбывших за раунд"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игрок\n"
+"1 Выбывший за раунд"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игроков в гонке\n"
+"Нет выбывших в этом раунде"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игроков\n"
+"%4 Выбывших за раунд"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игроков\n"
+"1 Выбывший за раунд"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"Раунд %1/%2\n"
+"%3 Игроков в гонке\n"
+"Нет выбывших в этом раунде"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"Раунд %1/%2, %3 Игроков\n"
+"%4 Выбывших за раунд, до тех пор, пока %5 Игроков"
+
+msgid "Round skipped"
+msgstr "Раунд пропущен"
+
+msgid "Rounds "
+msgstr "Раунды "
+
+msgid "Rounds : "
+msgstr "Раундов : "
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "SPECIAL THANKS"
+msgstr "СПЕЦИАЛЬНАЯ БЛАГОДАРНОСТЬ"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save and create cup"
+msgstr "Сохранить и создать кубок"
+
+msgid "Save as new"
+msgstr "Сохранить как новую"
+
+msgid "Save for later"
+msgstr "Сохранить на потом"
+
+msgid "Save map"
+msgstr "Сохранить карту"
+
+msgid "Save previous replay"
+msgstr "Сохранить предыдущий повтор"
+
+msgid "Save replay"
+msgstr "Сохранить повтор"
+
+msgid "Saved Activities"
+msgstr "Сохранённые активности"
+
+msgid "Saving campaign..."
+msgstr "Сохранение кампании..."
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Экран 16x1: изображение, отображаемое на подиуме стадиона (под большим "
+"экраном). \n"
+"Размеры: %1 - Формат: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Экран 16x9: изображение, отображаемое на большом экране стадиона. \n"
+"Размеры: %1 - Формат: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Экран 8x1: изображение, отображаемое на трибунах стадиона. \n"
+"Размеры: %1 - Формат: DDS (DXT5)"
+
+msgid "Scroll down"
+msgstr "Прокрутить вниз"
+
+msgid "Scroll up"
+msgstr "Прокрутить вверх"
+
+msgid "Second (Press 2)"
+msgstr "Второй (Нажмите 2)"
+
+msgid "See tutorial again"
+msgstr "Посмотреть обучение снова"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select a VIP to play against"
+msgstr "Выберите VIP, чтобы сыграть против него"
+
+msgid "Select a billboard"
+msgstr "Выбрать щит"
+
+msgid "Select a campaign"
+msgstr "Выбрать кампанию"
+
+msgid "Select a color"
+msgstr "Выбрать цвет"
+
+msgid "Select a landscape and start building your track."
+msgstr "Выберите ландшафт и начните строительство своей трассы"
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"Выберите ландшафт. Когда вы найдёте тот, который вам понравится, вы можете "
+"начать трассу."
+
+msgid "Select a mode"
+msgstr "Выберите режим"
+
+msgid "Select a mode before adding maps"
+msgstr "Выберите режим перед добавлением карт"
+
+msgid "Select a mode to check map compatibility"
+msgstr "Выберите режим для проверки совместимости карты"
+
+msgid "Select a road paint"
+msgstr "Выбрать окраску дороги"
+
+msgid "Select a round to start"
+msgstr "Выберите раунд, чтобы начать"
+
+msgid "Select all"
+msgstr "Выбрать всё"
+
+msgid "Select an account"
+msgstr "Выберите учётную запись"
+
+msgid "Select an image"
+msgstr "Выбрать изображение"
+
+msgid "Select map"
+msgstr "Выбрать карту"
+
+msgid "Select maps"
+msgstr "Выбрать карты"
+
+msgid "Select maps to remove"
+msgstr "Выберите карты для удаления"
+
+msgid "Select mode"
+msgstr "Выберите режим"
+
+msgid "Select next map"
+msgstr "Выбрать следующую карту"
+
+msgid "Select number of players"
+msgstr "Выберите количество игроков"
+
+msgid "Select style"
+msgstr "Выбрать стиль"
+
+msgid "Select the location of the starting line"
+msgstr "Выберите место стартовой линии"
+
+msgid "Select where you want to start"
+msgstr "Выберите, где вы хотите начать"
+
+msgid "Select your activity"
+msgstr "Выберите активность"
+
+msgid "Select zone"
+msgstr "Выберите зону"
+
+msgid "Selected campaign"
+msgstr "Выбранная кампания"
+
+msgid "Selected map"
+msgstr "Выбранная карта"
+
+msgid "Selected maps"
+msgstr "Выбранные карты"
+
+msgid "Semi-final"
+msgstr "Полуфинал"
+
+msgid "Server account"
+msgstr "Учётная запись сервера"
+
+msgid "Server doesn't exist anymore"
+msgstr "Сервер больше не существует"
+
+msgid "Server name"
+msgstr "Название сервера"
+
+msgid "Server region"
+msgstr "Регион сервера"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr ""
+"Серверы отключены или находятся в обслуживании, пожалуйста, повторите снова."
+
+msgid "Set next map"
+msgstr "Установить следующую карту"
+
+msgid "Set private"
+msgstr "Сделать приватным"
+
+msgid "Set public"
+msgstr "Сделать публичным"
+
+msgid "Set/Unset as favorite"
+msgstr "Установить/Отменить как избранное"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Seventh (Press 7)"
+msgstr "Седьмой (Нажмите 7)"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "Silver"
+msgstr "Серебро"
+
+msgid "Silver medal"
+msgstr "Серебряная медаль"
+
+msgid "Single Map"
+msgstr "Одиночная карта"
+
+msgid "Sixth (Press 6)"
+msgstr "Шестой (Нажмите 6)"
+
+msgid "Skin browser"
+msgstr "Обозреватель скинов"
+
+msgid "Skin editor"
+msgstr "Редактор скинов"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "Не удалось загрузить скин. (Ошибка: %1)"
+
+msgid "Skin uploads"
+msgstr "Загрузка скинов"
+
+msgid "Skins"
+msgstr "Скины"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Solo"
+msgstr "Соло"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"Некоторые блоки предоставляют несколько возможностей соединения. Они "
+"представлены в виде белых коробок. Нажмите кнопку \"переключатель\", чтобы "
+"выбрать тот, который вы хотите использовать."
+
+msgid "Spectate"
+msgstr "Наблюдать"
+
+msgid "Spectator"
+msgstr "Зритель"
+
+msgid "Spectator password"
+msgstr "Пароль зрителя"
+
+msgid "SplitScreen"
+msgstr "Разделение экрана"
+
+msgid "Splitscreen"
+msgstr "Разделение экрана"
+
+msgid "Standard"
+msgstr "Стандартный"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"Стандартный доступ является пропуском на 1 год, предлагающий идеальный опыт "
+"для постоянных игроков, полных творчества и активности!"
+
+msgid "Starter"
+msgstr "Начальный"
+
+msgid "Stats"
+msgstr "Статистика"
+
+msgid "Step ranking"
+msgstr "Рейтинг ступени"
+
+msgid "Stop auto-finish"
+msgstr "Отключить авто-финиш"
+
+msgid "Streaming subscriptions"
+msgstr "Потоковые подписки"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid "Subscribe"
+msgstr "Подписаться "
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr "Подпишитесь на Trackmania %1, чтобы получить доступ к обзору сервера."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "Подпишитесь на Trackmania %1, чтобы создать активность клуба."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "Подпишитесь на Trackmania %1, чтобы создать клуб."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "Подпишитесь на Trackmania %1, чтобы создать локальный сервер."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "Подпишитесь на Trackmania %1, чтобы создать карту."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "Подпишитесь на Trackmania %1, чтобы создать скин"
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr "Подпишитесь на Trackmania %1, чтобы создать игровые режимы."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr "Подпишитесь на Trackmania %1, чтобы создавать предметы и моды."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "Подпишитесь на Trackmania %1, чтобы отобразить страницу клуба."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы редактировать карты в расширенном режиме."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "Подпишитесь на Trackmania %1, чтобы редактировать карты клуба."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr "Подпишитесь на Trackmania %1, чтобы найти локальный сервер."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "Подпишитесь на Trackmania %1, чтобы вступить в клуб."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr "Подпишитесь на Trackmania %1, чтобы присоединиться к комнате клуба."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "Подпишитесь на Trackmania %1, чтобы подключиться к аркадному каналу."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "Подпишитесь на Trackmania %1, чтобы открыть редактор повторов"
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr "Подпишитесь на Trackmania %1, чтобы открыть простой редактор карт."
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "Подпишитесь на Trackmania %1, чтобы открыть редактор скинов"
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr "Подпишитесь на Trackmania %1, чтобы играть в одиночную карту."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы участвовать в частной активности клуба."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "Подпишитесь на Trackmania %1, чтобы играть против повтора."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы участвовать в клубных онлайн кампаниях."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы участвовать в онлайн соревнованиях."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы играть в прошлую ежемесячную кампанию."
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы участвовать в прошедших квартальных "
+"кампаниях."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr "Подпишитесь на Trackmania %1, чтобы играть в режиме хотсит."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr "Подпишитесь на Trackmania %1, чтобы играть в ежемесячную кампанию."
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы участвовать в ежеквартальной онлайн "
+"кампании."
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr "Подпишитесь на Trackmania %1, чтобы играть в режиме разделения экрана."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr ""
+"Подпишитесь на Trackmania %1, чтобы сохранить видео в редакторе повторов"
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "Подпишитесь на Trackmania %1, чтобы опубликовать карту."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "Подпишитесь на Trackmania %1, чтобы опубликовать скин"
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr "Подпишитесь на Trackmania %1, чтобы использовать пользовательский скин"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "Поддержите %1$z: \"go %2$z\" в чате."
+
+msgid "Switch"
+msgstr "Переключатель"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"СПАСИБО ВСЕМ НЕВЕРОЯТНЫМ АЛЬФА-ТЕСТЕРАМ ОТ НАШЕЙ КОМАНДЫ И ИГРОКОВ СО ВСЕГО "
+"МИРА, КОТОРЫЕ БУДУТ НАСЛАЖДАТЬСЯ ИГРОЙ В ЕЁ ЛУЧШЕМ ВИДЕ. ВАШ ДУХ И ОПЫТ "
+"НАХОДЯТСЯ НА УРОВНЕ ЛИГ МИРОВОГО КЛАССА."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"ТИП: Каждый сам за себя\n"
+"ЦЕЛЬ: Установите лучшее время до истечения таймера."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"ТИП: Каждый сам за себя\n"
+"ЦЕЛЬ: Установите лучшее время на трассе."
+
+msgid "Take this slot"
+msgstr "Взять этот слот"
+
+msgid "Team versus Team"
+msgstr "Команда против команды"
+
+msgid "Tech"
+msgstr "Техно"
+
+msgid "Terraforming in progress"
+msgstr "Терраформинг в процессе"
+
+msgid "Terrain"
+msgstr "Ландшафт"
+
+msgid "Test"
+msgstr "Тест"
+
+msgid "Test other maps"
+msgstr "Тестировать другие карты"
+
+msgid "Test the track"
+msgstr "Тестировать трассу"
+
+msgid "Test track"
+msgstr "Тестировать трассу"
+
+msgid "Test your maps"
+msgstr "Тестировать свои карты"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"Клубный доступ является пропуском на 1 или 3 года, предлагающий наиболее "
+"полный опыт Trackmania с кастомизацией, соревнованиями про-уровня и "
+"уникальными способами общения в игре!"
+
+msgid "The Left Stick"
+msgstr "Левый стик"
+
+msgid "The Map %1 is already used"
+msgstr "Карта %1 уже используется"
+
+msgid "The Right Stick"
+msgstr "Правый стик"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "Лучшие карты имеют шанс быть выбранными для трассы дня!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "Содержание имеет максимум %1 символов"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "Название кампании не должно превышать %1 символов"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "Описание клуба должно быть меньше %1 символов"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "Название клуба должно содержать не менее %1 и не более %2 символов"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "Клубный тег должен содержать не менее %1 и не более %2 символов"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "Не удалось создать соревнование (код ошибки: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr "Оформление будет удалено и вам придётся снова подтвердить трассу."
+
+msgid "The decoration will be removed."
+msgstr "Оформление будет удалено."
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "В этот день таблица лидеров закрыта!"
+
+msgid "The league is coming back in"
+msgstr "Лига начнётся через"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "Карта '%1' уже находится в плейлисте"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "Карта '%1' не совместима с выбранным режимом игры."
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr ""
+"Карта '%1' неиграбельна. Пожалуйста, подтвердите карту и рассчитайте тени."
+
+msgid "The match will begin shortly ..."
+msgstr "Матч скоро начнётся..."
+
+msgid "The matchsettings is not valid"
+msgstr "Настройки матча недействительны"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "Имя соревнования должно содержать не менее %1 и не более %2 символов."
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "Тег имени может содержать не более %1 символов."
+
+msgid "The next match will begin in %1 "
+msgstr "Следующий матч начнётся через %1 "
+
+msgid "The registration closed at : %1 H"
+msgstr "Регистрация закроется в : %1 Ч"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "Комната недоступна, пожалуйста, повторите снова. (Код ошибки: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "Комната запускается, она будет готова через несколько секунд."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"Трасса не может использовать авто-финиш. Удалите несколько блоков перед "
+"повторной попыткой."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "Трасса находится в тупике. Попробуйте пойти в другом направлении"
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr ""
+"Трасса должна содержать открытый соединитель, чтобы использовать авто-финиш."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "На вашей трассе %1 подиумов. Вы можете разместить только один."
+
+msgid "There are no displayed activities in your club."
+msgstr "В вашем клубе нет отображаемых активностей."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "Нет доступных макроблоков для этого редактора."
+
+msgid "There are no saved activities in your club."
+msgstr "Нет сохранённых активностей в вашем клубе."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr ""
+"Произошла ошибка при получении информации этого соревнования. (Код ошибки: "
+"%1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Произошла ошибка при сборе рейтингов, пожалуйста, повторите попытку позже. "
+"(Код ошибки: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Произошла ошибка при сборе рейтингов, пожалуйста, повторите попытку позже. "
+"(Ошибка: Задача больше недоступна)"
+
+msgid "Third (Press 3)"
+msgstr "Третий (Нажмите 3)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr ""
+"Это частная активность, вам нужно быть участником клуба, чтобы ею "
+"воспользоваться."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"Этот блок имеет настраиваемый скин. Используйте %1, чтобы выбрать "
+"изображение, которое хотите использовать."
+
+msgid "This competition is closed"
+msgstr "Это соревнование закрыто"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr "Этот выделенный сервер размещён игроком. Он может быть отключен."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"Это стартовый блок кругов. Игроки должны пересечь все чекпоинты и пройти "
+"через этот блок, чтобы подтвердить один круг."
+
+msgid "This map is not playable"
+msgstr "Эта карта неиграбельна"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"Этот сервер создания матча проводит матч. Вы не можете присоединиться на "
+"данный момент."
+
+msgid "This round is a draw."
+msgstr "Этот раунд закончился вничью."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"Эта учётная запись сервера уже использует комнату клуба \"%1\" с id %2. "
+"Пожалуйста, выберите другую учётную запись."
+
+msgid "This server will split for less waiting time"
+msgstr "Этот сервер разделён для меньшего времени ожидания"
+
+msgid "This track is already validated."
+msgstr "Эта трасса уже подтверждена"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Time Limit"
+msgstr "Лимит времени"
+
+msgid "Time Limit :"
+msgstr "Лимит времени :"
+
+msgid "Time limit"
+msgstr "Лимит времени"
+
+msgid "Time to beat"
+msgstr "Целевое время"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr ""
+"Чтобы этого избежать, вы можете создать свой собственные ландшафты. Всё "
+"равно продолжить?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr ""
+"Для этого вам необходимо пройти одну гонку от начала до конца, пройдя все "
+"чекпоинты."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "Чтобы сыграть в эту трассу вне редактора, вам нужно её подтвердить."
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Top"
+msgstr "Топ"
+
+msgid "Top %1"
+msgstr "Топ %1"
+
+msgid "Top %1 %2"
+msgstr "Топ %1 %2"
+
+msgid "Track"
+msgstr "Трасса"
+
+msgid "Track completed."
+msgstr "Трасса завершена."
+
+msgid "Track of the day"
+msgstr "Трасса дня"
+
+msgid "Track style"
+msgstr "Стиль трассы"
+
+msgid "Training"
+msgstr "Тренировка"
+
+msgid "Trial"
+msgstr "Испытание"
+
+msgid "Trophies"
+msgstr "Трофеи"
+
+msgid "Try to place checkpoints regularly"
+msgstr "Старайтесь регулярно размещать чекпоинты"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Unapply"
+msgstr "Отменить"
+
+msgid "Unapply skin"
+msgstr "Отменить скин"
+
+msgid "Unselect all"
+msgstr "Отменить всё"
+
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+msgid "Update member's role"
+msgstr "Обновить роль участника"
+
+msgid "Updating club..."
+msgstr "Обновление клуба..."
+
+msgid "Upload a map"
+msgstr "Загрузить карту"
+
+msgid "Upload a skin"
+msgstr "Загрузить скин"
+
+msgid "Uploading..."
+msgstr "Загрузка..."
+
+msgid "Use %1 to move the cursor."
+msgstr "Используйте %1 для перемещения курсора."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"Используйте %1, чтобы открыть окно выбора блоков и категории. Затем "
+"используйте %2, чтобы выбрать блок, который вы хотите разместить."
+
+msgid "Use a custom points repartition :"
+msgstr "Использовать собственное распределение очков:"
+
+msgid "Use alternate rules :"
+msgstr "Использовать альтернативные правила :"
+
+msgid "Use tie-break"
+msgstr "Использовать тай-брейк"
+
+msgid "Use your dedicated server"
+msgstr "Использовать выделенный сервер"
+
+msgid "VIPs from club '%1'"
+msgstr "VIPы от клуба '%1'"
+
+msgid "Validate"
+msgstr "Подтвердить"
+
+msgid "Validate & exit"
+msgstr "Подтвердить и выйти"
+
+msgid "Validate track"
+msgstr "Подтвердить трассу"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "Подтвердите свою трассу, чтобы играть в неё за пределами редактора."
+
+msgid "Validation"
+msgstr "Подтверждена"
+
+msgid "Validations"
+msgstr "Подтверждены"
+
+msgid "Version: %1"
+msgstr "Версия: %1"
+
+msgid "Versus"
+msgstr "Против"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Вертикаль: изображение, используемое в моем списке клубов. \n"
+"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
+
+msgid "View replay"
+msgstr "Посмотреть повтор"
+
+msgid "Vote for a map"
+msgstr "Голосовать за карту"
+
+msgid "Vote for mode settings"
+msgstr "Голосовать за настройки режима"
+
+msgid "Vote to balance teams"
+msgstr "Голосовать за балансировку команд"
+
+msgid "Vote to jump to map"
+msgstr "Голосовать за переход к карте"
+
+msgid "Vote to play next map"
+msgstr "Голосовать за игру на следующей карте"
+
+msgid "Vote to restart"
+msgstr "Голосовать за рестарт"
+
+msgid "Vote to set next map"
+msgstr "Голосовать за установку карты"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"Голосование за карту увеличивает вероятность того, что она будет выбрана. "
+"Любая карта хотя бы с одним голосом имеет шанс быть сыгранной."
+
+msgid "Vs race record"
+msgstr "Vs рекорд гонки"
+
+msgid "Waiting for other players."
+msgstr "Ожидание других игроков."
+
+msgid "Waiting for players"
+msgstr "Ожидание игроков"
+
+msgid "Waiting for your allies to be ready."
+msgstr "Ждите готовности ваших союзников."
+
+msgid "Waiting for your match"
+msgstr "Ждите матч"
+
+msgid "Waiting for your match to start"
+msgstr "Ожидание начала матча"
+
+msgid "Warm up"
+msgstr "Разминка"
+
+msgid "Warmup"
+msgstr "Разминка"
+
+msgid "Warmup: %1/%2"
+msgstr "Разминка: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"Внимание\n"
+"разминка"
+
+msgid "We are sending you back to the lobby."
+msgstr "Мы отправляем вас обратно в лобби."
+
+msgid "We are sending you back to the match you left."
+msgstr "Мы отправляем вас обратно в матч, который вы покинули."
+
+msgid "We are starting a new match."
+msgstr "Мы начинаем новый матч."
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Welcome to Trackmania"
+msgstr "Добро пожаловать в Trackmania"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Добро пожаловать в ежедневный кубок Nadeo\n"
+"\n"
+"Участвуйте в сегодняшней гонке 10 минут. После этого вы сможете "
+"присоединиться к фазе выбывания и заработать больше трофеев. \n"
+"Вы можете видеть свой глобальный ранг среди всех серверов в правой части "
+"экрана."
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Добро пожаловать в ежедневный кубок Nadeo!\n"
+"\n"
+"Участвуйте в сегодняшней гонке 10 минут. После этого вы сможете "
+"присоединиться к фазе выбывания и заработать больше трофеев. \n"
+"Вы можете видеть свой глобальный ранг среди всех серверов в правой части "
+"экрана. Удачи!"
+
+msgid "Welcome to the club!"
+msgstr "Добро пожаловать в клуб!"
+
+msgid "What do you want to do?"
+msgstr "Что вы хотите сделать?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"Когда вы вырезаете блок, он сохраняется в вашей истории блоков. Вы можете "
+"вставить его обратно в свою трассу или убрать его из истории."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"Когда вы перемещаете курсор на размещённый блок, вы можете скопировать его "
+"или попытаться автоматически присоединить совместимый блок."
+
+msgid "Which map would you like to submit?"
+msgstr "Какую карту вы хотите опубликовать?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "Во время ожидания попробуйте стать Королём Лобби!"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr ""
+"С помощью Начального доступа, откройте для себя основные функции Trackmania "
+"бесплатно."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Беспроводной контроллер Xbox One"
+
+msgid "Yellow"
+msgstr "Жёлтый"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You are being transferred as a substitute."
+msgstr "Вы переводитесь в качестве замены."
+
+msgid "You are being transferred. Please wait."
+msgstr "Вы переводитесь. Пожалуйста, подождите."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Вы отключены от Uplay. (Код ошибки: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Вы отключены от серверов Trackmania. (Код ошибки: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "Вы не подключены к Uplay."
+
+msgid "You are not subscribed to any club"
+msgstr "Вы не подписаны ни на один клуб"
+
+msgid "You are registered"
+msgstr "Вы зарегистрированы"
+
+msgid "You are suspended"
+msgstr "Вы приостановлены"
+
+msgid "You can cancel 1 match."
+msgstr "Вы можете отменить 1 матч."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr ""
+"Вы можете выбрать $<$00f$tпродолжить$> кубок и участвовать в матче на "
+"выбывание."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr "Вы можете создать свою группу, нажав на кнопку создать."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "Вы можете найти блок подиума в разделе оформления строителя трасс."
+
+msgid "You can place only one starting point!"
+msgstr "Нужно разместить только одну стартовую позицию!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"Вы можете тестировать свою трассу в любое время. Нажмите кнопку \"тест\", "
+"чтобы выбрать место старта."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "Вы не можете ускорятся до следующего чекпоинта."
+
+msgid "You can't remove the starting line of the track."
+msgstr "Вы не можете удалить линию старта на трассе."
+
+msgid "You don't have any server accounts registered."
+msgstr "У вас нет зарегистрированных учётных записей сервера."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr ""
+"Вы почти достигли максимального числа блоков, которые можно разместить на "
+"трассе."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Вы были отключены от Uplay. (Код ошибки: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Вы были отключены от серверов Trackmania. (Код ошибки: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"Вы выбыли.\n"
+"[Награда будет доступна в дальнейшем обновлении]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Перенаправление на ежедневный канал через 30с"
+
+msgid "You have to place exactly one podium!"
+msgstr "Вы должны разместить только один подиум!"
+
+msgid "You must enter a name for your club"
+msgstr "Вы должны ввести название вашего клуба"
+
+msgid "You must enter a tag for your club"
+msgstr "Вы должны ввести тег для вашего клуба"
+
+msgid "You must place at least one checkpoint!"
+msgstr "Нужно разместить хотя бы один чекпоинт!"
+
+msgid "You must place at least one finish line!"
+msgstr "Нужно разместить хотя бы одну финишную линию!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr "Вы должны разместить по крайней мере один рестартовый чекпоинт!"
+
+msgid "You must select at least one map to play"
+msgstr "Вы должны выбрать хотя бы одну карту, чтобы играть"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "Вам нужно добавить хотя бы 1 карту в плейлист"
+
+msgid "You need to be a club member to play or download a map."
+msgstr "Вам нужно быть участником клуба, чтобы играть или загрузить карту."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr ""
+"Вы должны быть членом клуба, чтобы выбрать этот скин в качестве избранного."
+
+msgid "You need to pick a game mode"
+msgstr "Вам нужно выбрать режим игры"
+
+msgid "You need to place a starting point!"
+msgstr "Нужно разместить стартовую позицию!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr ""
+"Вы достигли максимального количества блоков. Вы не можете добавить больше."
+
+msgid "You will be able to change it later"
+msgstr "Вы сможете изменить его позже"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "Вы будете приостановлены, если отмените следующий матч."
+
+msgid "You will have to validate the track again."
+msgstr "Вам нужно будет снова подтвердить трассу."
+
+msgid "You will soon be redirected to a match server."
+msgstr "Скоро вы будете перенаправлены на сервер матча."
+
+msgid "Your map in less than %1 minutes"
+msgstr "Ваша карта менее чем через %1 минуты"
+
+msgid "Your search did not return any results"
+msgstr "Поиск не дал никаких результатов"
+
+msgid "Your subscription ends on %1"
+msgstr "Ваша подписка заканчивается %1"
+
+msgid "by %1"
+msgstr "от %1"
+
+msgid "club access"
+msgstr "Клубный доступ"
+
+msgid "controller"
+msgstr "контроллер"
+
+msgid "max %1 characters"
+msgstr "максимум %1 символов"
+
+msgid "per server"
+msgstr "на сервере"
+
+msgid "standard access"
+msgstr "Стандартный доступ"
+
+msgid "starter access"
+msgstr "Начальный доступ"
+
+msgid "yes"
+msgstr "Да"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|Вы можете отменить %1 матчей."
+
+msgid "|Action|Quick save"
+msgstr "|Action|Быстрое сохранение"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|Предупреждение"
+
+msgid "|Author|By"
+msgstr "|Author|От"
+
+msgid "|Best score|New"
+msgstr "|Best score|Новый"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|Чекпоинты"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|Финиш"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|Препятствия"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|Скаты"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockCategory|Прямые"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|Переходы"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|Турбо"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|Повороты"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|Чекпоинт"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|Финиш"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "|BlockInfo|Круги"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|Старт"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|Выпуклый"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|Оформление"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|Грязь"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|Лёд"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|Платформа"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|Простой"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockStyle|Скат"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|Наклон"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|Избранное"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|Недавние"
+
+msgid "|Camera|Follow"
+msgstr "|Camera|Следящая"
+
+msgid "|Camera|Free"
+msgstr "|Camera|Свободная"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|Повтор"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|Официальная"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|Апрель %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|Август %1"
+
+msgid "|Campaign|Club"
+msgstr "|Campaign|Клуб"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|Декабрь %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|Февраль %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|Январь %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|Июль %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|Июнь %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|Март %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|Май %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|Ежемесячная"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|Ноябрь %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|Октябрь %1"
+
+msgid "|Campaign|Official"
+msgstr "|Campaign|Официальная"
+
+msgid "|Campaign|Private"
+msgstr "|Campaign|Приватный"
+
+msgid "|Campaign|Public"
+msgstr "|Campaign|Публичный"
+
+msgid "|Campaign|Quarterly"
+msgstr "|Campaign|Сезонная"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|Сентябрь %1"
+
+msgid "|Campaign|Training"
+msgstr "|Campaign|Тренировка"
+
+msgid "|Campaign|Unknown"
+msgstr "|Campaign|Неизвестная"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|Отмена"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|Карты"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|Официальные рейтинги"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|Скины"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|Добро пожаловать"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|Добро пожаловать в клуб! Пригласите своих друзей "
+"присоединиться к этому клубу и создавайте активности, чтобы делиться и "
+"играть вместе!"
+
+msgid "|ClubMember|Role"
+msgstr "|ClubMember|Роль"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|Закрытый"
+
+msgid "|ClubPrivacy|Private"
+msgstr "|ClubPrivacy|Частный"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "|ClubPrivacy|Частный - Принимать запросы"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|Публичный"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "|ClubPrivacy|Публичный - Открыт для всех"
+
+msgid "|Club|%1 Member"
+msgstr "|Club|%1 Участник"
+
+msgid "|Club|%1 Members"
+msgstr "|Club|%1 Участников"
+
+msgid "|Club|Closed"
+msgstr "|Club|Закрытый"
+
+msgid "|Club|Description"
+msgstr "|Club|Описание"
+
+msgid "|Club|Join"
+msgstr "|Club|Присоединиться"
+
+msgid "|Club|Leave"
+msgstr "|Club|Выйти"
+
+msgid "|Club|Member"
+msgstr "|Club|Участник"
+
+msgid "|Club|Members"
+msgstr "|Club|Участники"
+
+msgid "|Club|Privacy"
+msgstr "|Club|Конфиденциальность"
+
+msgid "|Club|Requests"
+msgstr "|Club|Запросы"
+
+msgid "|Club|VIP"
+msgstr "|Club|VIP"
+
+msgid "|Club|request"
+msgstr "|Club|Запрос"
+
+msgid "|Club|requests"
+msgstr "|Club|Запросы"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|Скоро"
+
+msgid "|Competition|Private"
+msgstr "|Competition|Частное"
+
+msgid "|Competition|Public"
+msgstr "|Competition|Публичное"
+
+msgid "|DataType|Campaign"
+msgstr "|DataType|Кампания"
+
+msgid "|DataType|Club"
+msgstr "|DataType|Клуб"
+
+msgid "|DataType|Folder"
+msgstr "|DataType|Папка"
+
+msgid "|DataType|Image"
+msgstr "|DataType|Изображение"
+
+msgid "|DataType|Map"
+msgstr "|DataType|Карта"
+
+msgid "|DataType|MatchSettings"
+msgstr "|DataType|Настройки матча"
+
+msgid "|DataType|None"
+msgstr "|DataType|Безымянный"
+
+msgid "|DataType|Replay"
+msgstr "|DataType|Повтор"
+
+msgid "|DataType|Room"
+msgstr "|DataType|Комната"
+
+msgid "|DataType|Script"
+msgstr "|DataType|Скрипт"
+
+msgid "|DataType|Skin"
+msgstr "|DataType|Скин"
+
+msgid "|DidNotFinish|DNF"
+msgstr "|DidNotFinish|НФ"
+
+msgid "|Friday|F"
+msgstr "|Friday|П"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|Оформление"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|Редактирование оформления"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|Ландшафт"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|Редактировать ландшафт"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|Трасса"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|Редактирование трассы"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|Случайная"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|Готовые пейзажи"
+
+msgid "|GameMode|Cup"
+msgstr "|GameMode|Кубок"
+
+msgid "|GameMode|Knockout"
+msgstr "|GameMode|Нокаут"
+
+msgid "|GameMode|Laps"
+msgstr "|GameMode|Круги"
+
+msgid "|GameMode|Rounds"
+msgstr "|GameMode|Раунды"
+
+msgid "|GameMode|Teams"
+msgstr "|GameMode|Команды"
+
+msgid "|GameMode|Time Attack"
+msgstr "|GameMode|Гонка на время"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|Оформление"
+
+msgid "|Image|Background"
+msgstr "|Image|Фон"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|Наклейка спонсора 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|Экран 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|Экран 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|Экран 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|Вертикаль"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive - Change choice|Переключить"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|Выберите ландшафт"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|Повторить"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|Отменить"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|Поднять"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|Выйти из редактора"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|Опустить"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|Начать трассу"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|Тестировать"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|Тестировать трассу"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|Убрать"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|Добавить"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|Просмотреть"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|Построить трассу"
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|Отменить"
+
+msgid "|Infinitive|Confirm"
+msgstr "|Infinitive|Подтвердить"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|Соединить"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|Продолжить"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|Копировать"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|Вырезать"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|Отсоединить"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|Редактировать оформление"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|Редактировать трассу"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|Сгенерировать"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|Сгенерировать трассу"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|Сгенерировать другую трассу"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|Сгенерировать оформление"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|Улучшить рекорд"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|Улучшить время подтверждения"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|Переместить"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|Разместить"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|Играть"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|Случайно"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|Записать фантом лидера"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|Записать заезд лидера"
+
+msgid "|Infinitive|Remove"
+msgstr "|Infinitive|Удалить"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|Повернуть"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|Сохранить"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|Сохранить и подтвердить"
+
+msgid "|Infinitive|Save as new"
+msgstr "|Infinitive|Сохранить как новый"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|Выбрать"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|Подтвердить"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|Подтвердить заезд лидера и перейти в лобби?"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|Подтвердить трассу"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|Масштабировать"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|Трасса не подтверждена"
+
+msgid "|Input|No binding"
+msgstr "|Input|Не назначено"
+
+msgid "|Keyboard|Enter"
+msgstr "|Keyboard|Ввод"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|Пустыня"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|Пустой"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|Холмы"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|Гора"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|Столбы"
+
+msgid "|League|Step %1"
+msgstr "|League|Ступень %1"
+
+msgid "|League|map %1/%2"
+msgstr "|League|карта %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|Нажав на «Принять» вы разрешаете передачу своих персональных "
+"данных третьим лицам в целях отображения избирательного рекламного контента "
+"во вселенной игры. Вы можете отредактировать свои параметры, если желаете."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"Возможны эпилептические припадки, связанные с повышенной чувствительностью к "
+"свету. Небольшой процент людей подвержен припадкам от воздействия визуальных "
+"эффектов, например мерцающего света или изображений, которые могут "
+"появляться в видеоиграх.\n"
+"Люди, не испытывавшие ранее подобных приступов и не страдающие эпилепсией, "
+"могут не знать о своей болезни, которая может спровоцировать эпилептические "
+"припадки, связанные с повышенной чувствительностью к свету.\n"
+"\n"
+"Симптомы этих приступов могут быть различными. К ним относятся:\n"
+"\n"
+"головокружение, искажение визуального восприятия, судороги лицевых мышц, "
+"нервный тик, подергивание либо дрожание рук или ног, потеря ориентации, "
+"спутанность либо кратковременное помутнение сознания. Припадки также могут "
+"сопровождаться потерей сознания или конвульсиями, в результате которых можно "
+"упасть или удариться о находящиеся рядом предметы и получить травму.\n"
+"\n"
+"Если вы обнаружили у себя любой из этих симптомов, немедленно прекратите "
+"играть и проконсультируйтесь с врачом. Родители должны следить за состоянием "
+"детей и спрашивать у них о наличии вышеописанных симптомов, так как дети и "
+"подростки более подвержены таким приступам, чем взрослые.\n"
+"\n"
+"Риск возникновения эпилептических припадков, связанных с повышенной "
+"чувствительностью к свету, можно снизить, если принять следующие меры:\n"
+"\n"
+"сидеть как можно дальше от экрана, использовать экран с меньшей диагональю, "
+"играть в хорошо освещенной комнате, не играть в сонном или усталом "
+"состоянии. Если вы или ваши родственники страдаете припадками или "
+"эпилепсией, перед началом игры обязательно проконсультируйтесь с врачом."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "ПРЕДУПРЕЖДЕНИЕ О ВОЗМОЖНОМ ВРЕДЕ ДЛЯ ЗДОРОВЬЯ ПРИ ИГРЕ В ВИДЕОИГРЫ"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|Я соглашаюсь с тем, что мои данные будут переданы третьим лицам в "
+"целях отображения избирательного рекламного контента во вселенной игры, в "
+"соответствии со страной моего местонахождения и сферой моих интересов."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|Если данная опция отключена, вы всё равно увидите рекламу во "
+"вселенной игры, но она не будет соответствовать вашим интересам."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|ПОЛИТИКА ОБ ОБРАБОТКЕ И ЗАЩИТЕ ПЕРСОНАЛЬНЫХ ДАННЫХ"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|Параметры конфиденциальности"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|Загрузка"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"|Map style description|Обычно сложные трассы, содержащие препятствия, "
+"которые нужно преодолевать на низкой скорости."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|В большинстве случаев эти трассы основаны на "
+"единственном препятствии, которое часто требует удачи, чтобы пройти его "
+"успешно."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr ""
+"|Map style description|Эти трассы предназначены для игры без отпускания "
+"педали газа. Перейти на полное ускорение!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"|Map style description|Эти трассы построены на единой решительной идее или "
+"концепте, делающее их легко узнаваемыми."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr ""
+"|Map style description|Эти трассы, в большинстве случаев, весёлые "
+"дополнительные карты в конце кампании."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr ""
+"|Map style description|Эти трассы созданы в природных зонах. Не потеряйтесь!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr ""
+"|Map style description|Эти трассы содержат множество ловушек и прыжков. "
+"Смотрите вниз!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr ""
+"|Map style description|Эти трассы содержат много поворотов, U-поворотов, и "
+"зоны торможения."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr ""
+"|Map style description|Эти трассы содержат огромные прыжки, петли и езду по "
+"стенам."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|Эти трассы требуют просто финишировать с лучшим "
+"временем. Нет возни, нет суеты, просто гонки!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr ""
+"|Map style description|Эти трассы предлагают длинные прямые линии, часто "
+"заполненные препятствиями."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"|Map style description|На этих трассах, вам нужно только держать педаль "
+"газа, ничего больше не трогая."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "|MapEditorDevice|Контроллер"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "|MapEditorDevice|Мышь и клавиатура"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "|MapEditorDifficulty|Расширенный"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "|MapEditorDifficulty|Простой"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|День"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Ночь"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Восход"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Закат"
+
+msgid "|Map|Browse"
+msgstr "|Map|Посмотреть"
+
+msgid "|Map|Delete"
+msgstr "|Map|Удалить"
+
+msgid "|Map|Edit"
+msgstr "|Map|Редактировать"
+
+msgid "|Map|Move"
+msgstr "|Map|Переместить"
+
+msgid "|Map|New"
+msgstr "|Map|Новая"
+
+msgid "|Match|Draw"
+msgstr "|Match|Ничья"
+
+msgid "|Medal|Finished"
+msgstr "|Medal|Финиш"
+
+msgid "|Medal|None"
+msgstr "|Medal|Ничего"
+
+msgid "|Menu|Local"
+msgstr "|Menu|Локальные"
+
+msgid "|Monday|M"
+msgstr "|Monday|П"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|Апр %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|Авг %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|Дек %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|Фев %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|Янв %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|Июл %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|Июн %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|Мар %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|Май %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|Ноя %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|Окт %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|Сен %1"
+
+msgid "|Month|April"
+msgstr "|Month|Апрель"
+
+msgid "|Month|August"
+msgstr "|Month|Август"
+
+msgid "|Month|December"
+msgstr "|Month|Декабрь"
+
+msgid "|Month|February"
+msgstr "|Month|Февраль"
+
+msgid "|Month|January"
+msgstr "|Month|Январь"
+
+msgid "|Month|July"
+msgstr "|Month|Июль"
+
+msgid "|Month|June"
+msgstr "|Month|Июнь"
+
+msgid "|Month|March"
+msgstr "|Month|Март"
+
+msgid "|Month|May"
+msgstr "|Month|Май"
+
+msgid "|Month|November"
+msgstr "|Month|Ноябрь"
+
+msgid "|Month|October"
+msgstr "|Month|Октябрь"
+
+msgid "|Month|September"
+msgstr "|Month|Сентябрь"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|Камера"
+
+msgid "|Navigation|Back"
+msgstr "|Navigation|Назад"
+
+msgid "|News|Body"
+msgstr "|News|Содержание"
+
+msgid "|News|Headline"
+msgstr "|News|Заголовок"
+
+msgid "|News|Title"
+msgstr "|News|Титул"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|крестовина"
+
+msgid "|PC|the left stick"
+msgstr "|PC|левый стик"
+
+msgid "|PC|the right stick"
+msgstr "|PC|правый стик"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|Круг"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|Крест"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|крестовина"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|левый стик"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|правый стик"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|ЛВ"
+
+msgid "|Points|pts"
+msgstr "|Points|очв"
+
+msgid "|Point|pt"
+msgstr "|Point|оч"
+
+msgid "|Press xx to start|Press"
+msgstr "|Press xx to start|Нажмите"
+
+msgid "|Press xx to start|to start"
+msgstr "|Press xx to start|для старта"
+
+msgid "|Race|Lap"
+msgstr "|Race|Круг"
+
+msgid "|Race|Laps"
+msgstr "|Race|Круги"
+
+msgid "|Race|Round"
+msgstr "|Race|Раунд"
+
+msgid "|RankingZone|Continent"
+msgstr "|RankingZone|Континент"
+
+msgid "|RankingZone|Country"
+msgstr "|RankingZone|Страна"
+
+msgid "|RankingZone|District"
+msgstr "|RankingZone|Округ"
+
+msgid "|RankingZone|Region"
+msgstr "|RankingZone|Регион"
+
+msgid "|RankingZone|World"
+msgstr "|RankingZone|Мир"
+
+msgid "|RankingZone|Zone"
+msgstr "|RankingZone|Зона"
+
+msgid "|Rank|from %1"
+msgstr "|Rank|от %1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|Выбрать другое оформление"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|Редактировать"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|Снять"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|Просмотреть"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|Настройки по умолчанию"
+
+msgid "|Role|Admin"
+msgstr "|Role|Администратор"
+
+msgid "|Role|Applicant"
+msgstr "|Role|Кандидат"
+
+msgid "|Role|Content creator"
+msgstr "|Role|Создатель контента"
+
+msgid "|Role|Creator"
+msgstr "|Role|Создатель"
+
+msgid "|Role|Member"
+msgstr "|Role|Участник"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|С"
+
+msgid "|Score|Point"
+msgstr "|Score|Очко"
+
+msgid "|Score|Points"
+msgstr "|Score|Очки"
+
+msgid "|Season|Autumn"
+msgstr "|Season|Осень"
+
+msgid "|Season|Spring"
+msgstr "|Season|Весна"
+
+msgid "|Season|Summer"
+msgstr "|Season|Лето"
+
+msgid "|Season|Winter"
+msgstr "|Season|Зима"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|Центральная Канада"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|Северо-западный Китай"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|Западная Европа"
+
+msgid "|Server|Live"
+msgstr "|Server|Сейчас"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|Быстро"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|Качество освещения"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|Хорошо"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|Бампер"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|Выключение двигателя"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|Сила ускорения"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|Повреждающий"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|Нет сцепления"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|Нет управления"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|Усиление реактора %1"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|Сброс"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|Замедление времени"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|Супер бампер"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|Супер усиление реактора %1"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|Супер турбо"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|Турбо"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|Ультра турбо"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|вниз"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|вверх"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|Все"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|Одиночная"
+
+msgid "|Status|Finalist"
+msgstr "|Status|Финалист"
+
+msgid "|Status|K.O."
+msgstr "|Status|Выбыл"
+
+msgid "|Status|K.O. #%1"
+msgstr "|Status|Выбыл #%1"
+
+msgid "|Status|Racing"
+msgstr "|Status|В гонке"
+
+msgid "|Status|Winner"
+msgstr "|Status|Победитель"
+
+msgid "|Streamer|Channel"
+msgstr "|Streamer|Канал"
+
+msgid "|Streaming|Platform"
+msgstr "|Streaming|Платформа"
+
+msgid "|Subscription|Ends on"
+msgstr "|Subscription|Заканчивается"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|В"
+
+msgid "|Tabs|Clubs"
+msgstr "|Tabs|Клубы"
+
+msgid "|Tabs|Create"
+msgstr "|Tabs|Создать"
+
+msgid "|Tabs|Live"
+msgstr "Онлайн"
+
+msgid "|Tabs|Local"
+msgstr "Локально"
+
+msgid "|Tabs|Solo"
+msgstr "|Tabs|Соло"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|Ч"
+
+msgid "|Time|Best"
+msgstr "|Time|Лучшее"
+
+msgid "|Time|Previous"
+msgstr "|Time|Предыдущее"
+
+msgid "|Track|Block"
+msgstr "|Track|Блок"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|В"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|Нет"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|Да"
+
+msgid "|Verb|Stay"
+msgstr "|Verb|Остаться"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|Кликните, чтобы выбрать слот"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|Внимание"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|С"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|Новая трасса"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|Редактировать трассу"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|крестовина"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|левый стик"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|правый стик"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|Европа"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|Средний Восток"
+
+msgid "|Zone|North America"
+msgstr "|Zone|Северная Америка"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|Океания"
+
+msgid "|Zone|South America"
+msgstr "|Zone|Южная Америка"
+
+msgid "|Zone|World"
+msgstr "|Zone|Мир"
+
+msgid "|plural 4 letters max|mins"
+msgstr "|plural 4 letters max|мин"
+
+msgid "|singular 3 letters max|min"
+msgstr "|singular 3 letters max|мин"

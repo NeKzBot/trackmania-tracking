@@ -1,0 +1,5256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trackmania\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-07-01 11:21+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Polish, Poland\n"
+"Language: pl-PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+
+msgid "$%1Author"
+msgstr "$%1Autor"
+
+msgid "$<%1$> is King of the Lobby!"
+msgstr "$<%1$> jest Królem poczekalni!"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$> jest teraz %2%3!"
+
+msgid "$<%1$> joined the game"
+msgstr "$<%1$> dołącza do gry"
+
+msgid "$<%1$> left the game"
+msgstr "$<%1$> opuszcza grę"
+
+msgid "$<%1$> takes %2 place!"
+msgstr "$<%1$> zajmuje %2 miejsce!"
+
+msgid "$<%1$> wins step %2"
+msgstr "$<%1$> wygrywa etap %2"
+
+msgid "$<%1$> wins the map!"
+msgstr "$<%1$> wygrywa mapę!"
+
+msgid "$<%1$> wins the match!"
+msgstr "$<%1$> wygrywa rozgrywkę!"
+
+msgid "$<%1$> wins the round!"
+msgstr "$<%1$> wygrywa rundę!"
+
+msgid "$f00%1 players will be eliminated"
+msgstr "$f00%1 graczy zostanie wyeliminowanych"
+
+msgid "$f001 player will be eliminated"
+msgstr "$f001 gracz zostanie wyeliminowany"
+
+msgid "$f90No elimination this round"
+msgstr "$f90Brak eliminacji w tej rundzie"
+
+msgid ""
+"$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
+"\n"
+"You play a series of races as in Round mode. $<$t$6F9At the end of each "
+"race, the last players are eliminated$>!\n"
+"\n"
+"The winner is the player who eliminates all of their opponents."
+msgstr ""
+"$zW trybie $<$t$6F9Eliminacji$>, celem jest przetrwanie do samego końca.  \n"
+" \n"
+"Rozgrywana jest seria wyścigów w trybie rund. $<$t$6F9Na końcu każdego "
+"wyścigu ostatni gracze zostają wyeliminowani$>! \n"
+"\n"
+"Zwycięzcą jest gracz który wyeliminuje wszystkich przeciwników."
+
+msgid ""
+"$zIn $<$t$6F9Laps$> mode, the goal is to drive as far as possible by passing "
+"$<$t$6F9checkpoints$>.\n"
+"\n"
+"The laps mode takes place on multilap (cyclical) maps, and is played in one "
+"go for every map.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player who passed the most "
+"$<$t$6F9checkpoints$>. In case of draws, the winner is the player who passed "
+"the last checkpoint first."
+msgstr ""
+"$zW trybie $<$t$6F9okrążeń$>, celem jest przejechanie trasy jak najdalej "
+"przekraczając $<$t$6F9punkty kontrolne$>. \n"
+" \n"
+"Tryb okrążeń odbywa się na mapach z wieloma okrążeniami (cykliczne) i każda "
+"trasa jest rozgrywana tylko raz. \n"
+" \n"
+"Kiedy czas dobiegnie końca, $<$t$6F9zwycięzcą$> zostaje gracz który "
+"przekroczył największą ilość $<t$6F9punktów kontrolnych$>. W przypadku "
+"remisów, zwycięzcą zostaje gracz który przekroczył ostatni punkt kontrolny "
+"pierwszy."
+
+msgid ""
+"$zIn $<$t$6F9Rounds$z$z$> mode, the goal is to win a maximum number of $<$t"
+"$6F9points.\n"
+"\n"
+"$z$>The rounds mode consists of $<$t$6F9a series of races$z$>.\n"
+"When you finish a race in a good $<$t$6F9position$z$>, you get $<$t$6F9points"
+"$z$>, added to your total.\n"
+"\n"
+"The $<$t$6F9winner$z$> is the first player whose total reaches the $<$t"
+"$6F9point limit$z$> (30 for example)."
+msgstr ""
+"$zW trybie $<$t$6F9rund$z$z$> celem jest zdobycie jak największej ilość $<$t"
+"$6F9punktów.\n"
+"\n"
+"$z$>Tryb rund składa się z $<$t$6F9serii wyścigów$z$>. \n"
+"Kiedy ukończysz wyścig na dobrej $<$t$6F9pozycji$z$z>, zdobędziesz $<$t"
+"$6F9punkty$z$>, dodane do twojej całości. \n"
+" \n"
+"$<$t$6F9Zwycięzcą$z$> jest gracz który osiągnie $<$t$6F9limit punktów$z$> "
+"(na przykład 30)."
+
+msgid ""
+"$zIn $<$t$6F9Team$> mode, you have to choose a team : $<$t$f00Red$> or $<$t"
+"$10cBlue$>.\n"
+"\n"
+"The team mode mode consists of $<$t$6F9a series of races$>.\n"
+"The goal for your team is to win a maximum number of $<$t$6F9points$>.\n"
+"\n"
+"When you finish a race with a good $<$t$6F9position$>, you give $<$t"
+"$6F9points$> to your team.\n"
+"The $<$t$6F9winning team$> is the first team whose total reaches the $<$t"
+"$6F9point limit$> (5 for example)."
+msgstr ""
+"$zW trybie $<$t$6F9drużynowym$> musisz wybrać drużynę:\n"
+"$<$t$f00czerwoną$> lub $<$t$10cniebieską$>.\n"
+"\n"
+"Tryb drużynowy składa się z $<$t$6F9serii wyścigów$>. \n"
+"Celem twojej drużyny jest zdobycie jak największej ilości $<$t$6F9punktów"
+"$>. \n"
+"\n"
+"Kiedy ukończysz wyścig z dobrą $<$t$6F9pozycją$>, twoja drużyna dostanie $<$t"
+"$6F9punkty$>. \n"
+"$<$t$6F9Zwycięska drużyna$> to ta która osiągnie $<$t$6F9limit punktów$> (na "
+"przykład 5)."
+
+msgid ""
+"$zIn $<$t$6F9Time Attack$> mode, the goal is to set the $<$t$6F9best time"
+"$>.\n"
+"\n"
+"You have as many tries as you want, and you can $<$t$6F9retry$> when you "
+"want by pressing the respawn key.\n"
+"\n"
+"When the time is up, the $<$t$6F9winner$> is the player with the $<$t"
+"$6F9best time$>."
+msgstr ""
+"$zW trybie $<$t$6F9wyścigu z czasem$>, celem jest ustawienie $<$t"
+"$6F9najlepszego czasu$>. \n"
+"\n"
+"Masz nieskończoną ilość prób i możesz $<$t$6F9zrestartować$> kiedy chcesz "
+"naciskając klawisz odrodzenia. \n"
+"\n"
+"Kiedy czas dobiegnie do końca $<$t$6F9zwycięzcą$> jest gracz z $<$t"
+"$6F9najlepszym czasem$>."
+
+msgid ""
+"$zThe cup mode consists of $<$t$6F9a series of races on multiple maps$>.\n"
+"\n"
+"When you finish a race in a good $<$t$6F9position$>, you get $<$t$6F9points"
+"$> added to your total.\n"
+"Servers might propose warmup races to get familiar with a map first.\n"
+"\n"
+"To win, you must first reach the $<$t$6F9point limit$> to become a $<$t"
+"$6F9finalist$>. Once you are a finalist, you must finish a race in $<$t"
+"$6F9first position$> to win the cup.The cup mode ends once 3 players have "
+"managed to become finalists and to finish first."
+msgstr ""
+"$zTryb pucharu składa się $<$t$6F9serii wyścigów na przeróżnych mapach$>. \n"
+" \n"
+"Kiedy ukończysz wyścig na dobrej $<$t$6F9pozycji$>, zdobędziesz $<$t"
+"$6F9punkty$> dodane do twojej całości punktów. \n"
+"Serwery mogą zaproponować rozgrzewkę aby można było się zapoznać z trasą. \n"
+" \n"
+"Aby wygrać, musisz najpierw osiągnąć $<$t$6F9limit punktów$> aby stać się $<"
+"$t$6F9finalistą$>.Kiedy już będziesz finalistą, musisz ukończyć wyścig na $<"
+"$t$6F9pierwszej pozycji$> aby wygrać puchar. Tryb pucharu zakończy się kiedy "
+"3 graczy osiągnie status finalisty i wygrają wyścig jako pierwsi."
+
+msgid "%1 is not a Stadium map"
+msgstr "%1 nie jest mapą ze Stadionu"
+
+msgid "%1 is not playable"
+msgstr "%1 nie jest grywalna"
+
+msgid "%1 map"
+msgstr "%1 mapa"
+
+msgid "%1 maps"
+msgstr "%1 mapy"
+
+msgid "%1 players"
+msgstr "%1 graczy"
+
+msgid "%1 replays selected"
+msgstr "Zaznaczonych powtórek: %1"
+
+msgid "%1 until %2 Players"
+msgstr "%1 pozostało do %2 graczy"
+
+msgid "%1$<%2$> canceled match start."
+msgstr "%1$<%2$> zatrzymał rozpoczęcie rozgrywki."
+
+msgid "%1$<%2$> join a match."
+msgstr "%1$<%2$> dołączył do rozgrywki"
+
+msgid "%1$<%2$> joined his match as a substitute."
+msgstr "%1$<%2$> dołączył do swojej rozgrywki w zastępstwie."
+
+msgid "%1's server"
+msgstr "Serwer gracza %1"
+
+msgid "%1Best CP %2"
+msgstr "%1Najlepszy PK %2"
+
+msgid "%1Best race"
+msgstr "%1 Najlepszy wyścig"
+
+msgid "%1Personal best"
+msgstr "%1Osobisty rekord"
+
+msgid "1 player"
+msgstr "1 gracz"
+
+msgid "16th final"
+msgstr "Finał szesnastkowy"
+
+msgid "8th final"
+msgstr "Finał ósemkowy"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "SPECJALIŚCI DOSTĘPNOŚCI"
+
+msgid "ACCOUNT MANAGER"
+msgstr "MENADŻER KONT"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "KOORDYNATOR OCENY WIEKOWEJ"
+
+msgid "ANALYST"
+msgstr "ANALITYK"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "ANALITYKI, WSPARCIE KLIENTA NCSA"
+
+msgid "ART DIRECTOR"
+msgstr "DYREKTOR ARTYSTYCZNY"
+
+msgid "ARTISTS"
+msgstr "ARTYŚCI"
+
+msgid "ASSISTANT MANAGER"
+msgstr "ASYSTENT MENADŻERA"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "ZASTĘPCA DYREKTORA"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "DYREKTOR STOWARZYSZONY ROZWOJU SPOŁECZNOŚCI"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "DYREKTOR STOWARZYSZONY CRM"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "DYREKTOR STOWARZYSZONY, KOMUNIKACJA, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "DYREKTOR STOWARZYSZONY, STRATEGIA OPERACYJNA"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "STOWARZYSZONY KOORDYNATOR LIVE"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "ASSOCIATE LEAD WYMAGAŃ SPRZĘTOWYCH"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "STOWARZYSZONY PRODUCENT"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "STOWARZYSZONY DYREKTOR TECHNICZNY"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "STOWARZYSZENIE PROJEKTORA UX  "
+
+msgid "Accept"
+msgstr "Akceptuj"
+
+msgid "Activate"
+msgstr "Aktywuj"
+
+msgid "Activities"
+msgstr "Aktywności"
+
+msgid "Activities must have a name."
+msgstr "Aktywności muszą posiadać nazwę."
+
+msgid "Activity"
+msgstr "Aktywność"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Add to favorite"
+msgstr "Dodaj do ulubionych"
+
+msgid "Adding map to queue..."
+msgstr "Dodawanie mapy do kolejki..."
+
+msgid "Administration"
+msgstr "Administracja"
+
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+msgid "Against replay"
+msgstr ""
+"Przeciwko\n"
+"powtórce"
+
+msgid "All clubs"
+msgstr "Wszystkie kluby"
+
+msgid "All fields must be completed"
+msgstr "Musisz wypełnić wszystkie pola"
+
+msgid "Allies"
+msgstr "Sojusznicy"
+
+msgid "Ally"
+msgstr "Sojusznik"
+
+msgid "An error occured while joining, please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas dołączania, proszę spróbować później. (Kod błędu: %1)"
+
+msgid ""
+"An error occurred while fetching the next match. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Wystąpił błąd podczas odświeżania informacji o następnej rozgrywce. Proszę "
+"spróbować ponownie. (Kod błędu: %1)"
+
+msgid ""
+"An error occurred while retrieving your accounts, please try again. (Error "
+"code: %1)"
+msgstr ""
+"Błąd podczas pobierania kont, proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid "An error occurred, please try again. (Error: %1)"
+msgstr "Wystąpił błąd, proszę spróbować ponownie. (Błąd: %1)"
+
+msgid "Any modification done on this terrain will be lost."
+msgstr "Modyfikacje tego terenu zostaną stracone."
+
+msgid "Any unsaved modification done on this track will be lost."
+msgstr "Nie zapisane modyfikacje na tej trasie zostaną stracone."
+
+msgid "Apply"
+msgstr "Zastosuj"
+
+msgid "Apply skin"
+msgstr "Zastosuj skin"
+
+msgid "Arcade"
+msgstr "Salon Gier"
+
+msgid "Are you really sure you want to %1?"
+msgstr "Czy jesteś pewien że chcesz %1?"
+
+msgid "Are you really sure you want to leave the match?"
+msgstr "Czy na pewno chcesz opuścić rozgrywkę?"
+
+msgid "Are you sure you want to create a new track?"
+msgstr "Czy na pewno chcesz stworzyć nową trasę?"
+
+msgid "Are you sure you want to delete your club?"
+msgstr "Czy na pewno chcesz usunąć swój klub?"
+
+msgid "Are you sure you want to edit the decoration?"
+msgstr "Czy na pewno chcesz edytować tę dekorację?"
+
+msgid "Are you sure you want to edit this track?"
+msgstr "Czy na pewno chcesz edytować tę trasę?"
+
+msgid "Are you sure you want to generate another track?"
+msgstr "Czy na pewno chcesz wygenerować kolejną trasę?"
+
+msgid "Are you sure you want to leave the editor?"
+msgstr "Czy na pewno chcesz opuścić edytor?"
+
+msgid "Are you sure you want to quit Trackmania?"
+msgstr "Czy na pewno chcesz wyjść z Trackmanii?"
+
+msgid "Are you sure you want to select another terrain?"
+msgstr "Czy na pewno chcesz wybrać inny teren?"
+
+msgid ""
+"At the end of you 3 years period, keep the 300 officials maps,\n"
+"the 1095 tracks of the day, and the advanced track editor"
+msgstr ""
+"Na końcu swojej trzyletniej subskrypcji zatrzymasz 300 oficjalnych map, \n"
+"1095 tras dnia, oraz zaawansowany edytor map"
+
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"Na końcu swojej rocznej subskrypcji zatrzymasz 100 oficjalnych map,\n"
+"365 tras dnia oraz zaawansowany edytor map"
+
+msgid "Author"
+msgstr "Autora"
+
+msgid "Author medal"
+msgstr "Medal autora"
+
+msgid "Author time"
+msgstr "Czas autora"
+
+msgid "Auto-finish"
+msgstr "Auto-dokańczanie"
+
+msgid "Automatic retry in %1 second."
+msgstr "Automatyczne ponawianie za %1s."
+
+msgid "Automatic retry in %1 seconds."
+msgstr "Automatyczne ponawianie za %1s."
+
+msgid "Average lap"
+msgstr "Średni czas okr."
+
+msgid "Average waiting time"
+msgstr "Średni czas oczekiwania"
+
+msgid "BRAND DIRECTOR"
+msgstr "DYREKTOR MARKI"
+
+msgid "BRAND MANAGER"
+msgstr "DYREKTOR DS. MARKI"
+
+msgid "BUSINESS ANALYST"
+msgstr "ANALITYK BIZNESOWY"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "KOORDYNATOR DZIAŁALNOŚCI BIZNESOWEJ"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "KIEROWNIK OPERACJI BIZNESOWYCH"
+
+msgid "Back"
+msgstr "Powrót"
+
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Tło: obraz na tle twojego klubu. \n"
+"Wymiary: %1 - Format: PNG, JPEG lub DDS (DXT5)"
+
+msgid "Balance teams"
+msgstr "Zrównoważ zespoły"
+
+msgid ""
+"Be careful! This block disable your engine until you cross a new checkpoint."
+msgstr ""
+"Ostrożnie! Ten blok wyłącza twój silnik do momentu przejechania przez nowy "
+"punkt kontrolny."
+
+msgid "Be in the top %1"
+msgstr "Bądź w czołowej %1"
+
+msgid "Best lap"
+msgstr "Najlepsze okr."
+
+msgid "Best lap $fff(%1)$g %2"
+msgstr "Najlepsze okrążenie $fff(%1)$g %2"
+
+msgid "Best lap: %1"
+msgstr "Najlepsze okrążenie: %1"
+
+msgid "Best time :"
+msgstr "Najlepszy czas :"
+
+msgid "Black"
+msgstr "Czarny"
+
+msgid "Block selection"
+msgstr "Wybór bloków"
+
+msgid "Blocked by the terrain"
+msgstr "Zablokowane przez teren"
+
+msgid "Blue"
+msgstr "Niebieski"
+
+msgid "Bronze"
+msgstr "Brązowy"
+
+msgid "Bronze medal"
+msgstr "Brązowy medal"
+
+msgid "Browse"
+msgstr "Przeglądaj"
+
+msgid "Build your track and place a finish block to complete it."
+msgstr "Zbuduj swoją trasę i zakończ ją blokiem mety."
+
+msgid "By %1"
+msgstr "Od %1"
+
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "GŁÓWNY KIEROWNIK"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "MENADŻER PRODUKTU NA CHINY"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "MENADŻER KOMUNIKACJI, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "DYREKTOR KOMUNIKACJI"
+
+msgid "COMMUNITY"
+msgstr "SPOŁECZNOŚĆ"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "PROJEKTANT TREŚCI SPOŁECZNOŚCI"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "PRODUCENT TREŚCI SPOŁECZNOŚCI"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "SPECJALISTA ZAWARTOŚCI SPOŁECZNOŚCI"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "STRATEG TREŚCI SPOŁECZNOŚCIOWYCH"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "ZARZĄDZANIE SPOŁECZNOŚCIĄ"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "ZESPÓŁ ZARZĄDZANIA SPOŁECZNOŚCIĄ"
+
+msgid "COMMUNITY MANAGER"
+msgstr "MENEDŻER SPOŁECZNOŚCI"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SPECJALISTA SENTYMENTU SPOŁECZNOŚCI"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "LIDER ZESPOŁU SPOŁECZNOŚCI"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "MENADŻER ZESPOŁU SPOŁECZNOŚCI OPERACJI NA ŻYWO"
+
+msgid "COMPOSER"
+msgstr "KOMPOZYTOR"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "KIEROWNIK OBSZARÓW DOŚWIADCZEŃ KONSUMENTÓW, AZJA"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "KIEROWNIK DOŚWIADCZEŃ KONSUMENTÓW"
+
+msgid "CONTENT DIRECTOR"
+msgstr "DYREKTOR ZAWARTOŚCI"
+
+msgid "CONTENT MANAGER"
+msgstr "MENEDŻER TREŚCI"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "DYREKTOR KREATYWNY"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "KREATYWNY INŻYNIER PRZEDNI"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "ANALITYK DANYCH CRM"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "GRAFIK CRM"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "SPECJALISTA INTEGRACJI CRM"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "LIDER ZESPOŁU INTEGRACJI CRM "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "ASYSTENT CYKLU CRM"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "SPECJALISTA CYKLU CRM"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "SPECJALISTA WIELOKANAŁOWY CRM"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "MENADŻER OPERACJI CRM"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "SPECJALISTA OPERACJI CRM"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "ASYSTENT SPECJALISTY OPERACJI CRM"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "MENADŻER WYDAJNOŚCI CRM"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "MENADŻER PROGRAMOWANIA CRM"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "MENADŻER DOŚWIADCZEŃ KLIENTA"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "DYREKTOR STOWARZYSZONY WSPARCIA KLIENTA"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "DYREKTOR STOWARZYSZONY DEWELOPERÓW WSPARCIA KLIENTA"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "ZESPÓŁ WIEDZY WSPARCIA KLIENTA"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "ZESPÓŁ DEWELOPERÓW I NAUCZANIA WSPARCIA KLIENTA"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "ZESPÓŁ ZAPEWNIENIA JAKOŚCI WSPARCIA KLIENTA"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "SENIOR MENADŻER WIEDZY WSPARCIA KLIENTA"
+
+msgid "Campaign"
+msgstr "Kampania"
+
+msgid "Campaign creation"
+msgstr "Tworzenie kampanii"
+
+msgid "Campaign edition"
+msgstr "Edycja kampanii"
+
+msgid "Campaign library"
+msgstr "Biblioteka kampanii"
+
+msgid "Campaign's name"
+msgstr "Nazwa kampanii"
+
+msgid "Can't place any block from this family, try another one"
+msgstr "Nie można postawić bloku z tej kategorii, spróbuj inny"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Cancel request"
+msgstr "Anuluj prośbę"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Champion mode"
+msgstr "Tryb mistrzów"
+
+msgid "Change map"
+msgstr "Zmień mapę"
+
+msgid "Change opponents"
+msgstr "Zmień przeciwników"
+
+msgid "Change team"
+msgstr "Zmień drużynę"
+
+msgid "Change the building mode"
+msgstr "Zmień tryb budowy"
+
+msgid "Change the connection mode"
+msgstr "Zmień tryb łączności"
+
+msgid "Chat time"
+msgstr "Czas czatu"
+
+msgid "Choose a campaign to use"
+msgstr "Wybierz kampanię"
+
+msgid "Choose a mode"
+msgstr "Wybierz tryb"
+
+msgid "Choose a skin"
+msgstr "Wybierz skina"
+
+msgid ""
+"Choose the proportion of each decoration style then press the \"generate\" "
+"button. When you are satisfied with your decoration you can validate your "
+"track."
+msgstr ""
+"Wybierz proporcję dla każdego stylu dekoracji i wciśnij przycisk \"generuj"
+"\". Kiedy będziesz zadowolony swoją dekoracją możesz zweryfikować trasę."
+
+msgid ""
+"Choose what kind of decoration you want and generate it. When you find one "
+"that pleases you, you can validate your track."
+msgstr ""
+"Wybierz rodzaj dekoracji i wygenerują ją. Kiedy znajdziesz tą która ci "
+"pasuje, możesz zweryfikować swoją trasę."
+
+msgid "Choose your team"
+msgstr "Wybierz swoją drużynę"
+
+msgid "Clan"
+msgstr "Klan"
+
+msgid "Click on a player to invite them to your party."
+msgstr "Kliknij na gracza, żeby zaprosić go do grupy."
+
+msgid "Click on a player to join their party."
+msgstr "Kliknij na gracza, żeby dołączyć do jego grupy."
+
+msgid "Click on a player to set them as ally."
+msgstr "Kliknij na gracza, żeby wybrać go jako sojusznika."
+
+msgid "Click on the UI modules to edit their properties"
+msgstr "Kliknij na moduły interfejsu, aby edytować ich właściwości"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Club"
+msgstr "Klub"
+
+msgid "Club background deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie klubowego tła nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club background edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja klubowego tła nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club campaigns"
+msgstr "Kampanie klubowe"
+
+msgid "Club coming soon!"
+msgstr "Kluby dostępne wkrótce!"
+
+msgid "Club creation"
+msgstr "Tworzenie klubów"
+
+msgid "Club creation failed. Please try again. (Error %1)"
+msgstr ""
+"Utworzenie klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club decal deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Wystąpił błąd podczas usuwania naklejki klubowej. Proszę spróbować ponownie. "
+"(Błąd %1)"
+
+msgid "Club decal edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja naklejki klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie naklejki sponsora nie powiodło się. Proszę spróbować ponownie. "
+"(Błąd %1)"
+
+msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja naklejki sponsora nie powiodła się. Proszę spróbować ponownie. (Błąd "
+"%1)"
+
+msgid "Club decal upload failed. Please try again. (Error %1)"
+msgstr ""
+"Wystąpił błąd podczas przesyłania naklejki klubowej. Proszę spróbować "
+"ponownie. (Błąd %1)"
+
+msgid "Club deletion failed. Please try again. (Error %1)"
+msgstr "Usunięcie klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club edition"
+msgstr "Edycja klubu"
+
+msgid "Club logo deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usunięcie logo klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club logo edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja logo klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club logo upload failed. Please try again. (Error %1)"
+msgstr ""
+"Przesyłanie logo klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club rooms"
+msgstr "Pokoje klubów"
+
+msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie ekranu 16X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club screen 16 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja ekranu 16X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie ekranu 2X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club screen 2 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja ekranu 2X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie ekranu 8X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club screen 8 edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja ekranu 8X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club skins"
+msgstr "Klubowe skiny"
+
+msgid "Club update failed. Please try again. (Error %1)"
+msgstr ""
+"Aktualizacja klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
+
+msgid "Club vertical deletion failed. Please try again. (Error %1)"
+msgstr ""
+"Usuwanie pionowego obrazu klubu nie powiodło się. Proszę spróbować ponownie. "
+"(Błąd %1)"
+
+msgid "Club vertical edition failed. Please try again. (Error %1)"
+msgstr ""
+"Edycja pionowego obrazu klubu nie powiodła się. Proszę spróbować ponownie. "
+"(Błąd %1)"
+
+msgid "Clubs"
+msgstr "Kluby"
+
+msgid "Collect lottery tickets, everyone can participate!"
+msgstr "Zbieraj bilety loterii, każdy może uczestniczyć!"
+
+msgid "Coming soon!"
+msgstr "Dostępne Wkrótce!"
+
+msgid "Comment"
+msgstr "Komentarz"
+
+msgid "Compete every week in the national league"
+msgstr "Rywalizuj co tydzień w lidze narodowej"
+
+msgid "Compete in the open grand league"
+msgstr "Rywalizuj w lidze Grand League"
+
+msgid "Competition"
+msgstr "Wydarzenie"
+
+msgid "Concept"
+msgstr "Koncepcja"
+
+msgid "Confirm"
+msgstr "Potwierdź"
+
+msgid "Confirm your choice"
+msgstr "Potwierdź swój wybór"
+
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+msgid "Connect"
+msgstr "Połącz"
+
+msgid "Connection timed out"
+msgstr "Przekroczono limit czasu połączenia"
+
+msgid "Connector selection"
+msgstr "Wybieranie łączników"
+
+msgid "Continue"
+msgstr "Kontynuuj"
+
+msgid "Copy"
+msgstr "Kopiuj"
+
+msgid "Copy and connect"
+msgstr "Kopiuj i połącz"
+
+msgid "Copy server link"
+msgstr "Kopiuj łącze do serwera"
+
+msgid "Could not connect to the Trackmania servers."
+msgstr "Nie udało się nawiązać połączenia z serwerami Trackmani."
+
+msgid "Could not load records"
+msgstr "Wczytywanie rekordów nie powiodło się"
+
+msgid "Create"
+msgstr "Utwórz"
+
+msgid "Create a new map"
+msgstr "Stwórz nową mapę"
+
+msgid "Create a new skin"
+msgstr "Stwórz nowego skina"
+
+msgid "Create activity"
+msgstr "Stwórz aktywność"
+
+msgid "Create campaign"
+msgstr "Stwórz kampanie"
+
+msgid "Create club"
+msgstr "Stwórz klub"
+
+msgid "Create map"
+msgstr "Stwórz mapę"
+
+msgid "Create map uploads"
+msgstr "Stwórz przesyłanie map"
+
+msgid "Create room"
+msgstr "Stwórz pokój"
+
+msgid "Create skin uploads"
+msgstr "Stwórz przesyłanie skinów"
+
+msgid "Create the map of the show"
+msgstr "Stwórz mapę dla tego show"
+
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"Twórz trasy z zaawansowanym edytorem tras i testuj je online  \n"
+"Twórz i udostępniaj swoje filmy z wyścigów bez limitów"
+
+msgid "Create your club and share your masterpieces"
+msgstr "Stwórz własny klub i udostępniaj w nim swoje dzieła"
+
+msgid "Create your tracks"
+msgstr "Stwórz swoje trasy"
+
+msgid "Creating activity..."
+msgstr "Tworzę aktywność..."
+
+msgid "Creating campaign..."
+msgstr "Tworzenie kampanii..."
+
+msgid "Creating club room..."
+msgstr "Tworzenie pokoju klubu..."
+
+msgid "Creating club..."
+msgstr "Tworzenie klubu..."
+
+msgid "Credits"
+msgstr "Twórcy"
+
+msgid "Cumulate team points :"
+msgstr "Skumuluj punkty drużyny :"
+
+msgid "Current map"
+msgstr "Aktualna mapa"
+
+msgid "Current match best score"
+msgstr "Najlepszy wynik rozgrywki"
+
+msgid "Current match score"
+msgstr "Obecny wynik rozgrywki"
+
+msgid "Current player"
+msgstr "Obecny gracz"
+
+msgid "Customization"
+msgstr "Personalizacja"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "Dostosuj swój pojazd przy użyciu swoich skórek bądź klubowych"
+
+msgid "Cut and paste"
+msgstr "Wytnij i kopiuj"
+
+msgid "DATA ANALYST"
+msgstr "ANALITYK DANYCH"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "MENADŻER JAKOŚCI I DEWELOPERÓW"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "TESTER DEWELOPERÓW"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "PUBLIKATOR TREŚCI CYFROWYCH"
+
+msgid "DIRECTOR"
+msgstr "DYREKTOR"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "DYREKTOR MEDIÓW & CRM, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "DYREKTOR ROZWOJU MARKI"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "DYREKTOR DOŚWIADCZENIA ODBIORCÓW"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "DYREKTOR, KOMUNIKACJA, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "DYREKTOR, ZAANGAŻOWANIE SPOŁECZNOŚCI, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "DYREKTOR, DOŚWIADCZENIA GRACZY"
+
+msgid "DIRECTORS"
+msgstr "DYREKTORZY"
+
+msgid "DUALSHOCK®4 Wireless Controller"
+msgstr "Kontroler bezprzewodowy DUALSHOCK®4"
+
+msgid "Daily Cup Knockout"
+msgstr "Codzienny Puchar Eliminacji"
+
+msgid "Daily cup"
+msgstr "Codzienny puchar"
+
+msgid "Daily rankings"
+msgstr "Ranking dzienny"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Deactivate"
+msgstr "Deaktywuj"
+
+msgid "Dead end"
+msgstr "Ślepy zaułek"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Naklejka sponsora: obraz widoczny na banerach sponsorskich otaczających "
+"drogę. \n"
+"Wymiary: %1 - Format: PNG, JPEG lub DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Naklejka: obraz widoczny na powierzchni drogi (na starcie, punkcie "
+"kontrolnym i mecie). \n"
+"Wymiary: %1 - Format: PNG, JPEG lub DDS (DXT5)"
+
+msgid "Decoration"
+msgstr "Dekoracja"
+
+msgid "Delete club"
+msgstr "Usuń klub"
+
+msgid "Deleting club..."
+msgstr "Usuwanie klubu..."
+
+msgid "Did you like this map?"
+msgstr "Czy podobała Ci się ta mapa?"
+
+msgid "Disable give up"
+msgstr "Wyłącz poddanie się"
+
+msgid "Do Not Show Again"
+msgstr "Nie pokazuj więcej"
+
+msgid "Do the best time before the end of the countdown."
+msgstr "Zdobądź najlepszy czas przed końcem odliczania."
+
+msgid "Do you want to create a cup with this map?"
+msgstr "Czy chcesz stworzyć puchar z tą trasą?"
+
+msgid "Do you want to generate another track or play this one?"
+msgstr "Czy chcesz grać na tej trasie lub wygenerować nową?"
+
+msgid "Do you want to improve the validation time?"
+msgstr "Czy chcesz poprawić czas weryfikacji?"
+
+msgid "Do you want to leave the random track generator?"
+msgstr "Czy na pewno chcesz opuścić generator losowych tras?"
+
+msgid "Do you want to place a checkpoint now?"
+msgstr "Czy chcesz teraz postawić punkt kontrolny?"
+
+msgid "Do you want to play a rematch?"
+msgstr "Czy chcesz rozegrać rewanż?"
+
+msgid "Do you want to quit the plugin or return to the editor?"
+msgstr "Czy chcesz opuścić ten plugin i wrócić do edytora?"
+
+msgid "Do you want to save your map using the following name?"
+msgstr "Czy chcesz zapisać swoją mapę z tą nazwą?"
+
+msgid "Do you want to stop the auto-finish?"
+msgstr "Czy na pewno chcesz przerwać auto-dokańczanie?"
+
+msgid "Do you want to validate the track now?"
+msgstr "Czy chcesz teraz zweryfikować trasę?"
+
+msgid "Don't forget to save your track!"
+msgstr "Nie zapomnij zapisać swojej trasy!"
+
+msgid "Download"
+msgstr "Pobierz"
+
+msgid "Draw of the lottery"
+msgstr "Losowanie loterii"
+
+msgid "Duel"
+msgstr "Pojedynek"
+
+msgid "Duration of one warm up"
+msgstr "Czas trwania jednej rozgrzewki"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "TECHNOLOGIA REDAKCYJNA"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "CENTRUM RELACJI Z KONSUMENTEM EMEA - ZESPÓŁ SPOŁECZNOŚCI"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "CENTRUM RELACJI Z KONSUMENTEM EMEA - ZESPÓŁ WSPARCIA GRACZY"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "ZARZĄD KLIENTÓW EMEA"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "ZESPÓŁ WIEDZY EMEA"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "INŻYNIER, OBSŁUGA KLIENTA NCSA"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "ARTYSTA ŚRODOWISKOWY"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "ASYSTENT WYKONAWCZY I KIEROWNIK HR"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "DYREKTOR WYKONAWCZY, STUDIO WORLDWIDE"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "PARTNERZY ZEWNĘTRZNI"
+
+msgid "Earn medals and track your progression in regional rankings"
+msgstr "Zdobywaj medale i śledź swój postęp w rankingu regionalnym"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Edit '%1'"
+msgstr "Edytuj '%1'"
+
+msgid "Edit a map"
+msgstr "Edytuj mapę"
+
+msgid "Edit a skin"
+msgstr "Edytuj skina"
+
+msgid "Edit activity '$<%1$>'"
+msgstr "Edytuj aktywność '$<%1$>'"
+
+msgid "Edit campaign"
+msgstr "Edytuj kampanię"
+
+msgid "Edit decoration"
+msgstr "Edytuj dekorację"
+
+msgid "Edit replay"
+msgstr "Edytuj powtórkę"
+
+msgid "Edit room"
+msgstr "Edytuj pokój"
+
+msgid "Edit room '%1'"
+msgstr "Edytuj pokój '%1'"
+
+msgid "Edit terrain"
+msgstr "Edytuj teren"
+
+msgid "Edit track"
+msgstr "Edytuj trasę"
+
+msgid "Editing activity..."
+msgstr "Edytuję aktywność..."
+
+msgid "Editing club room..."
+msgstr "Trwa edycja pokoju klubu..."
+
+msgid "Eighth (Press 8)"
+msgstr "Ósmy (Naciśnij 8)"
+
+msgid "End of warmup, match starting..."
+msgstr "Koniec rozgrzewki, rozpoczynanie rozgrywki..."
+
+msgid "Engine disabled"
+msgstr "Wyłączenie silnika"
+
+msgid "Enough players agreed to play a rematch."
+msgstr "Wystarczająca ilość osób zgodziła się na rewanż."
+
+msgid "Entry"
+msgstr "Wpis"
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid ""
+"Error while adding your map to the queue, please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas dodawania mapy do kolejki, proszę spróbować ponownie. (Kod "
+"błędu: %1)"
+
+msgid "Error while creating campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas tworzenia kampanii. Proszę spróbować ponownie. (Kod błędu %1)"
+
+msgid "Error while creating the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas tworzenia aktywności. Spróbuj ponownie. (Błąd: %1)"
+
+msgid "Error while creating the room. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas tworzenia pokoju, proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid "Error while editing the activity. Please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas edycji aktywności. Spróbuj ponownie. (Kod błędu: %1)"
+
+msgid "Error while editing the room. Please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas edycji pokoju. Proszę spróbować ponownie. (Kod błędu: "
+"%1)"
+
+msgid ""
+"Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
+msgstr ""
+"Błąd podczas wczytywania kampanii typu %1. Proszę spróbować ponownie. (Kod "
+"błędu: %2)"
+
+msgid ""
+"Error while fetching map list from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Błąd podczas pobierania listy map od Nadeo Services. Proszę spróbować "
+"ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas wczytywania comiesięcznych kampanii z Nadeo Services. "
+"Proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while fetching player position on maps in club rankings. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Błąd podczas wczytywania pozycji graczy na mapach w rankingach klubowych. "
+"Spróbuj ponownie. (Błąd: %1)"
+
+msgid ""
+"Error while fetching quarterly campaign from Nadeo Services. Please try "
+"again. (Error code: %1)"
+msgstr ""
+"Błąd podczas pobierania kwartalnych kampanii od Nadeo Services. Proszę "
+"spróbować ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while fetching the activity info, please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas odświeżania informacji o aktywnościach, proszę "
+"spróbować ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while fetching the server join link, please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas pobierania linku serwera, proszę spróbować ponownie. (Kod "
+"błędu: %1)"
+
+msgid "Error while gathering maps data. (Error code: %1)"
+msgstr "Błąd podczas zbierania danych map. (Kod błędu: %1)"
+
+msgid "Error while joining the server, please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas dołączania do serwera, proszę spróbować ponownie. (Kod "
+"błędu: %1)"
+
+msgid "Error while loading ranking (code: %1)"
+msgstr "Wystąpił błąd podczas wczytywania rankingu (Kod: %1)"
+
+msgid "Error while loading room details. (Error code: %1)"
+msgstr "Wystąpił błąd podczas ładowania naklejek pokoju. (Kod błędu: %1)"
+
+msgid "Error while loading room maps. (Error code: %1)"
+msgstr "Wystąpił błąd podczas ładowania map z pokoju. (Kod błędu: %1)"
+
+msgid ""
+"Error while loading scores from Nadeo Services. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Błąd podczas wczytywania wyników z Serwisów Nadeo. Proszę spróbować "
+"ponownie. (Kod błędu: %1)"
+
+msgid "Error while loading the campaign. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas wczytywania kampanii. Proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while loading the club of the campaign. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Wystąpił błąd podczas wczytywania klubu kampanii. Proszę spróbować ponownie. "
+"(Kod błędu: %1)"
+
+msgid "Error while loading trophies (code: %1)"
+msgstr "Wystąpił błąd podczas wczytywania trofeów (Kod: %1)"
+
+msgid ""
+"Error while updating club activities. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas aktualizowania aktywności klubu. Proszę spróbować ponownie. "
+"(Kod błędu %1)"
+
+msgid ""
+"Error while updating the news media logo. Please try again. (Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas aktualizowania logo dla wiadomości. Proszę spróbować "
+"ponownie. (Kod błędu: %1)"
+
+msgid ""
+"Error while updating the privacy of the activity. Please try again. (Error "
+"code: %1)"
+msgstr ""
+"Błąd podczas aktualizowania prywatności aktywności. Proszę spróbować "
+"ponownie. (Kod błędu %1)"
+
+msgid "Error while uploading maps, please try again. (Error code: %1)"
+msgstr "Błąd podczas wysyłania map, proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid "Error while uploading maps. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas przesyłania map. Proszę spróbować ponownie. (Kod błędu %1)"
+
+msgid ""
+"Error while uploading the activity logo. Please try again. (Error code: %1)"
+msgstr "Wystąpił błąd podczas przesyłania logo. Spróbuj ponownie. (Błąd: %1)"
+
+msgid ""
+"Error while uploading the room media. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas przesyłania mediów pokoju, proszę spróbować ponownie. (Kod "
+"błędu: %1)"
+
+msgid "Error while uploading your map, please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas wysyłania mapy, proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid "Error while uploading your media. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas przesyłania multimediów. Proszę spróbować ponownie. (Kod błędu "
+"%1)"
+
+msgid "Error while validating activity. Please try again. (Error code: %1)"
+msgstr ""
+"Błąd podczas weryfikacji aktywności. Proszę spróbować ponownie. (Kod błędu "
+"%1)"
+
+msgid "Events"
+msgstr "Wydarzenia"
+
+msgid "Exit"
+msgstr "Wyjście"
+
+msgid "F6 to cancel"
+msgstr "F6  aby anulować"
+
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "ANALITYK PLANOWANIA FINANSOWEGO"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "DYREKTOR DOTYCZĄCY PLANOWANIA FINANSOWEGO"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "PLANOWANIE FINANSOWE, OPERACJE STUDIA & QC"
+
+msgid "FRONT-END ENGINEER"
+msgstr "INŻYNIER PRZEDNI"
+
+msgid "Fifth (Press 5)"
+msgstr "Piąty (Naciśnij 5)"
+
+msgid "Finish timeout"
+msgstr "Maks. czas ukończ."
+
+msgid "First (Press 1)"
+msgstr "Pierwszy (Naciśnij 1)"
+
+msgid "Forced laps number"
+msgstr "Wymuszona Ilość okrążeń"
+
+msgid "Fourth (Press 4)"
+msgstr "Czwarty (Naciśnij 4)"
+
+msgid "Free for all"
+msgstr "Każdy na każdego"
+
+msgid "Friday"
+msgstr "Piątek"
+
+msgid "Fullspeed"
+msgstr "Pełna prędkość"
+
+msgid "Fusion with another server for more players"
+msgstr "Fuzja z innym serwerem dla większej liczby graczy"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECJALISTA AKTYWNOŚCI GRY, OBSŁUGA KLIENTA NCSA"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "BADANIA ANALITYCZNE W GRZE"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "WSPÓŁPRACOWNIK MENADŻERA OPERACJI SERWISOWYCH ORAZ GRY"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "MENADŻER OPERACJI SERWISOWYCH ORAZ GRY"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "SPECJALISTA OPERACJI SERWISOWYCH ORAZ GRY"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "GŁÓWNY MENADŻER CRC"
+
+msgid "GRAPHIC ARTIST"
+msgstr "ARTYSTA GRAFICZNY"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAFIK"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "MENADŻER GRUPY, WYDAJNOŚĆ MEDIÓW, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "MENADŻER GRUPY, STRATEG MEDIÓW, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "MENADŻER GRUPY, PRODUCENT SIECIOWY, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "MENEDŻER GRUPY WYDAWNICTWA"
+
+msgid "Game mode"
+msgstr "Tryb gry"
+
+msgid "Game mode: %1"
+msgstr "Tryb gry: %1"
+
+msgid "Garage"
+msgstr "Garaż"
+
+msgid "Generate"
+msgstr "Generuj"
+
+msgid "Get the Club access for one year"
+msgstr "Zdobądź pakiet klubowy na rok"
+
+msgid "Get the Club access for three years"
+msgstr "Zdobądź pakiet klubowy na trzy lata"
+
+msgid "Get the Standard access for one year"
+msgstr "Zdobądź pakiet standardowy na rok"
+
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "Rozgrywaj najlepsze kampanie graczy w salonie gier"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "Uzyskaj dostęp do uproszczonego edytora map, powtórek i skinów"
+
+msgid "Give up"
+msgstr "Zrezygnuj"
+
+msgid "Give up %1"
+msgstr "Zrezygnuj %1"
+
+msgid "Give up Daily cup?"
+msgstr "Zrezygnować z codziennego pucharu?"
+
+msgid "Go to map list"
+msgstr "Pokaż listę tras"
+
+msgid "Going to next map"
+msgstr "Przejście do następnej mapy"
+
+msgid "Gold"
+msgstr "Złoty"
+
+msgid "Gold medal"
+msgstr "Złoty medal"
+
+msgid "Green"
+msgstr "Zielony"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "SZEF CENTRUM RELACJI OBSŁUGI KLIENTA NCSA"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "SZEF MEDIÓW SPOŁECZNOŚCIOWYCH EMEA"
+
+msgid "HQ PRODUCER"
+msgstr "PRODUCENT HQ"
+
+msgid "HQ PRODUCERS"
+msgstr "PRODUCENCI HQ"
+
+msgid "HR SPECIALIST"
+msgstr "SPECJALISTA HR"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Hide"
+msgstr "Ukryj"
+
+msgid "Home Activities"
+msgstr "Strona gł. aktywności"
+
+msgid "Home display"
+msgstr "Strona główna"
+
+msgid "Hot Seat"
+msgstr "Gorące krzesło"
+
+msgid "HotSeat"
+msgstr "Gorące krzesło"
+
+msgid "Hotseat"
+msgstr "Gorące krzesło"
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "KIEROWNIK ZESPOŁU INFRASTRUKTURY"
+
+msgid "INTERN LIVE QA"
+msgstr "STAŻYSTA LIVE QA"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "MIĘDZYNARODOWY KIEROWNIK PRODUKTU"
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Jeżeli wybierzesz krajobraz, stracisz swój cały postęp."
+
+msgid ""
+"If you give up, you will be able to continue playing in the channel but you "
+"will not participate in the Daily Knockout match."
+msgstr ""
+"Jeśli się poddasz, możesz kontynuować grę na kanale, ale nie będziesz "
+"uczestniczyć w Codziennym Pucharze Eliminacji."
+
+msgid "Image browser"
+msgstr "Przeglądarka obrazów"
+
+msgid "Improve"
+msgstr "Popraw czas"
+
+msgid "Information"
+msgstr "Informacja"
+
+msgid "Interval from %1 pos."
+msgstr "Różnica do %1 poz."
+
+msgid "Invite friends"
+msgstr "Zaproś znajomych"
+
+msgid "It is currently not possible to vote for this server setting."
+msgstr "Głosowanie jest wyłączone na tym serwerze."
+
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "JUNIOR MENADŻER KONTA"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "JUNIOR TESTER AUTOMATYZACJI"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "JUNIOR TESTER DEWELOPERÓW"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR ANALITYK PLANOWANIA FINANSOWEGO"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "MŁODSZY SPECJALISTA SIECIOWY ORAZ LIVE QA"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "JUNIOR MENADŻER PRODUKTU"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "JUNIOR KOORDYNATOR PRODUKCJI"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMISTA"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR SPECJALISTA DS. SIECI QC"
+
+msgid "JUNIOR TESTER"
+msgstr "JUNIOR TESTER"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "JUNIOR PROJEKTANT UX"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "JUNIOR DEWELOPER SIECIOWY"
+
+msgid "Join"
+msgstr "Dołącz"
+
+msgid "Join %1"
+msgstr "Dołącz do %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "Dołącz do klubowych aktywności oraz zobacz ich rankingi"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "Dołącz do publicznych aktywności klubów: kampanii i pokoi online"
+
+msgid "Jump to map"
+msgstr "Przeskoczyć do mapy"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "SPECJALISTA WIEDZY"
+
+msgid "KOs per round"
+msgstr "Eliminacje na rundę"
+
+msgid "Knockout match starts in %1"
+msgstr "Rozgrywka Eliminacji rozpocznie się za %1"
+
+msgid "L1 button"
+msgstr "Przycisk L1"
+
+msgid "L3 button"
+msgstr "Przycisk L3"
+
+msgid "LEAD CHARACTER ARTIST"
+msgstr "GŁÓWNY ARTYSTA POSTACI"
+
+msgid "LEAD DESIGNER"
+msgstr "GŁÓWNY PROJEKTNAT"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "GŁÓWNY ARTYSTA ŚRODOWISKOWY"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "KIEROWNIK INŻYNIERII PRZEDNIEJ"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "GŁÓWNY ARTYSTA GRAFICZNY"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "GŁÓWNY INŻYNIER ONLINE"
+
+msgid "LEAD PROGRAMMER"
+msgstr "GŁÓWNY PROGRAMISTA"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "GŁÓWNY ARTYSTA TECHNICZNY"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "GŁÓWNY KIEROWNIK UX"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "GŁÓWNY ARTYSTA POJAZDU"
+
+msgid "LINE DESIGNER"
+msgstr "PROJEKTANT LINII"
+
+msgid "LINE DESIGNERS"
+msgstr "PROJEKTANCI LINII"
+
+msgid "LIVE COORDINATOR"
+msgstr "KOORDYNATOR LIVE"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "KOORDYNATOR OPERACJI WIADOMOŚCI NA ŻYWO"
+
+msgid "LIVE PRODUCER"
+msgstr "PRODUCENT LIVE"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "LIVE QA & KOORDYNATOR SIECIOWY"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "ANALISTA PRZYCHODÓW LIVE"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "STRATEGIA BIEŻĄCYCH PRZYCHODÓW "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "KIEROWNIK ZESPOŁU"
+
+msgid "LOCALIZATION"
+msgstr "LOKALIZACJA"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "KIEROWNIK LOKALIZACJI"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "SPECJALISTA LOKALIZACJI"
+
+msgid "Landscape"
+msgstr "Krajobraz"
+
+msgid "Lap %1"
+msgstr "Okrążenie %1"
+
+msgid "Last time"
+msgstr "Ostatni czas"
+
+msgid "Leader"
+msgstr "Lider"
+
+msgid "League ranking"
+msgstr "Ranking ligi"
+
+msgid "Learn more about the Club Edition"
+msgstr "Dowiedz się więcej o edycji klubowej"
+
+msgid "Leave"
+msgstr "Opuść"
+
+msgid "Leave club '%1'"
+msgstr "Opuść klub '%1'"
+
+msgid "Leave random track generator"
+msgstr "Opuść generator losowych tras"
+
+msgid "Left click : move the module"
+msgstr "Lewy przycisk myszy: przenieś moduł"
+
+msgid "Link copied!"
+msgstr "Link skopiowany!"
+
+msgid "Live Ranking"
+msgstr "Aktualny ranking"
+
+msgid "Live ranking"
+msgstr "Ranking na żywo"
+
+msgid "Live test"
+msgstr "Testuj online"
+
+msgid "Loading"
+msgstr "Wczytywanie"
+
+msgid "Loading activity..."
+msgstr "Wczytywanie aktywności..."
+
+msgid "Loading campaign to edit"
+msgstr "Wczytywanie kampanii do edycji"
+
+msgid "Loading campaign..."
+msgstr "Wczytywanie kampanii...."
+
+msgid "Loading club activities..."
+msgstr "Wczytywanie aktywności klubu..."
+
+msgid "Loading club room..."
+msgstr "Ładowanie pokoju klubu..."
+
+msgid "Loading competition..."
+msgstr "Wczytywanie wydarzenia..."
+
+msgid "Loading offline campaign..."
+msgstr "Ładowanie kampanii offline..."
+
+msgid "Loading records"
+msgstr "Wczytywanie rekordów"
+
+msgid "Loading room informations..."
+msgstr "Wczytywanie informacji pokoju..."
+
+msgid "Loading..."
+msgstr "Wczytywanie..."
+
+msgid "Local multi"
+msgstr "Tryby kanapowe"
+
+msgid "Local network"
+msgstr "Sieć lokalna"
+
+msgid "Locked"
+msgstr "Zablokowany"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Logo: pierwszy widoczny obraz twojego klubu.\n"
+"Wymiary: %1 - Format: PNG, JPEG lub DDS (DXT5)"
+
+msgid "Lol"
+msgstr "Lol"
+
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "ARTYSTA POSTACI MAGIC LAB"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "DYREKTOR PRODUKCJI MAGIC LAB"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "ARTYSTA POJAZDU MAGIC LAB"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "MENADŻER DOŚWIADCZENIA GRACZY, PROGRAMIŚCI SPOŁECZNOŚCI"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "MENEDŻER TREŚCI SPOŁECZNOŚCI"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "MENEDŻER ROZWOJU SPOŁECZNOŚCI"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "MENADŻER, OPERACJE CRM"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "MENADŻER, STRATEG ŻYCIOWY, CRM"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "MENADŻER, DEWELOPER SIECIOWY, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "MENADŻER, PRODUCENT SIECIOWY, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "MENEDŻEROWIE, OBSŁUGA KLIENTA NCSA"
+
+msgid "MANAGING DIRECTOR"
+msgstr "DYREKTOR ZARZĄDZAJĄCY"
+
+msgid "MARKETING"
+msgstr "MARKETING"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "MARKETING & DYREKTOR KOMUNIKACJI"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "DYREKTOR MARKETINGU I LOJALNOŚCI"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "KIEROWNIK MARKETINGU I GRUPY LOJALNOŚCIOWEJ"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "MENEDŻER KAMPANII MARKETINGOWEJ"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "MENADŻER MEDIÓW, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "DYREKTOR MONETYZACJI"
+
+msgid "Manage server"
+msgstr "Zarządzaj serwerem"
+
+msgid "Manage track"
+msgstr "Zarządzaj trasą"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
+msgstr ""
+"Trasa %1/%2 - Zachowaj swoje punkty pozostając pomiędzy 1 a %3%4 miejscem"
+
+msgid ""
+"Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
+msgstr ""
+"Trasa %1/%2 - Zdobądź punkty poprzez ukończenie wyścigu lub poprzez "
+"ustanowienie najlepszego czasu okrążenia."
+
+msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
+msgstr "Nie udało się wysłać mapy '%1'. Spróbuj ponownie. (Błąd: %2)"
+
+msgid "Map '%1' is not playable."
+msgstr "Mapa '%1\" nie jest grywalna."
+
+msgid "Map '%1' not found"
+msgstr "Trasa '%1' nie znaleziona"
+
+msgid "Map browser"
+msgstr "Przeglądarka tras"
+
+msgid "Map could not be removed. Please try again. (Error: %1)"
+msgstr "Mapy nie zostały usunięte. Spróbuj ponownie. (Błąd: %1)"
+
+msgid "Map editor"
+msgstr "Edytor map"
+
+msgid "Map not found"
+msgstr "Nie znaleziono mapy"
+
+msgid "Map position"
+msgstr "Pozycja na mapie"
+
+msgid "Map review"
+msgstr "Przegląd map"
+
+msgid "Map rounds"
+msgstr "Rundy mapy"
+
+msgid "Map saved!"
+msgstr "Trasa zapisana!"
+
+msgid "Map uploads"
+msgstr "Przesłane mapy"
+
+msgid "Map validate"
+msgstr "Weryfikacja mapy"
+
+msgid "Maps"
+msgstr "Mapy"
+
+msgid "Maps "
+msgstr "Trasy "
+
+msgid "Maps : "
+msgstr "Mapy: "
+
+msgid "Maps could not be uploaded. Please try again. (Error: %1)"
+msgstr "Mapy nie zostały przesłane. Spróbuj ponownie. (Błąd: %1)"
+
+msgid "Maps list already full"
+msgstr "Lista map jest już pełna"
+
+msgid "Match found!"
+msgstr "Znaleziono rozgrywkę!"
+
+msgid "Match is over"
+msgstr "Rozgrywka się zakończyła"
+
+msgid "Match not started yet."
+msgstr "Rozgrywka jeszcze się nie rozpoczęła."
+
+msgid "Match over. You should have been transferred back to the lobby."
+msgstr "Rozgrywka zakończona. Zostaniesz przeniesiony do poczekalni."
+
+msgid "Match over. You will be transferred back."
+msgstr "Rozgrywka przerwana. Będziesz przeniesiony(a) z powrotem."
+
+msgid "Match paused"
+msgstr "Rozgrywka wstrzymana"
+
+msgid "Match settings"
+msgstr "Ustawienia rozgrywki"
+
+msgid "Matchmaking canceled : no server available"
+msgstr "Wyszukiwanie gier przerwane : brak dostępnych serwerów"
+
+msgid "Matchmaking disabled."
+msgstr "Zablokowano matchmaking."
+
+msgid "Matchmaking forced."
+msgstr "Wymuszono wyszukiwanie rozgrywki."
+
+msgid "Matchmaking in progress..."
+msgstr "Szukanie w toku..."
+
+msgid "Matchsettings browser"
+msgstr "Przeglądarka ustawień rozgrywki"
+
+msgid "Matchsettings have been saved in file: %1"
+msgstr "Ustawienia rozgrywki zapisano w pliku: %1"
+
+msgid "Max players"
+msgstr "Maks. graczy"
+
+msgid "Max players number"
+msgstr "Maks. liczba graczy"
+
+msgid "Max points :"
+msgstr "Maks. liczba punktów :"
+
+msgid "Max wait time: %1 %2"
+msgstr "Maks. czas oczekiwania: %1 %2"
+
+msgid "Medals"
+msgstr "Medale"
+
+msgid "Middle click : reset the module"
+msgstr "Środkowy przycisk myszy: resetuj moduł"
+
+msgid "Missing: %1 %2 %3 %4"
+msgstr "Brakuje: %1 %2 %3 %4"
+
+msgid "Mode"
+msgstr "Tryb"
+
+msgid "Mode script browser"
+msgstr "Przeglądarka skryptów trybu"
+
+msgid "Mode settings"
+msgstr "Ustawienia trybu"
+
+msgid "Monday"
+msgstr "Poniedziałek"
+
+msgid "More VIPs"
+msgstr "Więcej VIP-ów"
+
+msgid "Move"
+msgstr "Przenieś"
+
+msgid "Move the block to a new location"
+msgstr "Przenieś blok na nowe miejsce"
+
+msgid "Move the cursor"
+msgstr "Przesuń kursor"
+
+msgid "Move the start block and choose where you want to start your track."
+msgstr ""
+"Przesuń blok startowy i wybierz gdzie chcesz aby twoja trasa się zaczynała."
+
+msgid "Multi teams"
+msgstr "Wiele drużyn"
+
+msgid "My clubs"
+msgstr "Moje kluby"
+
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "CENTRUM RELACJI Z KLIENTAMI NCSA - ZESPÓŁ SPOŁECZNOŚCI"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "WSPARCIE OBSŁUGI KLIENTA NCSA"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "New author time"
+msgstr "Nowy czas autora"
+
+msgid "New best time"
+msgstr "Nowy rekord"
+
+msgid "New medal"
+msgstr "Nowy medal"
+
+msgid "New rank: %1"
+msgstr "Nowa pozycja: %1"
+
+msgid "New records disabled"
+msgstr "Nowe rekordy zablokowane"
+
+msgid "New track"
+msgstr "Nowa trasa"
+
+msgid "News"
+msgstr "Wiadomości"
+
+msgid "News creation"
+msgstr "Tworzenie wiadomości"
+
+msgid "News image"
+msgstr "Obraz wiadomości"
+
+msgid "News must have a headline."
+msgstr "Wiadomość musi posiadać nagłówek."
+
+msgid "News must have either a body or an image."
+msgstr "Wiadomość musi posiadać treść lub obraz."
+
+msgid "Next"
+msgstr "Dalej"
+
+msgid "Next map"
+msgstr "Następna mapa"
+
+msgid "Next map in %1..."
+msgstr "Następna mapa za %1..."
+
+msgid "Next medal"
+msgstr "Następny medal"
+
+msgid "Next player"
+msgstr "Nast. gracz"
+
+msgid "Next zone"
+msgstr "Nast. strefa"
+
+msgid "Ninth (Press 9)"
+msgstr "Dziewiąty (Naciśnij 9)"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "No K.O."
+msgstr "Brak eliminacji"
+
+msgid "No accounts found"
+msgstr "Nie znaleziono kont"
+
+msgid "No clubs"
+msgstr "Brak klubów"
+
+msgid "No daily map found to display the rankings"
+msgstr "Nie znaleziono trasy dnia na której można wyświetlić rankingi"
+
+msgid "No maps in this month"
+msgstr "Brak map w tym miesiącu"
+
+msgid "No monthly campaigns found."
+msgstr "Nie znaleziono miesięcznych kampanii."
+
+msgid "No player"
+msgstr "Brak graczy"
+
+msgid "No preview available"
+msgstr "Podgląd jest niedostępny"
+
+msgid "No quarterly campaigns found."
+msgstr "Nie znaleziono kampanii kwartalnych."
+
+msgid "No records"
+msgstr "Brak rekordów"
+
+msgid "No suitable elements were found in this folder"
+msgstr "Brak pasujących elementów w tym folderze."
+
+msgid "Not enough players agreed to play a rematch."
+msgstr "Zbyt mało osób zgodziło się na rewanż."
+
+msgid "Not ranked"
+msgstr "Bez wyniku"
+
+msgid "Now"
+msgstr "Teraz"
+
+msgid "Number of Laps : "
+msgstr "Ilość okrążeń: "
+
+msgid "Number of laps"
+msgstr "Ilość okrążeń"
+
+msgid "Number of maps per match"
+msgstr "Ilość map na rozgrywkę"
+
+msgid "Number of rounds per map"
+msgstr "Ilość rund na mapę"
+
+msgid "Number of warm up"
+msgstr "Ilość rozgrzewek"
+
+msgid "Number of winners"
+msgstr "Ilość zwycięzców"
+
+msgid "OFFICE MANAGEMENT"
+msgstr "ZARZĄDZANIE BIUREM"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ONLINE ENGINEER"
+msgstr "INŻYNIER ONLINE"
+
+msgid "ONLINE ENGINEERS"
+msgstr "INŻYNIEROWIE ONLINE"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "PRODUCENT LINII USŁUG ONLINE"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "ZESPÓŁ USŁUG ONLINE"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "KIEROWNIK TECHNICZNY ONLINE"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "KIEROWNIK TECHNOLOGII ONLINE"
+
+msgid "Official rankings"
+msgstr "Oficjalny ranking"
+
+msgid "Offroad"
+msgstr "Offroad"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Opponents from %1"
+msgstr "Przeciwnicy z %1"
+
+msgid "Optional"
+msgstr "Opcjonalnie"
+
+msgid "Or join an existing party by clicking on a player name on the right."
+msgstr "Lub dołączyć do istniejącej grupy, klikając na nazwę gracza po prawej."
+
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+msgid "Other"
+msgstr "Inne"
+
+msgid "PC REQUIREMENTS"
+msgstr "WYMAGANIA SPRZĘTOWE"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "KIEROWNIK WYMAGAŃ SPRZĘTOWYCH"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "KIEROWNIK PROJEKTU WYMAGAŃ SPRZĘTOWYCH"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "SPECJALISTA WYMAGAŃ SPRZĘTOWYCH"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "DOŚWIADCZENIA GRACZY"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "ASYSTENT DOŚWIADCZEŃ GRACZY, PROGRAMIŚCI SPOŁECZNOŚCI"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "MENADŻER DOŚWIADCZEŃ GRACZY, NARZĘDZIA WSPÓŁPRACY"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "MENADŻER DOŚWIADCZEŃ GRACZY, PROGRAMY PIERWSZEJ LINII"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "MENADŻER STREFY WSPARCIA GRACZY"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "MENADŻER OPERACJI WSPARCIA GRACZY"
+
+msgid "PR"
+msgstr "PR"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "PREDYKCYJNY BADACZ ANALITYCZNY"
+
+msgid "PRESIDENT AND CEO"
+msgstr "PREZES I CEO"
+
+msgid "PRODUCER"
+msgstr "PRODUCENT"
+
+msgid "PRODUCT OWNER"
+msgstr "WŁAŚCICIEL PRODUKTU"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "SPECJALISTA PRODUKTU"
+
+msgid "PRODUCTION"
+msgstr "PRODUKCJA"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "KOORDYNATOR PRODUKCJI"
+
+msgid "PROGRAM MANAGER"
+msgstr "KIEROWNIK PROGRAMU"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "KIEROWNIK PROGRAMU, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMISTA"
+
+msgid "PROJECT ASSISTANT"
+msgstr "ASYSTENT PROJEKTU"
+
+msgid "PROJECT MANAGER"
+msgstr "MENADŻER PROJEKTU"
+
+msgid "PROJECT MANAGERS "
+msgstr "MENADŻEROWIE PROJEKTU  "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "ASYSTENT NABYWANIA PROJEKTU ONLINE, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "DYREKTOR PROJEKTÓW, TECHNOLOGIA REDAKCYJNA"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "DYREKTOR PUBLIKACJI"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Participation registered!"
+msgstr "Uczestnictwo zatwierdzone!"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Past 14 days"
+msgstr "Ostatnie 14 dni"
+
+msgid "Paste"
+msgstr "Wklej"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Personal best"
+msgstr "Osobisty rekord"
+
+msgid "Pick the controller"
+msgstr "Wybierz kontroler"
+
+msgid "Pick the difficulty"
+msgstr "Wybierz poziom trudności"
+
+msgid "Pick the mood"
+msgstr "Wybierz porę dnia"
+
+msgid "Picked by matchmaking"
+msgstr "Wybrany przez matchmaking"
+
+msgid "Pink"
+msgstr "Różowy"
+
+msgid "Place a finish block to end your track."
+msgstr "Postaw metę aby ukończyć swoją trasę."
+
+msgid ""
+"Place checkpoints to avoid shortcuts and make it easier for other players to "
+"respawn on your track."
+msgstr ""
+"Postaw punkty kontrolne aby uniknąć skrótów i ułatwić innym graczom "
+"odrodzenie na twojej trasie."
+
+msgid "Platform"
+msgstr "Platforma"
+
+msgid "Play"
+msgstr "Graj"
+
+msgid "Play HotSeat"
+msgstr "Tryb Gorące Krzesło"
+
+msgid "Play a map"
+msgstr ""
+"Uruchom\n"
+"mapę"
+
+msgid "Play a map locally"
+msgstr "Uruchom trasę lokalnie"
+
+msgid "Play against %1"
+msgstr "Graj przeciwko %1"
+
+msgid "Play against a replay"
+msgstr "Graj przeciwko powtórce"
+
+msgid "Play against opponents"
+msgstr "Graj przeciwko przeciwnikom"
+
+msgid "Play alone"
+msgstr "Wyścig w pojedynkę"
+
+msgid "Play next map"
+msgstr "Przejść do kolejnej mapy"
+
+msgid "Play offline"
+msgstr "Graj offline"
+
+msgid "Play solo and multiplayer on 25 new maps every season"
+msgstr "Graj solo oraz multiplayer na 25 nowych trasach, co każdy sezon"
+
+msgid "Play the Daily Rounds Knockout"
+msgstr "Rozegraj Codzienny Puchar Eliminacji"
+
+msgid "Player Best Time"
+msgstr "Najlepszy czas gracza"
+
+msgid "Player info"
+msgstr "Dane gracza"
+
+msgid "Player profile"
+msgstr "Profil gracza"
+
+msgid "Players"
+msgstr "Graczy"
+
+msgid "Players are tied!"
+msgstr "Gracze zremisowali!"
+
+msgid "Players in server"
+msgstr "Gracze na serwerze"
+
+msgid "Players order"
+msgstr "Kolejność graczy"
+
+msgid "Please reconnect the %1"
+msgstr "Proszę podłączyć ponownie %1"
+
+msgid "Please select your %1"
+msgstr "Proszę, wybierz swój %1"
+
+msgid ""
+"Please stay in the channel until the Knockout begins. You will be "
+"automatically redirected when your match is ready."
+msgstr ""
+"Pozostań na kanale, dopóki nie rozpocznie się Eliminacja. Zostaniesz "
+"automatycznie przekierowany, gdy rozgrywka będzie gotowa."
+
+msgid "Please wait."
+msgstr "Proszę czekać."
+
+msgid "Points gap"
+msgstr "Różnica punktowa"
+
+msgid "Points gap :"
+msgstr "Przewaga punktowa:"
+
+msgid "Points limit"
+msgstr "Limit punktów"
+
+msgid "Points limit "
+msgstr "Limit punktów "
+
+msgid "Points limit : "
+msgstr "Limit punktów : "
+
+msgid "Points limit: %1, Current best score: %2"
+msgstr "Limit punktów: %1, Obecny najlepszy wynik: %2"
+
+msgid "Popularity"
+msgstr "Popularność"
+
+msgid "Prebuilt Landscapes"
+msgstr "Gotowe krajobrazy"
+
+msgid "Preferences"
+msgstr "Preferencje"
+
+msgid "Press a key"
+msgstr "Naciśnij klawisz"
+
+msgid ""
+"Press and maintain the \"add\" or \"remove\" button. Then move the cursor to "
+"define the zone where the terraforming will be applied and release the "
+"button."
+msgstr ""
+"Naciśnij i przytrzymaj przycisk „dodaj” lub „usuń”. Następnie przesuń "
+"kursor, aby zdefiniować strefę, w której zostanie zastosowany krajobraz, "
+"następnie puść przycisk."
+
+msgid ""
+"Press on %1 to switch between connected and disconnected modes. In connected "
+"mode the cursor is always attached to the track. In disconnected mode you "
+"can move the cursor freely."
+msgstr ""
+"Wciśnij %1 aby przełączyć między trybami złączonymi i rozłączonymi. W trybie "
+"złączonym kursor zawsze jest przywiązany do trasy. W trybie rozłączonym "
+"możesz poruszać kursorem bez ograniczeń."
+
+msgid "Press on %1 to switch between the different building modes."
+msgstr "Wciśnij %1 aby przełączyć między różnymi trybami budowania."
+
+msgid "Pressforward"
+msgstr "Tylko do przodu"
+
+msgid "Previous author time"
+msgstr "Poprzedni czas autora"
+
+msgid "Previous player"
+msgstr "Poprz. gracz"
+
+msgid "Previous replay saved!"
+msgstr "Zapisano poprzednią powtórkę!"
+
+msgid "Previous zone"
+msgstr "Poprz. strefa"
+
+msgid "Privacy setting"
+msgstr "Ustawienia prywatności"
+
+msgid "Proceed to lobby"
+msgstr "Przejdź do lobby"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "QA LEAD"
+msgstr "KIEROWNIK QA"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "ZESPÓŁ DOSTĘPNOŚCI QC"
+
+msgid "QC NETWORKING"
+msgstr "SIEĆ QC"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "EKSPERT SIECI QC"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "SPECJALISTA SIECI QC"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "LIDER ZESPOŁU SIECIOWEGO QC"
+
+msgid "QUALITY"
+msgstr "JAKOŚĆ"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "MENEDŻER KONTROLI JAKOŚCI"
+
+msgid "Qualifier rank: %1"
+msgstr "Ranga kwalifikacyjna: %1"
+
+msgid "Quantity"
+msgstr "Ilość"
+
+msgid "Quarter-final"
+msgstr "Ćwierćfinał"
+
+msgid "Quit"
+msgstr "Wyjście"
+
+msgid "Quit editor"
+msgstr "Wyjdź z edytora"
+
+msgid "Quit plugin"
+msgstr "Opuść plugin"
+
+msgid "Quit%1"
+msgstr "Wyjdź%1"
+
+msgid "R&D ENGINEER"
+msgstr "INŻYNIER R&D"
+
+msgid "R&D ENGINEERS"
+msgstr "INŻYNIEROWIE R&D"
+
+msgid "R1 button"
+msgstr "Przycisk R1"
+
+msgid "R3 button"
+msgstr "Przycisk R3"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "ZARZĄDZANIE WYDANIEM"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "ZARZĄDZANIE WYDANIA I DYREKTOR LOKALIZACYJNY"
+
+msgid "RELEASE MANAGER"
+msgstr "MENEDŻER WYDANIA"
+
+msgid "Race"
+msgstr "Wyścig"
+
+msgid ""
+"Race MapType has not been found or set. You might be unable to validate your "
+"map."
+msgstr ""
+"Nie znaleziono typu trasy \"Race\". Możliwe że nie będziesz mógł "
+"zweryfikować swojej trasy."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "Ścigaj się i rywalizuj na dziennych wybranych trasach graczy"
+
+msgid "Race ranking"
+msgstr "Ranking wyścigu"
+
+msgid "Race validation"
+msgstr "Weryfikacja trasy"
+
+msgid "Random"
+msgstr "Losowa"
+
+msgid ""
+"Random Landscape is not available in Expert Mode. Please turn off Random "
+"Landscape and try again."
+msgstr ""
+"Losowe krajobrazy nie są dostępne w trybie eksperckim. Proszę wyłączyć "
+"losowe krajobrazy i spróbować ponownie."
+
+msgid "Random map"
+msgstr "Losowa"
+
+msgid "Ranking"
+msgstr "Ranking"
+
+msgid "Rankings"
+msgstr "Ranking"
+
+msgid "Ready"
+msgstr "Gotowy"
+
+msgid "Ready (F6)"
+msgstr "Gotowość (F6)"
+
+msgid "Record leader ghost"
+msgstr "Nagraj ducha lidera"
+
+msgid "Record the ghost leader that your viewers will follow."
+msgstr "Nagraj ducha lidera którego twoi widzowie będą śledzić."
+
+msgid "Record the ghost that player will follow"
+msgstr "Nagraj ducha którego inni gracze będą śledzić"
+
+msgid "Records"
+msgstr "Rekordy"
+
+msgid "Red"
+msgstr "Czerwony"
+
+msgid "Refresh"
+msgstr "Odśwież"
+
+msgid "Register"
+msgstr "Rejestracja"
+
+msgid "Registration failed (Error code: %1)"
+msgstr "Rejestracja nie powiodła się (Kod błędu: %1)"
+
+msgid "Remaining time: %1"
+msgstr "Pozostały czas: %1"
+
+msgid "Remove"
+msgstr "Usuń"
+
+msgid "Remove from favorite"
+msgstr "Usuń z ulubionych"
+
+msgid "Remove image"
+msgstr "Usuń obraz"
+
+msgid "Remove map"
+msgstr "Usuń mapę"
+
+msgid "Rename folder"
+msgstr "Zmień nazwę folderu"
+
+msgid "Replay"
+msgstr "Powtórka"
+
+msgid "Replay editor"
+msgstr ""
+"Edytor\n"
+"powtórek"
+
+msgid "Replay saved!"
+msgstr "Powtórka zapisana!"
+
+msgid "Reroll decoration"
+msgstr "Przewiń dekorację"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Reset the UI customization"
+msgstr "Resetuj modyfikacje interfejsu"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "Restart map"
+msgstr "Restart mapy"
+
+msgid "Resume"
+msgstr "Wznów"
+
+msgid "Resuming match"
+msgstr "Wznawianie rozgrywki"
+
+msgid "Retrieving map list..."
+msgstr "Pobieranie listy map..."
+
+msgid "Retry"
+msgstr "Powtórz"
+
+msgid "Right click : hide/show the module"
+msgstr "Prawy przycisk myszy: ukryj/pokaż moduł"
+
+msgid "Room"
+msgstr "Pokój"
+
+msgid "Room creation"
+msgstr "Tworzenie pokoju"
+
+msgid "Room name"
+msgstr "Nazwa pokoju"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"%4 K.O. per round"
+msgstr ""
+"Runda: %1/%2  \n"
+"Graczy: %3  \n"
+"Eliminacje na rundę: %4"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player\n"
+"1 K.O. per round"
+msgstr ""
+"Runda: %1/%2  \n"
+"Graczy: %3  \n"
+"Eliminacje na rundę: 1"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Player racing\n"
+"No K.O. this round"
+msgstr ""
+"Runda %1/%2 \n"
+"Graczy w wyścigu: %3  \n"
+"Brak eliminacji w tej rundzie"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"%4 K.O. per round"
+msgstr ""
+"Runda: %1/%2 \n"
+"Graczy: %3\n"
+"Eliminacje na rundę: %4"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players\n"
+"1 K.O. per round"
+msgstr ""
+"Runda: %1/%2  \n"
+"Graczy: %3  \n"
+"Eliminacje na rundę: 1"
+
+msgid ""
+"Round %1/%2\n"
+"%3 Players racing\n"
+"No K.O. this round"
+msgstr ""
+"Runda: %1/%2  \n"
+"Graczy w wyścigu: %3  \n"
+"Bez eliminacji w tej rundzie"
+
+msgid ""
+"Round %1/%2, %3 Players\n"
+"%4 K.O. per round until %5 players"
+msgstr ""
+"Runda %1/%2, %3 graczy \n"
+"%4 eliminacje na rundę aż do %5 graczy"
+
+msgid "Round skipped"
+msgstr "Runda pominięta"
+
+msgid "Rounds "
+msgstr "Rundy "
+
+msgid "Rounds : "
+msgstr "Rundy: "
+
+msgid "Rules"
+msgstr "Zasady"
+
+msgid "SALES DIRECTOR"
+msgstr "DYREKTOR SPRZEDAŻY"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "DYREKTOR NAUKOWY  "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "SENIOR MENEDŻER ZAANGAŻOWANIA SPOŁECZNOŚCI"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SENIOR SPECJALISTA SENTYMENTU SPOŁECZNOŚCI"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "SENIOR ADMINISTRACJI BAZY DANYCH"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "SENIOR DYREKTOR, COMMUNITY EXPERIENCE"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "SENIOR INŻYNIER PRZEDNI"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "SENIOR PRODUCENT HQ"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "SENIOR SPECJALISTA WIEDZY"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "SENIOR ANALITYK LINII"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "SENIOR MENEDŻER ROZWOJU SPOŁECZNOŚCI"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "SENIOR MENEDŻER ZARZĄDZANIA SPOŁECZNOŚCIĄ"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "SENIOR TESTER INSTRUKCJI"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "SENIOR INŻYNIER INFRASTRUKTURY ONLINE"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "SENIOR OPERACYJNY MENEDŻER MARKETINGOWY"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "SENIOR SPECJALISTA PR"
+
+msgid "SENIOR PRODUCER"
+msgstr "SENIOR PRODUCENT"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "SENIOR MENEDŻER PRODUKTU"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "SENIOR PROGRAMISTA"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "SENIOR INŻYNIER OPROGRAMOWANIA"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SENIOR SPECJALIŚCI, OBSŁUGA KLIENTA NCSA"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "SENIOR ADMINISTRATOR SYSTEMU"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "SENIOR DEWELOPER SIECIOWY"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "SENIOR PROGRAMISTA SIECIOWY"
+
+msgid "SITE ADMINISTATOR"
+msgstr "ADMINISTRATOR STRONY"
+
+msgid "SOUND DESIGNER"
+msgstr "PROJEKTANT DŹWIĘKU"
+
+msgid "SPECIAL THANKS"
+msgstr "SPECJALNE PODZIĘKOWANIA"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECJALIŚCI, OBSŁUGA KLIENTA NCSA"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "MENADŻER SR, DOŚWIADCZENIA GRACZY EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "SENIOR MENADŻER, DOŚWIADCZENIA GRACZY, PROGRAMY PIERWSZEJ LINII"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "SENIOR MENADŻER DOŚWIADCZEŃ GRACZY, PROGRAMY PIERWSZEJ LINII"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "SPECJALISTA OD SKLEPU"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "KOORDYNATOR OPERACJI STUDIA"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "PRZEŁOŻENI, OBSŁUGA KLIENTA NCSA"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "ADMINISTRATOR SYSTEMU"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Save"
+msgstr "Zapisz"
+
+msgid "Save and create cup"
+msgstr "Zapisz i stwórz puchar"
+
+msgid "Save as new"
+msgstr "Zapisz jako nową"
+
+msgid "Save for later"
+msgstr "Zapisz na potem"
+
+msgid "Save map"
+msgstr "Zapisz mapę"
+
+msgid "Save previous replay"
+msgstr "Zapisz poprzednią powtórkę"
+
+msgid "Save replay"
+msgstr "Zapisz powtórkę"
+
+msgid "Saved Activities"
+msgstr "Zapisane aktywności"
+
+msgid "Saving campaign..."
+msgstr "Zapisywanie kampanii..."
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 16x1: obraz wyświetlany na podium stadionu (pod dużym ekranem).\n"
+"Wymiary: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 16x9: obraz wyświetlany na dużym ekranie stadionu. \n"
+"Wymiary: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Ekran 8x1: obraz wyświetlany na trybunach stadionu. \n"
+"Wymiary: %1 - Format: DDS (DXT5)"
+
+msgid "Scroll down"
+msgstr "Przewiń w dół"
+
+msgid "Scroll up"
+msgstr "Przewiń do góry"
+
+msgid "Second (Press 2)"
+msgstr "Drugi (Naciśnij 2)"
+
+msgid "See tutorial again"
+msgstr "Zobacz samouczek ponownie"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "Select a VIP to play against"
+msgstr "Wybierz VIP-a z którym chcesz się ścigać"
+
+msgid "Select a billboard"
+msgstr "Wybierz billboard"
+
+msgid "Select a campaign"
+msgstr "Wybierz kampanię"
+
+msgid "Select a color"
+msgstr "Wybierz kolor"
+
+msgid "Select a landscape and start building your track."
+msgstr "Wybierz krajobraz i zacznij budować swoją trasę."
+
+msgid ""
+"Select a landscape. When you find one that pleases you, you can start your "
+"track."
+msgstr ""
+"Wybierz krajobraz. Kiedy znajdziesz pasujący dla ciebie, możesz rozpocząć "
+"tworzyć swoją trasę."
+
+msgid "Select a mode"
+msgstr "Wybierz tryb"
+
+msgid "Select a mode before adding maps"
+msgstr "Wybierz tryb zanim dodasz trasy"
+
+msgid "Select a mode to check map compatibility"
+msgstr "Wybierz tryb aby sprawdzić kompatybilność trasy"
+
+msgid "Select a road paint"
+msgstr "Wybierz grafikę dla drogi"
+
+msgid "Select a round to start"
+msgstr "Wybierz rundę do rozpoczęcia"
+
+msgid "Select all"
+msgstr "Zaznacz wszystko"
+
+msgid "Select an account"
+msgstr "Wybierz konto"
+
+msgid "Select an image"
+msgstr "Wybierz obraz"
+
+msgid "Select map"
+msgstr "Wybierz mapę"
+
+msgid "Select maps"
+msgstr "Wybierz mapy"
+
+msgid "Select maps to remove"
+msgstr "Wybierz mapy do usunięcia"
+
+msgid "Select mode"
+msgstr "Wybierz tryb"
+
+msgid "Select next map"
+msgstr "Wybierz następną mapę"
+
+msgid "Select number of players"
+msgstr "Wybierz liczbę graczy"
+
+msgid "Select style"
+msgstr "Wybierz styl"
+
+msgid "Select the location of the starting line"
+msgstr "Wybierz miejsce dla punktu startowego"
+
+msgid "Select where you want to start"
+msgstr "Wybierz gdzie chcesz rozpocząć"
+
+msgid "Select your activity"
+msgstr "Wybierz swoją aktywność"
+
+msgid "Select zone"
+msgstr "Wybierz strefę"
+
+msgid "Selected campaign"
+msgstr "Wybrana kampania"
+
+msgid "Selected map"
+msgstr "Wybrana mapa"
+
+msgid "Selected maps"
+msgstr "Wybrane mapy"
+
+msgid "Semi-final"
+msgstr "Półfinał"
+
+msgid "Server account"
+msgstr "Konto serwera"
+
+msgid "Server doesn't exist anymore"
+msgstr "Serwer nie istnieje"
+
+msgid "Server name"
+msgstr "Nazwa serwera"
+
+msgid "Server region"
+msgstr "Region serwera"
+
+msgid "Servers are offline or in maintenance, please try again later."
+msgstr ""
+"Serwery są wyłączone lub odbywa się przerwa techniczna, proszę spróbować "
+"później."
+
+msgid "Set next map"
+msgstr "Wybrać następną mapę"
+
+msgid "Set private"
+msgstr "Ustaw prywatne"
+
+msgid "Set public"
+msgstr "Ustaw publiczne"
+
+msgid "Set/Unset as favorite"
+msgstr "Dodaj/usuń jako ulubione"
+
+msgid "Settings"
+msgstr "Opcje"
+
+msgid "Seventh (Press 7)"
+msgstr "Siódmy (Naciśnij 7)"
+
+msgid "Show"
+msgstr "Pokaż"
+
+msgid "Silver"
+msgstr "Srebrny"
+
+msgid "Silver medal"
+msgstr "Srebrny medal"
+
+msgid "Single Map"
+msgstr "Pojedyncza mapa"
+
+msgid "Sixth (Press 6)"
+msgstr "Szósty (Naciśnij 6)"
+
+msgid "Skin browser"
+msgstr "Przeglądarka skinów"
+
+msgid "Skin editor"
+msgstr "Edytor skinów"
+
+msgid "Skin upload failed. (Error: %1)"
+msgstr "Przesyłanie skina nie powiodło się. (Błąd: %1)"
+
+msgid "Skin uploads"
+msgstr "Prześlij skin"
+
+msgid "Skins"
+msgstr "Skiny"
+
+msgid "Skip"
+msgstr "Pomiń"
+
+msgid "Solo"
+msgstr "Solo"
+
+msgid ""
+"Some blocks offer several connections possibilities. They are represented by "
+"white boxes. Press the \"switch\" button to choose the one you want to use."
+msgstr ""
+"Niektóre bloki oferują kilka rodzajów łączników. Są one reprezentowane "
+"białymi kwadratami. Kliknij przycisk \"przełącz\" aby wybrać ten który "
+"chcesz użyć."
+
+msgid "Spectate"
+msgstr "Oglądaj"
+
+msgid "Spectator"
+msgstr "Obserwator"
+
+msgid "Spectator password"
+msgstr "Hasło obserwatora"
+
+msgid "SplitScreen"
+msgstr "Dzielony Ekran"
+
+msgid "Splitscreen"
+msgstr "Dzielony ekran"
+
+msgid "Standard"
+msgstr "Standardowy"
+
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"Pakiet standardowy na rok oferuje idealne doświadczenia dla regularnych "
+"graczy, pełen kreacji i aktywności!"
+
+msgid "Starter"
+msgstr "Startowy"
+
+msgid "Stats"
+msgstr "Statystyki"
+
+msgid "Step ranking"
+msgstr "Ranking etapu"
+
+msgid "Stop auto-finish"
+msgstr "Przerwij auto-dokańczanie"
+
+msgid "Streaming subscriptions"
+msgstr "Subskrypcje streamów"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
+msgid "Subscribe to Trackmania %1 to access the server review."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby uzyskać dostęp do przeglądu map."
+
+msgid "Subscribe to Trackmania %1 to create a club activity."
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby stworzyć aktywność klubową."
+
+msgid "Subscribe to Trackmania %1 to create a club."
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby stworzyć klub."
+
+msgid "Subscribe to Trackmania %1 to create a local server."
+msgstr "Musisz posiadać pakiet Trackmania %1, aby móc stworzyć serwer lokalny."
+
+msgid "Subscribe to Trackmania %1 to create a map."
+msgstr "Musisz posiadać pakiet Trackmania %1, aby móc stworzyć mapę."
+
+msgid "Subscribe to Trackmania %1 to create a skin"
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby stworzyć skin."
+
+msgid "Subscribe to Trackmania %1 to create game modes."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby tworzyć niestandardowe tryby gry."
+
+msgid "Subscribe to Trackmania %1 to create items and mods."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc tworzyć przedmioty oraz mody."
+
+msgid "Subscribe to Trackmania %1 to display a club page."
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby wyświetlić stronę klubu."
+
+msgid "Subscribe to Trackmania %1 to edit advanced maps."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby edytować mapy za pomocą trybu "
+"zaawansowanego."
+
+msgid "Subscribe to Trackmania %1 to edit club maps."
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby edytować mapy klubu."
+
+msgid "Subscribe to Trackmania %1 to find a local server."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc wyszukać serwery lokalne."
+
+msgid "Subscribe to Trackmania %1 to join a club."
+msgstr "Musisz posiadać pakiet Trackmania %1 aby móc dołączyć do klubu."
+
+msgid "Subscribe to Trackmania %1 to join club's rooms."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc dołączyć do pokoi klubowych."
+
+msgid "Subscribe to Trackmania %1 to join the arcade channel."
+msgstr "Musisz posiadać pakiet Trackmania %1, aby móc dołączyć do salonu gier."
+
+msgid "Subscribe to Trackmania %1 to open the replay editor"
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby otworzyć edytor powtórek."
+
+msgid "Subscribe to Trackmania %1 to open the simple map editor."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1 aby móc otworzyć prosty edytor tras."
+
+msgid "Subscribe to Trackmania %1 to open the skin editor"
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby otworzyć edytor skinów."
+
+msgid "Subscribe to Trackmania %1 to play a local map."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc grać na mapach w trybie "
+"lokalnym."
+
+msgid "Subscribe to Trackmania %1 to play a private club activity."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby brać udział w prywatnej "
+"aktywności klubu."
+
+msgid "Subscribe to Trackmania %1 to play against a replay."
+msgstr "Musisz posiadać pakiet Trackmania %1, aby móc grać przeciwko powtórce."
+
+msgid "Subscribe to Trackmania %1 to play club's campaigns."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc grać w kampaniach klubowych."
+
+msgid "Subscribe to Trackmania %1 to play online competitions."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby brać udział w wydarzeniach online."
+
+msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1 aby móc grać poprzednie kampanie "
+"miesięczne."
+
+msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby grać w poprzednie kampanie "
+"kwartalne."
+
+msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc grać w trybie gorącego krzesła."
+
+msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1 aby grać comiesięczną kampanię na żywo."
+
+msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc grać w obecnej kampanii "
+"kwartalnej."
+
+msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, aby móc grać w trybie podzielonego "
+"ekranu."
+
+msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby zapisać film z edytora powtórek."
+
+msgid "Subscribe to Trackmania %1 to upload a map."
+msgstr "Musisz posiadać pakiet Trackmania %1, aby móc udostępnić mapę."
+
+msgid "Subscribe to Trackmania %1 to upload a skin"
+msgstr "Musisz posiadać pakiet Trackmania %1, żeby przesłać skin."
+
+msgid "Subscribe to Trackmania %1 to use a custom skin"
+msgstr ""
+"Musisz posiadać pakiet Trackmania %1, żeby używać niestandardowego skina."
+
+msgid "Sunday"
+msgstr "Niedziela"
+
+msgid "Support %1$z: \"go %2$z\" in chat"
+msgstr "Wesprzyj %1$z pisząc \"go %2$z\" na czacie"
+
+msgid "Switch"
+msgstr "Przełącz"
+
+msgid "TEAM LEAD"
+msgstr "LIDER ZESPOŁU"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "KIERUJĄCY ZESPOŁEM, OBSŁUGA KLIENTA CSA"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "ANIMATOR TECHNICZNY"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "DYREKTOR TECHNICZNY"
+
+msgid "TECHNICAL MANAGER"
+msgstr "MENADŻER TECHNICZNY"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "PROWADZENIE OPERACJI TECHNICZNYCH"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "SPECJALISTA TECHNICZNY"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "KOORDYNATOR WSPARCIA TECHNICZNEGO"
+
+msgid "TESTER"
+msgstr "TESTER"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"PODZIĘKOWANIA DLA WSZYSTKICH NIESAMOWITYCH ALPHA TESTERÓW OD ZESPOŁU ORAZ "
+"GRACZY Z CAŁEGO ŚWIATA, KTÓRZY DZIĘKI WAM BĘDĄ CIESZYĆ SIĘ TĄ GRĄ "
+"ZDECYDOWANIE BARDZIEJ. WASZ DUCH I EKSPERTYZA SĄ ŚWIATOWEJ KLASY."
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "SPECJALISTA ŚLEDZENIA I ANALITYKI, EMEA"
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Do the best time before the end of the countdown."
+msgstr ""
+"TYP: Każdy na każdego\n"
+"CEL: Ustanów najlepszy czas zanim odliczanie dobiegnie końca."
+
+msgid ""
+"TYPE: Free for all\n"
+"OBJECTIVE: Set the best time on the track."
+msgstr ""
+"TYP: Każdy na każdego\n"
+"CEL: Ustanów najlepszy czas na trasie."
+
+msgid "Take this slot"
+msgstr "Zajmij to miejsce"
+
+msgid "Team versus Team"
+msgstr "Starcie drużynowe"
+
+msgid "Tech"
+msgstr "Techniczny"
+
+msgid "Terraforming in progress"
+msgstr "Budowa terenu w toku"
+
+msgid "Terrain"
+msgstr "Teren"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Test other maps"
+msgstr "Testuj inne mapy"
+
+msgid "Test the track"
+msgstr "Przetestuj trasę"
+
+msgid "Test track"
+msgstr "Testuj trasę"
+
+msgid "Test your maps"
+msgstr "Testuj swoje mapy"
+
+msgid ""
+"The Club Access is a 1 year or 3 years pass offering the most complete "
+"Trackmania experience with customization, pro-level competitions and unique "
+"ways to socialize in-game!"
+msgstr ""
+"Pakiet klubowy jest roczną lub trzyletnią subskrypcją, która oferuje pełen "
+"dostęp do Trackmanii, wraz z personalizacją, profesjonalnymi turniejami, "
+"oraz unikatowymi możliwościami kontaktu ze społecznością w grze!"
+
+msgid "The Left Stick"
+msgstr "Lewy drążek"
+
+msgid "The Map %1 is already used"
+msgstr "Mapa %1 jest już w użyciu"
+
+msgid "The Right Stick"
+msgstr "Prawy drążek"
+
+msgid "The best maps have a chance to be selected for the track of the day!"
+msgstr "Najlepsze mapy mają szanse zostać wybrane jako trasa dnia!"
+
+msgid "The body has a maximum of %1 characters"
+msgstr "Treść może zawierać maksymalnie %1 znaków"
+
+msgid "The campaign name must not exceed %1 characters"
+msgstr "Nazwa kampanii musi mieć mniej niż %1 znaków"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "Opis klubu musi być krótszy niż %1 znaków"
+
+msgid "The club name has a minimum of %1 and a maximum of %2 characters"
+msgstr "Nazwa klubu musi posiadać minimalnie od %1 do maksymalnie %2 znaków"
+
+msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
+msgstr "Skrót klubu ma minimalnie %1 i maksymalnie %2 znaków"
+
+msgid "The creation of the competition failed (Error code: %1)"
+msgstr "Tworzenie wydarzenia nie powiodło się (Kod błędu: %1)"
+
+msgid ""
+"The decoration will be removed and you will have to validate the track again."
+msgstr ""
+"Dekoracja zostanie usunięta więc będziesz musiał zweryfikować trasę ponownie."
+
+msgid "The decoration will be removed."
+msgstr "Ta dekoracja zostanie usunięta."
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "Nagłówek musi posiadać maksymalnie %1 znaków"
+
+msgid "The leaderboard is now closed on this day!"
+msgstr "Tabela wyników na ten dzień jest już zamknięta!"
+
+msgid "The league is coming back in"
+msgstr "Liga powróci za"
+
+msgid "The map '%1' is already in the playlist"
+msgstr "Trasa '%1' jest już na liście"
+
+msgid "The map '%1' is not compatible with the selected game mode"
+msgstr "Trasa '%1' nie jest kompatybilna z wybranym trybem gry"
+
+msgid ""
+"The map '%1' is not playable. Please validate the map and compute the "
+"shadows."
+msgstr "Trasa '%1' nie jest grywalna. Zweryfikuj ją i oblicz cienie."
+
+msgid "The match will begin shortly ..."
+msgstr "Rozgrywka rozpocznie się wkrótce..."
+
+msgid "The matchsettings is not valid"
+msgstr "Ustawienia rozgrywki są nieprawidłowe"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "Nazwa musi posiadać maksymalnie %1 znaków"
+
+msgid ""
+"The name of the competition has a minimum of %1 and a maximum of %2 "
+"characters"
+msgstr "Nazwa wydarzenia musi zawierać od %1 do %2 znaków"
+
+msgid "The name tag has a maximum of %1 characters"
+msgstr "Nazwa może mieć maksymalnie %1 znaków."
+
+msgid "The next match will begin in %1 "
+msgstr "Następna rozgrywka rozpocznie się za %1  "
+
+msgid "The registration closed at : %1 H"
+msgstr "Rejestracja została zamknięta o : %1 G"
+
+msgid "The room is not reachable, please try again. (Error code: %1)"
+msgstr "Pokój jest nieosiągalny, proszę spróbować ponownie. (Kod błędu: %1)"
+
+msgid "The room is starting, it will be ready in a few seconds."
+msgstr "Uruchamianie pokoju, będzie gotowy za kilka sekund."
+
+msgid ""
+"The track could not be auto-finished. Remove a few blocks before retrying."
+msgstr ""
+"Trasa nie mogła zostać automatycznie ukończona. Usuń kilka bloków zanim "
+"spróbujesz ponownie."
+
+msgid "The track is in a dead end. Try to go in another direction"
+msgstr "Ta trasa jest w ślepym zaułku. Spróbuj pojechać w innym kierunku."
+
+msgid "The track must have an open connector to be auto-finished."
+msgstr ""
+"Trasa musi zawierać otwarty łącznik aby mogła być automatycznie ukończona."
+
+msgid "There are %1 podiums on your track. You can only place one."
+msgstr "Na twojej trasie jest %1 bloków podium. Możesz postawić tylko jeden."
+
+msgid "There are no displayed activities in your club."
+msgstr "Brak aktywności do wyświetlenia w twoim klubie."
+
+msgid "There are no macroblocks available for this editor."
+msgstr "Nie ma dostępnych makrosegmentów w tym edytorze."
+
+msgid "There are no saved activities in your club."
+msgstr "Nie ma zapisanych aktywności w twoim klubie."
+
+msgid ""
+"There has been an error while fetching information about this competition. "
+"(Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas odświeżania informacji o tym wydarzeniu. (Kod błędu: "
+"%1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Wystąpił błąd podczas odświeżania rankingów, proszę spróbować ponownie "
+"później. (Kod błędu: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Wystąpił błąd podczas odświeżania rankingów, proszę spróbować ponownie "
+"później. (Błąd: Zadanie nie jest już dostępne)"
+
+msgid "Third (Press 3)"
+msgstr "Trzeci (Naciśnij 3)"
+
+msgid ""
+"This activity is private, you need to be a member of the club to use it."
+msgstr ""
+"Ta aktywność jest prywatna. Musisz być członkiem klubu, aby ją zobaczyć."
+
+msgid ""
+"This block has a customizable skin. Use %1 to select the picture you want to "
+"use."
+msgstr ""
+"Ten blok ma niestandardową skórkę. Kliknij %1 aby wybrać obraz który chcesz "
+"użyć."
+
+msgid "This competition is closed"
+msgstr "To wydarzenie zakończyło się"
+
+msgid "This is a dedicated server hosted by a player. It might be offline."
+msgstr "Jest to dedykowany serwer hostowany przez gracza. Może być offline."
+
+msgid ""
+"This is a multilaps start block. Players must cross all checkpoints and pass "
+"through this block to validate one lap."
+msgstr ""
+"To jest punkt startowy dla tras na wiele okrążeń. Gracze muszą przekroczyć "
+"wszystkie punkty kontrolne i przejechać przez ten blok aby zweryfikować "
+"jedno okrążenie."
+
+msgid "This map is not playable"
+msgstr "Ta mapa nie jest grywalna"
+
+msgid ""
+"This matchmaking server is hosting a match. You can't join at the moment."
+msgstr ""
+"Na tym serwerze obecnie trwa rozgrywka. Nie możesz dołączyć w tym momencie."
+
+msgid "This round is a draw."
+msgstr "Ta runda zakończyła się remisem."
+
+msgid ""
+"This server account is already used for the club room \"%1\" with id %2. "
+"Please select another account."
+msgstr ""
+"Ten serwer jest już używany przez pokój \"%1\" z id %2. Proszę wybrać inne "
+"konto."
+
+msgid "This server will split for less waiting time"
+msgstr "Ten serwer zostanie podzielony na krótszy czas oczekiwania"
+
+msgid "This track is already validated."
+msgstr "Ta trasa jest już zweryfikowana."
+
+msgid "Thursday"
+msgstr "Czwartek"
+
+msgid "Time Limit"
+msgstr "Limit czasu"
+
+msgid "Time Limit :"
+msgstr "Limit czasu :"
+
+msgid "Time limit"
+msgstr "Limit czasu"
+
+msgid "Time to beat"
+msgstr "Czas do pobicia"
+
+msgid "To avoid this you can create your own landscapes. Continue anyways?"
+msgstr ""
+"Aby do tego nie dopuścić możesz stworzyć swój krajobraz. Kontynuować mimo to?"
+
+msgid ""
+"To do so you have to complete one race, from start to finish, passing "
+"through all checkpoints."
+msgstr ""
+"Aby to zrobić musisz ukończyć jeden wyścig, od startu do mety przekraczając "
+"wszystkie punkty kontrolne."
+
+msgid "To play this track outside of the editor you need to validate it."
+msgstr "Aby grać na tej trasie poza edytorem musisz ją zweryfikować."
+
+msgid "Today"
+msgstr "Dzisiaj"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Top %1"
+msgstr "Top %1"
+
+msgid "Top %1 %2"
+msgstr "Top %1 %2"
+
+msgid "Track"
+msgstr "Trasa"
+
+msgid "Track completed."
+msgstr "Trasa ukończona."
+
+msgid "Track of the day"
+msgstr "Trasa dnia"
+
+msgid "Track style"
+msgstr "Styl trasy"
+
+msgid "Training"
+msgstr "Trening"
+
+msgid "Trial"
+msgstr "Trial"
+
+msgid "Trophies"
+msgstr "Trofea"
+
+msgid "Try to place checkpoints regularly"
+msgstr "Postaraj się stawiać punkty kontrolne regularnie"
+
+msgid "Tuesday"
+msgstr "Wtorek"
+
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "PRODUCENT LINII UBISOFT CLUB"
+
+msgid "UI DESIGNER"
+msgstr "PROJEKTANT UI"
+
+msgid "UI DESIGNER "
+msgstr "PROJEKTANT UI  "
+
+msgid "UI PROGRAMMER"
+msgstr "PROGRAMISTA UI"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "KIEROWNIK ZESPOŁU UI / UX"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "PRACA ZESPOŁOWA UOR"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "WŁAŚCICIELE PLATFORMY UOR"
+
+msgid "UOR TEAM"
+msgstr "ZESPÓŁ UOR"
+
+msgid "UOR TEAM LEAD"
+msgstr "LIDER ZESPOŁU UOR"
+
+msgid "UPLAY TEAM"
+msgstr "ZESPÓŁ UPLAY"
+
+msgid "UX DESIGNER"
+msgstr "GRAFIK UX"
+
+msgid "UX DESIGNER "
+msgstr "PROJEKTANT UX  "
+
+msgid "UX REQUIREMENTS"
+msgstr "WYMAGANIA UX"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "LIDER WYMAGAŃ UX"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "SPECJALISTA WYMAGAŃ UX"
+
+msgid "Unapply"
+msgstr "Nie stosuj"
+
+msgid "Unapply skin"
+msgstr "Nie stosuj skina"
+
+msgid "Unselect all"
+msgstr "Odznacz wszystko"
+
+msgid "Unsubscribe"
+msgstr "Anuluj subskrybcję"
+
+msgid "Update member's role"
+msgstr "Zaktualizuj rolę członka"
+
+msgid "Updating club..."
+msgstr "Aktualizowanie klubu..."
+
+msgid "Upload a map"
+msgstr "Prześlij mapę"
+
+msgid "Upload a skin"
+msgstr "Prześlij skin"
+
+msgid "Uploading..."
+msgstr "Przesyłanie.."
+
+msgid "Use %1 to move the cursor."
+msgstr "Użyj %1 aby przesunąć kursor."
+
+msgid ""
+"Use %1 to open the block selection screen and to select a category. Then use "
+"%2 to choose the block you want to place."
+msgstr ""
+"Użyj %1 aby otworzyć selekcję bloków i wybrać kategorię. Po czym użyj %2 aby "
+"wybrać blok który chcesz postawić."
+
+msgid "Use a custom points repartition :"
+msgstr "Użyj niestandardowej dystrybucji punktów :"
+
+msgid "Use alternate rules :"
+msgstr "Użyj alternatywnych zasad"
+
+msgid "Use tie-break"
+msgstr "Użyj remisów"
+
+msgid "Use your dedicated server"
+msgstr "Użyj własnego dedykowanego serwera"
+
+msgid "VEHICLE ARTIST"
+msgstr "ARTYSTA POJAZDU"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "WICEPREZES, PUBLICZNOŚĆ I ZARZĄDZANIE KLIENTAMI, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "WICEPREZES, PLAYER EXPERIENCE"
+
+msgid "VIPs from club '%1'"
+msgstr "VIP-y z klubu '%1'"
+
+msgid "VP EDITORIAL"
+msgstr "REDAKTOR NACZELNY"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "TECHNOLOGIA REDAKCYJNA VP"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr ""
+"WICEPREZES DS. PLANOWANIA FINANSOWEGO, OPERACJI STUDYJNYCH I KONTROLI JAKOŚCI"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "WICEPREZES DS. USŁUG ONLINE"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "WICEPREZES DS. PRODUKCJI"
+
+msgid "Validate"
+msgstr "Weryfikuj"
+
+msgid "Validate & exit"
+msgstr "Zweryfikuj i wyjdź"
+
+msgid "Validate track"
+msgstr "Zweryfikuj trasę"
+
+msgid "Validate your track to be able to play it oustide the editor."
+msgstr "Zweryfikuj swoją trasę aby móc na niej grać poza edytorem tras."
+
+msgid "Validation"
+msgstr "Weryfikacja"
+
+msgid "Validations"
+msgstr "Weryfikacje"
+
+msgid "Version: %1"
+msgstr "Wersja: %1"
+
+msgid "Versus"
+msgstr "Przeciwko"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Obraz pionowy: obraz używany w liście twoich klubów. \n"
+"Wymiary: %1 - Format: PNG, JPEG lub DDS (DXT5)"
+
+msgid "View replay"
+msgstr "Obejrzyj powtórkę"
+
+msgid "Vote for a map"
+msgstr "Zagłosuj na mapę"
+
+msgid "Vote for mode settings"
+msgstr "Głosowanie: Zmiana ustawień trybu"
+
+msgid "Vote to balance teams"
+msgstr "Głosowanie: Balans drużyn"
+
+msgid "Vote to jump to map"
+msgstr "Głosowanie: Przeskocz do mapy"
+
+msgid "Vote to play next map"
+msgstr "Głosowanie: Pominięcie trasy"
+
+msgid "Vote to restart"
+msgstr "Głosowanie: Restart"
+
+msgid "Vote to set next map"
+msgstr "Głosowanie: Wybór następnej mapy"
+
+msgid ""
+"Voting for a map only increases the odds that it will be selected. Any map "
+"with at least one vote has a chance to be played."
+msgstr ""
+"Głosowanie na mapę jedynie zwiększa szanse na to że będzie wybrana. Każda "
+"mapa z chociaż jednym głosem ma szanse na bycie wybraną."
+
+msgid "Vs race record"
+msgstr "Vs rekord wyścigu"
+
+msgid "WEB CONTENT SPECIALIST"
+msgstr "SPECJALISTA ZAWARTOŚCI SIECIOWEJ"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "ASYSTENT SPECJALISTY ZAWARTOŚCI SIECIOWEJ"
+
+msgid "WEB DEVELOPER"
+msgstr "TWÓRCA STRON INTERNETOWYCH"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "ASYSTENT DEWELOPERA SIECIOWEGO, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "DEWELOPER SIECIOWY, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "ASYSTENT PRODUCENTA SIECIOWEGO, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "PRODUCENT SIECIOWY, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "PROGRAMISTA SIECIOWY"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "MENADŻER PROJEKTU SIECIOWEGO, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "DYREKTOR USŁUG INTERNETOWYCH"
+
+msgid "WEB SERVICES TEAM"
+msgstr "ZESPÓŁ USŁUG INTERNETOWYCH"
+
+msgid "WEB UI DESIGNER"
+msgstr "GRAFIK SIECIOWY UI"
+
+msgid "Waiting for other players."
+msgstr "Oczekiwanie na innych graczy."
+
+msgid "Waiting for players"
+msgstr "Oczekiwanie na graczy"
+
+msgid "Waiting for your allies to be ready."
+msgstr "Oczekiwanie na gotowość graczy z twojej drużyny."
+
+msgid "Waiting for your match"
+msgstr "Oczekiwanie na rozgrywkę"
+
+msgid "Waiting for your match to start"
+msgstr "Oczekiwanie na rozpoczęcie rozgrywki"
+
+msgid "Warm up"
+msgstr "Rozgrzewka"
+
+msgid "Warmup"
+msgstr "Rozgrzewka"
+
+msgid "Warmup: %1/%2"
+msgstr "Rozgrzewka: %1/%2"
+
+msgid ""
+"Watch\n"
+"warm-up"
+msgstr ""
+"Oglądaj\n"
+"rozgrzewkę"
+
+msgid "We are sending you back to the lobby."
+msgstr "Zostajesz wysłany z powrotem do poczekalni."
+
+msgid "We are sending you back to the match you left."
+msgstr "Zostajesz wysłany z powrotem do ostatnio opuszczonej rozgrywki."
+
+msgid "We are starting a new match."
+msgstr "Zaczynamy nową rozgrywkę."
+
+msgid "Wednesday"
+msgstr "Środa"
+
+msgid "Welcome to Trackmania"
+msgstr "Witaj w Trackmanii"
+
+msgid ""
+"Welcome to the Nadeo daily cup\n"
+"\n"
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your screen."
+msgstr ""
+"Witaj w codziennym pucharze Nadeo\n"
+" \n"
+"Ścigaj się przez 10 minut na dzisiejszej mapie. Potem możesz dołączyć do "
+"fazy pucharowej i zdobyć jeszcze więcej trofeów.\n"
+"Po prawej stronie ekranu możesz zobaczyć swoją globalną pozycję w rankingu "
+"wspólnym dla wszystkich serwerów."
+
+msgid ""
+"Welcome to the Nadeo daily cup!\n"
+"\n"
+"Race for 10 minutes on today's. You will be able to join the knockout phase "
+"afterwards and earn even more trophies. \n"
+"You can see your global rank amongst all servers on the right of your "
+"screen. Good luck!"
+msgstr ""
+"Witaj w codziennym pucharze Nadeo!\n"
+" \n"
+"Ścigaj się dziś przez 10 minut. Potem możesz dołączyć do fazy pucharowej i "
+"zdobyć jeszcze więcej trofeów.\n"
+"Po prawej stronie ekranu możesz zobaczyć swoją globalną pozycję w rankingu "
+"wspólnym dla wszystkich serwerów. Powodzenia!"
+
+msgid "Welcome to the club!"
+msgstr "Witaj w klubie!"
+
+msgid "What do you want to do?"
+msgstr "Co chcesz zrobić?"
+
+msgid ""
+"When you cut a block it is stored into your block history. You can then "
+"paste it back into your track or discard it from the history."
+msgstr ""
+"Podczas wycinania bloku jest on przechowywany w historii bloków. Możesz "
+"potem wkleić go z powrotem na trasę i usunąć go z historii."
+
+msgid ""
+"When you move the cursor on a block you placed, you can copy it or try to "
+"automatically connect a compatible block."
+msgstr ""
+"Kiedy poruszasz kursorem na bloku który postawiłeś, możesz skopiować go lub "
+"spróbować automatycznie połączyć go z kompatybilnym blokiem."
+
+msgid "Which map would you like to submit?"
+msgstr "Którą mapę chcesz przesłać?"
+
+msgid "While waiting, try to become the King Of The Lobby!"
+msgstr "Podczas oczekiwania możesz spróbować zostać Królem Poczekalni!"
+
+msgid "White"
+msgstr "Biały"
+
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr ""
+"Odkrywaj podstawowe możliwości Trackmanii z darmowym pakietem startowym."
+
+msgid "Xbox One Wireless Controller"
+msgstr "Kontroler Bezprzewodowy Xbox One"
+
+msgid "Yellow"
+msgstr "Żółty"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "You are being transferred as a substitute."
+msgstr "Zostaniesz przeniesiony jako zmiennik."
+
+msgid "You are being transferred. Please wait."
+msgstr "Zostaniesz przeniesiony. Proszę czekać."
+
+msgid "You are disconnected from Uplay. (Error code: %1)"
+msgstr "Nie jesteś połączony z Uplay. (Kod błędu: %1)"
+
+msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Nie jesteś połączony z serwerem Trackmanii. (Kod błędu: %1)"
+
+msgid "You are not connected to Uplay."
+msgstr "Nie jesteś połączony z Uplay."
+
+msgid "You are not subscribed to any club"
+msgstr "Nie subskrybujesz żadnego klubu"
+
+msgid "You are registered"
+msgstr "Zostałeś zarejestrowany"
+
+msgid "You are suspended"
+msgstr "Jesteś zawieszony(a)"
+
+msgid "You can cancel 1 match."
+msgstr "Możesz opuścić 1 rozgrywkę."
+
+msgid ""
+"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
+"match."
+msgstr ""
+"Możesz $<$00f$kontynuować $> puchar i dalej brać udział w rozgrywce "
+"Eliminacji."
+
+msgid "You can create your own party by clicking on the create button below."
+msgstr "Możesz stworzyć swoją grupę, klikając na przycisk poniżej."
+
+msgid ""
+"You can find the podium block in the decoration section of the trackbuilder."
+msgstr "Możesz znaleźć blok podium w sekcji dekoracji edytora tras."
+
+msgid "You can place only one starting point!"
+msgstr "Możesz ustawić tylko jeden punkt startowy!"
+
+msgid ""
+"You can test your track at any time. Press the \"test\" button to choose "
+"where to start."
+msgstr ""
+"Możesz przetestować swoją trasę kiedy tylko chcesz. Kliknij przycisk \"test"
+"\" aby wybrać miejsce w którym chcesz rozpocząć."
+
+msgid "You can't accelerate until the next checkpoint"
+msgstr "Nie możesz przyspieszać aż do następnego punktu kontrolnego"
+
+msgid "You can't remove the starting line of the track."
+msgstr "Nie możesz usunąć punktu startowego trasy."
+
+msgid "You don't have any server accounts registered."
+msgstr "Nie posiadasz zarejestrowanych żadnych kont serwerów."
+
+msgid ""
+"You have almost reached the maximum number of blocks that can be placed in "
+"the track."
+msgstr ""
+"Prawie osiągnąłeś maksymalną liczbę bloków jaką możesz postawić na trasie."
+
+msgid "You have been disconnected from Uplay. (Error code: %1)"
+msgstr "Utracono połączenie z Uplay. (Kod błędu: %1)"
+
+msgid ""
+"You have been disconnected from the Trackmania servers. (Error code: %1)"
+msgstr "Utracono połączenie z serwerami Trackmanii. (Kod błędu: %1)"
+
+msgid ""
+"You have been eliminated.\n"
+"[Reward will be available in further update]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Redirection to the daily channel in 30s"
+msgstr ""
+"Zostałeś wyeliminowany.\n"
+"[Nagroda będzie dostępna w kolejnej aktualizacji]\n"
+" \n"
+" \n"
+" \n"
+" \n"
+"Przekierowanie do codziennego kanału za 30s"
+
+msgid "You have to place exactly one podium!"
+msgstr "Musisz postawić jedno podium!"
+
+msgid "You must enter a name for your club"
+msgstr "Musisz podać nazwę dla swojego klubu"
+
+msgid "You must enter a tag for your club"
+msgstr "Musisz podać tag dla swojego klubu"
+
+msgid "You must place at least one checkpoint!"
+msgstr "Musisz ustawić przynajmniej jeden punkt kontrolny!"
+
+msgid "You must place at least one finish line!"
+msgstr "Musisz ustawić przynajmniej jedną linię mety!"
+
+msgid "You must place at least one respawnable checkpoint!"
+msgstr ""
+"Musisz postawić co najmniej jeden punkt kontrolny z możliwością respawnu!"
+
+msgid "You must select at least one map to play"
+msgstr "Musisz wybrać przynajmniej jedną mapę"
+
+msgid "You need to add at least 1 map to the playlist"
+msgstr "Musisz dodać co najmniej 1 trasę do listy"
+
+msgid "You need to be a club member to play or download a map."
+msgstr "Musisz być członkiem klubu aby móc grać oraz pobrać mapę."
+
+msgid "You need to be a club member to set this skin as favorite."
+msgstr "Musisz być członkiem tego klubu aby dodać skin do ulubionych."
+
+msgid "You need to pick a game mode"
+msgstr "Musisz wybrać tryb gry"
+
+msgid "You need to place a starting point!"
+msgstr "Musisz ustawić punkt startowy!"
+
+msgid "You reached the maximum number of blocks. You cannot add more."
+msgstr ""
+"Osiągnięto maksymalną ilość bloków na trasie. Nie można postawić więcej."
+
+msgid "You will be able to change it later"
+msgstr "Możesz to zmienić potem"
+
+msgid "You will be suspended if you cancel your next match."
+msgstr "Zostaniesz ukarany za przerwanie kolejnej rozgrywki."
+
+msgid "You will have to validate the track again."
+msgstr "Będziesz musiał zweryfikować trasę ponownie."
+
+msgid "You will soon be redirected to a match server."
+msgstr "Wkrótce zostaniesz przeniesiony na serwer rozgrywki."
+
+msgid "Your map in less than %1 minutes"
+msgstr "Twoja mapa za mniej niż %1 min."
+
+msgid "Your search did not return any results"
+msgstr "Nie znaleziono wyników"
+
+msgid "Your subscription ends on %1"
+msgstr "Twoja subskrybcja zakończy się %1"
+
+msgid "by %1"
+msgstr "autorstwa %1"
+
+msgid "club access"
+msgstr "Pakiet klubowy"
+
+msgid "controller"
+msgstr "Kontroler"
+
+msgid "max %1 characters"
+msgstr "maks. %1 znaków"
+
+msgid "per server"
+msgstr "na serwerze"
+
+msgid "standard access"
+msgstr "Pakiet standardowy"
+
+msgid "starter access"
+msgstr "Pakiet startowy"
+
+msgid "yes"
+msgstr "Tak"
+
+msgid "|%1 is the number of matches|You can cancel %1 matches."
+msgstr "|%1 is the number of matches|Możesz bezkarnie opuścić %1 rozgrywek."
+
+msgid "|Action|Quick save"
+msgstr "|Action|Szybki zapis"
+
+msgid "|Alert window title|Warning"
+msgstr "|Alert window title|Ostrzeżenie"
+
+msgid "|Author|By"
+msgstr "Autorstwa"
+
+msgid "|Best score|New"
+msgstr "|Best score|Nowy"
+
+msgid "|BlockCategory|Checkpoint"
+msgstr "|BlockCategory|Punkty kontrolne"
+
+msgid "|BlockCategory|Finish"
+msgstr "|BlockCategory|Mety"
+
+msgid "|BlockCategory|Obstacle"
+msgstr "|BlockCategory|Przeszkody"
+
+msgid "|BlockCategory|Slope"
+msgstr "|BlockCategory|Zbocza"
+
+msgid "|BlockCategory|Straight"
+msgstr "|BlockCategory|Prosta"
+
+msgid "|BlockCategory|Transition"
+msgstr "|BlockCategory|Przejścia"
+
+msgid "|BlockCategory|Turbo"
+msgstr "|BlockCategory|Turbo"
+
+msgid "|BlockCategory|Turn"
+msgstr "|BlockCategory|Zakręty"
+
+msgid "|BlockInfo|Checkpoint"
+msgstr "|BlockInfo|Punkt kontrolny"
+
+msgid "|BlockInfo|Finish"
+msgstr "|BlockInfo|Meta"
+
+msgid "|BlockInfo|Multilaps"
+msgstr "|BlockInfo|Multilap"
+
+msgid "|BlockInfo|Start"
+msgstr "|BlockInfo|Start"
+
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+
+msgid "|BlockStyle|Decoration"
+msgstr "|BlockStyle|Dekoracja"
+
+msgid "|BlockStyle|Dirt"
+msgstr "|BlockStyle|Dirt"
+
+msgid "|BlockStyle|Ice"
+msgstr "|BlockStyle|Lód"
+
+msgid "|BlockStyle|Platform"
+msgstr "|BlockStyle|Platformy"
+
+msgid "|BlockStyle|Simple"
+msgstr "|BlockStyle|Prosty"
+
+msgid "|BlockStyle|Slope"
+msgstr "|BlockType|Zbocze"
+
+msgid "|BlockStyle|Tilt"
+msgstr "|BlockStyle|Nachylenie"
+
+msgid "|Blocks|Favorites"
+msgstr "|Blocks|Ulubione"
+
+msgid "|Blocks|Recent"
+msgstr "|Blocks|Ostatnie"
+
+msgid "|Camera|Follow"
+msgstr "Śledząca"
+
+msgid "|Camera|Free"
+msgstr "Wolna"
+
+msgid "|Camera|Replay"
+msgstr "|Camera|Powtórka"
+
+msgid "|Campaign Map|Official"
+msgstr "|Campaign Map|Oficjalna"
+
+msgid "|Campaign|April %1"
+msgstr "|Campaign|Kwiecień %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|Sierpień %1"
+
+msgid "|Campaign|Club"
+msgstr "Klub"
+
+msgid "|Campaign|December %1"
+msgstr "|Campaign|Grudzień %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|Luty %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|Styczeń %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|Lipiec %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|Czerwiec %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|Marzec %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|Maj %1"
+
+msgid "|Campaign|Monthly"
+msgstr "|Campaign|Miesięczna"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|Listopad %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|Październik %1"
+
+msgid "|Campaign|Official"
+msgstr "Oficjalna"
+
+msgid "|Campaign|Private"
+msgstr "Prywatna"
+
+msgid "|Campaign|Public"
+msgstr "Publiczna"
+
+msgid "|Campaign|Quarterly"
+msgstr "Kwartalna"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|Wrzesień %1"
+
+msgid "|Campaign|Training"
+msgstr "Trening"
+
+msgid "|Campaign|Unknown"
+msgstr "Nieznana"
+
+msgid "|Cancel|Back"
+msgstr "|Cancel|Cofnij"
+
+msgid "|ClubActivity|Maps"
+msgstr "|ClubActivity|Mapy"
+
+msgid "|ClubActivity|Official rankings"
+msgstr "|ClubActivity|Oficjalne rankingi"
+
+msgid "|ClubActivity|Skins"
+msgstr "|ClubActivity|Skiny"
+
+msgid "|ClubActivity|Welcome"
+msgstr "|ClubActivity|Witaj"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|Witaj w klubie! Zaproś swoich znajomych do klubu i stwórzcie "
+"aktywności, udostępniajcie je i grajcie wspólnie!"
+
+msgid "|ClubMember|Role"
+msgstr "Rola"
+
+msgid "|ClubPrivacy|Closed"
+msgstr "|ClubPrivacy|Zamknięty"
+
+msgid "|ClubPrivacy|Private"
+msgstr "Prywatny"
+
+msgid "|ClubPrivacy|Private - Accept requests"
+msgstr "Prywatny - Akceptuj prośby o dołączenie"
+
+msgid "|ClubPrivacy|Public"
+msgstr "|ClubPrivacy|Publiczny"
+
+msgid "|ClubPrivacy|Public - Open to everyone"
+msgstr "Publiczny - Otwarty dla wszystkich"
+
+msgid "|Club|%1 Member"
+msgstr "%1 Członek"
+
+msgid "|Club|%1 Members"
+msgstr "%1 Członków"
+
+msgid "|Club|Closed"
+msgstr "Zamknięty"
+
+msgid "|Club|Description"
+msgstr "|Club|Opis"
+
+msgid "|Club|Join"
+msgstr "Dołącz"
+
+msgid "|Club|Leave"
+msgstr "Opuść"
+
+msgid "|Club|Member"
+msgstr "|Club|Członek"
+
+msgid "|Club|Members"
+msgstr "Członkowie"
+
+msgid "|Club|Privacy"
+msgstr "Prywatność"
+
+msgid "|Club|Requests"
+msgstr "Prośby"
+
+msgid "|Club|VIP"
+msgstr "VIP"
+
+msgid "|Club|request"
+msgstr "|Club|Prośby"
+
+msgid "|Club|requests"
+msgstr "|Club|Prośby"
+
+msgid "|Competition|Coming Soon"
+msgstr "|Competition|Wkrótce"
+
+msgid "|Competition|Private"
+msgstr "|Competition|Prywatne"
+
+msgid "|Competition|Public"
+msgstr "|Competition|Publiczne"
+
+msgid "|DataType|Campaign"
+msgstr "Kampania"
+
+msgid "|DataType|Club"
+msgstr "Klub"
+
+msgid "|DataType|Folder"
+msgstr "Folder"
+
+msgid "|DataType|Image"
+msgstr "Obraz"
+
+msgid "|DataType|Map"
+msgstr "Mapa"
+
+msgid "|DataType|MatchSettings"
+msgstr "Ustawienia Rozgrywki"
+
+msgid "|DataType|None"
+msgstr "Brak"
+
+msgid "|DataType|Replay"
+msgstr "Powtórka"
+
+msgid "|DataType|Room"
+msgstr "Pokój"
+
+msgid "|DataType|Script"
+msgstr "Skrypt"
+
+msgid "|DataType|Skin"
+msgstr "Skin"
+
+msgid "|DidNotFinish|DNF"
+msgstr "DNF"
+
+msgid "|Friday|F"
+msgstr "|Friday|P"
+
+msgid "|Game mode - Edit Decoration|Decoration"
+msgstr "|Game mode - Edit Decoration|Dekoracja"
+
+msgid "|Game mode - Edit Decoration|Decoration editing"
+msgstr "|Game mode - Edit Decoration|Edycja dekoracji"
+
+msgid "|Game mode - Edit Landscapes|Landscape"
+msgstr "|Game mode - Edit Landscapes|Krajobraz"
+
+msgid "|Game mode - Edit Landscapes|Landscape editing"
+msgstr "|Game mode - Edit Landscapes|Edycja krajobrazu"
+
+msgid "|Game mode - Edit Track|Track"
+msgstr "|Game mode - Edit Track|Trasa"
+
+msgid "|Game mode - Edit Track|Track editing"
+msgstr "|Game mode - Edit Track|Edycja trasy"
+
+msgid "|Game mode - Generation|Random"
+msgstr "|Game mode - Generation|Losowa"
+
+msgid "|Game mode - Prebuilt Landscapes|Postcards"
+msgstr "|Game mode - Prebuilt Landscapes|Widokówki"
+
+msgid "|GameMode|Cup"
+msgstr "Puchar"
+
+msgid "|GameMode|Knockout"
+msgstr "Eliminacja"
+
+msgid "|GameMode|Laps"
+msgstr "Okrążenia"
+
+msgid "|GameMode|Rounds"
+msgstr "Rundy"
+
+msgid "|GameMode|Teams"
+msgstr "Drużyny"
+
+msgid "|GameMode|Time Attack"
+msgstr "Wyścig z czasem"
+
+msgid "|Gamepad progress step|Decoration"
+msgstr "|Gamepad progress step|Dekoracja"
+
+msgid "|Image|Background"
+msgstr "|Image|Tło"
+
+msgid "|Image|Decal sponsor 4X1"
+msgstr "|Image|Naklejka sponsora 4X1"
+
+msgid "|Image|Screen 16X1"
+msgstr "|Image|Ekran 16X1"
+
+msgid "|Image|Screen 16x9"
+msgstr "|Image|Ekran 16x9"
+
+msgid "|Image|Screen 8X1"
+msgstr "|Image|Ekran 8X1"
+
+msgid "|Image|Vertical"
+msgstr "|Image|Obraz pionowy"
+
+msgid "|Infinitive - Change choice|Switch"
+msgstr "|Infinitive - Change choice|Zmień"
+
+msgid "|Infinitive - Choose in a list|Select landscape"
+msgstr "|Infinitive - Choose in a list|Wybierz krajobraz"
+
+msgid "|Infinitive - Ctrl Z System|Redo"
+msgstr "|Infinitive - Ctrl Z System|Ponów"
+
+msgid "|Infinitive - Ctrl Z System|Undo"
+msgstr "|Infinitive - Ctrl Z System|Cofnij"
+
+msgid "|Infinitive - Elevate block cursor|Raise"
+msgstr "|Infinitive - Elevate block cursor|Podnieś"
+
+msgid "|Infinitive - Quit game mode|Leave editor"
+msgstr "|Infinitive - Quit game mode|Opuść edytor"
+
+msgid "|Infinitive - Reduce block cursor height|Lower"
+msgstr "|Infinitive - Reduce block cursor height|Obniż"
+
+msgid "|Infinitive - Start making track|Start track"
+msgstr "|Infinitive - Start making track|Rozpocznij trasę"
+
+msgid "|Infinitive - Try track|Test"
+msgstr "|Infinitive - Try track|Test"
+
+msgid "|Infinitive - Try track|Test track"
+msgstr "|Infinitive - Try track|Testuj trasę"
+
+msgid "|Infinitive - throw out|Discard"
+msgstr "|Infinitive - throw out|Odrzuć"
+
+msgid "|Infinitive|Add"
+msgstr "|Infinitive|Dodaj"
+
+msgid "|Infinitive|Browse"
+msgstr "|Infinitive|Przeglądaj"
+
+msgid "|Infinitive|Build your track"
+msgstr "|Infinitive|Zbuduj swoją trasę"
+
+msgid "|Infinitive|Cancel"
+msgstr "|Infinitive|Anuluj"
+
+msgid "|Infinitive|Confirm"
+msgstr "Potwierdź"
+
+msgid "|Infinitive|Connect"
+msgstr "|Infinitive|Połącz"
+
+msgid "|Infinitive|Continue"
+msgstr "|Infinitive|Kontynuuj"
+
+msgid "|Infinitive|Copy"
+msgstr "|Infinitive|Kopiuj"
+
+msgid "|Infinitive|Cut"
+msgstr "|Infinitive|Wytnij"
+
+msgid "|Infinitive|Disconnect"
+msgstr "|Infinitive|Rozłącz"
+
+msgid "|Infinitive|Edit decoration"
+msgstr "|Infinitive|Edytuj dekorację"
+
+msgid "|Infinitive|Edit track"
+msgstr "|Infinitive|Edytuj trasę"
+
+msgid "|Infinitive|Generate"
+msgstr "|Infinitive|Generuj"
+
+msgid "|Infinitive|Generate a track"
+msgstr "|Infinitive|Generuj trasę"
+
+msgid "|Infinitive|Generate another track"
+msgstr "|Infinitive|Generuj następną trasę"
+
+msgid "|Infinitive|Generate decoration"
+msgstr "|Infinitive|Generuj dekorację"
+
+msgid "|Infinitive|Improve record"
+msgstr "|Infinitive|Popraw rekord"
+
+msgid "|Infinitive|Improve validation time"
+msgstr "|Infinitive|Popraw czas weryfikacji"
+
+msgid "|Infinitive|Move"
+msgstr "|Infinitive|Przesuń"
+
+msgid "|Infinitive|Place"
+msgstr "|Infinitive|Postaw"
+
+msgid "|Infinitive|Play"
+msgstr "|Infinitive|Graj"
+
+msgid "|Infinitive|Random"
+msgstr "|Infinitive|Losowo"
+
+msgid "|Infinitive|Record a leader ghost"
+msgstr "|Infinitive|Nagraj ducha lidera"
+
+msgid "|Infinitive|Record leader run"
+msgstr "|Infinitive|Nagraj ducha lidera"
+
+msgid "|Infinitive|Remove"
+msgstr "|Infinitive|Usuń"
+
+msgid "|Infinitive|Rotate"
+msgstr "|Infinitive|Obróć"
+
+msgid "|Infinitive|Save"
+msgstr "|Infinitive|Zapisz"
+
+msgid "|Infinitive|Save and Validate"
+msgstr "|Infinitive|Zapisz i zweryfikuj"
+
+msgid "|Infinitive|Save as new"
+msgstr "|Infinitive|Zapisz jako nową"
+
+msgid "|Infinitive|Select"
+msgstr "|Infinitive|Wybierz"
+
+msgid "|Infinitive|Validate"
+msgstr "|Infinitive|Zweryfikuj"
+
+msgid "|Infinitive|Validate leader run and proceed to lobby?"
+msgstr "|Infinitive|Zatwierdzić ducha lidera i przejść do lobby?"
+
+msgid "|Infinitive|Validate track"
+msgstr "|Infinitive|Weryfikuj trasę"
+
+msgid "|Infinitive|Zoom"
+msgstr "|Infinitive|Przybliż"
+
+msgid "|Information - window title|Track not validated"
+msgstr "|Information - window title|Trasa niezweryfikowana"
+
+msgid "|Input|No binding"
+msgstr "Nie przypisano"
+
+msgid "|Keyboard|Enter"
+msgstr "Enter"
+
+msgid "|Landscape|Desert"
+msgstr "|Landscape|Pustynia"
+
+msgid "|Landscape|Empty"
+msgstr "|Landscape|Pusto"
+
+msgid "|Landscape|Hills"
+msgstr "|Landscape|Wzgórza"
+
+msgid "|Landscape|Mountain"
+msgstr "|Landscape|Góry"
+
+msgid "|Landscape|Pillars"
+msgstr "|Landscape|Słupy"
+
+msgid "|League|Step %1"
+msgstr "Etap %1"
+
+msgid "|League|map %1/%2"
+msgstr "Mapa %1/%2"
+
+msgid ""
+"|Legalese|By clicking 'Accept', you authorise for your data to be shared "
+"with third parties in order to display personalised adverts in the game "
+"world. If you wish to do so, you can modify your preferences."
+msgstr ""
+"|Legalese|Kliknięcie przycisku „Akceptuj” oznacza  zgodę na udostępnianie "
+"danych osobowych osobom trzecim w celu wyświetlania w grze "
+"spersonalizowanych reklam. Ustawienia można później modyfikować."
+
+msgid "|Legalese|Epilepsy warning corpus"
+msgstr ""
+"PROSIMY PRZECZYTAĆ PONIŻSZE OSTRZEŻENIE PRZED URUCHOMIENIEM NINIEJSZEJ GRY\n"
+"LUB PRZEKAZANIEM JEJ DZIECIOM.\n"
+"\n"
+"Niektórzy ludzie są skłonni do ulegania atakom padaczki lub utraty "
+"przytomności po dłuższym \n"
+"wpatrywaniu się w migoczące światła lub wzory świetlne. U takich osób "
+"podczas oglądania telewizji lub grania w niektóre gry wideo mogą wystąpić "
+"objawy padaczki.\n"
+"\n"
+"Przypadki takie mogą mieć miejsce, nawet jeśli dana osoba nie chorowała na "
+"padaczkę ani nie zdradzała podobnych objawów. Jeśli Ty sam lub ktoś z Twojej "
+"rodziny wykazywał kiedykolwiek objawy epilepsji (ataki drgawek, nagłe utraty "
+"przytomności) w warunkach migoczącego oświetlenia, przed rozpoczęciem gry "
+"poradź się lekarza.\n"
+"\n"
+"Zalecamy rodzicom obserwację zachowania dzieci podczas gry. Jeśli w trakcie "
+"gry stwierdzisz u swojego dziecka lub u siebie występowanie któregoś z "
+"następujących objawów: zawroty głowy, zaburzenia wzroku, drgania mięśni lub "
+"gałki ocznej, omdlenie, dezorientacja, mimowolne ruchy czy drgawki, "
+"NATYCHMIAST przerwij zabawę i udaj się do lekarza."
+
+msgid "|Legalese|Epilepsy warning heading"
+msgstr "Ostrzeżenie o epilepsji (padaczce)"
+
+msgid ""
+"|Legalese|I accept that my data will be shared with third parties to enable "
+"personalised adverts to be displayed in the game world, depending on my "
+"country and my interests."
+msgstr ""
+"|Legalese|Wyrażam zgodę na udostępnianie moich danych osobowych osobom "
+"trzecim w celu wyświetlania w grze spersonalizowanych reklam, w zależności "
+"od kraju zamieszkania i zainteresowań."
+
+msgid ""
+"|Legalese|If this option is deactivated, you'll still see advertisements in "
+"the game, but they won't match your areas of interest as well."
+msgstr ""
+"|Legalese|W przypadku, gdy opcja ta jest nieaktywna, w grze będą wyświetlać "
+"się reklamy, ale nie będą spersonalizowane do twoich preferencji i "
+"zainteresowań."
+
+msgid "|Legalese|Privacy policy"
+msgstr "|Legalese|POLITYKA PRYWATNOŚCI"
+
+msgid "|Legalese|Privacy preferences"
+msgstr "|Legalese|Ustawienia prywatności"
+
+msgid "|Loading screen|Loading"
+msgstr "|Loading screen|Wczytywanie"
+
+msgid ""
+"|Map style description|Generally hard tracks, featuring obstacles to be "
+"overcome at low speed."
+msgstr ""
+"|Map style description|Generalnie wymagające trasy, które posiadają "
+"przeszkody do uważnego pokonywania na niskiej prędkości."
+
+msgid ""
+"|Map style description|Most of the time short ones, those tracks are based "
+"on a single obstacle that often require luck to be cleared successfully."
+msgstr ""
+"|Map style description|Najczęściej krótkie, te trasy są oparte na "
+"pojedynczej przeszkodzie, która często wymaga szczęścia, aby ją pokonać."
+
+msgid ""
+"|Map style description|Those maps are meant to be played without letting go "
+"of the accelerator. Go full throttle!"
+msgstr ""
+"|Map style description|Na tych mapach nie należy puszczać gazu. Gaz do dechy!"
+
+msgid ""
+"|Map style description|Those tracks are built upon a single strong idea or "
+"concept, making them easily recognizable."
+msgstr ""
+"|Map style description|Te trasy są oparte na pojedynczej koncepcji bądź "
+"pomyśle, który czyni je bardzo rozpoznawalne."
+
+msgid ""
+"|Map style description|Those tracks are generally fun extra maps at the end "
+"of a campaign."
+msgstr ""
+"|Map style description|Są to z reguły zabawne mapy, znajdujące się na końcu "
+"kampanii."
+
+msgid ""
+"|Map style description|Those tracks are set up in natural areas. Don't get "
+"lost!"
+msgstr ""
+"|Map style description|Te trasy są umiejscowione w dzikich rejonach. Nie "
+"zgub się!"
+
+msgid ""
+"|Map style description|Those tracks feature many traps and jumps. Watch out "
+"below!"
+msgstr ""
+"|Map style description|Te trasy zawierają wiele pułapek i skoków. Miej oczy "
+"dookoła głowy!"
+
+msgid ""
+"|Map style description|Those tracks feature many turns, U-Turns, and braking "
+"zones."
+msgstr ""
+"|Map style description|Te trasy zawierają wiele zakrętów, nawrotów, oraz "
+"stref hamowania."
+
+msgid ""
+"|Map style description|Those tracks feature massive jumps, loops and "
+"wallrides."
+msgstr ""
+"|Map style description|Te mapy posiadają ogromne skoki, pętle oraz jazdę po "
+"ścianach."
+
+msgid ""
+"|Map style description|Those tracks just require you to finish with the best "
+"time. No muss, no fuss, just race!"
+msgstr ""
+"|Map style description|Te trasy wymagają dojechania na metę jak z najlepszym "
+"czasem. Bez owijania w bawełnę, po prostu ścigaj się!"
+
+msgid ""
+"|Map style description|Those tracks offer long straight lines, often filled "
+"with obstacles."
+msgstr ""
+"|Map style description|Te trasy oferują długie proste, często wypełnione "
+"przeszkodami."
+
+msgid ""
+"|Map style description|You only need to keep pressing the accelerator in "
+"those maps, don't touch anything else."
+msgstr ""
+"|Map style description|Te mapy polegają jedynie na trzymaniu przycisku "
+"przyspieszenia, nie wciskaj innych klawiszy."
+
+msgid "|MapEditorDevice|Gamepad"
+msgstr "Gamepad"
+
+msgid "|MapEditorDevice|Mouse and keyboard"
+msgstr "Mysz i klawiatura"
+
+msgid "|MapEditorDifficulty|Advanced"
+msgstr "Zaawansowany"
+
+msgid "|MapEditorDifficulty|Simple"
+msgstr "Prosty"
+
+msgid "|MapMood|Day"
+msgstr "Dzień"
+
+msgid "|MapMood|Night"
+msgstr "Noc"
+
+msgid "|MapMood|Sunrise"
+msgstr "Wschód"
+
+msgid "|MapMood|Sunset"
+msgstr "Zachód"
+
+msgid "|Map|Browse"
+msgstr "Przeglądaj"
+
+msgid "|Map|Delete"
+msgstr "Usuń"
+
+msgid "|Map|Edit"
+msgstr "Edytuj"
+
+msgid "|Map|Move"
+msgstr "Przenieś"
+
+msgid "|Map|New"
+msgstr "Nowa"
+
+msgid "|Match|Draw"
+msgstr "Remis"
+
+msgid "|Medal|Finished"
+msgstr "Ukończono"
+
+msgid "|Medal|None"
+msgstr "Brak"
+
+msgid "|Menu|Local"
+msgstr "Gra lokalna"
+
+msgid "|Monday|M"
+msgstr "|Monday|P"
+
+msgid "|Month 3 letters|Apr %1"
+msgstr "|Month 3 letters|Kwi %1"
+
+msgid "|Month 3 letters|Aug %1"
+msgstr "|Month 3 letters|Sie %1"
+
+msgid "|Month 3 letters|Dec %1"
+msgstr "|Month 3 letters|Gru %1"
+
+msgid "|Month 3 letters|Feb %1"
+msgstr "|Month 3 letters|Lut %1"
+
+msgid "|Month 3 letters|Jan %1"
+msgstr "|Month 3 letters|Sty %1"
+
+msgid "|Month 3 letters|Jul %1"
+msgstr "|Month 3 letters|Lip %1"
+
+msgid "|Month 3 letters|Jun %1"
+msgstr "|Month 3 letters|Cze %1"
+
+msgid "|Month 3 letters|Mar %1"
+msgstr "|Month 3 letters|Mar %1"
+
+msgid "|Month 3 letters|May %1"
+msgstr "|Month 3 letters|Maj %1"
+
+msgid "|Month 3 letters|Nov %1"
+msgstr "|Month 3 letters|Lis %1"
+
+msgid "|Month 3 letters|Oct %1"
+msgstr "|Month 3 letters|Paź %1"
+
+msgid "|Month 3 letters|Sep %1"
+msgstr "|Month 3 letters|Wrz %1"
+
+msgid "|Month|April"
+msgstr "|Month|Kwiecień"
+
+msgid "|Month|August"
+msgstr "|Month|Sierpień"
+
+msgid "|Month|December"
+msgstr "|Month|Grudzień"
+
+msgid "|Month|February"
+msgstr "|Month|Luty"
+
+msgid "|Month|January"
+msgstr "|Month|Styczeń"
+
+msgid "|Month|July"
+msgstr "|Month|Lipiec"
+
+msgid "|Month|June"
+msgstr "|Month|Czerwiec"
+
+msgid "|Month|March"
+msgstr "|Month|Marzec"
+
+msgid "|Month|May"
+msgstr "|Month|Maj"
+
+msgid "|Month|November"
+msgstr "|Month|Listopad"
+
+msgid "|Month|October"
+msgstr "|Month|Październik"
+
+msgid "|Month|September"
+msgstr "|Month|Wrzesień"
+
+msgid "|Move camera|Camera"
+msgstr "|Move camera|Kamera"
+
+msgid "|Navigation|Back"
+msgstr "Powrót"
+
+msgid "|News|Body"
+msgstr "|News|Treść"
+
+msgid "|News|Headline"
+msgstr "|News|Nagłówek"
+
+msgid "|News|Title"
+msgstr "|News|Tytuł"
+
+msgid "|PC|the directional buttons"
+msgstr "|PC|Przyciski kierunkowe"
+
+msgid "|PC|the left stick"
+msgstr "|PC|Lewy drążek"
+
+msgid "|PC|the right stick"
+msgstr "|PC|Prawy drążek"
+
+msgid "|PS4 textual button name|Circle button"
+msgstr "|PS4 textual button name|Kółko"
+
+msgid "|PS4 textual button name|Cross button"
+msgstr "|PS4 textual button name|Krzyżyk"
+
+msgid "|PS4|the directional buttons"
+msgstr "|PS4|Przyciski kierunkowe"
+
+msgid "|PS4|the left stick"
+msgstr "|PS4|Lewy drążek"
+
+msgid "|PS4|the right stick"
+msgstr "|PS4|Prawy drążek"
+
+msgid "|Personal best|PB"
+msgstr "|Personal best|NAJ"
+
+msgid "|Points|pts"
+msgstr "pkt"
+
+msgid "|Point|pt"
+msgstr "pkt"
+
+msgid "|Press xx to start|Press"
+msgstr "Naciśnij"
+
+msgid "|Press xx to start|to start"
+msgstr "aby rozpocząć"
+
+msgid "|Race|Lap"
+msgstr "Okrążenie"
+
+msgid "|Race|Laps"
+msgstr "Okrążenia"
+
+msgid "|Race|Round"
+msgstr "Runda"
+
+msgid "|RankingZone|Continent"
+msgstr "Kontynent"
+
+msgid "|RankingZone|Country"
+msgstr "Kraj"
+
+msgid "|RankingZone|District"
+msgstr "Rejon"
+
+msgid "|RankingZone|Region"
+msgstr "Region"
+
+msgid "|RankingZone|World"
+msgstr "Świat"
+
+msgid "|RankingZone|Zone"
+msgstr "Strefa"
+
+msgid "|Rank|from %1"
+msgstr "do %1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|Wylosuj inną dekorację"
+
+msgid "|ReplayVerb|Edit"
+msgstr "|ReplayVerb|Edytuj"
+
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|Nagraj"
+
+msgid "|ReplayVerb|View"
+msgstr "|ReplayVerb|Obejrzyj"
+
+msgid "|Reset to default button|Default settings"
+msgstr "|Reset to default button|Ustawienia domyślne"
+
+msgid "|Role|Admin"
+msgstr "Admin"
+
+msgid "|Role|Applicant"
+msgstr "Kandydat"
+
+msgid "|Role|Content creator"
+msgstr "|Role|Twórca treści"
+
+msgid "|Role|Creator"
+msgstr "Twórca"
+
+msgid "|Role|Member"
+msgstr "Członek"
+
+msgid "|Saturday|S"
+msgstr "|Saturday|S"
+
+msgid "|Score|Point"
+msgstr "|Score|Punkt"
+
+msgid "|Score|Points"
+msgstr "|Score|Punkty"
+
+msgid "|Season|Autumn"
+msgstr "|Season|Jesień"
+
+msgid "|Season|Spring"
+msgstr "|Season|Wiosna"
+
+msgid "|Season|Summer"
+msgstr "|Season|Lato"
+
+msgid "|Season|Winter"
+msgstr "|Season|Zima"
+
+msgid "|ServerRegion|Canada Central"
+msgstr "|ServerRegion|Centrum Kanady"
+
+msgid "|ServerRegion|China Northwest"
+msgstr "|ServerRegion|Chiny północny zachód"
+
+msgid "|ServerRegion|EU West"
+msgstr "|ServerRegion|EU Zachód"
+
+msgid "|Server|Live"
+msgstr "|Server|Na żywo"
+
+msgid "|Setting to chose the quality of lights computation|Fast"
+msgstr "|Setting to chose the quality of lights computation|Szybka"
+
+msgid "|Setting to chose the quality of lights computation|Lighting quality"
+msgstr "|Setting to chose the quality of lights computation|Jakość cieni"
+
+msgid "|Setting to chose the quality of lights computation|Nice"
+msgstr "|Setting to chose the quality of lights computation|Ładnie"
+
+msgid "|SpecialBlock|Bumper"
+msgstr "|SpecialBlock|Bumper"
+
+msgid "|SpecialBlock|Engine off"
+msgstr "|SpecialBlock|Swobodna jazda"
+
+msgid "|SpecialBlock|Force acceleration"
+msgstr "|SpecialBlock|Wymuszone przyspieszenie"
+
+msgid "|SpecialBlock|Fragile"
+msgstr "|SpecialBlock|Zmniejszona wytrzymałość"
+
+msgid "|SpecialBlock|No grip"
+msgstr "|SpecialBlock|Brak przyczepności"
+
+msgid "|SpecialBlock|No steering"
+msgstr "|SpecialBlock|Sterowanie wyłączone"
+
+msgid "|SpecialBlock|Reactor boost %1"
+msgstr "|SpecialBlock|Przyśpieszenie grawitacyjne %1"
+
+msgid "|SpecialBlock|Reset"
+msgstr "|SpecialBlock|Reset"
+
+msgid "|SpecialBlock|Slow motion"
+msgstr "|SpecialBlock|Zwolnione tempo"
+
+msgid "|SpecialBlock|Super bumper"
+msgstr "|SpecialBlock|Super bumper"
+
+msgid "|SpecialBlock|Super reactor boost %1"
+msgstr "|SpecialBlock|Super przyśpieszenie grawitacyjne %1"
+
+msgid "|SpecialBlock|Super turbo"
+msgstr "|SpecialBlock|Super turbo"
+
+msgid "|SpecialBlock|Turbo"
+msgstr "|SpecialBlock|Turbo"
+
+msgid "|SpecialBlock|Ultra turbo"
+msgstr "|SpecialBlock|Ultra turbo"
+
+msgid "|SpecialBlock|down"
+msgstr "|SpecialBlock|W dół"
+
+msgid "|SpecialBlock|up"
+msgstr "|SpecialBlock|W górę"
+
+msgid "|Spectator Target|All"
+msgstr "|Spectator Target|Wszystkie"
+
+msgid "|Spectator Target|Single"
+msgstr "|Spectator Target|Pojedynczy"
+
+msgid "|Status|Finalist"
+msgstr "Finalista"
+
+msgid "|Status|K.O."
+msgstr "K.O."
+
+msgid "|Status|K.O. #%1"
+msgstr "Eliminacja #%1"
+
+msgid "|Status|Racing"
+msgstr "W wyścigu"
+
+msgid "|Status|Winner"
+msgstr "Zwycięzca"
+
+msgid "|Streamer|Channel"
+msgstr "Kanał"
+
+msgid "|Streaming|Platform"
+msgstr "Platforma"
+
+msgid "|Subscription|Ends on"
+msgstr "Kończy się"
+
+msgid "|Sunday|S"
+msgstr "|Sunday|N"
+
+msgid "|Tabs|Clubs"
+msgstr "Kluby"
+
+msgid "|Tabs|Create"
+msgstr "Twórz"
+
+msgid "|Tabs|Live"
+msgstr "W sieci"
+
+msgid "|Tabs|Local"
+msgstr "Lokalnie"
+
+msgid "|Tabs|Solo"
+msgstr "Solo"
+
+msgid "|Thursday|T"
+msgstr "|Thursday|C"
+
+msgid "|Time|Best"
+msgstr "Najlepszy"
+
+msgid "|Time|Previous"
+msgstr "Ostatni"
+
+msgid "|Track|Block"
+msgstr "|Track|Blok"
+
+msgid "|Tuesday|T"
+msgstr "|Tuesday|W"
+
+msgid "|Validation choice|No"
+msgstr "|Validation choice|Nie"
+
+msgid "|Validation choice|Yes"
+msgstr "|Validation choice|Tak"
+
+msgid "|Verb|Stay"
+msgstr "Zostań"
+
+msgid "|Warm up|Click to take the slot"
+msgstr "|Warm up|Kliknij, aby wybrać miejsce"
+
+msgid "|Warning|Caution"
+msgstr "|Warning|Uwaga"
+
+msgid "|Wednesday|W"
+msgstr "|Wednesday|Ś"
+
+msgid "|Window title - creating a new track|New track"
+msgstr "|Window title - creating a new track|Nowa trasa"
+
+msgid "|Window title - editing a track|Edit track"
+msgstr "|Window title - editing a track|Edytuj trasę"
+
+msgid "|XB1|the directional buttons"
+msgstr "|XB1|Przyciski kierunkowe"
+
+msgid "|XB1|the left stick"
+msgstr "|XB1|Lewy drążek"
+
+msgid "|XB1|the right stick"
+msgstr "|XB1|Prawy drążek"
+
+msgid "|Zone|Europe"
+msgstr "|Zone|Europa"
+
+msgid "|Zone|Middle East"
+msgstr "|Zone|Bliski Wschód"
+
+msgid "|Zone|North America"
+msgstr "|Zone|Ameryka Północna"
+
+msgid "|Zone|Oceania"
+msgstr "|Zone|Oceania"
+
+msgid "|Zone|South America"
+msgstr "|Zone|Ameryka Południowa"
+
+msgid "|Zone|World"
+msgstr "|Zone|Świat"
+
+msgid "|plural 4 letters max|mins"
+msgstr "min"
+
+msgid "|singular 3 letters max|min"
+msgstr "min"
