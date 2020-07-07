@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 18:21+0000\n"
+"PO-Revision-Date: 2020-07-06 17:38+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -592,6 +592,9 @@ msgstr "Доступ к данным '%1' получен."
 msgid "Account"
 msgstr "Учётная запись"
 
+msgid "Account Connection"
+msgstr "Соединение"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -718,6 +721,9 @@ msgstr "Расширенный редактор"
 msgid "Advanced options"
 msgstr "Дополнительно"
 
+msgid "Advanced parameters"
+msgstr "Дополнительно"
+
 msgid "Advanced..."
 msgstr "Дополнительно..."
 
@@ -835,6 +841,9 @@ msgstr "Alt + клик на шкале времени"
 
 msgid "Always"
 msgstr "Всегда"
+
+msgid "Ambiance"
+msgstr "Атмосфера"
 
 msgid "Ambiance sequence"
 msgstr "Настройки атмосферы"
@@ -1040,6 +1049,9 @@ msgstr "Звуковой поток"
 
 msgid "Author"
 msgstr "Автор"
+
+msgid "Author "
+msgstr "Авторская "
 
 msgid "Author Medal"
 msgstr "Авторская Медаль"
@@ -1412,12 +1424,6 @@ msgstr "Изменить скрипт"
 msgid "Change Sort Order"
 msgstr "Изменить порядок сортировки"
 
-msgid "Change avatar"
-msgstr "Изменить аватар"
-
-msgid "Change horn"
-msgstr "Изменить сигнал"
-
 msgid "Change location"
 msgstr "Изменить местонахождение"
 
@@ -1451,9 +1457,6 @@ msgstr "Изменить тему"
 msgid "Change transparency"
 msgstr "Изменить прозрачность"
 
-msgid "Change vehicle/character skin"
-msgstr "Изменить скин машины/персонажа"
-
 msgid "Change your password"
 msgstr "Изменить пароль"
 
@@ -1468,6 +1471,9 @@ msgstr "Каналы"
 
 msgid "Chat"
 msgstr "Чат"
+
+msgid "Chat disabled for starter access."
+msgstr "Для Начального доступа чат отключён."
 
 msgid "Chat disabled in demo mode."
 msgstr "В демо-режиме чат недоступен."
@@ -1561,11 +1567,20 @@ msgstr "Выберите прозрачность"
 msgid "Choose your Avatar"
 msgstr "Выберите аватар"
 
+msgid "Choose your Editor"
+msgstr "Выберите редактор"
+
 msgid "Choose your block type"
 msgstr "Выберите тип блока"
 
 msgid "Choose your opponents"
 msgstr "Выберите соперников"
+
+msgid "Choose your profile"
+msgstr "Выберите свой профиль"
+
+msgid "Choose your zone"
+msgstr "Выберите зону"
 
 msgid "Chrono"
 msgstr "Хроно"
@@ -1690,9 +1705,6 @@ msgstr "Закрывающий тег"
 msgid "ClubLink"
 msgstr "Адрес клуба"
 
-msgid "Clublink URL"
-msgstr "Ссылка клуб-линка"
-
 msgid "Clubs"
 msgstr "Клубы"
 
@@ -1750,6 +1762,12 @@ msgstr "Настройка управления"
 msgid "Confirm new password:"
 msgstr "Подтвердить новый пароль:"
 
+msgid "Confirm password"
+msgstr "Повтор пароля"
+
+msgid "Confirm your email"
+msgstr "Подтвердите ваш email"
+
 msgid "Congrats!"
 msgstr "Поздравляем!"
 
@@ -1777,6 +1795,9 @@ msgstr "Присоединён"
 
 msgid "Connecting to %1..."
 msgstr "Соединение с %1..."
+
+msgid "Connection Error"
+msgstr "Ошибка соединения"
 
 msgid "Connection timed out"
 msgstr "Время соединения истекло"
@@ -2071,6 +2092,9 @@ msgstr "Создать новый скрипт плагина"
 msgid "Create a new Profile"
 msgstr "Создать новый профиль"
 
+msgid "Create a profile"
+msgstr "Создать профиль"
+
 msgid "Create a server"
 msgstr "Создать сервер"
 
@@ -2082,6 +2106,9 @@ msgstr "Создать новый предмет из модели блока"
 
 msgid "Create new..."
 msgstr "Создать новый..."
+
+msgid "Create your account"
+msgstr "Создать аккаунт"
 
 msgid "Creating the account..."
 msgstr "Создание учётной записи..."
@@ -2184,6 +2211,9 @@ msgstr "Пользовательская скорость выгрузки в Б
 
 msgid "Custom block deleted"
 msgstr "Пользовательский блок удалён"
+
+msgid "Custom blocks"
+msgstr "Пользовательские блоки"
 
 msgid "Custom data directories"
 msgstr "Папки данных пользователя"
@@ -2739,6 +2769,9 @@ msgstr "E / Ctrl + Колесо мыши вверх"
 msgid "E-mail address"
 msgstr "Адрес электронной почты"
 
+msgid "EMail"
+msgstr "EMail"
+
 msgid "Easting coordinate"
 msgstr "Восточная координата"
 
@@ -2779,9 +2812,6 @@ msgstr "Редактировать повтор"
 msgid "Edit custom block"
 msgstr "Редактировать пользовательский блок"
 
-msgid "Edit defeat podium pose"
-msgstr "Редактировать подиумную позу поражения"
-
 msgid "Edit icon:"
 msgstr "Редактировать иконку:"
 
@@ -2800,9 +2830,6 @@ msgstr "Изменить специальные свойства"
 msgid "Edit the area where this clip will be activated"
 msgstr "Редактировать область, где будет активирован этот клип"
 
-msgid "Edit victory podium pose"
-msgstr "Редактировать подиумную позу победы"
-
 msgid "EditLayer"
 msgstr "Редактировать слой"
 
@@ -2814,6 +2841,9 @@ msgstr "Редактор"
 
 msgid "Editor Creator"
 msgstr "Создатель редактора"
+
+msgid "Editor Type"
+msgstr "Тип редактора"
 
 msgid "Editors"
 msgstr "Редакторы"
@@ -2867,8 +2897,14 @@ msgstr "Включить стереоскопию"
 msgid "End Ghost Recording"
 msgstr "Завершить запись фантома"
 
+msgid "End User License Agreement"
+msgstr "Лицензионное соглашение конечного пользователя"
+
 msgid "End of warmup, match starting..."
 msgstr "Разминка закончена, начало матча..."
+
+msgid "End race"
+msgstr "Конец гонки"
 
 msgid "End validation"
 msgstr "Завершить проверку"
@@ -2896,10 +2932,19 @@ msgstr ""
 msgid "Enter a Name:"
 msgstr "Введите имя:"
 
+msgid "Enter a login"
+msgstr "Введите логин"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr ""
 "Введите название для новой декали (будет использоваться также, как название "
 "файла):"
+
+msgid "Enter a password"
+msgstr "Введите пароль"
+
+msgid "Enter a valid email"
+msgstr "Введите корректный адрес электронной почты"
 
 msgid "Enter an Icon Directory:"
 msgstr "Укажите папку для значка:"
@@ -3631,6 +3676,9 @@ msgstr "Импортирование учётной записи %1 с удал�
 msgid "Impressive!!"
 msgstr "Впечатляет!!"
 
+msgid "In Game"
+msgstr "В игре"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3715,6 +3763,9 @@ msgstr "Настройки интерфейса"
 
 msgid "Internal error"
 msgstr "Внутренняя ошибка"
+
+msgid "Intro"
+msgstr "Интро"
 
 msgid "Introduction sequence"
 msgstr "Вступительный эпизод"
@@ -3815,6 +3866,9 @@ msgstr "Предмет уже загружен с этого магазина."
 
 msgid "Item deleted"
 msgstr "Предмет удалён"
+
+msgid "Item edition"
+msgstr "Редактирование предмета"
 
 msgid "Item export options"
 msgstr "Опции экспорта предмета"
@@ -3987,7 +4041,7 @@ msgid ""
 "soon as possible. For a more detailed report, please go to the forum."
 msgstr ""
 "Дайте нам знать, в чём заключается ваша проблема, чтобы мы могли "
-"проанализировать и решить её как можно скорее. Для более подробного отчёта, "
+"проанализировать и решить её, как можно скорее. Для более подробного отчёта, "
 "пожалуйста, перейдите на форум."
 
 msgid "Level"
@@ -4115,6 +4169,9 @@ msgstr "Макроблок удалён"
 
 msgid "Macroblocks Editor"
 msgstr "Редактор макроблоков"
+
+msgid "Mail Account"
+msgstr "Почтовая учётная запись"
 
 msgid "Manage account on the Player Page"
 msgstr "Управление учётной записью на странице игрока"
@@ -4301,6 +4358,9 @@ msgstr "Свойства медии"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "МедияТрекер (интро, повторы и эффекты в процессе гонки)"
+
+msgid "MediaTracker sequences"
+msgstr "Последовательности МедияТрекера"
 
 msgid "Medium"
 msgstr "Среднее"
@@ -5230,6 +5290,9 @@ msgstr ""
 msgid "Plugin deleted"
 msgstr "Плагин удалён"
 
+msgid "Plugins"
+msgstr "Плагины"
+
 msgid "Plugins Mode [P]"
 msgstr "Режим плагинов [P]"
 
@@ -5538,6 +5601,9 @@ msgstr "Переназначить"
 msgid "Receive mail about %1"
 msgstr "Получать письма об %1"
 
+msgid "Receive mail about Trackmania"
+msgstr "Получать почту о Trackmania"
+
 msgid "Recommended Display Mode"
 msgstr "Рекомендуемый режим экрана"
 
@@ -5734,6 +5800,9 @@ msgstr "Повтор загружен"
 msgid "Replay marked as favorite"
 msgstr "Повтор помечен как избранный"
 
+msgid "Replay operations"
+msgstr "Повторить"
+
 msgid "Replay saved"
 msgstr "Повтор сохранён"
 
@@ -5800,6 +5869,9 @@ msgstr "Сброс персонажа"
 
 msgid "Reset joint rotation"
 msgstr "Сброс вращения сустава"
+
+msgid "Reset password"
+msgstr "Сбросить пароль"
 
 msgid "Reset the UI customization"
 msgstr "Сбросить настройки интерфейса"
@@ -6103,6 +6175,9 @@ msgstr "Скриншот"
 
 msgid "Screens:"
 msgstr "Экраны:"
+
+msgid "Script"
+msgstr "Скрипт"
 
 msgid "Script :"
 msgstr "Скрипт :"
@@ -6841,6 +6916,9 @@ msgstr "Целевые Возрождения"
 
 msgid "Target Time"
 msgstr "Целевое Время"
+
+msgid "Target Time (milliseconds)"
+msgstr "Целевое время (миллисекунды)"
 
 msgid "Team"
 msgstr "Команда"

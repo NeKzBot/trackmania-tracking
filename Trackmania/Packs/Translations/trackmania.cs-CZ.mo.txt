@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 12:04+0000\n"
+"PO-Revision-Date: 2020-07-06 15:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -391,14 +391,14 @@ msgid ""
 "At the end of you 3 years period, keep the 300 officials maps,\n"
 "the 1095 tracks of the day, and the advanced track editor"
 msgstr ""
-"Na konci vašeho 3ročního období si zachováte 300 oficiálních map,\n"
+"Na konci vašeho 3ročního předplatného si zachováte 300 oficiálních map,\n"
 "1095 tratí dne a pokročilý editor tratí"
 
 msgid ""
 "At the end of your 1 year period, keep the 100 official maps,\n"
 "the 365 tracks of the day, and the advanced track editor"
 msgstr ""
-"Na konci vašeho ročního období si zachováte 100 oficiálních map,\n"
+"Na konci vašeho ročního předplatného si zachováte 100 oficiálních map,\n"
 "365 tratí dne a pokročilý editor tratí"
 
 msgid "Author"
@@ -537,7 +537,7 @@ msgid "COMMUNITY MANAGER"
 msgstr "MANAŽER KOMUNITY"
 
 msgid "COMMUNITY SENTIMENT SPECIALIST"
-msgstr "SPECIALISTA KOMUNITNÍ NÁLADY"
+msgstr "SPECIALISTA KOMUNITNÍHO SENTIMENTU"
 
 msgid "COMMUNITY TEAM LEAD"
 msgstr "VEDOUCÍ KOMUNITNÍHO TÝMU"
@@ -719,12 +719,6 @@ msgstr "Zavřít"
 msgid "Club"
 msgstr "Klub"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování pozadí klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr "Editování pozadí klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
 msgid "Club campaigns"
 msgstr "Klubové kampaně"
 
@@ -737,20 +731,6 @@ msgstr "Vytváření klubu"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Vytváření klubu se nezdařilo. Prosím opakujte. (Chyba %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování klubového obtisku selhalo. Prosím opakujte. (Chyba %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr "Úprava klubového obtisku selhala. Prosím opakujte. (Chyba %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Odstraňování obtisku sponzora klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"Editování obtisku sponzora klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr "Nahrávání klubového obtisku selhalo. Prosím opakujte. (Chyba %1)"
 
@@ -760,47 +740,17 @@ msgstr "Odstranění klubu selhalo. Prosím opakujte. (Chyba %1)"
 msgid "Club edition"
 msgstr "Úprava klubu"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "Odstranění loga klubu selhalo. Prosím opakujte. (Chyba %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "Upravování loga klubu selhalo. Prosím opakujte. (Chyba %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "Nahrávání loga klubu se nezdařilo. Prosím opakujte. (Chyba %1)"
 
 msgid "Club rooms"
 msgstr "Klubové místnosti"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování obrazovky 16 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr "Editování obrazovky 16 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování obrazovky 2 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr "Editování obrazovky 2 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování obrazovky 8 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr "Editování obrazovky 8 klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
 msgid "Club skins"
 msgstr "Klubové vzhledy"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "Aktualizace klubu selhala. Prosím opakujte. (Chyba %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "Odstraňování vertikály klubu selhalo. Prosím opakujte. (Chyba : %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr "Editování vertikály klubu selhalo. Prosím opakujte. (Chyba : %1)"
 
 msgid "Clubs"
 msgstr "Kluby"
@@ -1421,7 +1371,7 @@ msgid "Get the Club access for one year"
 msgstr "Pořiďte si Club access na jeden rok"
 
 msgid "Get the Club access for three years"
-msgstr "Získejte Club access na tři roky"
+msgstr "Pořiďte si Club access na tři roky"
 
 msgid "Get the Standard access for one year"
 msgstr "Pořiďte si Standard access na jeden rok"
@@ -1577,6 +1527,9 @@ msgstr "Připojujte se ke klubovým aktivitám a sledujte klubová pořadí"
 msgid "Join public club activities: campaigns and online rooms"
 msgstr ""
 "Připojujte se k veřejným klubovým aktivitám: kampaním a online místnostem"
+
+msgid "Joining friends"
+msgstr "Připojování k přátelům"
 
 msgid "Jump to map"
 msgstr "Přeskočit na mapu"
@@ -2310,6 +2263,9 @@ msgstr "Hrát proti záznamu"
 
 msgid "Play against opponents"
 msgstr "Hrát proti soupeřům"
+
+msgid "Play against your followers"
+msgstr "Hrát proti vašim sledujícím"
 
 msgid "Play alone"
 msgstr "Hrát o samotě"
@@ -3386,9 +3342,6 @@ msgstr "Tag jména má maximálně %1 znaků"
 
 msgid "The next match will begin in %1 "
 msgstr "Další zápas začne za %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "Registrace uzavřena v: %1 H"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Nelze se připojit k místnosti, prosím opakujte. (Kód chyby: %1)"
@@ -4921,7 +4874,7 @@ msgid "|Recreate automatic decoration|Reroll decoration"
 msgstr "Obnovit dekoraci"
 
 msgid "|ReplayVerb|Edit"
-msgstr "|ReplayVerb|Editovat"
+msgstr "|ReplayVerb|Upravit"
 
 msgid "|ReplayVerb|Shoot"
 msgstr "|ReplayVerb|Nahrát"

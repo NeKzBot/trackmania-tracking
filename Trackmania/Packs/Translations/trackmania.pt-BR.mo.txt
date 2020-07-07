@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 05:59+0000\n"
+"PO-Revision-Date: 2020-07-07 00:19+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -165,18 +165,18 @@ msgid ""
 "$6F9first position$> to win the cup.The cup mode ends once 3 players have "
 "managed to become finalists and to finish first."
 msgstr ""
-"$zO modo copa consiste em $<$t$6F9uma série de corridas em múltiplos mapas"
+"$zO modo Copa consiste em $<$t$6F9uma série de corridas em múltiplos mapas"
 "$>. \n"
-" \n"
-"Quando você termina a corrida em uma boa $<$t$6F9posição$>, você ganha $<$t"
-"$6F9pontos$> no seu total. \n"
-"Os servidores talvez proponham corridas de aquecimento para se familiarizar "
-"com o mapa primeiro. \n"
-" \n"
-"Para ganhar, você deve primeiro atingir o $<$t$6F9limide de pontos$> para se "
-"tornar um $<$t$6F9finalista$>. Quando você é um finalista, você deve "
-"terminar uma corrida na $<$t$6F9primeira posição$> Para vencer a copa.O modo "
-"copa termina quando 3 jogadores conseguirem ser finalistas e um finalizar em "
+"\n"
+"Quando você termina a corrida em uma boa $<$t$6F9posição$>, você recebe $<$t"
+"$6F9pontos$> adicionados ao seu total.\n"
+"Os servidores podem propor corridas de aquecimento para se familiarizar com "
+"um mapa primeiro.\n"
+"\n"
+"Para ganhar, você deve primeiro atingir o $<$t$6F9limite de pontos$> para se "
+"tornar um $<$t$6F9finalista$>. Ao se tornar finalista, você deve terminar "
+"uma corrida na $<$t$6F9primeira posição$> para vencer a Copa. O modo Copa "
+"termina quando 3 jogadores conseguem se tornar finalistas e terminam em "
 "primeiro."
 
 msgid "%1 is not a Stadium map"
@@ -537,7 +537,7 @@ msgid "CONTENT DIRECTOR"
 msgstr "DIRETOR DE CONTEÚDO"
 
 msgid "CONTENT MANAGER"
-msgstr "DIRETOR DE CONTEÚDO"
+msgstr "GERENTE DE CONTEÚDO"
 
 msgid "CREATIVE DIRECTOR"
 msgstr "DIRETOR CRIATIVO"
@@ -677,16 +677,6 @@ msgstr "Fechar"
 msgid "Club"
 msgstr "Clube"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na exclusão do plano de fundo do clube. Por favor, tente novamente. "
-"(Erro %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr ""
-"A edição do plano de fundo do clube falhou. Por favor, tente novamente. "
-"(Erro %1)"
-
 msgid "Club campaigns"
 msgstr "Campanhas dos Clubes"
 
@@ -699,24 +689,6 @@ msgstr "Criação de clube"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Falha ao criar clube. Por favor, tente novamente. (Erro: %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr ""
-"A exclusão do decal do clube falhou. Por favor, tente novamente. (Erro: %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr ""
-"A edição do decal do clube falhou. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha ao excluir o adesivo do patrocinador. Por favor, tente novamente. "
-"(Erro %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"A edição do adesivo de patrocinador do clube falhou. Por favor, tente "
-"novamente. (Erro %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr ""
 "Falha no upload do decal do clube. Por favor, tente novamente. (Erro %1)"
@@ -727,14 +699,6 @@ msgstr "Falha na exclusão do clube. Por favor, tente novamente. (Erro %1)"
 msgid "Club edition"
 msgstr "Edição de clube"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na exclusão do logotipo do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr ""
-"A edição do logotipo do clube falhou. Por favor, tente novamente. (Erro %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr ""
 "Falha ao atualizar logo do clube. Por favor, tente novamente. (Erro: %1)"
@@ -742,43 +706,11 @@ msgstr ""
 msgid "Club rooms"
 msgstr "Salas dos clubes"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na exclusão da tela 16 do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na edição da tela 16 do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na exclusão da tela 2 do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na edição da tela 2 do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na exclusão da tela 8 do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Falha na edição da tela 8 do clube. Por favor, tente novamente. (Erro %1)"
-
 msgid "Club skins"
 msgstr "Skins de clube"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "Falha na atualização do clube. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr ""
-"A edição vertical do clube falhou. Por favor, tente novamente. (Erro %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr ""
-"A edição vertical do clube falhou. Por favor, tente novamente. (Erro %1)"
 
 msgid "Clubs"
 msgstr "Clubes"
@@ -932,7 +864,7 @@ msgid "DEVELOPMENT AND QUALITY MANAGER"
 msgstr "GERENTE DE DESENVOLVIMENTO E QUALIDADE"
 
 msgid "DIGITAL CONTENT PUBLISHER"
-msgstr "EDITOR DIGITAL DE CONTEÚDO"
+msgstr "EDITOR DE CONTEÚDO DIGITAL"
 
 msgid "DIRECTOR"
 msgstr "DIRETOR"
@@ -1358,7 +1290,7 @@ msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
 msgstr "ESPECIALISTAS DE ATIVIDADE DO JOGO, SUPORTE AO CLIENTE NCSA"
 
 msgid "GAME ANALYTICS RESEARCH"
-msgstr "PESQUISA DE ANÁLÍTICA DE JOGOS"
+msgstr "PESQUISA ANALÍTICA DE JOGO"
 
 msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
 msgstr "GERENTE ASSOCIADO DE OPERAÇÕES DE JOGO E SERVIÇOS"
@@ -1441,11 +1373,17 @@ msgstr "Medalha de Ouro"
 msgid "Green"
 msgstr "Verde"
 
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "CHEFE DO CENTRO DE RELACIONAMENTO COM O CLIENTE NCSA"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "CHEFE DE MÍDIA SOCIAL EMEA"
+
 msgid "HQ PRODUCER"
-msgstr "PRODUTOR CHEFE"
+msgstr "PRODUTOR HQ"
 
 msgid "HQ PRODUCERS"
-msgstr "PRODUTORES GERAIS"
+msgstr "PRODUTORES HQ"
 
 msgid "HR SPECIALIST"
 msgstr "ESPECIALISTA DE RH"
@@ -1472,7 +1410,10 @@ msgid "Hotseat"
 msgstr "Hotseat"
 
 msgid "INFRASTRUCTURE TEAM MANAGER"
-msgstr "GERENTE DO TIME DE INFRA-ESTRUTURA"
+msgstr "GERENTE DO TIME DE INFRAESTRUTURA"
+
+msgid "INTERN LIVE QA"
+msgstr "ESTAGIÁRIO DE CQ LIVE"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "GERENTE INTERNACIONAL DE PRODUTOS"
@@ -1484,8 +1425,8 @@ msgid ""
 "If you give up, you will be able to continue playing in the channel but you "
 "will not participate in the Daily Knockout match."
 msgstr ""
-"Se você desistir, você vai poder continuar jogando no canal, mas não irá "
-"participar da partida Eliminatória diária."
+"Se você desistir, poderá continuar jogando no canal, mas não participará da "
+"partida Eliminatória Diária."
 
 msgid "Image browser"
 msgstr "Navegador de imagens"
@@ -1557,8 +1498,26 @@ msgstr "Botão L1"
 msgid "L3 button"
 msgstr "Botão L3"
 
+msgid "LEAD DESIGNER"
+msgstr "DESIGNER CHEFE"
+
 msgid "LEAD FRONT-END ENGINEER"
 msgstr "ENGENHEIRO FRONT-END LÍDER"
+
+msgid "LINE DESIGNER"
+msgstr "DESIGNER DE LINHA"
+
+msgid "LINE DESIGNERS"
+msgstr "DESIGNERS DE LINHA"
+
+msgid "LIVE COORDINATOR"
+msgstr "COORDENADOR LIVE"
+
+msgid "LIVE PRODUCER"
+msgstr "PRODUTOR LIVE"
+
+msgid "LIVE TEAM MANAGER"
+msgstr "GERENTE DE EQUIPE LIVE"
 
 msgid "LOCALIZATION"
 msgstr "LOCALIZAÇÃO"
@@ -1663,7 +1622,7 @@ msgid ""
 "Logo: the first visible image of your club.\n"
 "Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
 msgstr ""
-"Logo: primeira imagem visível do seu clube.\n"
+"Logotipo: primeira imagem visível do seu clube.\n"
 "Dimensões: %1 - Formato: PNG, JPEG ou DDS (DXT5)"
 
 msgid "Lol"
@@ -2012,6 +1971,9 @@ msgstr "Número de aquecimento"
 msgid "Number of winners"
 msgstr "Número de vencedores"
 
+msgid "OFFICE MANAGEMENT"
+msgstr "GESTÃO DO ESCRITÓRIO"
+
 msgid "OK"
 msgstr "OK"
 
@@ -2061,6 +2023,15 @@ msgstr "Outro"
 msgid "PC REQUIREMENTS"
 msgstr "REQUISITOS DO PC"
 
+msgid "PC REQUIREMENTS LEAD"
+msgstr "LÍDER DE REQUISITOS PC"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "LÍDER DE PROJETO DE REQUISITOS PC"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "ESPECIALISTAS EM REQUISITOS PC"
+
 msgid "PLAYER EXPERIENCE"
 msgstr "EXPERIÊNCIA DO JOGADOR"
 
@@ -2084,6 +2055,9 @@ msgstr "PRESIDENTE E CEO"
 
 msgid "PRODUCER"
 msgstr "PRODUTOR"
+
+msgid "PRODUCT OWNER"
+msgstr "PROPRIETÁRIO DO PRODUTO"
 
 msgid "PRODUCT SPECIALIST"
 msgstr "ESPECIALISTA DE PRODUTO"
@@ -2167,8 +2141,8 @@ msgid ""
 "Place checkpoints to avoid shortcuts and make it easier for other players to "
 "respawn on your track."
 msgstr ""
-"Coloque checkpoints para evitar atalhos e para deixar mais fácil para outros "
-"jogadores reiniciarem na sua pista."
+"Coloque pontos de controle para evitar atalhos e facilitar o reaparecimento "
+"de outros jogadores em sua pista."
 
 msgid "Platform"
 msgstr "Plataforma"
@@ -2193,6 +2167,9 @@ msgstr "Jogar contra um replay"
 
 msgid "Play against opponents"
 msgstr "Jogue contra adversários"
+
+msgid "Play against your followers"
+msgstr "Jogue contra seus seguidores"
 
 msgid "Play alone"
 msgstr "Jogar sozinho"
@@ -2363,7 +2340,13 @@ msgid "R3 button"
 msgstr "Botão R3"
 
 msgid "RELEASE MANAGEMENT"
-msgstr "GERENCIA DE LANÇAMENTO"
+msgstr "GESTÃO DE LANÇAMENTO"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "DIRETOR DE GESTÃO DE LANÇAMENTO & LOCALIZAÇÃO"
+
+msgid "RELEASE MANAGER"
+msgstr "GERENTE DE LANÇAMENTO"
 
 msgid "Race"
 msgstr "Corrida"
@@ -2592,6 +2575,12 @@ msgstr "DIRETOR SÊNIOR, EXPERIÊNCIA DA COMUNIDADE"
 
 msgid "SENIOR FRONT-END ENGINEER"
 msgstr "ENGENHEIRO FRONT-END SÊNIOR"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "PRODUTOR HQ SÊNIOR"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "ANALISTA DE LINHA SÊNIOR"
 
 msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
 msgstr "GERENTE SÊNIOR, DESENVOLVIMENTO DA COMUNIDADE"
@@ -3047,6 +3036,9 @@ msgstr "Suporte %1%z: \"vá %2$z\" no bate-papo"
 msgid "Switch"
 msgstr "Mudar"
 
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "LÍDERES DA EQUIPE, SUPORTE AO CLIENTE DA NCSA"
+
 msgid "TECHNICAL ANIMATOR"
 msgstr "ANIMADOR TÉCNICO"
 
@@ -3064,6 +3056,9 @@ msgstr "ESPECIALISTA TÉCNICO"
 
 msgid "TECHNICAL SUPPORT COORDINATOR"
 msgstr "COORDENADOR DE SUPORTE TÉCNICO"
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "ESPECIALISTA DE RASTREAMENTO E ANÁLISES, EMEA"
 
 msgid ""
 "TYPE: Free for all\n"
@@ -3197,9 +3192,6 @@ msgstr "A tag de nome tem no máximo %1 caracteres"
 
 msgid "The next match will begin in %1 "
 msgstr "A próxima partida começará em %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "Registro encerrado às: %1 H"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr ""
@@ -3369,6 +3361,9 @@ msgstr "Tente colocar os pontos de controle regularmente"
 msgid "Tuesday"
 msgstr "Terça-Feira"
 
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "PRODUTOR DE LINHA UBISOFT CLUB"
+
 msgid "UI DESIGNER"
 msgstr "UI DESIGNER"
 
@@ -3377,6 +3372,12 @@ msgstr "UI DESIGNER "
 
 msgid "UI PROGRAMMER"
 msgstr "PROGRAMADOR UI"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "PROPRIETÁRIOS DE PLATAFORMA UOR"
+
+msgid "UOR TEAM"
+msgstr "EQUIPE UOR"
 
 msgid "UPLAY TEAM"
 msgstr "EQUIPE UPLAY"
@@ -3540,11 +3541,20 @@ msgstr "Vs tempo recorde"
 msgid "WEB CONTENT SPECIALIST"
 msgstr "ESPECIALISTA DE CONTEÚDO WEB"
 
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "ESPECIALISTA ASSISTENTE DE CONTEÚDO WEB"
+
 msgid "WEB DEVELOPER"
 msgstr "DESENVOLVEDOR WEB"
 
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "DESENVOLVEDOR ASSISTENTE WEB, EMEA"
+
 msgid "WEB DEVELOPER, EMEA"
 msgstr "DESENVOLVEDOR WEB, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "PRODUTOR ASSISTENTE WEB, EMEA"
 
 msgid "WEB PRODUCER, EMEA"
 msgstr "PRODUTOR WEB, EMEA"
@@ -3559,7 +3569,7 @@ msgid "WEB SERVICES DIRECTOR"
 msgstr "DIRETOR DE SERVIÇOS WEB"
 
 msgid "WEB SERVICES TEAM"
-msgstr "TIME DE WEB SERVIÇOS"
+msgstr "EQUIPE DE SERVIÇOS WEB"
 
 msgid "Waiting for other players."
 msgstr "Esperando por outros jogadores."
@@ -4778,10 +4788,10 @@ msgid "|ServerRegion|China Northwest"
 msgstr "|ServerRegion|Noroeste da China"
 
 msgid "|ServerRegion|EU West"
-msgstr "Oeste da UE"
+msgstr "|ServerRegion|Oeste da Europa"
 
 msgid "|Server|Live"
-msgstr "Live"
+msgstr "|Server|Live"
 
 msgid "|Setting to chose the quality of lights computation|Fast"
 msgstr "|Setting to chose the quality of lights computation|Rápida"

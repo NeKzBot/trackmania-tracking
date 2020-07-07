@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 18:13+0000\n"
+"PO-Revision-Date: 2020-07-03 10:43+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -707,12 +707,6 @@ msgstr "Close"
 msgid "Club"
 msgstr "Club"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "Club background deletion failed. Please try again. (Error %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr "Club background edit failed. Please try again. (Error %1)"
-
 msgid "Club campaigns"
 msgstr "Club campaigns"
 
@@ -725,18 +719,6 @@ msgstr "Club creation"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Club creation failed. Please try again. (Error %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr "Club decal deletion failed. Please try again. (Error %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr "Club decal edit failed. Please try again. (Error %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr "Club decal sponsor deletion failed. Please try again. (Error %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr "Club decal sponsor edit failed. Please try again. (Error %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr "Club decal upload failed. Please try again. (Error %1)"
 
@@ -746,47 +728,17 @@ msgstr "Club deletion failed. Please try again. (Error %1)"
 msgid "Club edition"
 msgstr "Club Settings"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "Club logo deletion failed. Please try again. (Error %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "Club logo edit failed. Please try again. (Error %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "Club logo upload failed. Please try again. (Error %1)"
 
 msgid "Club rooms"
 msgstr "Club rooms"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "Club screen 16X1 deletion failed. Please try again. (Error %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr "Club screen 16X1 edit failed. Please try again. (Error %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "Club screen 2X1 deletion failed. Please try again. (Error %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr "Club screen 2X1 edit failed. Please try again. (Error %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "Club screen 8X1 deletion failed. Please try again. (Error %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr "Club screen 8X1 edit failed. Please try again. (Error %1)"
-
 msgid "Club skins"
 msgstr "Club skins"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "Club update failed. Please try again. (Error %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "Club vertical deletion failed. Please try again. (Error %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr "Club vertical edit failed. Please try again. (Error %1)"
 
 msgid "Clubs"
 msgstr "Clubs"
@@ -3269,9 +3221,6 @@ msgstr "The name tag has a maximum of %1 characters"
 
 msgid "The next match will begin in %1 "
 msgstr "The next match will begin in %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "Registration closed at : %1 H"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Cannot connect to the room. Please try again. (Error code: %1)"

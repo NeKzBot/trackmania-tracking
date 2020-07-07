@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 19:57+0000\n"
+"PO-Revision-Date: 2020-07-03 12:47+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Polish, Poland\n"
 "Language: pl-PL\n"
@@ -588,6 +588,9 @@ msgstr "Dostęp do danych '%1' przyznany."
 msgid "Account"
 msgstr "Konto"
 
+msgid "Account Connection"
+msgstr "Połączenie z kontem"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -714,6 +717,9 @@ msgstr "Zaawansowany edytor"
 msgid "Advanced options"
 msgstr "Opcje zaawansowane"
 
+msgid "Advanced parameters"
+msgstr "Parametry zaawansowane"
+
 msgid "Advanced..."
 msgstr "Zaawansowane..."
 
@@ -831,6 +837,9 @@ msgstr "Alt + kliknięcie na linię czasu"
 
 msgid "Always"
 msgstr "Zawsze"
+
+msgid "Ambiance"
+msgstr "Atmosfera"
 
 msgid "Ambiance sequence"
 msgstr "Sekwencja atmosfery"
@@ -1038,6 +1047,9 @@ msgstr "Strumień audio"
 msgid "Author"
 msgstr "Autora"
 
+msgid "Author "
+msgstr "Autor  "
+
 msgid "Author Medal"
 msgstr "Medal autora"
 
@@ -1093,7 +1105,7 @@ msgid "Awesome!!!"
 msgstr "Niesamowite!!!"
 
 msgid "Back"
-msgstr "Powrót"
+msgstr "Back"
 
 msgid "Back to previous menu"
 msgstr "Powrót do poprzedniego menu"
@@ -1409,12 +1421,6 @@ msgstr "Zmień skrypt"
 msgid "Change Sort Order"
 msgstr "Zmień kolejność sortowania"
 
-msgid "Change avatar"
-msgstr "Zmień awatar"
-
-msgid "Change horn"
-msgstr "Zmień klakson"
-
 msgid "Change location"
 msgstr "Zmień lokację"
 
@@ -1447,9 +1453,6 @@ msgstr "Zmień motyw"
 
 msgid "Change transparency"
 msgstr "Zmień przeźroczystość"
-
-msgid "Change vehicle/character skin"
-msgstr "Zmień wygląd pojazdu/postaci"
 
 msgid "Change your password"
 msgstr "Zmień hasło"
@@ -1561,11 +1564,20 @@ msgstr "Wybierz przezroczystość"
 msgid "Choose your Avatar"
 msgstr "Wybierz swojego awatara"
 
+msgid "Choose your Editor"
+msgstr "Wybierz swój edytor"
+
 msgid "Choose your block type"
 msgstr "Wybierz typ ścieżki"
 
 msgid "Choose your opponents"
 msgstr "Wybierz swoich przeciwników"
+
+msgid "Choose your profile"
+msgstr "Wybierz profil"
+
+msgid "Choose your zone"
+msgstr "Wybierz swój obszar"
 
 msgid "Chrono"
 msgstr "Chrono"
@@ -1690,9 +1702,6 @@ msgstr "Tag zamykający"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "URL Clublinka"
-
 msgid "Clubs"
 msgstr "Kluby"
 
@@ -1750,6 +1759,12 @@ msgstr "Sterowanie"
 msgid "Confirm new password:"
 msgstr "Potwierdź nowe hasło:"
 
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+msgid "Confirm your email"
+msgstr "Potwierdź swój e-mail"
+
 msgid "Congrats!"
 msgstr "Gratulacje!"
 
@@ -1777,6 +1792,9 @@ msgstr "Połączony"
 
 msgid "Connecting to %1..."
 msgstr "Łączenie z %1..."
+
+msgid "Connection Error"
+msgstr "Błąd połączenia"
 
 msgid "Connection timed out"
 msgstr "Przekroczono limit czasu połączenia"
@@ -2070,6 +2088,9 @@ msgstr "Twórz skrypt nowej wtyczki"
 msgid "Create a new Profile"
 msgstr "Stwórz nowy profil"
 
+msgid "Create a profile"
+msgstr "Stwórz profil"
+
 msgid "Create a server"
 msgstr "Utwórz serwer"
 
@@ -2081,6 +2102,9 @@ msgstr "Utwórz nowy przedmiot z modelu segmentu"
 
 msgid "Create new..."
 msgstr "Stwórz nowy..."
+
+msgid "Create your account"
+msgstr "Stwórz konto"
 
 msgid "Creating the account..."
 msgstr "Tworzenie konta..."
@@ -2183,6 +2207,9 @@ msgstr "Niestandardowa prędkość wysyłania w bajtach / s"
 
 msgid "Custom block deleted"
 msgstr "Usunięto segment"
+
+msgid "Custom blocks"
+msgstr "Bloki niestandardowe"
 
 msgid "Custom data directories"
 msgstr "Własne katalogi danych"
@@ -2735,6 +2762,9 @@ msgstr "E / Ctrl + kółko myszki w górę"
 msgid "E-mail address"
 msgstr "Adres email"
 
+msgid "EMail"
+msgstr "E-mail"
+
 msgid "Easting coordinate"
 msgstr "Wschodnia współrzędna"
 
@@ -2774,9 +2804,6 @@ msgstr "Edytuj powtórkę"
 msgid "Edit custom block"
 msgstr "Edytuj niestandardowe segmenty"
 
-msgid "Edit defeat podium pose"
-msgstr "Edytuj pozę przegranej"
-
 msgid "Edit icon:"
 msgstr "Edytuj ikonę:"
 
@@ -2795,9 +2822,6 @@ msgstr "Edytuj właściwości specjalne"
 msgid "Edit the area where this clip will be activated"
 msgstr "Edytuj strefę w której klip zostanie włączony"
 
-msgid "Edit victory podium pose"
-msgstr "Edytuj pozę zwycięstwa"
-
 msgid "EditLayer"
 msgstr "Edytuj warstwę"
 
@@ -2809,6 +2833,9 @@ msgstr "Edytor"
 
 msgid "Editor Creator"
 msgstr "Kreator Edytorów"
+
+msgid "Editor Type"
+msgstr "Rodzaj Edytora"
 
 msgid "Editors"
 msgstr "Edytory"
@@ -2861,8 +2888,14 @@ msgstr "Włącz stereoskopię"
 msgid "End Ghost Recording"
 msgstr "Zakończ nagrywanie ducha"
 
+msgid "End User License Agreement"
+msgstr "Umowa licencyjna użytkownika końcowego"
+
 msgid "End of warmup, match starting..."
 msgstr "Koniec rozgrzewki, rozpoczynanie rozgrywki..."
+
+msgid "End race"
+msgstr "Zakończenie wyścigu"
 
 msgid "End validation"
 msgstr "Zakończ weryfikację"
@@ -2874,7 +2907,7 @@ msgid "Enough players agreed to play a rematch."
 msgstr "Wystarczająca ilość osób zgodziła się na rewanż."
 
 msgid "Enter"
-msgstr "Otwórz"
+msgstr "Enter"
 
 msgid "Enter Text"
 msgstr "Wpisz tekst"
@@ -2888,16 +2921,25 @@ msgstr "Aby przedłużyć czas funkcjonowania konta, podaj klucz ManiaPlanet."
 msgid "Enter a Name:"
 msgstr "Podaj nazwę:"
 
+msgid "Enter a login"
+msgstr "Wprowadź login"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr ""
 "Podaj nazwę dla nowej naklejki (zostanie wykorzystana również jako nazwa "
 "pliku):"
 
+msgid "Enter a password"
+msgstr "Wprowadź hasło"
+
+msgid "Enter a valid email"
+msgstr "Wprowadź poprawny adres e-mail."
+
 msgid "Enter an Icon Directory:"
 msgstr "Podaj katalog dla miniatury makrosegmentu:"
 
 msgid "Enter racing mode"
-msgstr "Wejdź do trybu wyścigu"
+msgstr "Przejdź w tryb wyścigu"
 
 msgid "Enter the URL or the name of the title:"
 msgstr "Wpisz adres URL lub nazwę tutułu:"
@@ -3622,6 +3664,9 @@ msgstr "Importowanie konta %1 z zewnętrznego serwera..."
 msgid "Impressive!!"
 msgstr "Imponujące!!"
 
+msgid "In Game"
+msgstr "W czasie gry"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3708,6 +3753,9 @@ msgstr "Ustawienia interfejsu"
 
 msgid "Internal error"
 msgstr "Błąd wewnętrzny"
+
+msgid "Intro"
+msgstr "Wstęp"
 
 msgid "Introduction sequence"
 msgstr "Sekwencja wprowadzająca"
@@ -3809,6 +3857,9 @@ msgstr "Przedmiot jest już wczytany w tym sklepie."
 
 msgid "Item deleted"
 msgstr "Przedmiot usunięty"
+
+msgid "Item edition"
+msgstr "Edycja przedmiotu"
 
 msgid "Item export options"
 msgstr "Opcje eksportu przedmiotu"
@@ -4110,6 +4161,9 @@ msgstr "Makrosegment został usunięty"
 msgid "Macroblocks Editor"
 msgstr "Edytor makrosegmentów"
 
+msgid "Mail Account"
+msgstr "Konto pocztowe"
+
 msgid "Manage account on the Player Page"
 msgstr "Zarządzaj profilem na stronie gracza"
 
@@ -4295,6 +4349,9 @@ msgstr "Atrybuty mediów"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (wstęp, powtórka oraz efekty podczas gry)"
+
+msgid "MediaTracker sequences"
+msgstr "MediaTracker - sekwencje"
 
 msgid "Medium"
 msgstr "Średni"
@@ -4484,7 +4541,7 @@ msgid "Music volume"
 msgstr "Głośność muzyki"
 
 msgid "Mute the game when not focused"
-msgstr "Wycisz grę kiedy nie jest w fokusie"
+msgstr "Pozostaw dźwięk gry włączony w tle"
 
 msgid "My Maps"
 msgstr "Moje mapy"
@@ -5230,6 +5287,9 @@ msgstr "Dopilnuj, aby maksymalna liczba punktów była większa od minimalnej."
 msgid "Plugin deleted"
 msgstr "Wtyczka została usunięta"
 
+msgid "Plugins"
+msgstr "Pluginy"
+
 msgid "Plugins Mode [P]"
 msgstr "Tryb wtyczki [P]"
 
@@ -5534,6 +5594,9 @@ msgstr "Zmień"
 msgid "Receive mail about %1"
 msgstr "Otrzymuj maile o %1"
 
+msgid "Receive mail about Trackmania"
+msgstr "Otrzymuj e-maile o Trackmanii"
+
 msgid "Recommended Display Mode"
 msgstr "Zalecany Tryb Wyświetlania"
 
@@ -5736,6 +5799,9 @@ msgstr "Powtórka wczytana"
 msgid "Replay marked as favorite"
 msgstr "Powtórka oznaczona jako ulubiona"
 
+msgid "Replay operations"
+msgstr "Zarządzanie powtórką"
+
 msgid "Replay saved"
 msgstr "Zapisano powtórkę"
 
@@ -5802,6 +5868,9 @@ msgstr "Resetuj postać"
 
 msgid "Reset joint rotation"
 msgstr "Resetuj rotacje stawów"
+
+msgid "Reset password"
+msgstr "Zresetuj hasło"
 
 msgid "Reset the UI customization"
 msgstr "Resetuj modyfikacje interfejsu"
@@ -6105,6 +6174,9 @@ msgstr "Zrzut ekranu"
 
 msgid "Screens:"
 msgstr "Ekrany:"
+
+msgid "Script"
+msgstr "Skrypt"
 
 msgid "Script :"
 msgstr "Skrypt:"
@@ -6842,6 +6914,9 @@ msgstr "Docelowa liczba Respawnów"
 
 msgid "Target Time"
 msgstr "Czas docelowy"
+
+msgid "Target Time (milliseconds)"
+msgstr "Czas docelowy (milisekundy)"
 
 msgid "Team"
 msgstr "Zespół"
@@ -11795,7 +11870,7 @@ msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Nieprzezroczysty"
 
 msgid "|PlayerVisibility|Transparent"
-msgstr "|PlayerVisibility|Przeźroczysty"
+msgstr "|PlayerVisibility|Przezroczysty"
 
 msgid "|Quality|Automatic"
 msgstr "Automatyczna"
@@ -12509,7 +12584,7 @@ msgid "|XInput|Up"
 msgstr "|XInput|Góra"
 
 msgid "|XInput|View"
-msgstr "|XInput|Widok"
+msgstr "|XInput|View"
 
 msgid "|XInput|X"
 msgstr "|XInput|X"

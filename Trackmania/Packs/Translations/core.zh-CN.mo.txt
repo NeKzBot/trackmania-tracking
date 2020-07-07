@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 23:09+0000\n"
+"PO-Revision-Date: 2020-07-07 00:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -493,16 +493,16 @@ msgid "8 players race"
 msgstr "8名玩家竞赛"
 
 msgid "A block's clip is not in the underground area."
-msgstr "一个方块的剪辑不在地下。"
+msgstr "一个方块的边缘不在地下。"
 
 msgid "A block's clip is not on the right surface."
-msgstr "一个方块的剪辑不在正确的表面。"
+msgstr "一个方块的边缘不在正确的表面。"
 
 msgid "A block's clip is outside the building area."
-msgstr "一个方块的剪辑在建设区域外。"
+msgstr "一个方块的边缘在建设区域外。"
 
 msgid "A block's clip overrides another block."
-msgstr "一个方块的剪辑覆盖了另一个方块。"
+msgstr "一个方块的边缘与另一个方块重叠。"
 
 msgid "A column of that type already exists in this Scores Table!"
 msgstr "此分数表中已经存在该类型的列！"
@@ -559,6 +559,9 @@ msgstr "获取访问数据“%1”权限。"
 msgid "Account"
 msgstr "帐户"
 
+msgid "Account Connection"
+msgstr "帐户连接"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -602,7 +605,7 @@ msgid "Add New Library"
 msgstr "新建库"
 
 msgid "Add a key to the selected block"
-msgstr "向所选方块添加标记点"
+msgstr "向所选片段添加标记点"
 
 msgid "Add a new Layer"
 msgstr "添加新图层"
@@ -685,11 +688,14 @@ msgstr "高级编辑器"
 msgid "Advanced options"
 msgstr "高级设置"
 
+msgid "Advanced parameters"
+msgstr "高级参数"
+
 msgid "Advanced..."
 msgstr "高级…"
 
 msgid "Air block Mode"
-msgstr "空气方块模式"
+msgstr "空中方块模式"
 
 msgid "Align Image"
 msgstr "对齐图像"
@@ -801,8 +807,11 @@ msgstr "按下Alt键+在时间轴上点击"
 msgid "Always"
 msgstr "总是"
 
+msgid "Ambiance"
+msgstr "氛围"
+
 msgid "Ambiance sequence"
-msgstr "氛围顺序"
+msgstr "氛围序列"
 
 msgid "Ambient Occ."
 msgstr "环境光遮蔽"
@@ -867,7 +876,7 @@ msgid "Animated Item Mode"
 msgstr "动态物体模式"
 
 msgid "Animated Macroblock Mode"
-msgstr "动态宏方块模式"
+msgstr "动态组合方块模式"
 
 msgid "Animated block Mode"
 msgstr "动态方块模式"
@@ -907,7 +916,7 @@ msgid "Apply stickers on the car"
 msgstr "在车身上应用贴纸"
 
 msgid "Apply the last screenshot taken to the  MacroDecal currentlly selected"
-msgstr "将最后拍摄的屏幕截图应用于当前选定的宏印花"
+msgstr "将最后拍摄的屏幕截图应用于当前选定的组合印花"
 
 msgid "Are you sure you want to change your current account?"
 msgstr "你确定要更改当前帐户吗？"
@@ -1004,6 +1013,9 @@ msgid "Audio stream"
 msgstr "音频流"
 
 msgid "Author"
+msgstr "作者"
+
+msgid "Author "
 msgstr "作者"
 
 msgid "Author Medal"
@@ -1142,7 +1154,7 @@ msgid "Black"
 msgstr "黑色"
 
 msgid "Block & Key Tools"
-msgstr "方块和标记工具"
+msgstr "片段和标记工具"
 
 msgid "Block Decals Editor"
 msgstr "方块印花编辑器"
@@ -1160,7 +1172,7 @@ msgid "Block Mode [F2]"
 msgstr "方块模式 [F2]"
 
 msgid "Block Options"
-msgstr "方块选项"
+msgstr "片段选项"
 
 msgid "Block Properties Mode"
 msgstr "方块属性模式"
@@ -1320,7 +1332,7 @@ msgid "Cannot convert this block into an item."
 msgstr "不能将此方块转换为物体。"
 
 msgid "Cannot copy, please select another key/block"
-msgstr "无法复制，请选择其他标记或方块"
+msgstr "无法复制，请选择其他标记或片段"
 
 msgid "Cannot create the group:"
 msgstr "无法创建群组："
@@ -1377,12 +1389,6 @@ msgstr "更改脚本"
 msgid "Change Sort Order"
 msgstr "更改排序方式"
 
-msgid "Change avatar"
-msgstr "修改头像"
-
-msgid "Change horn"
-msgstr "修改鸣笛音效"
-
 msgid "Change location"
 msgstr "更换地区"
 
@@ -1415,9 +1421,6 @@ msgstr "更改主题"
 
 msgid "Change transparency"
 msgstr "更改透明度"
-
-msgid "Change vehicle/character skin"
-msgstr "修改车辆或角色皮肤"
 
 msgid "Change your password"
 msgstr "更改你的密码"
@@ -1529,11 +1532,20 @@ msgstr "选择透明度"
 msgid "Choose your Avatar"
 msgstr "选择的头像"
 
+msgid "Choose your Editor"
+msgstr "选择的编辑器"
+
 msgid "Choose your block type"
-msgstr "选择方块类型"
+msgstr "选择片段类型"
 
 msgid "Choose your opponents"
 msgstr "选择你的对手"
+
+msgid "Choose your profile"
+msgstr "选择的档案"
+
+msgid "Choose your zone"
+msgstr "选择的地盘"
 
 msgid "Chrono"
 msgstr "计时"
@@ -1563,7 +1575,7 @@ msgid "Clear all animated items?"
 msgstr "清除全部动态物体？"
 
 msgid "Clear all animated macroblocks?"
-msgstr "清除全部动态宏方块？"
+msgstr "清除全部动态组合方块？"
 
 msgid "Clear all blocks?"
 msgstr "清除全部方块？"
@@ -1658,9 +1670,6 @@ msgstr "结束标签"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "俱乐部链接域名"
-
 msgid "Clubs"
 msgstr "俱乐部"
 
@@ -1718,6 +1727,12 @@ msgstr "控制设定"
 msgid "Confirm new password:"
 msgstr "输认新密码："
 
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Confirm your email"
+msgstr "验证的邮箱"
+
 msgid "Congrats!"
 msgstr "恭喜！"
 
@@ -1744,6 +1759,9 @@ msgstr "已连接"
 
 msgid "Connecting to %1..."
 msgstr "正在连接至%1…"
+
+msgid "Connection Error"
+msgstr "连接出错"
 
 msgid "Connection timed out"
 msgstr "连接超时"
@@ -1806,7 +1824,7 @@ msgid "Copy server link"
 msgstr "复制服务器链接"
 
 msgid "Copy the selected block"
-msgstr "复制所选方块"
+msgstr "复制所选片段"
 
 msgid "Copy the selected key"
 msgstr "复制所选标记"
@@ -1986,7 +2004,7 @@ msgid "Could not terraform to place the Block."
 msgstr "此地形不支持放置此方块。"
 
 msgid "Could not terraform to place the Macroblock."
-msgstr "此地形不支持放置宏方块。"
+msgstr "此地形不支持放置组合方块。"
 
 msgid "Could not validate the replay for $<%1$>"
 msgstr "无法为$<%1$>验证回放。"
@@ -2032,6 +2050,9 @@ msgstr "创建一个新的插件脚本"
 msgid "Create a new Profile"
 msgstr "创建新资料"
 
+msgid "Create a profile"
+msgstr "创建一个档案"
+
 msgid "Create a server"
 msgstr "创建服务器"
 
@@ -2043,6 +2064,9 @@ msgstr "从方块模型创建新物体"
 
 msgid "Create new..."
 msgstr "创建新的…"
+
+msgid "Create your account"
+msgstr "创建账户"
 
 msgid "Creating the account..."
 msgstr "正在创建帐号…"
@@ -2146,6 +2170,9 @@ msgstr "自定义上传速度（B/s）"
 msgid "Custom block deleted"
 msgstr "已删除自定义方块"
 
+msgid "Custom blocks"
+msgstr "自定义方块"
+
 msgid "Custom data directories"
 msgstr "自定义数据目录"
 
@@ -2174,7 +2201,7 @@ msgid "Cut Selection [Ctrl+X]"
 msgstr "剪切所选[Ctrl+X]"
 
 msgid "Cut the selected block"
-msgstr "剪切所选方块"
+msgstr "剪切所选片段"
 
 msgid "Cut the selected key"
 msgstr "剪切所选标记"
@@ -2454,7 +2481,7 @@ msgid "Do you really want to permanently delete this item?"
 msgstr "你确定要永久删除此物体吗？"
 
 msgid "Do you really want to permanently delete this macroblock?"
-msgstr "你确定要永久删除此宏方块吗？"
+msgstr "你确定要永久删除此组合方块吗？"
 
 msgid "Do you really want to permanently delete this plugin?"
 msgstr "你确定要永久删除此插件吗？"
@@ -2500,7 +2527,7 @@ msgid "Do you want to deactivate all plugins (shortcut: Ctrl+P)?"
 msgstr "你是否要停用所有插件？（快捷键：Ctrl+P）"
 
 msgid "Do you want to delete all keys of this block? (Excludes Start&End)"
-msgstr "你确认要删除此方块的所有标记吗？（起始点与结束点除外）"
+msgstr "你确认要删除此片段的所有标记吗？（起始点与结束点除外）"
 
 msgid "Do you want to delete all other camera tracks?"
 msgstr "你确认要删除所有其他视角轨道吗？"
@@ -2509,7 +2536,7 @@ msgid "Do you want to delete all other ghost tracks?"
 msgstr "你确认要删除所有其他镜像轨道吗？"
 
 msgid "Do you want to delete all the tracks of this clip?"
-msgstr "你确认要删除此片段的所有轨道吗？"
+msgstr "你确认要删除此剪辑的所有轨道吗？"
 
 msgid ""
 "Do you want to delete the folder %1 and all its contents (including your "
@@ -2520,13 +2547,13 @@ msgid "Do you want to delete the folder %1 and all its contents?"
 msgstr "你是否要删除文件夹%1及其所有内容？"
 
 msgid "Do you want to delete this block and all of its keys?"
-msgstr "你确认要删除此方块及其所有标记吗？"
+msgstr "你确认要删除此片段及其所有标记吗？"
 
 msgid "Do you want to delete this key and all of its settings?"
 msgstr "你确认要删除此标记及其所有设定吗？"
 
 msgid "Do you want to delete this track (%1) and all of its blocks?"
-msgstr "你确认要删除此轨道（%1）及其所有方块吗？"
+msgstr "你确认要删除此轨道（%1）及其所有片段吗？"
 
 msgid "Do you want to delete this trigger and all of its tracks?"
 msgstr "你确认要删除此触发器及其所有轨道吗？"
@@ -2686,6 +2713,9 @@ msgstr "E / Ctrl + 鼠标滚轮向上"
 msgid "E-mail address"
 msgstr "电子邮件地址"
 
+msgid "EMail"
+msgstr "电子邮件"
+
 msgid "Easting coordinate"
 msgstr "东坐标"
 
@@ -2725,9 +2755,6 @@ msgstr "编辑回放"
 msgid "Edit custom block"
 msgstr "编辑自定义方块"
 
-msgid "Edit defeat podium pose"
-msgstr "编辑领奖台失败造型"
-
 msgid "Edit icon:"
 msgstr "编辑图标："
 
@@ -2746,9 +2773,6 @@ msgstr "编辑特殊属性"
 msgid "Edit the area where this clip will be activated"
 msgstr "编辑该剪辑被激活的区域"
 
-msgid "Edit victory podium pose"
-msgstr "编辑领奖台胜利造型"
-
 msgid "EditLayer"
 msgstr "编辑图层"
 
@@ -2760,6 +2784,9 @@ msgstr "编辑器"
 
 msgid "Editor Creator"
 msgstr "编辑器创建"
+
+msgid "Editor Type"
+msgstr "编辑器类型"
 
 msgid "Editors"
 msgstr "编辑器"
@@ -2812,8 +2839,14 @@ msgstr "启用3D眼镜模式"
 msgid "End Ghost Recording"
 msgstr "结束录制镜像"
 
+msgid "End User License Agreement"
+msgstr "终端用户许可协议"
+
 msgid "End of warmup, match starting..."
 msgstr "热身结束，比赛即将开始…"
+
+msgid "End race"
+msgstr "终止比赛"
 
 msgid "End validation"
 msgstr "结束验证"
@@ -2839,8 +2872,17 @@ msgstr "请输入狂热星球游戏密钥以续期账户的使用时间。"
 msgid "Enter a Name:"
 msgstr "输入名称："
 
+msgid "Enter a login"
+msgstr "输入一个用户名"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr "输入新印花的名称（也将用作文件名）："
+
+msgid "Enter a password"
+msgstr "输入密码"
+
+msgid "Enter a valid email"
+msgstr "输入一个合法电子邮箱"
 
 msgid "Enter an Icon Directory:"
 msgstr "输入一个图标目录："
@@ -3176,7 +3218,7 @@ msgid "Free Look Mode (hold  'Alt') "
 msgstr "自由查看模式（按住“Alt”） "
 
 msgid "Free Macroblock Mode"
-msgstr "自由宏方块模式"
+msgstr "自由组合方块模式"
 
 msgid "Free block Mode"
 msgstr "自由方块模式"
@@ -3260,7 +3302,7 @@ msgid "Get a new replay"
 msgstr "获得一个新的回放"
 
 msgid "Get more info about this block"
-msgstr "获取有关此方块的更多信息"
+msgstr "获取有关此片段的更多信息"
 
 msgid "Get remote blacklist..."
 msgstr "获取远程黑名单…"
@@ -3456,7 +3498,7 @@ msgstr "标识符"
 msgid ""
 "If you already have a track using the same type of blocks, you may simply "
 "add a block to that track."
-msgstr "如果你已有使用相同类型方块的轨道，则可以简单地将方块添加到该轨道。"
+msgstr "如果你已有使用相同类型片段的轨道，则可以简单地将片段添加到该轨道。"
 
 msgid ""
 "If you are new to map building we recommend the simple editor. If you want "
@@ -3552,6 +3594,9 @@ msgstr "正在通过远程服务器导入账户%1…"
 msgid "Impressive!!"
 msgstr "印象深刻！！"
 
+msgid "In Game"
+msgstr "游戏中"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3609,7 +3654,7 @@ msgid "Inputs"
 msgstr "键盘设置"
 
 msgid "Insert a block on this track"
-msgstr "在此轨道上插入一个方块"
+msgstr "在此轨道上插入一个片段"
 
 msgid "Install shell extension to display thumbnails for '.gbx' files"
 msgstr "安装硬链接工具来显示“.gbx”文件的缩略图"
@@ -3634,6 +3679,9 @@ msgstr "接口设置"
 
 msgid "Internal error"
 msgstr "内部错误"
+
+msgid "Intro"
+msgstr "介绍"
 
 msgid "Introduction sequence"
 msgstr "介绍序列"
@@ -3734,6 +3782,9 @@ msgstr "已经在此商店中载入物体。"
 msgid "Item deleted"
 msgstr "已删除物体"
 
+msgid "Item edition"
+msgstr "物体编辑"
+
 msgid "Item export options"
 msgstr "物体导出选项"
 
@@ -3762,7 +3813,7 @@ msgid "Keep changes"
 msgstr "保留更改"
 
 msgid "Keep last block of the track active"
-msgstr "保持轨道最后方块为活动状态"
+msgstr "保持轨道最后片段为活动状态"
 
 msgid "Key 1"
 msgstr "键位 1"
@@ -4022,16 +4073,19 @@ msgid "MOVE"
 msgstr "移动"
 
 msgid "Macroblock Mode"
-msgstr "宏方块模式"
+msgstr "组合方块模式"
 
 msgid "Macroblock Mode [F4]"
-msgstr "宏方块模式 [F4]"
+msgstr "组合方块模式 [F4]"
 
 msgid "Macroblock deleted"
-msgstr "已删除宏方块"
+msgstr "已删除组合方块"
 
 msgid "Macroblocks Editor"
-msgstr "宏方块编辑器"
+msgstr "组合方块编辑器"
+
+msgid "Mail Account"
+msgstr "邮箱账号"
 
 msgid "Manage account on the Player Page"
 msgstr "在玩家页面管理账户"
@@ -4219,6 +4273,9 @@ msgstr "媒体属性"
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "媒体追踪器（介绍，回放以及比赛中效果）"
 
+msgid "MediaTracker sequences"
+msgstr "媒体追踪器序列"
+
 msgid "Medium"
 msgstr "中"
 
@@ -4377,7 +4434,7 @@ msgid "Move selected keys"
 msgstr "移动所选标记"
 
 msgid "Move the timeline to the selected block"
-msgstr "移动时间轴到所选方块"
+msgstr "移动时间轴到所选片段"
 
 msgid "MoveDown"
 msgstr "向下移动"
@@ -4512,7 +4569,7 @@ msgid "No Ladder"
 msgstr "无排名"
 
 msgid "No MacroDecal Selected!"
-msgstr "未选择宏印花！"
+msgstr "未选择组合印花！"
 
 msgid "No Target"
 msgstr "没有目标"
@@ -4554,7 +4611,7 @@ msgid ""
 "No macroblocks available.\n"
 "You can create them in Copy/Paste mode [C]."
 msgstr ""
-"没有可用的宏方块。  \n"
+"没有可用的组合方块。  \n"
 "你可以在复制/粘贴模式下创建它们[C]。"
 
 msgid "No maps in the playlist match the server settings."
@@ -4585,7 +4642,7 @@ msgid "No type"
 msgstr "没有类别"
 
 msgid "No valid blocks selected for the creation of a Macroblock."
-msgstr "没有选择用于创建宏方块的有效方块。"
+msgstr "没有选择用于创建组合方块的有效方块。"
 
 msgid "No winner"
 msgstr "没有获胜者"
@@ -4882,10 +4939,10 @@ msgid "Paste Selection [Ctrl + V]"
 msgstr "粘贴所选 [Ctrl+V]"
 
 msgid "Paste the copied block on a new track"
-msgstr "将已复制方块粘贴到新轨道"
+msgstr "将已复制片段粘贴到新轨道"
 
 msgid "Paste the copied block on the selected track"
-msgstr "将已复制方块粘贴到所选轨道"
+msgstr "将已复制片段粘贴到所选轨道"
 
 msgid "Paste the copied key as a new key"
 msgstr "将已复制标记粘贴为新标记"
@@ -5044,7 +5101,7 @@ msgid "Plays the music on display"
 msgstr "播放显示的音乐"
 
 msgid "Please choose a block type that will be used for your new track. "
-msgstr "请选择将用于新轨道的方块类型。 "
+msgstr "请选择将用于新轨道的片段类型。 "
 
 msgid "Please choose a location and a name for a new item file."
 msgstr "请为新物体文件选择一个位置和名称。"
@@ -5132,6 +5189,9 @@ msgstr "请确保“最高天梯排名限制”高于“最低天梯排名限制
 
 msgid "Plugin deleted"
 msgstr "已删除插件"
+
+msgid "Plugins"
+msgstr "插件"
 
 msgid "Plugins Mode [P]"
 msgstr "插件模式[P]"
@@ -5426,7 +5486,10 @@ msgid "Rebind"
 msgstr "重新绑定"
 
 msgid "Receive mail about %1"
-msgstr "收到关于%1的邮件"
+msgstr "接收关于%1的邮件"
+
+msgid "Receive mail about Trackmania"
+msgstr "接收关于《赛道狂飙》的邮件"
 
 msgid "Recommended Display Mode"
 msgstr "推荐的显示模式"
@@ -5547,7 +5610,7 @@ msgid "Remove all keys"
 msgstr "移除全部标记"
 
 msgid "Remove all keys from this block"
-msgstr "从此方块移除全部标记"
+msgstr "从此片段移除全部标记"
 
 msgid "Remove current water volume"
 msgstr "移除当前的水容量"
@@ -5565,7 +5628,7 @@ msgid "Remove server from favorites"
 msgstr "从收藏中移除服务器"
 
 msgid "Remove the selected block"
-msgstr "移除所选方块"
+msgstr "移除所选片段"
 
 msgid "Remove the selected key"
 msgstr "移除所选标记"
@@ -5623,6 +5686,9 @@ msgstr "已加载回放"
 
 msgid "Replay marked as favorite"
 msgstr "回放已加入收藏"
+
+msgid "Replay operations"
+msgstr "replay操作"
 
 msgid "Replay saved"
 msgstr "回放已保存"
@@ -5690,6 +5756,9 @@ msgstr "重置角色"
 
 msgid "Reset joint rotation"
 msgstr "重置关节旋转"
+
+msgid "Reset password"
+msgstr "重置密码"
 
 msgid "Reset the UI customization"
 msgstr "重置自定义UI"
@@ -5855,7 +5924,7 @@ msgid "Save Item"
 msgstr "保存物体"
 
 msgid "Save Macroblock"
-msgstr "已保存宏方块"
+msgstr "已保存组合方块"
 
 msgid "Save MatchSettings"
 msgstr "保存比赛设置"
@@ -5867,7 +5936,7 @@ msgid "Save Prefab"
 msgstr "保存预制件"
 
 msgid "Save Selection as new Macroblock"
-msgstr "将选择保存为新的宏方块"
+msgstr "将选择保存为新的组合方块"
 
 msgid "Save Settings"
 msgstr "保存设置"
@@ -5909,7 +5978,7 @@ msgid "Save layer in the Module?"
 msgstr "保存图层到模组中？"
 
 msgid "Save macroblock"
-msgstr "保存宏方块"
+msgstr "保存组合方块"
 
 msgid "Save map"
 msgstr "保存地图"
@@ -5936,7 +6005,7 @@ msgid "Save the Block"
 msgstr "保存方块"
 
 msgid "Save the current decals selection as a MacroDecal"
-msgstr "保存当前贴图为宏印花"
+msgstr "保存当前贴图为组合印花"
 
 msgid "Save the map [S]"
 msgstr "保存此地图[S]"
@@ -5988,6 +6057,9 @@ msgstr "屏幕截图"
 
 msgid "Screens:"
 msgstr "屏幕："
+
+msgid "Script"
+msgstr "脚本"
 
 msgid "Script :"
 msgstr "脚本："
@@ -6062,7 +6134,7 @@ msgid "Select URL"
 msgstr "选择域名"
 
 msgid "Select a Macroblock first"
-msgstr "先选中一个宏方块"
+msgstr "先选中一个组合方块"
 
 msgid "Select a Replay"
 msgstr "选择一个回放"
@@ -6474,13 +6546,13 @@ msgstr ""
 "当前游戏版本（%2）。"
 
 msgid "Some blocks in this Macroblock cannot be symmetrised."
-msgstr "此宏方块中的一些方块无法对称。"
+msgstr "此组合方块中的一些方块无法对称。"
 
 msgid ""
 "Some blocks may not be available depending on your current context, or if "
 "you already have a track using the same type of blocks."
 msgstr ""
-"根据你当前的情况，某些方块可能不可用，或者你已有使用相同类型方块的轨道。"
+"根据你当前的情况，某些片段可能不可用，或者你已有使用相同类型片段的轨道。"
 
 msgid "Some changes may not have been saved, return to menu?"
 msgstr "某些更改可能尚未保存，返回菜单？"
@@ -6534,7 +6606,7 @@ msgid "Split Screen Inputs"
 msgstr "分屏模式输入"
 
 msgid "Split selected block in two parts"
-msgstr "将所选方块分为两部分"
+msgstr "将所选片段分为两部分"
 
 msgid "Splitscreen Settings"
 msgstr "分屏设置"
@@ -6588,7 +6660,7 @@ msgid "Stop when player respawns"
 msgstr "当玩家重置时停止"
 
 msgid "Stops the effect of the block when respawning"
-msgstr "当重置时停止方块特效"
+msgstr "当重置时停止片段特效"
 
 msgid "Store"
 msgstr "商店"
@@ -6666,7 +6738,7 @@ msgid "Switch Work Plane [Shift]"
 msgstr "切换工作平面[Shift]"
 
 msgid "Switch between Decals and MacroDecals"
-msgstr "在印花与宏印花之间转换"
+msgstr "在印花与组合印花之间转换"
 
 msgid "Switch to Underground Display"
 msgstr "切换到地下显示"
@@ -6704,7 +6776,7 @@ msgstr "截取屏幕"
 msgid ""
 "Take a screenshot of the current screen to use as an icon for the next macro "
 "decal to save"
-msgstr "拍摄当前屏幕的屏幕截图，以用作下一个要保存的宏印花的图标"
+msgstr "拍摄当前屏幕的屏幕截图，以用作下一个要保存的组合印花的图标"
 
 msgid "Take this slot"
 msgstr "选择此栏位"
@@ -6717,6 +6789,9 @@ msgstr "目标重置"
 
 msgid "Target Time"
 msgstr "目标时间"
+
+msgid "Target Time (milliseconds)"
+msgstr "目标时间(毫秒)"
 
 msgid "Team"
 msgstr "团队赛"
@@ -6951,7 +7026,7 @@ msgstr ""
 "你将无法在官方模式下游玩。"
 
 msgid "The last block of this track will never end."
-msgstr "该轨道的最后方块永远不会结束。"
+msgstr "该轨道的最后片段永远不会结束。"
 
 msgid "The login $0f0exists$z"
 msgstr "登陆名$0f0已存在$z"
@@ -8871,7 +8946,7 @@ msgstr "你需要先在个人资料中输入自己的电子邮箱地址！"
 msgid ""
 "You need to give an unique name to this Macroblock and create its icon to "
 "save it."
-msgstr "你需要为此宏方块指定一个唯一的名称，并创建其图标以保存它。"
+msgstr "你需要为此组合方块指定一个唯一的名称，并创建其图标以保存它。"
 
 msgid "You need to have map %1 to execute this request."
 msgstr "你需要拥有地图%1以执行此请求。"
@@ -9375,7 +9450,7 @@ msgid "|Billion|G"
 msgstr "|Billion|G"
 
 msgid "|BlockInfo|Boost"
-msgstr "|BlockInfo|加速"
+msgstr "|BlockInfo|喷射"
 
 msgid "|BlockInfo|Checkpoint"
 msgstr "|BlockInfo|检查点"

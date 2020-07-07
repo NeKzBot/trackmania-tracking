@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 09:44+0000\n"
+"PO-Revision-Date: 2020-07-06 21:43+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -375,6 +375,13 @@ msgstr ""
 "Al final de tu periodo de 3 año, mantén los 300 mapas oficiales, \n"
 "los 1095 mapas del día, y el editor avanzado."
 
+msgid ""
+"At the end of your 1 year period, keep the 100 official maps,\n"
+"the 365 tracks of the day, and the advanced track editor"
+msgstr ""
+"Al final de tu periodo de 1 año, mantén los 100 mapas oficiales,\n"
+"los 365 mapas del día, y el editor avanzado."
+
 msgid "Author"
 msgstr "Autor"
 
@@ -612,16 +619,6 @@ msgstr "Creación de clubs"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Error al crear club. Por favor, inténtalo de nuevo. (Error: %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Fallo al eliminar el vinilo del club. Por favor, inténtelo de nuevo. (Error: "
-"%1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr ""
-"Fallo al editar el vinilo del club. Por favor, inténtelo de nuevo. (Error: "
-"%1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr ""
 "Fallo al subir el vinilo del club. Por favor, inténtelo de nuevo. (Error: %1)"
@@ -632,15 +629,6 @@ msgstr ""
 
 msgid "Club edition"
 msgstr "Edición del club"
-
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Falló la eliminación del logo del club. Por favor, inténtalo de nuevo. "
-"(Error %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr ""
-"Fallo al editar el logo del club. Por favor, inténtelo de nuevo. (Error: %1)"
 
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "Error al subir el logo. Por favor, inténtalo de nuevo. (Error: %1)"
@@ -748,6 +736,13 @@ msgstr "Crear subida de diseños"
 msgid "Create the map of the show"
 msgstr "Crear el mapa del programa"
 
+msgid ""
+"Create tracks with the advanced editor and test them online\n"
+"Create and share your race videos infinitely"
+msgstr ""
+"Crea mapas con el editor avanzado y pruébalos online.\n"
+"Crea y comparte tus videos de carrera sin límite."
+
 msgid "Create your club and share your masterpieces"
 msgstr "Crea tu club y comparte tus obras de arte"
 
@@ -786,6 +781,9 @@ msgstr "Jugador actual"
 
 msgid "Customization"
 msgstr "Personalización"
+
+msgid "Customize your car with your skins or club ones"
+msgstr "Personaliza tu coche con tus diseños o los diseños de club."
 
 msgid "Cut and paste"
 msgstr "Cortar y pegar"
@@ -1200,6 +1198,12 @@ msgstr "Consigue el Acceso Club por tres años"
 msgid "Get the Standard access for one year"
 msgstr "Consigue el Acceso Estándar por un año"
 
+msgid "Get the best of player campaigns in the arcade channel"
+msgstr "Juega lo mejor de las campañas de jugadores en el canal arcade"
+
+msgid "Get the replay, skin and simple track editors"
+msgstr "Consigue el editor simple de repeticiones, diseños y mapas"
+
 msgid "Give up"
 msgstr "Abortar"
 
@@ -1296,6 +1300,15 @@ msgstr "Unirse"
 
 msgid "Join %1"
 msgstr "Unirse a %1"
+
+msgid "Join club activitites and see club rankings"
+msgstr "Únete a actividades de club y ve las clasificaciones de club"
+
+msgid "Join public club activities: campaigns and online rooms"
+msgstr "Únete a las actividades públicas de club: campañas y salas online"
+
+msgid "Joining friends"
+msgstr "Uniéndose a amigos"
 
 msgid "Jump to map"
 msgstr "Saltar al mapa"
@@ -1709,6 +1722,9 @@ msgstr "No se han encontrado cuentas"
 msgid "No clubs"
 msgstr "Sin clubs"
 
+msgid "No daily map found to display the rankings"
+msgstr "No se ha encontrado un mapa diario para mostrar las clasificaciones"
+
 msgid "No maps in this month"
 msgstr "No hay mapas este mes"
 
@@ -1916,6 +1932,9 @@ msgstr "Jugar contra repetición"
 msgid "Play against opponents"
 msgstr "Jugar contra oponentes"
 
+msgid "Play against your followers"
+msgstr "Jugar contra tus seguidores"
+
 msgid "Play alone"
 msgstr "Jugar solo"
 
@@ -2117,6 +2136,9 @@ msgid ""
 msgstr ""
 "El tipo de mapa Carrera no se ha encontrado o establecido. Puede que no seas "
 "capaz de validar tu mapa."
+
+msgid "Race and compete in the daily player's map selection"
+msgstr "Corre y compite en la selección diaria de mapas"
 
 msgid "Race ranking"
 msgstr "Clasificación de carrera"
@@ -2599,6 +2621,13 @@ msgstr "Pantalla dividida"
 msgid "Standard"
 msgstr "Estándar"
 
+msgid ""
+"Standard Access is a 1 year pass offering the perfect experience for regular "
+"players, full of creation and activities!"
+msgstr ""
+"¡El Acceso Estándar es un pase de 1 año que ofrece la experiencia perfecta "
+"para los jugadores habituales, llena de contenido y actividades!"
+
 msgid "Starter"
 msgstr "Inicial"
 
@@ -2880,9 +2909,6 @@ msgstr "La etiqueta tiene un máximo de %1 caracteres"
 
 msgid "The next match will begin in %1 "
 msgstr "La próxima partida comenzará en %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "El registro cerró a las: %1 H"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "La sala no es accesible, prueba de nuevo. (Código de error: %1)"
@@ -3322,6 +3348,11 @@ msgstr "¡Mientras esperas, intenta convertirte en el \"Rey de la sala\"!"
 msgid "White"
 msgstr "Blanco"
 
+msgid "With Starter Access, discover Trackmania's core features for free."
+msgstr ""
+"Con el Acceso Inicial, descubre las características principales de "
+"Trackmania gratis."
+
 msgid "Xbox One Wireless Controller"
 msgstr "Mando Inalámbrico Xbox One"
 
@@ -3600,11 +3631,44 @@ msgstr "|Camera|Repetición"
 msgid "|Campaign Map|Official"
 msgstr "|Campaign Map|Oficial"
 
+msgid "|Campaign|April %1"
+msgstr "|Campaign|Abril %1"
+
+msgid "|Campaign|August %1"
+msgstr "|Campaign|Agosto %1"
+
 msgid "|Campaign|Club"
 msgstr "|Campaign|Club"
 
+msgid "|Campaign|December %1"
+msgstr "|Campaign|Diciembre %1"
+
+msgid "|Campaign|February %1"
+msgstr "|Campaign|Febrero %1"
+
+msgid "|Campaign|January %1"
+msgstr "|Campaign|Enero %1"
+
+msgid "|Campaign|July %1"
+msgstr "|Campaign|Julio %1"
+
+msgid "|Campaign|June %1"
+msgstr "|Campaign|Junio %1"
+
+msgid "|Campaign|March %1"
+msgstr "|Campaign|Marzo %1"
+
+msgid "|Campaign|May %1"
+msgstr "|Campaign|Mayo %1"
+
 msgid "|Campaign|Monthly"
 msgstr "|Campaign|Mensual"
+
+msgid "|Campaign|November %1"
+msgstr "|Campaign|Noviembre %1"
+
+msgid "|Campaign|October %1"
+msgstr "|Campaign|Octubre %1"
 
 msgid "|Campaign|Official"
 msgstr "|Campaign|Oficial"
@@ -3617,6 +3681,9 @@ msgstr "|Campaign|Pública"
 
 msgid "|Campaign|Quarterly"
 msgstr "|Campaign|Trimestral"
+
+msgid "|Campaign|September %1"
+msgstr "|Campaign|Septiembre %1"
 
 msgid "|Campaign|Training"
 msgstr "|Campaign|Entrenamiento"
@@ -3638,6 +3705,13 @@ msgstr "|ClubActivity|Diseños"
 
 msgid "|ClubActivity|Welcome"
 msgstr "|ClubActivity|Bienvenido"
+
+msgid ""
+"|ClubActivity|Welcome to the club! Invite your friends to join this club and "
+"create activities to share and play together!"
+msgstr ""
+"|ClubActivity|¡Bienvenido al club! ¡Invita a tus amigos a unirse al club y "
+"crea actividades para compartir y jugar juntos!"
 
 msgid "|ClubMember|Role"
 msgstr "|ClubMember|Rol"
@@ -3794,6 +3868,9 @@ msgstr "|Image|Fondo"
 
 msgid "|Image|Screen 16x9"
 msgstr "|Image|Pantalla 16x9"
+
+msgid "|Image|Vertical"
+msgstr "|Image|Vertical"
 
 msgid "|Infinitive - Change choice|Switch"
 msgstr "|Infinitive - Change choice|Cambiar"
@@ -4320,6 +4397,9 @@ msgstr "|Rank|del %1"
 msgid "|ReplayVerb|Edit"
 msgstr "|ReplayVerb|Editar"
 
+msgid "|ReplayVerb|Shoot"
+msgstr "|ReplayVerb|Reproducir"
+
 msgid "|ReplayVerb|View"
 msgstr "|ReplayVerb|Ver"
 
@@ -4414,7 +4494,7 @@ msgid "|SpecialBlock|Super bumper"
 msgstr "|SpecialBlock|Súper salto"
 
 msgid "|SpecialBlock|Super reactor boost %1"
-msgstr "|SpecialBlock|Turbo reactor %1"
+msgstr "|SpecialBlock|Super Turbo reactor %1"
 
 msgid "|SpecialBlock|Super turbo"
 msgstr "|SpecialBlock|Super turbo"

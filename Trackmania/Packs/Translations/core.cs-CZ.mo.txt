@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 07:07+0000\n"
+"PO-Revision-Date: 2020-07-06 07:59+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: tchèque, République tchèque\n"
+"Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -583,6 +583,9 @@ msgstr "Získán přístup k datům '%1'."
 msgid "Account"
 msgstr "Účet"
 
+msgid "Account Connection"
+msgstr "Připojení k účtu"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -709,6 +712,9 @@ msgstr "Rozšířený editor"
 msgid "Advanced options"
 msgstr "Rozšířené nastavení"
 
+msgid "Advanced parameters"
+msgstr "Rozšířené parametry"
+
 msgid "Advanced..."
 msgstr "Pokročilé..."
 
@@ -826,6 +832,9 @@ msgstr "Alt + klik na osu času"
 
 msgid "Always"
 msgstr "Vždy"
+
+msgid "Ambiance"
+msgstr "Atmosféra"
 
 msgid "Ambiance sequence"
 msgstr "Sekvence atmosféry"
@@ -1030,6 +1039,9 @@ msgid "Audio stream"
 msgstr "Zvuková stopa"
 
 msgid "Author"
+msgstr "Autor"
+
+msgid "Author "
 msgstr "Autor"
 
 msgid "Author Medal"
@@ -1403,12 +1415,6 @@ msgstr "Změnit skript"
 msgid "Change Sort Order"
 msgstr "Změnit řazení"
 
-msgid "Change avatar"
-msgstr "Změnit avatar"
-
-msgid "Change horn"
-msgstr "Změnit klakson"
-
 msgid "Change location"
 msgstr "Změnit oblast"
 
@@ -1441,9 +1447,6 @@ msgstr "Změnit motiv"
 
 msgid "Change transparency"
 msgstr "Změnit průhlednost"
-
-msgid "Change vehicle/character skin"
-msgstr "Změnit vzhled vozidla/postavy"
 
 msgid "Change your password"
 msgstr "Změnit vaše heslo"
@@ -1555,11 +1558,20 @@ msgstr "Vyberte průhlednost"
 msgid "Choose your Avatar"
 msgstr "Vyberte si avatar"
 
+msgid "Choose your Editor"
+msgstr "Vyberte si editor"
+
 msgid "Choose your block type"
 msgstr "Vyberte typ bloku"
 
 msgid "Choose your opponents"
 msgstr "Vyberte své soupeře"
+
+msgid "Choose your profile"
+msgstr "Vyberte si profil"
+
+msgid "Choose your zone"
+msgstr "Zvolte svou oblast"
 
 msgid "Chrono"
 msgstr "Chrono"
@@ -1684,9 +1696,6 @@ msgstr "Uzavírací tag"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "Clublink URL"
-
 msgid "Clubs"
 msgstr "Kluby"
 
@@ -1744,6 +1753,12 @@ msgstr "Nastavení ovládání"
 msgid "Confirm new password:"
 msgstr "Ověření nového hesla:"
 
+msgid "Confirm password"
+msgstr "Ověření hesla"
+
+msgid "Confirm your email"
+msgstr "Potvrzení vašeho e-mailu"
+
 msgid "Congrats!"
 msgstr "Gratulujeme!"
 
@@ -1771,6 +1786,9 @@ msgstr "Připojen"
 
 msgid "Connecting to %1..."
 msgstr "Připojuji se k %1..."
+
+msgid "Connection Error"
+msgstr "Chyba připojení"
 
 msgid "Connection timed out"
 msgstr "Vypršel čas spojení"
@@ -2063,6 +2081,9 @@ msgstr "Vytvořit nový plugin skript"
 msgid "Create a new Profile"
 msgstr "Vytvořit nový profil"
 
+msgid "Create a profile"
+msgstr "Vytvořit profil"
+
 msgid "Create a server"
 msgstr "Vytvořit server"
 
@@ -2074,6 +2095,9 @@ msgstr "Vytvořit nový předmět z modelu bloku"
 
 msgid "Create new..."
 msgstr "Vytvořit nový..."
+
+msgid "Create your account"
+msgstr "Vytvořte si účet"
 
 msgid "Creating the account..."
 msgstr "Vytvářím účet..."
@@ -2176,6 +2200,9 @@ msgstr "Vlastní rychlost nahrávání v Bajtech/s"
 
 msgid "Custom block deleted"
 msgstr "Vlastní blok odstraněn"
+
+msgid "Custom blocks"
+msgstr "Vlastní bloky"
 
 msgid "Custom data directories"
 msgstr "Umístění vlastních souborů"
@@ -2726,6 +2753,9 @@ msgstr "E / CTRL + Kolečko myši nahoru"
 msgid "E-mail address"
 msgstr "E-mailová adresa"
 
+msgid "EMail"
+msgstr "Email"
+
 msgid "Easting coordinate"
 msgstr "Východní souřadnice"
 
@@ -2765,9 +2795,6 @@ msgstr "Upravit záznam"
 msgid "Edit custom block"
 msgstr "Upravit vlastní blok"
 
-msgid "Edit defeat podium pose"
-msgstr "Upravit pózu prohry na pódiu"
-
 msgid "Edit icon:"
 msgstr "Upravit ikonu:"
 
@@ -2786,9 +2813,6 @@ msgstr "Upravit speciální vlastnosti"
 msgid "Edit the area where this clip will be activated"
 msgstr "Upravit oblast, kde bude klip aktivován"
 
-msgid "Edit victory podium pose"
-msgstr "Upravit pózu výhry na pódiu"
-
 msgid "EditLayer"
 msgstr "UpravitVrstvu"
 
@@ -2800,6 +2824,9 @@ msgstr "Editor"
 
 msgid "Editor Creator"
 msgstr "Tvorba editoru"
+
+msgid "Editor Type"
+msgstr "Typ editoru"
 
 msgid "Editors"
 msgstr "Editory"
@@ -2852,8 +2879,14 @@ msgstr "Povolit stereoskopii"
 msgid "End Ghost Recording"
 msgstr "Ukončit nahrávání ducha"
 
+msgid "End User License Agreement"
+msgstr "Zavřít licenční ujednání"
+
 msgid "End of warmup, match starting..."
 msgstr "Konec zahřívacích kol, zápas začíná..."
+
+msgid "End race"
+msgstr "Outro"
 
 msgid "End validation"
 msgstr "Ukončit ověřovaní"
@@ -2879,8 +2912,17 @@ msgstr "Zadejte klíč pro ManiaPlanet pro prodloužení vašeho účtu."
 msgid "Enter a Name:"
 msgstr "Zadejte jméno:"
 
+msgid "Enter a login"
+msgstr "Zadejte přihlašovací jméno"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr "Zadejte název nového obtisku (bude použit také jako název souboru):"
+
+msgid "Enter a password"
+msgstr "Zadejte heslo"
+
+msgid "Enter a valid email"
+msgstr "Zadejte platný e-mail"
 
 msgid "Enter an Icon Directory:"
 msgstr "Zadejte adresář s ikonou:"
@@ -3608,6 +3650,9 @@ msgstr "Importování účtu %1 ze vzdáleného serveru..."
 msgid "Impressive!!"
 msgstr "Skvělé!!"
 
+msgid "In Game"
+msgstr "Ve hře"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3692,6 +3737,9 @@ msgstr "Nastavení uživatelského rozhraní"
 
 msgid "Internal error"
 msgstr "Vnitřní chyba"
+
+msgid "Intro"
+msgstr "Intro"
 
 msgid "Introduction sequence"
 msgstr "Úvodní sekvence"
@@ -3791,6 +3839,9 @@ msgstr "Předmět byl již nahrán do tohoto obchodu."
 
 msgid "Item deleted"
 msgstr "Předmět odstraněn"
+
+msgid "Item edition"
+msgstr "Upravování předmětu"
 
 msgid "Item export options"
 msgstr "Možnosti exportu předmětů"
@@ -4035,10 +4086,10 @@ msgid "Load match settings"
 msgstr "Nahrát nastavení zápasu"
 
 msgid "Loading animation..."
-msgstr "Nahrávám animace..."
+msgstr "Načítání animace..."
 
 msgid "Loading textures"
-msgstr "Nahrávám textury"
+msgstr "Načítání textur"
 
 msgid "Local Network"
 msgstr "Místní síť (LAN)"
@@ -4090,6 +4141,9 @@ msgstr "Makroblok odstraněn"
 
 msgid "Macroblocks Editor"
 msgstr "Editor makrobloků"
+
+msgid "Mail Account"
+msgstr "E-mailový účet"
 
 msgid "Manage account on the Player Page"
 msgstr "Spravovat účet na stránce hráče"
@@ -4276,6 +4330,9 @@ msgstr "Atributy média"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (intro, záznam a efekty v závodě)"
+
+msgid "MediaTracker sequences"
+msgstr "MediaTracker sekvence"
 
 msgid "Medium"
 msgstr "Střední"
@@ -5078,7 +5135,7 @@ msgid "Player profile"
 msgstr "Profil hráče"
 
 msgid "Player visibility for cockpit view"
-msgstr "Viditelnost hráčů v kokpitu"
+msgstr "Viditelnost kokpitu"
 
 msgid "PlayerState"
 msgstr "Stav hráče"
@@ -5166,7 +5223,7 @@ msgid "Please wait, creating pack..."
 msgstr "Prosím čekejte, vytvářím balíček..."
 
 msgid "Please wait, loading..."
-msgstr "Prosím čekejte, nahrávám..."
+msgstr "Prosím čekejte, načítám..."
 
 msgid "Please wait, registering campaign..."
 msgstr "Prosím čekejte, registruji kampaň..."
@@ -5203,6 +5260,9 @@ msgstr ""
 
 msgid "Plugin deleted"
 msgstr "Plugin odstraněn"
+
+msgid "Plugins"
+msgstr "Pluginy"
 
 msgid "Plugins Mode [P]"
 msgstr "Režim pluginů [P]"
@@ -5505,6 +5565,9 @@ msgstr "Propojit"
 msgid "Receive mail about %1"
 msgstr "Přijímat maily o %1"
 
+msgid "Receive mail about Trackmania"
+msgstr "Přijímat maily o Trackmanii"
+
 msgid "Recommended Display Mode"
 msgstr "Doporučený režim zobrazení"
 
@@ -5703,6 +5766,9 @@ msgstr "Záznam načten"
 msgid "Replay marked as favorite"
 msgstr "Záznam označen jako oblíbený"
 
+msgid "Replay operations"
+msgstr "Operace se záznamy"
+
 msgid "Replay saved"
 msgstr "Záznam uložen"
 
@@ -5769,6 +5835,9 @@ msgstr "Resetovat postavu"
 
 msgid "Reset joint rotation"
 msgstr "Resetovat rotaci kloubu"
+
+msgid "Reset password"
+msgstr "Obnovit heslo"
 
 msgid "Reset the UI customization"
 msgstr "Obnovit přizpůsobení uživatelského rozhraní"
@@ -6069,6 +6138,9 @@ msgstr "ScreenShot"
 
 msgid "Screens:"
 msgstr "Obrazovky:"
+
+msgid "Script"
+msgstr "Skript"
 
 msgid "Script :"
 msgstr "Skript:"
@@ -6805,6 +6877,9 @@ msgstr "Cíl. počet obnovení"
 
 msgid "Target Time"
 msgstr "Cílový čas"
+
+msgid "Target Time (milliseconds)"
+msgstr "Cílový čas (milisekundy)"
 
 msgid "Team"
 msgstr "Tým"
@@ -10400,7 +10475,7 @@ msgstr "|Input|Použít akci 4"
 msgid ""
 "|ItemEditor - CustomBlock|This Block could not be converted. A default cube "
 "will replace it."
-msgstr "Tento Blok nelze převést. Bude nahrazen výchozí krychlí."
+msgstr "Tento blok nelze převést. Bude nahrazen výchozí krychlí."
 
 msgid "|ItemType|Bot"
 msgstr "Bot"

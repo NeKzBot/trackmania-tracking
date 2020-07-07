@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 06:11+0000\n"
+"PO-Revision-Date: 2020-07-06 23:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: portugais, Brésil\n"
 "Language: pt-BR\n"
@@ -590,6 +590,9 @@ msgstr "Acesso aos dados '%1' obtido."
 msgid "Account"
 msgstr "Conta"
 
+msgid "Account Connection"
+msgstr "Conectar à conta"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -716,6 +719,9 @@ msgstr "Editor avançado"
 msgid "Advanced options"
 msgstr "Opções avançadas"
 
+msgid "Advanced parameters"
+msgstr "Parâmetros avançados"
+
 msgid "Advanced..."
 msgstr "Avançadas"
 
@@ -833,6 +839,9 @@ msgstr "Alt + clique na Linha do Tempo"
 
 msgid "Always"
 msgstr "Sempre"
+
+msgid "Ambiance"
+msgstr "Ambiance"
 
 msgid "Ambiance sequence"
 msgstr "Ambiance sequence"
@@ -1007,10 +1016,10 @@ msgid "Ask for opponents in solo races"
 msgstr "Pedir por oponentes em corridas solo"
 
 msgid "Associate %1 URL protocol to %2"
-msgstr "Associar %1 URL protocolo a %2"
+msgstr "Associar %1 protocolo de URL com %2"
 
 msgid "Associate %1 files to %2"
-msgstr "Associa os arquivos %1 a %2"
+msgstr "Associar os arquivos %1 com %2"
 
 msgid "Associations"
 msgstr "Associações"
@@ -1037,6 +1046,9 @@ msgid "Audio stream"
 msgstr "Codec de áudio"
 
 msgid "Author"
+msgstr "Autor"
+
+msgid "Author "
 msgstr "Autor"
 
 msgid "Author Medal"
@@ -1410,12 +1422,6 @@ msgstr "Alterar Script"
 msgid "Change Sort Order"
 msgstr "Alterar Ordem de Classificação"
 
-msgid "Change avatar"
-msgstr "Alterar avatar"
-
-msgid "Change horn"
-msgstr "Alterar buzina"
-
 msgid "Change location"
 msgstr "Mudar localização"
 
@@ -1450,9 +1456,6 @@ msgstr "Alterar o tema"
 
 msgid "Change transparency"
 msgstr "Alterar transparência"
-
-msgid "Change vehicle/character skin"
-msgstr "Alterar a aparência do veículo/personagem"
 
 msgid "Change your password"
 msgstr "Mudar a sua senha"
@@ -1564,11 +1567,20 @@ msgstr "Escolha a transparência"
 msgid "Choose your Avatar"
 msgstr "Escolha seu Avatar"
 
+msgid "Choose your Editor"
+msgstr "Escolha seu editor"
+
 msgid "Choose your block type"
 msgstr "Escolha seu tipo de bloco"
 
 msgid "Choose your opponents"
 msgstr "Escolha seus oponentes"
+
+msgid "Choose your profile"
+msgstr "Escolha seu perfil"
+
+msgid "Choose your zone"
+msgstr "Escolhe a sua zona"
 
 msgid "Chrono"
 msgstr "Crono"
@@ -1693,9 +1705,6 @@ msgstr "Tag de Fechamento"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "Endereço do Clublink"
-
 msgid "Clubs"
 msgstr "Clubes"
 
@@ -1753,6 +1762,12 @@ msgstr "Configurar controles"
 msgid "Confirm new password:"
 msgstr "Confirmar nova senha:"
 
+msgid "Confirm password"
+msgstr "Confirmar senha"
+
+msgid "Confirm your email"
+msgstr "Confirme seu e-mail"
+
 msgid "Congrats!"
 msgstr "Parabéns!"
 
@@ -1781,6 +1796,9 @@ msgstr "Conectado"
 
 msgid "Connecting to %1..."
 msgstr "Conectando a %1..."
+
+msgid "Connection Error"
+msgstr "Erro de ligação"
 
 msgid "Connection timed out"
 msgstr "Conexão necessária"
@@ -2074,6 +2092,9 @@ msgstr "Criar um novo Script de Plugin"
 msgid "Create a new Profile"
 msgstr "Cria um novo perfil"
 
+msgid "Create a profile"
+msgstr "Cria um perfil"
+
 msgid "Create a server"
 msgstr "Criar um servidor"
 
@@ -2085,6 +2106,9 @@ msgstr "Criar um novo item baseado no modelo de bloco"
 
 msgid "Create new..."
 msgstr "Criar novo..."
+
+msgid "Create your account"
+msgstr "Crie sua conta"
 
 msgid "Creating the account..."
 msgstr "Criando a conta..."
@@ -2187,6 +2211,9 @@ msgstr "Velocidade de Upload personalizado em Bytes/s"
 
 msgid "Custom block deleted"
 msgstr "Bloco customizado excluído"
+
+msgid "Custom blocks"
+msgstr "Blocos personalizados"
 
 msgid "Custom data directories"
 msgstr "Diretórios de dados personalizados"
@@ -2740,6 +2767,9 @@ msgstr "E / Ctrl + Roda do mouse para cima"
 msgid "E-mail address"
 msgstr "Endereço de e-mail"
 
+msgid "EMail"
+msgstr "E-mail"
+
 msgid "Easting coordinate"
 msgstr "Coordenada leste"
 
@@ -2780,9 +2810,6 @@ msgstr "Editar um replay"
 msgid "Edit custom block"
 msgstr "Editar bloco personalizado"
 
-msgid "Edit defeat podium pose"
-msgstr "Editar pose de derrota do pódio"
-
 msgid "Edit icon:"
 msgstr "Editar ícone:"
 
@@ -2801,9 +2828,6 @@ msgstr "Editar propriedades especiais"
 msgid "Edit the area where this clip will be activated"
 msgstr "Edite a área onde este clipe será ativado"
 
-msgid "Edit victory podium pose"
-msgstr "Editar pose de vitória do pódio"
-
 msgid "EditLayer"
 msgstr "Editar camada"
 
@@ -2815,6 +2839,9 @@ msgstr "Editor"
 
 msgid "Editor Creator"
 msgstr "Criador de Editor"
+
+msgid "Editor Type"
+msgstr "Tipo de editor"
 
 msgid "Editors"
 msgstr "Edição"
@@ -2867,8 +2894,14 @@ msgstr "Ativar estereoscopia"
 msgid "End Ghost Recording"
 msgstr "Registrando Ghost final"
 
+msgid "End User License Agreement"
+msgstr "Contrato de Licença do Usuário Final"
+
 msgid "End of warmup, match starting..."
 msgstr "Fim do aquecimento, iniciando partida..."
+
+msgid "End race"
+msgstr "Fim da corrida"
 
 msgid "End validation"
 msgstr "Validação final"
@@ -2894,10 +2927,19 @@ msgstr "Insira uma chave do ManiaPlanet para aumentar a duração de sua conta"
 msgid "Enter a Name:"
 msgstr "Digite um Nome:"
 
+msgid "Enter a login"
+msgstr "Insira um login"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr ""
 "Introduza um nome para o decal novo (será usado como um nome de ficheiro "
 "também):"
+
+msgid "Enter a password"
+msgstr "Introduz uma senha"
+
+msgid "Enter a valid email"
+msgstr "Introduza um endereço de e-mail válido"
 
 msgid "Enter an Icon Directory:"
 msgstr "Digite um Diretório de Ícone:"
@@ -3440,10 +3482,10 @@ msgid "Hide"
 msgstr "Ocultar"
 
 msgid "Hide advanced parameters"
-msgstr "Esconder parâmetros avançados"
+msgstr "Ocultar parâmetros avançados"
 
 msgid "Hide helpers"
-msgstr "Esconder as ajudas"
+msgstr "Ocultar as ajudas"
 
 msgid "High"
 msgstr "Alto"
@@ -3628,6 +3670,9 @@ msgstr "Importando a conta %1 do servidor remoto..."
 msgid "Impressive!!"
 msgstr "Impressionante!!!"
 
+msgid "In Game"
+msgstr "No jogo"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3712,6 +3757,9 @@ msgstr "Configurações da interface"
 
 msgid "Internal error"
 msgstr "Erro interno"
+
+msgid "Intro"
+msgstr "Introdução"
 
 msgid "Introduction sequence"
 msgstr "Sequência de Apresentação"
@@ -3811,6 +3859,9 @@ msgstr "Item já carregado nesta loja."
 
 msgid "Item deleted"
 msgstr "Item excluído"
+
+msgid "Item edition"
+msgstr "Edição de item"
 
 msgid "Item export options"
 msgstr "Opções de exportação do Item"
@@ -4112,6 +4163,9 @@ msgstr "Macrobloco excluído"
 msgid "Macroblocks Editor"
 msgstr "Editar Macroblocks"
 
+msgid "Mail Account"
+msgstr "Conta de e-mail"
+
 msgid "Manage account on the Player Page"
 msgstr "Gerenciar conta na Página do Jogador"
 
@@ -4297,6 +4351,9 @@ msgstr "Atributos de Mídia"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (introdução, replay e efeitos da corrida)"
+
+msgid "MediaTracker sequences"
+msgstr "Sequências MediaTracker"
 
 msgid "Medium"
 msgstr "Média"
@@ -5235,6 +5292,9 @@ msgstr ""
 msgid "Plugin deleted"
 msgstr "Plugin excluído"
 
+msgid "Plugins"
+msgstr "Plugins"
+
 msgid "Plugins Mode [P]"
 msgstr "Modo Plugins [P]"
 
@@ -5294,7 +5354,7 @@ msgid "Preset"
 msgstr "Pré-definição"
 
 msgid "Press %1 to Show/Hide Opponents'Cars"
-msgstr "Pressione %1 para Esconder / Mostrar os carros dos oponentes"
+msgstr "Pressione %1 para Ocultar/Mostrar os carros dos oponentes"
 
 msgid ""
 "Press %1 to respawn\n"
@@ -5411,7 +5471,7 @@ msgid "Quality"
 msgstr "Qualidade"
 
 msgid "Quality Preset"
-msgstr "qualidade predefinida"
+msgstr "Predefinição de qualidade"
 
 msgid "Question"
 msgstr "Questão"
@@ -5541,6 +5601,9 @@ msgstr "Reassociar"
 
 msgid "Receive mail about %1"
 msgstr "Receber e-mail sobre %1"
+
+msgid "Receive mail about Trackmania"
+msgstr "Receber e-mails sobre o Trackmania"
 
 msgid "Recommended Display Mode"
 msgstr "Modo de Exibição recomendado"
@@ -5741,6 +5804,9 @@ msgstr "Replay carregado"
 msgid "Replay marked as favorite"
 msgstr "Replay marcado como favorito"
 
+msgid "Replay operations"
+msgstr "Repetir operações"
+
 msgid "Replay saved"
 msgstr "Replay salvo"
 
@@ -5807,6 +5873,9 @@ msgstr "Redefinição do caráter"
 
 msgid "Reset joint rotation"
 msgstr "Reset joint rotation"
+
+msgid "Reset password"
+msgstr "Redefinir senha"
 
 msgid "Reset the UI customization"
 msgstr "Reset joint rotation"
@@ -6108,6 +6177,9 @@ msgstr "Captura de tela"
 
 msgid "Screens:"
 msgstr "Telas:"
+
+msgid "Script"
+msgstr "Script"
 
 msgid "Script :"
 msgstr "Script :"
@@ -6504,7 +6576,7 @@ msgid "Show later"
 msgstr "Exibir depois"
 
 msgid "Show or Hide Layer"
-msgstr "Mostrar ou esconder camada"
+msgstr "Mostrar ou Ocultar camada"
 
 msgid "Show special blocks messages"
 msgstr "Mostrar mensagens de blocos especiais"
@@ -6844,6 +6916,9 @@ msgstr "Regeneração do alvo"
 
 msgid "Target Time"
 msgstr "Tempo alvo"
+
+msgid "Target Time (milliseconds)"
+msgstr "Tempo alvo (milésimos)"
 
 msgid "Team"
 msgstr "equipe"
@@ -8575,7 +8650,7 @@ msgstr ""
 "Deseja substituir o grupo padrão atual (%1) por este (%2)?"
 
 msgid "You are allowed to perform this operation."
-msgstr "Está autorizado a executar esta operação."
+msgstr "Você está autorizado a executar esta operação."
 
 msgid "You are already connected to this server."
 msgstr "Já está conectado a esse servidor."
@@ -9194,7 +9269,7 @@ msgstr ""
 "Deseja realmente sair?"
 
 msgid "You won %1 medals!"
-msgstr "Você ganhou %1 das medalhas!"
+msgstr "Você ganhou %1 medalhas!"
 
 msgid "You won %1 skillpoints!"
 msgstr "Você ganhou %1 skillpoints!"
@@ -9318,7 +9393,7 @@ msgid "Your group has been successfully created."
 msgstr "Seu grupo foi criado com sucesso."
 
 msgid "Your login must contain between %1 to %2 characters."
-msgstr "Seu login precisa conter entre %1 a %2 caracteres."
+msgstr "Seu login deve conter entre %1 e %2 caracteres."
 
 msgid ""
 "Your login must contain only valid characters: a-z, A-Z, 0-9 or ._- "
@@ -9357,7 +9432,7 @@ msgid "Your password must contain between %1 to %2 characters."
 msgstr "Sua senha precisa conter entre %1 e %2 caracteres."
 
 msgid "Your password must contain only valid characters."
-msgstr "Sua senha precisa conter apenas caracteres válidos."
+msgstr "Sua senha deve conter apenas caracteres válidos."
 
 msgid "Your password:"
 msgstr "Sua senha:"
@@ -11245,7 +11320,7 @@ msgid "|MeshModeler|Hide layer when generating"
 msgstr "|MeshModeler|Ocultar camada ao gerar"
 
 msgid "|MeshModeler|Hide layers menu"
-msgstr "|MeshModeler|Esconder menu de camadas"
+msgstr "|MeshModeler|Ocultar menu de camadas"
 
 msgid "|MeshModeler|Hide transition when generating"
 msgstr "|MeshModeler|Ocultar transição ao gerar"
@@ -11679,7 +11754,7 @@ msgid "|Opponents|Always Visible"
 msgstr "|Opponents|Sempre Visíveis"
 
 msgid "|Opponents|Hide Too Close"
-msgstr "|Opponents|Esconder Perto Demais"
+msgstr "|Opponents|Ocultar Perto Demais"
 
 msgid "|PC|the directional buttons"
 msgstr "o direcional"

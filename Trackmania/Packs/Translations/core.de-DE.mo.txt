@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 12:05+0000\n"
+"PO-Revision-Date: 2020-07-04 17:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -595,6 +595,9 @@ msgstr "Zugriff auf Daten '%1' erhalten."
 msgid "Account"
 msgstr "Konto"
 
+msgid "Account Connection"
+msgstr "Konto-Verbindung"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -721,6 +724,9 @@ msgstr "Erweiterter Editor"
 msgid "Advanced options"
 msgstr "Erweiterte Optionen"
 
+msgid "Advanced parameters"
+msgstr "Erweiterte Parameter"
+
 msgid "Advanced..."
 msgstr "Erweitert..."
 
@@ -838,6 +844,9 @@ msgstr "Alt + Klick auf Zeitachse"
 
 msgid "Always"
 msgstr "Immer"
+
+msgid "Ambiance"
+msgstr "Stimmung"
 
 msgid "Ambiance sequence"
 msgstr "Stimmungs-Sequenz"
@@ -1049,6 +1058,9 @@ msgid "Audio stream"
 msgstr "Audio-Stream"
 
 msgid "Author"
+msgstr "Autor"
+
+msgid "Author "
 msgstr "Autor"
 
 msgid "Author Medal"
@@ -1424,12 +1436,6 @@ msgstr "Skript ändern"
 msgid "Change Sort Order"
 msgstr "Sortierreihenfolge ändern"
 
-msgid "Change avatar"
-msgstr "Avatar ändern"
-
-msgid "Change horn"
-msgstr "Hupe ändern"
-
 msgid "Change location"
 msgstr "Standort ändern"
 
@@ -1462,9 +1468,6 @@ msgstr "Thema ändern"
 
 msgid "Change transparency"
 msgstr "Transparenz ändern"
-
-msgid "Change vehicle/character skin"
-msgstr "Fahrzeug/Charakter-Skin ändern"
 
 msgid "Change your password"
 msgstr "Passwort ändern"
@@ -1576,11 +1579,20 @@ msgstr "Transparenz wählen"
 msgid "Choose your Avatar"
 msgstr "Avatar auswählen"
 
+msgid "Choose your Editor"
+msgstr "Editor auswählen"
+
 msgid "Choose your block type"
 msgstr "Wählen Sie ihren Block-Typ"
 
 msgid "Choose your opponents"
 msgstr "Wählen Sie Ihre Gegner"
+
+msgid "Choose your profile"
+msgstr "Profil auswählen"
+
+msgid "Choose your zone"
+msgstr "Zone auswählen"
 
 msgid "Chrono"
 msgstr "Chrono"
@@ -1708,9 +1720,6 @@ msgstr "Closing Tag"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "Clublink-URL"
-
 msgid "Clubs"
 msgstr "Clubs"
 
@@ -1768,6 +1777,12 @@ msgstr "Steuerung konfigurieren"
 msgid "Confirm new password:"
 msgstr "Neues Passwort bestätigen:"
 
+msgid "Confirm password"
+msgstr "Passwort bestätigen"
+
+msgid "Confirm your email"
+msgstr "Bestätigen Sie ihre E-Mail-Adresse"
+
 msgid "Congrats!"
 msgstr "Glückwunsch!"
 
@@ -1796,6 +1811,9 @@ msgstr "Verbunden"
 
 msgid "Connecting to %1..."
 msgstr "Verbinden mit %1..."
+
+msgid "Connection Error"
+msgstr "Verbindungsfehler"
 
 msgid "Connection timed out"
 msgstr "Zeitüberschreitung der Verbindung"
@@ -2090,6 +2108,9 @@ msgstr "Neues Plugin Skript erstellen"
 msgid "Create a new Profile"
 msgstr "Neues Profil erstellen"
 
+msgid "Create a profile"
+msgstr "Profil erstellen"
+
 msgid "Create a server"
 msgstr "Server erstellen"
 
@@ -2101,6 +2122,9 @@ msgstr "Neues Objekt von Blockmodell erzeugen"
 
 msgid "Create new..."
 msgstr "Neues erstellen..."
+
+msgid "Create your account"
+msgstr "Erstellen Sie Ihr Benutzerkonto"
 
 msgid "Creating the account..."
 msgstr "Konto wird erstellt..."
@@ -2203,6 +2227,9 @@ msgstr "Benutzerdefinierte Upload-Geschwindigkeit in Bytes/s"
 
 msgid "Custom block deleted"
 msgstr "Benutzerdefinierter Block gelöscht"
+
+msgid "Custom blocks"
+msgstr "Benutzerdefinierte Blöcke"
 
 msgid "Custom data directories"
 msgstr "Benutzerdefinierte Verzeichnisse"
@@ -2758,6 +2785,9 @@ msgstr "E / Strg + Mausrad hoch"
 msgid "E-mail address"
 msgstr "E-Mail-Adresse"
 
+msgid "EMail"
+msgstr "E-Mail"
+
 msgid "Easting coordinate"
 msgstr "Ostkoordinate"
 
@@ -2799,9 +2829,6 @@ msgstr "Replay bearbeiten"
 msgid "Edit custom block"
 msgstr "Benutzerdefinierten Block bearbeiten"
 
-msgid "Edit defeat podium pose"
-msgstr "Podium-Niederlagenpose ändern"
-
 msgid "Edit icon:"
 msgstr "Icon bearbeiten:"
 
@@ -2820,9 +2847,6 @@ msgstr "Spezialeigenschaften bearbeiten"
 msgid "Edit the area where this clip will be activated"
 msgstr "Bereich bearbeiten, in dem dieser Clip aktiviert wird"
 
-msgid "Edit victory podium pose"
-msgstr "Podium-Siegespose ändern"
-
 msgid "EditLayer"
 msgstr "EbeneBearbeiten"
 
@@ -2834,6 +2858,9 @@ msgstr "Editor"
 
 msgid "Editor Creator"
 msgstr "Editorstudio"
+
+msgid "Editor Type"
+msgstr "Editortyp"
 
 msgid "Editors"
 msgstr "Editoren"
@@ -2887,8 +2914,14 @@ msgstr "Stereoskopie aktivieren"
 msgid "End Ghost Recording"
 msgstr "Beenden der Ghost-Aufzeichnung"
 
+msgid "End User License Agreement"
+msgstr "Endbenutzer-Lizenzvereinbarung"
+
 msgid "End of warmup, match starting..."
 msgstr "Warm-Up beendet, Match beginnt jetzt..."
+
+msgid "End race"
+msgstr "Rennen beenden"
 
 msgid "End validation"
 msgstr "Validierung abschließen"
@@ -2918,10 +2951,19 @@ msgstr ""
 msgid "Enter a Name:"
 msgstr "Einen Namen eingeben:"
 
+msgid "Enter a login"
+msgstr "Geben Sie eine Benutzerkennung ein"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr ""
 "Geben Sie für das neue Dekor einen Namen (wird auch als Dateiname verwendet) "
 "ein:"
+
+msgid "Enter a password"
+msgstr "Passwort eingeben"
+
+msgid "Enter a valid email"
+msgstr "Geben Sie eine gültige E-Mail-Adresse ein"
 
 msgid "Enter an Icon Directory:"
 msgstr "Ein Icon-Verzeichnis eingeben:"
@@ -3659,6 +3701,9 @@ msgstr "Importiere Konto %1 von entferntem Server..."
 msgid "Impressive!!"
 msgstr "Beeindruckend!!"
 
+msgid "In Game"
+msgstr "Im Spiel"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3745,6 +3790,9 @@ msgstr "Interface-Einstellungen"
 
 msgid "Internal error"
 msgstr "Interner Fehler"
+
+msgid "Intro"
+msgstr "Intro"
 
 msgid "Introduction sequence"
 msgstr "Einleitungssequenz"
@@ -3847,6 +3895,9 @@ msgstr "Objekt wurde bereits in diesen Store geladen."
 
 msgid "Item deleted"
 msgstr "Objekt gelöscht"
+
+msgid "Item edition"
+msgstr "Objekt-Bearbeitung"
 
 msgid "Item export options"
 msgstr "Export-Optionen für Items"
@@ -4150,6 +4201,9 @@ msgstr "Makroblock gelöscht"
 msgid "Macroblocks Editor"
 msgstr "Makroblock-Editor"
 
+msgid "Mail Account"
+msgstr "E-Mail-Konto"
+
 msgid "Manage account on the Player Page"
 msgstr "Konto auf der Player Page verwalten"
 
@@ -4336,6 +4390,9 @@ msgstr "Medienattribute"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (Intro-, Replay- und Renneffekte)"
+
+msgid "MediaTracker sequences"
+msgstr "MediaTracker-Sequenzen"
 
 msgid "Medium"
 msgstr "Medium"
@@ -5287,6 +5344,9 @@ msgstr ""
 msgid "Plugin deleted"
 msgstr "Plugin gelöscht"
 
+msgid "Plugins"
+msgstr "Plugins"
+
 msgid "Plugins Mode [P]"
 msgstr "Plugin-Modus [P]"
 
@@ -5598,6 +5658,9 @@ msgstr "Neu zuweisen"
 msgid "Receive mail about %1"
 msgstr "E-Mails zu %1 erhalten"
 
+msgid "Receive mail about Trackmania"
+msgstr "E-Mails über Trackmania erhalten"
+
 msgid "Recommended Display Mode"
 msgstr "Empfohlener Anzeigemodus"
 
@@ -5803,6 +5866,9 @@ msgstr "Replay geladen"
 msgid "Replay marked as favorite"
 msgstr "Replay als Favorit markiert"
 
+msgid "Replay operations"
+msgstr "Replay-Funktionen"
+
 msgid "Replay saved"
 msgstr "Replay gespeichert"
 
@@ -5870,6 +5936,9 @@ msgstr "Charakter zurücksetzen"
 
 msgid "Reset joint rotation"
 msgstr "Gelenk-Rotation zurücksetzen"
+
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
 
 msgid "Reset the UI customization"
 msgstr "UI-Anpassung zurücksetzen"
@@ -6172,6 +6241,9 @@ msgstr "Screenshot"
 
 msgid "Screens:"
 msgstr "Bildschirme:"
+
+msgid "Script"
+msgstr "Skript"
 
 msgid "Script :"
 msgstr "Skript :"
@@ -6909,6 +6981,9 @@ msgstr "Vorgabe Respawn"
 
 msgid "Target Time"
 msgstr "Vorgabe Zeit"
+
+msgid "Target Time (milliseconds)"
+msgstr "Vorgabe (Millisekunden)"
 
 msgid "Team"
 msgstr "Team"
@@ -12129,8 +12204,8 @@ msgstr ""
 "Verzeichnis (oder ein Unterverzeichnis) im Verzeichnis \"Dokumente/"
 "Trackmania/Media/Painter/Vehicles/CarSport/Layers\" erstellen und eine \"Icon"
 "\"-Bilddatei und eine \"Layer\"-Bilddatei hinzufügen. Als besonderen "
-"Parameter können Sie der \"Layer\"-Datei im Dateinamen \"Prelight_\" oder "
-"\"Stencil_\" als Prefix voranstellen"
+"Parameter können Sie dem Verzeichnisnamen \"Prelight_\" oder \"Stencil_\" "
+"als Prefix voranstellen"
 
 msgid ""
 "|SkinEditor (Value between quotes have to be named like this, do not "

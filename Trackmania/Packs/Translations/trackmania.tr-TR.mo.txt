@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 22:53+0000\n"
+"PO-Revision-Date: 2020-07-03 19:04+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: turc, Turquie\n"
+"Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -724,12 +724,6 @@ msgstr "Kapat"
 msgid "Club"
 msgstr "Kulüp"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp arka plan resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr "Kulüp arka plan resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
 msgid "Club campaigns"
 msgstr "KULÜP CAMPAIGN'LERİ"
 
@@ -742,20 +736,6 @@ msgstr "Kulüp kurma"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Kulüp kurulamadı. Lütfen tekrar deneyin. (Hata %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp kaplaması silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr "Kulüp kaplaması düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Kulüp kaplama sponsoru resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"Kulüp kaplama sponsoru resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr "Kulüp kaplaması karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata %1)"
 
@@ -765,47 +745,17 @@ msgstr "Kulüp silinemedi. Lütfen tekrar deneyin. (Hata %1)"
 msgid "Club edition"
 msgstr "KULÜP DÜZENLEME"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp logosu silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "Kulüp logosu düzenlenemedi. Lütfen tekrar deneyin. (Hata: %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "Külüp logosu karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata %1)"
 
 msgid "Club rooms"
 msgstr "KULÜP ODALARI"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp 16x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr "Kulüp 16x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp 2x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr "Kulüp 2x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp 8x1 ekran resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr "Kulüp 8x1 ekran resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
-
 msgid "Club skins"
 msgstr "KULÜPLERE AİT DIŞ GÖRÜNÜMLER"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "Kulüp güncellemenedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "Kulüp dikey resmi silinemedi. Lütfen tekrar deneyin. (Hata %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr "Kulüp dikey resmi düzenlenemedi. Lütfen tekrar deneyin. (Hata %1)"
 
 msgid "Clubs"
 msgstr "Kulüpler"
@@ -959,7 +909,7 @@ msgid "DEVELOPMENT AND QUALITY MANAGER"
 msgstr "GELİŞTİRME VE KALİTE MÜDÜRÜ"
 
 msgid "DEVELOPMENT TESTER"
-msgstr "GELİŞTİRME TEST GÖREVLİSİ"
+msgstr "GELİŞTİRME TESTER"
 
 msgid "DIGITAL CONTENT PUBLISHER"
 msgstr "DİJİTAL İÇERİK YAYIMCISI"
@@ -1559,10 +1509,10 @@ msgid "JUNIOR ACCOUNT MANAGER"
 msgstr "JUNIOR HESAP YÖNETİCİSİ"
 
 msgid "JUNIOR AUTOMATION TESTER"
-msgstr "JUNIOR OTOMASYON TEST GÖREVLİSİ"
+msgstr "JUNIOR OTOMASYON TESTER"
 
 msgid "JUNIOR DEVELOPMENT TESTER"
-msgstr "JUNIOR GELİŞTİRME TEST GÖREVLİSİ"
+msgstr "JUNIOR GELİŞTİRME TESTER"
 
 msgid "JUNIOR FINANCIAL PLANNING ANALYST"
 msgstr "JUNIOR FİNANSAL PLANLAMA ANALİSTİ"
@@ -1583,7 +1533,7 @@ msgid "JUNIOR QC NETWORKING SPECIALIST"
 msgstr "JUNIOR KALİTE KONTROL AĞI UZMANI"
 
 msgid "JUNIOR TESTER"
-msgstr "JUNIOR TEST GÖREVLİSİ"
+msgstr "JUNIOR TESTER"
 
 msgid "JUNIOR UX DESIGNER"
 msgstr "JUNIOR UX TASARIMCISI"
@@ -1602,6 +1552,9 @@ msgstr "KULÜP AKTİVİTELERİNE KATILIN VE KULÜP SIRALAMALARINI GÖRÜN"
 
 msgid "Join public club activities: campaigns and online rooms"
 msgstr "AÇIK KULÜP ETKİNLİKLERİNE KATILIN: CAMPAIGN'LER VE ÇEVRİMİÇİ ODALAR"
+
+msgid "Joining friends"
+msgstr "Arkadaşlara katılıyor"
 
 msgid "Jump to map"
 msgstr "Haritaya atla"
@@ -2333,13 +2286,16 @@ msgid "Play a map locally"
 msgstr "Haritayı yerelde oyna"
 
 msgid "Play against %1"
-msgstr "%1 oyuncusuna karşı oyna"
+msgstr "%1 OYUNCUSUNA KARŞI OYNA"
 
 msgid "Play against a replay"
 msgstr "Replay'e karşı oyna"
 
 msgid "Play against opponents"
 msgstr "RAKİPLERE KARŞI OYNA"
+
+msgid "Play against your followers"
+msgstr "TAKİPÇİLERİNE KARŞI OYNA"
 
 msgid "Play alone"
 msgstr "RAKİP OLMADAN OYNA"
@@ -2418,7 +2374,7 @@ msgid "Prebuilt Landscapes"
 msgstr "Önceden Hazırlanmış Manzaralar"
 
 msgid "Preferences"
-msgstr "Tercihler"
+msgstr "TERCİHLER"
 
 msgid "Press a key"
 msgstr "Bir tuşa basın"
@@ -2780,7 +2736,7 @@ msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
 msgstr "KIDEMLİ MÜDÜR, TOPLULUK YÖNETİMİ"
 
 msgid "SENIOR MANUAL TESTER"
-msgstr "KIDEMLİ MANUEL TEST GÖREVLİSİ"
+msgstr "KIDEMLİ MANUEL TESTER"
 
 msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
 msgstr "KIDEMLİ ÇEVRİMİÇİ ALTYAPI MÜHENDİSİ"
@@ -3088,7 +3044,7 @@ msgid "Spectator"
 msgstr "İZLEYİCİ"
 
 msgid "Spectator password"
-msgstr "İzleyici parolası"
+msgstr "İzleyici şifresi"
 
 msgid "SplitScreen"
 msgstr "BölünmüşEkran"
@@ -3128,142 +3084,108 @@ msgid "Subscribe"
 msgstr "Abone ol"
 
 msgid "Subscribe to Trackmania %1 to access the server review."
-msgstr ""
-"İnceleme server'ına erişmek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "İnceleme sunucusuna erişmek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create a club activity."
-msgstr ""
-"Bir kulüp etkinliği oluşturmak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Bir kulüp etkinliği oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create a club."
-msgstr ""
-"Bir kulüp oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Bir kulüp oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create a local server."
-msgstr ""
-"Bir yerel sunucu oluşturmak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Bir yerel sunucu oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create a map."
-msgstr "Harita oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Harita oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create a skin"
-msgstr ""
-"Dış görünüm oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Dış görünüm oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create game modes."
-msgstr ""
-"Oyun modları oluşturmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Oyun modları oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to create items and mods."
-msgstr ""
-"Öğeler ve modlar oluşturmak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Öğeler ve modlar oluşturmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to display a club page."
-msgstr ""
-"Bir kulüp sayfasını görüntülemek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Kulüp sayfalarını görüntülemek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to edit advanced maps."
-msgstr ""
-"Gelişmiş haritaları düzenlemek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Gelişmiş haritalar düzenlemek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to edit club maps."
-msgstr ""
-"Kulüp haritalarını düzenlemek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Kulüp haritalarını düzenlemek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to find a local server."
-msgstr ""
-"Bir yerel sunucu bulmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Bir yerel sunucu bulmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to join a club."
-msgstr "Bir kulübe katılmak için Trackmania %1'ne abone olun."
+msgstr "Bir kulübe katılmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to join club's rooms."
-msgstr ""
-"Kulübün odalarına katılmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Kulüp odalarına katılmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to join the arcade channel."
-msgstr ""
-"Arcade kanalına katılmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Arcade kanalına katılmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to open the replay editor"
-msgstr ""
-"Replay editörünü açmak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Replay editörünü açmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to open the simple map editor."
-msgstr "Basit harita editörünü açmak için abone olun: Trackmania %1"
+msgstr "Basit harita editörünü açmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to open the skin editor"
-msgstr ""
-"Dış görünüm editörünü açmak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Dış görünüm editörünü açmak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play a local map."
-msgstr ""
-"Yerel bir haritada oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Yerel bir haritada oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play a private club activity."
 msgstr ""
 "Özel bir kulüp etkinliğinde oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play against a replay."
-msgstr ""
-"Bir replay'e karşı oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Bir replay'e karşı oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play club's campaigns."
-msgstr ""
-"Kulübün campaign'lerini oynamak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Kulüp campaign'lerini oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play online competitions."
 msgstr ""
-"Çevrimiçi karşılaşmalarda yer almak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+"Çevrimiçi karşılaşmalarda yer almak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play past monthly campaigns."
-msgstr "Geçmiş aylık campaign'leri oynamak için abone olun: Trackmania %1"
+msgstr ""
+"Geçmiş aylık campaign'leri oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play past quarterly campaigns."
 msgstr ""
-"Geçmiş çeyreklik campaign'leri oynamak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+"Geçmiş çeyreklik campaign'leri oynamak için Trackmania %1 sürümüne abone "
+"olun."
 
 msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
-msgstr ""
-"HotSeat modunda oynamak için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "HotSeat modunda oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
-msgstr "Aylık canlı campaign'i oynamak için abone olun: Trackmania %1"
+msgstr "Aylık canlı campaign'i oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
 msgstr ""
-"Mevcut çeyreklik campaign'i canlı oynamak için Trackmania'nın %1 sürümüne "
-"abone olmalısınız."
+"Mevcut çeyreklik campaign'i canlı oynamak için Trackmania %1 sürümüne abone "
+"olun."
 
 msgid "Subscribe to Trackmania %1 to play the splitscreen mode."
-msgstr ""
-"Bölünmüş ekran modunda oynamak için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Bölünmüş ekran modunda oynamak için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to save a video in the replay editor"
 msgstr ""
-"Replay editöründe bir harita kaydetmek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+"Replay editöründe video kaydetmek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to upload a map."
-msgstr ""
-"Harita karşıya yüklemek için Trackmania'nın %1 sürümüne abone olmalısınız."
+msgstr "Karşıya harita yüklemek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to upload a skin"
-msgstr ""
-"Karşıya dış görünüm yüklemek için Trackmania'nın %1 sürümüne abone "
-"olmalısınız."
+msgstr "Karşıya dış görünüm yüklemek için Trackmania %1 sürümüne abone olun."
 
 msgid "Subscribe to Trackmania %1 to use a custom skin"
 msgstr "Özel bir dış görünüm kullanmak için Trackmania %1 sürümüne abone olun."
@@ -3302,7 +3224,7 @@ msgid "TECHNICAL SUPPORT COORDINATOR"
 msgstr "TEKNİK DESTEK KOORDİNATÖRÜ"
 
 msgid "TESTER"
-msgstr "TEST GÖREVLİSİ"
+msgstr "TESTER"
 
 msgid ""
 "THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
@@ -3447,9 +3369,6 @@ msgstr "İsim etiketinde en fazla %1 karakter olabilir"
 
 msgid "The next match will begin in %1 "
 msgstr "Bir sonraki karşılaşma %1 içinde başlayacak  "
-
-msgid "The registration closed at : %1 H"
-msgstr "Kayıt alımı kapanış saati : %1 S"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Odaya ulaşılamıyor, lütfen tekrar deneyin. (Hata kodu: %1)"
@@ -4984,19 +4903,19 @@ msgid "|RankingZone|Continent"
 msgstr "|RankingZone|KITA"
 
 msgid "|RankingZone|Country"
-msgstr "|RankingZone|Ülke"
+msgstr "|RankingZone|ÜLKE"
 
 msgid "|RankingZone|District"
-msgstr "|RankingZone|Bölüm"
+msgstr "|RankingZone|İLÇE"
 
 msgid "|RankingZone|Region"
-msgstr "|RankingZone|Alan"
+msgstr "|RankingZone|ALAN"
 
 msgid "|RankingZone|World"
-msgstr "|RankingZone|Dünya"
+msgstr "|RankingZone|DÜNYA"
 
 msgid "|RankingZone|Zone"
-msgstr "|RankingZone|Bölge"
+msgstr "|RankingZone|BÖLGE"
 
 msgid "|Rank|from %1"
 msgstr "|Rank|%1 içinden"

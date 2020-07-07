@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 22:23+0000\n"
+"PO-Revision-Date: 2020-07-03 10:38+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -547,6 +547,9 @@ msgstr "Adgang til data '%1' givet."
 msgid "Account"
 msgstr "Konto"
 
+msgid "Account Connection"
+msgstr "Kontoforbindelse"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -640,6 +643,9 @@ msgstr "Avanceret editor"
 msgid "Advanced options"
 msgstr "Avancerede valgmuligheder"
 
+msgid "Advanced parameters"
+msgstr "Avancerede parametre"
+
 msgid "Advanced..."
 msgstr "Avanceret ..."
 
@@ -731,6 +737,9 @@ msgstr "Alt + klik på tidslinje"
 
 msgid "Always"
 msgstr "Altid"
+
+msgid "Ambiance"
+msgstr "Ambiance"
 
 msgid "Ambiance sequence"
 msgstr "Ambiance sekvens"
@@ -910,6 +919,9 @@ msgstr "Audio stream"
 
 msgid "Author"
 msgstr "Skaber"
+
+msgid "Author "
+msgstr "Udgiver"
 
 msgid "Author Medal"
 msgstr "Skaber medalje"
@@ -1347,8 +1359,17 @@ msgstr "Vælg gennemsigtigheden"
 msgid "Choose your Avatar"
 msgstr "Vælg din avatar"
 
+msgid "Choose your Editor"
+msgstr "Vælg din editor"
+
 msgid "Choose your opponents"
 msgstr "Vælg dine modstandere"
+
+msgid "Choose your profile"
+msgstr "Vælg din profil"
+
+msgid "Choose your zone"
+msgstr "Vælg din zone"
 
 msgid "Clan"
 msgstr "Klan"
@@ -1467,6 +1488,12 @@ msgstr "Konfigurér styring"
 msgid "Confirm new password:"
 msgstr "Bekræft nyt kodeord:"
 
+msgid "Confirm password"
+msgstr "Bekræft kodeord"
+
+msgid "Confirm your email"
+msgstr "Bekræft din email-adresse"
+
 msgid "Congrats!"
 msgstr "Tillykke!"
 
@@ -1495,6 +1522,9 @@ msgstr "Forbundet"
 
 msgid "Connecting to %1..."
 msgstr "Forbinder til %1 ..."
+
+msgid "Connection Error"
+msgstr "Forbindelsesfejl"
 
 msgid "Connection timed out"
 msgstr "Forbindelsen blev afbrudt"
@@ -1761,6 +1791,9 @@ msgstr "Opret et nyt plugin script"
 msgid "Create a new Profile"
 msgstr "Opret en ny profil"
 
+msgid "Create a profile"
+msgstr "Opret en profil"
+
 msgid "Create a server"
 msgstr "Opret en server"
 
@@ -1769,6 +1802,9 @@ msgstr "Opret et billede fra tekstindtastningen"
 
 msgid "Create new..."
 msgstr "Opret ny ..."
+
+msgid "Create your account"
+msgstr "Opret din konto"
 
 msgid "Creating the account..."
 msgstr "Opretter kontoen..."
@@ -2321,6 +2357,9 @@ msgstr "E / Ctrl + Musehjul op"
 msgid "E-mail address"
 msgstr "E-mailadresse"
 
+msgid "EMail"
+msgstr "E-mail"
+
 msgid "Edges"
 msgstr "Kanter"
 
@@ -2369,6 +2408,9 @@ msgstr "Redigering er beskyttet med kodeord"
 msgid "Editor"
 msgstr "Editor"
 
+msgid "Editor Type"
+msgstr "Redigeringstype"
+
 msgid "Editors"
 msgstr "Editorer"
 
@@ -2408,8 +2450,14 @@ msgstr "Aktiver særlig følsomhed"
 msgid "End Ghost Recording"
 msgstr "Afslut Skygge-optagelse"
 
+msgid "End User License Agreement"
+msgstr "Aftale om slutbrugerlicens"
+
 msgid "End of warmup, match starting..."
 msgstr "Slut på opvarmning, kampen starter ..."
+
+msgid "End race"
+msgstr "Afslut løb"
 
 msgid "End validation"
 msgstr "Afslut validering"
@@ -2435,8 +2483,17 @@ msgstr "Indtast en ManiaPlanet-kode for at forlænge varigheden af din konto."
 msgid "Enter a Name:"
 msgstr "Indtast et navn:"
 
+msgid "Enter a login"
+msgstr "Indtast et login"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr "Indtast et navn for den nye mærkat (vil også blive brugt som filnavn):"
+
+msgid "Enter a password"
+msgstr "Indtast et kodeord"
+
+msgid "Enter a valid email"
+msgstr "Indtast en gyldig e-mail"
 
 msgid "Enter an Icon Directory:"
 msgstr "Indtast en mappe til ikon:"
@@ -3029,6 +3086,9 @@ msgstr "Importere konto %1 fra fjernserver..."
 msgid "Impressive!!"
 msgstr "Imponerende!"
 
+msgid "In Game"
+msgstr "I spillet"
+
 msgid "Inbox"
 msgstr "Indbakke"
 
@@ -3093,6 +3153,9 @@ msgstr "Brugerfladeindstillinger"
 
 msgid "Internal error"
 msgstr "Intern fejl"
+
+msgid "Intro"
+msgstr "Intro"
 
 msgid "Introduction sequence"
 msgstr "Introduktionssekvens"
@@ -3450,6 +3513,9 @@ msgstr "Makroblok slettet"
 msgid "Macroblocks Editor"
 msgstr "Makroblok-editor"
 
+msgid "Mail Account"
+msgstr "E-mailkonto"
+
 msgid "Manage groups online"
 msgstr "Administrér grupper online"
 
@@ -3617,6 +3683,9 @@ msgstr "Medaljer :"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (intro, replay og effekter i løbet)"
+
+msgid "MediaTracker sequences"
+msgstr "MediaTracker-sekvenser"
 
 msgid "Medium"
 msgstr "Medium"
@@ -4803,6 +4872,9 @@ msgstr "Replay indlæst"
 msgid "Replay marked as favorite"
 msgstr "Gengivelse markeret som favorit"
 
+msgid "Replay operations"
+msgstr "Replay-handlinger"
+
 msgid "Replay saved"
 msgstr "Gengivelse gemt"
 
@@ -5767,6 +5839,9 @@ msgstr "Mål Respawn"
 
 msgid "Target Time"
 msgstr "Tidsmål"
+
+msgid "Target Time (milliseconds)"
+msgstr "Tidsmål (millisekunder)"
 
 msgid "Team"
 msgstr "Hold"

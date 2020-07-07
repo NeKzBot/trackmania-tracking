@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 18:21+0000\n"
+"PO-Revision-Date: 2020-07-03 10:38+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -577,6 +577,9 @@ msgstr "Access to data '%1' obtained."
 msgid "Account"
 msgstr "Account"
 
+msgid "Account Connection"
+msgstr "Account Connection"
+
 msgid ""
 "Account creation failed. Error:\n"
 "%1\n"
@@ -703,6 +706,9 @@ msgstr "Advanced editor"
 msgid "Advanced options"
 msgstr "Advanced options"
 
+msgid "Advanced parameters"
+msgstr "Advanced parameters"
+
 msgid "Advanced..."
 msgstr "Advanced..."
 
@@ -820,6 +826,9 @@ msgstr "Alt + click on Timeline"
 
 msgid "Always"
 msgstr "Always"
+
+msgid "Ambiance"
+msgstr "Ambience"
 
 msgid "Ambiance sequence"
 msgstr "Ambience sequence"
@@ -1025,6 +1034,9 @@ msgstr "Audio stream"
 
 msgid "Author"
 msgstr "Author"
+
+msgid "Author "
+msgstr "Author "
 
 msgid "Author Medal"
 msgstr "Author Medal"
@@ -1397,12 +1409,6 @@ msgstr "Change Script"
 msgid "Change Sort Order"
 msgstr "Change Sort Order"
 
-msgid "Change avatar"
-msgstr "Change avatar"
-
-msgid "Change horn"
-msgstr "Change horn"
-
 msgid "Change location"
 msgstr "Change location"
 
@@ -1429,9 +1435,6 @@ msgstr "Change the settings: $<%1$>"
 
 msgid "Change transparency"
 msgstr "Change transparency"
-
-msgid "Change vehicle/character skin"
-msgstr "Change vehicle/character skin"
 
 msgid "Change your password"
 msgstr "Change your password"
@@ -1540,11 +1543,20 @@ msgstr "Choose the transparency"
 msgid "Choose your Avatar"
 msgstr "Choose your Avatar"
 
+msgid "Choose your Editor"
+msgstr "Choose your Editor"
+
 msgid "Choose your block type"
 msgstr "Choose your block type"
 
 msgid "Choose your opponents"
 msgstr "Choose your opponents"
+
+msgid "Choose your profile"
+msgstr "Choose your profile"
+
+msgid "Choose your zone"
+msgstr "Choose your zone"
 
 msgid "Chrono"
 msgstr "Chrono"
@@ -1669,9 +1681,6 @@ msgstr "Closing Tag"
 msgid "ClubLink"
 msgstr "ClubLink"
 
-msgid "Clublink URL"
-msgstr "ClubLink URL"
-
 msgid "Clubs"
 msgstr "Clubs"
 
@@ -1729,6 +1738,12 @@ msgstr "Configure controls"
 msgid "Confirm new password:"
 msgstr "Confirm new password:"
 
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Confirm your email"
+msgstr "Confirm your email"
+
 msgid "Congrats!"
 msgstr "Congrats!"
 
@@ -1757,6 +1772,9 @@ msgstr "Connected"
 
 msgid "Connecting to %1..."
 msgstr "Connecting to %1..."
+
+msgid "Connection Error"
+msgstr "Connection Error"
 
 msgid "Connection timed out"
 msgstr "Connection timed out"
@@ -2047,6 +2065,9 @@ msgstr "Create a new Plugin Script"
 msgid "Create a new Profile"
 msgstr "Create a new Profile"
 
+msgid "Create a profile"
+msgstr "Create a profile"
+
 msgid "Create a server"
 msgstr "Create a server"
 
@@ -2058,6 +2079,9 @@ msgstr "Create new item from selected block"
 
 msgid "Create new..."
 msgstr "Create new..."
+
+msgid "Create your account"
+msgstr "Create your account"
 
 msgid "Creating the account..."
 msgstr "Creating the account..."
@@ -2708,6 +2732,9 @@ msgstr "E / Ctrl + Mouse Wheel Up"
 msgid "E-mail address"
 msgstr "E-mail address"
 
+msgid "EMail"
+msgstr "EMail"
+
 msgid "Easting coordinate"
 msgstr "Easting coordinate"
 
@@ -2747,9 +2774,6 @@ msgstr "Edit a Replay"
 msgid "Edit custom block"
 msgstr "Edit selected custom block"
 
-msgid "Edit defeat podium pose"
-msgstr "Edit defeat podium pose"
-
 msgid "Edit icon:"
 msgstr "Edit icon:"
 
@@ -2768,9 +2792,6 @@ msgstr "Edit special properties"
 msgid "Edit the area where this clip will be activated"
 msgstr "Edit the area where this clip will be activated"
 
-msgid "Edit victory podium pose"
-msgstr "Edit victory podium pose"
-
 msgid "EditLayer"
 msgstr "EditLayer"
 
@@ -2782,6 +2803,9 @@ msgstr "Editor"
 
 msgid "Editor Creator"
 msgstr "Editor Creator"
+
+msgid "Editor Type"
+msgstr "Editor Type"
 
 msgid "Editors"
 msgstr "Editors"
@@ -2834,8 +2858,14 @@ msgstr "Enable Stereoscopy"
 msgid "End Ghost Recording"
 msgstr "End Ghost Recording"
 
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
 msgid "End of warmup, match starting..."
 msgstr "End of warmup, match starting..."
+
+msgid "End race"
+msgstr "End race"
 
 msgid "End validation"
 msgstr "End validation"
@@ -2861,8 +2891,17 @@ msgstr "Enter a ManiaPlanet key to extend the duration of your account."
 msgid "Enter a Name:"
 msgstr "Enter a Name:"
 
+msgid "Enter a login"
+msgstr "Enter a login"
+
 msgid "Enter a name for the new decal (will be used as a filename too):"
 msgstr "Enter a name for the new decal (will be used as a filename too):"
+
+msgid "Enter a password"
+msgstr "Enter a password"
+
+msgid "Enter a valid email"
+msgstr "Enter a valid email"
 
 msgid "Enter an Icon Directory:"
 msgstr "Enter an Icon Directory:"
@@ -3589,6 +3628,9 @@ msgstr "Importing account %1 from remote server..."
 msgid "Impressive!!"
 msgstr "Impressive!!"
 
+msgid "In Game"
+msgstr "In Game"
+
 msgid ""
 "In the MediaTracker, you may record reference ghosts that will automatically "
 "activate triggers if entering in them. This way, you can easily see what a "
@@ -3673,6 +3715,9 @@ msgstr "Interface settings"
 
 msgid "Internal error"
 msgstr "Internal error"
+
+msgid "Intro"
+msgstr "Intro"
 
 msgid "Introduction sequence"
 msgstr "Introduction sequence"
@@ -4073,6 +4118,9 @@ msgstr "Macroblock deleted"
 msgid "Macroblocks Editor"
 msgstr "Macroblocks Editor"
 
+msgid "Mail Account"
+msgstr "Mail Account"
+
 msgid "Manage account on the Player Page"
 msgstr "Manage account on Player Page"
 
@@ -4258,6 +4306,9 @@ msgstr "Media Attributes"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
 msgstr "MediaTracker (intro, replay and in-race effects)"
+
+msgid "MediaTracker sequences"
+msgstr "MediaTracker sequences"
 
 msgid "Medium"
 msgstr "Medium"
@@ -5682,6 +5733,9 @@ msgstr "Replay loaded"
 msgid "Replay marked as favorite"
 msgstr "Replay marked as favorite"
 
+msgid "Replay operations"
+msgstr "Replay operations"
+
 msgid "Replay saved"
 msgstr "Replay saved!"
 
@@ -6046,6 +6100,9 @@ msgstr "ScreenShot"
 
 msgid "Screens:"
 msgstr "Screens:"
+
+msgid "Script"
+msgstr "Script"
 
 msgid "Script :"
 msgstr "Script :"
@@ -6782,6 +6839,9 @@ msgstr "Target Respawn"
 
 msgid "Target Time"
 msgstr "Target Time"
+
+msgid "Target Time (milliseconds)"
+msgstr "Target Time (milliseconds)"
 
 msgid "Team"
 msgstr "Team"

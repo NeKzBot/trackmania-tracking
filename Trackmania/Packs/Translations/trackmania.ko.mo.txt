@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 13:11+0000\n"
+"PO-Revision-Date: 2020-07-03 10:43+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -227,13 +227,13 @@ msgid "ACCESSIBILITY SPECIALISTS"
 msgstr "ACCESSIBILITY 전문가"
 
 msgid "ACCOUNT MANAGER"
-msgstr "영업과장"
+msgstr "계정 과장"
 
 msgid "AGE RATING COORDINATOR"
 msgstr "AGE RATING 코디네이터"
 
 msgid "ANALYST"
-msgstr "애널리스트"
+msgstr "사원"
 
 msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
 msgstr "사원, NCSA 고객 지원"
@@ -251,7 +251,7 @@ msgid "ASSOCIATE DIRECTOR"
 msgstr "ASSOCIATE 디렉터"
 
 msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
-msgstr "지역개발 이사"
+msgstr "커뮤니티 개발 이사"
 
 msgid "ASSOCIATE DIRECTOR CRM"
 msgstr "CRM 이사"
@@ -272,7 +272,7 @@ msgid "ASSOCIATE PRODUCER"
 msgstr "주임 프로듀서"
 
 msgid "ASSOCIATE TECHNICAL DIRECTOR"
-msgstr "주임 테크니컬 디렉터"
+msgstr "기술 이사"
 
 msgid "ASSOCIATE UX DESIGNER "
 msgstr "ASSOCIATE UX 디자이너 "
@@ -434,7 +434,7 @@ msgid "BUSINESS OPERATIONS COORDINATOR"
 msgstr "사업 운영 코디네이터"
 
 msgid "BUSINESS OPERATIONS MANAGER"
-msgstr "사업운영과장"
+msgstr "사업 운영 과장"
 
 msgid "Back"
 msgstr "뒤로"
@@ -499,10 +499,10 @@ msgid "CHIEF CREATIVE OFFICIER"
 msgstr "최고 크리에이티브 책임자"
 
 msgid "CHINA PRODUCT MANAGER"
-msgstr "중국제품과장"
+msgstr "중국 제품 과장"
 
 msgid "COMMUNICATION MANAGER, EMEA"
-msgstr "커뮤니케이션과장, EMEA"
+msgstr "커뮤니케이션 과장, EMEA"
 
 msgid "COMMUNICATIONS DIRECTOR"
 msgstr "COMMUNICATIONS DIRECTOR"
@@ -544,10 +544,10 @@ msgid "COMPOSER"
 msgstr "작곡가"
 
 msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
-msgstr "고객경험지역과장, 아시아"
+msgstr "고객 경험 분야 과장, 아시아"
 
 msgid "CONSUMER EXPERIENCE MANAGER"
-msgstr "고객경험과장"
+msgstr "고객 경험 과장"
 
 msgid "CONTENT DIRECTOR"
 msgstr "CONTENT DIRECTOR"
@@ -574,7 +574,7 @@ msgid "CRM INTEGRATION TEAM LEADER "
 msgstr "CRM 통합 팀장 "
 
 msgid "CRM LIFECYCLE ASSISTANT"
-msgstr "CRM 주기 어시스턴트"
+msgstr "CRM 주기 사원"
 
 msgid "CRM LIFECYCLE SPECIALIST"
 msgstr "CRM 주기 주임"
@@ -589,31 +589,31 @@ msgid "CRM OPERATIONS SPECIALIST"
 msgstr "CRM 운영주임"
 
 msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
-msgstr "CRM 운영주임 어시스턴트"
+msgstr "CRM 운영 실무자"
 
 msgid "CRM PERFORMANCE MANAGER"
-msgstr "CRM 성능과장"
+msgstr "CRM 성능 과장"
 
 msgid "CRM PROGRAM MANAGER"
-msgstr "CRM 프로그램과장"
+msgstr "CRM 프로그램 과장"
 
 msgid "CUSTOMER EXPERIENCE MANAGER"
-msgstr "고객경험과장"
+msgstr "고객 경험 과장"
 
 msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
-msgstr "고객지원 이사"
+msgstr "고객 지원 이사"
 
 msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
-msgstr "고객지원개발 이사"
+msgstr "고객 지원 개발 이사"
 
 msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
-msgstr "고객지원지식팀"
+msgstr "고객 지원 지식팀"
 
 msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
-msgstr "고객지원 학습개발팀"
+msgstr "고객 지원 학습개발팀"
 
 msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
-msgstr "고객지원 품질관리팀"
+msgstr "고객 지원 품질관리팀"
 
 msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
 msgstr "고객지원지식차장"
@@ -713,12 +713,6 @@ msgstr "닫기"
 msgid "Club"
 msgstr "클럽"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "클럽 배경 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr "클럽 배경 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
 msgid "Club campaigns"
 msgstr "클럽 캠페인"
 
@@ -731,20 +725,6 @@ msgstr "클럽 생성"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "클럽 생성에 실패했습니다. 다시 시도하십시오. (오류 %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr "클럽 데칼을 삭제하지 못했습니다. 다시 시도하십시오. (오류 %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr "클럽 데칼 편집에 실패했습니다. 다시 시도하십시오. (에러 %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"클럽 데칼 스폰서 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"클럽 데칼 스폰서 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr "클럽 데칼 업로드에 실패했습니다. 다시 시도하십시오. (오류 %1)"
 
@@ -754,47 +734,17 @@ msgstr "클럽을 삭제하지 못했습니다. 다시 시도하십시오. (오�
 msgid "Club edition"
 msgstr "클럽 에디션"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "클럽 로고를 삭제하지 못했습니다. 다시 시도하십시오. (오류 %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "클럽 로고 편집에 실패했습니다. 다시 시도하십시오. (에러 %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "클럽 로고를 업로드하지 못했습니다. 다시 시도하십시오. (오류 %1)"
 
 msgid "Club rooms"
 msgstr "클럽 룸"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 16 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 16 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 2 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 2 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 8 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr "클럽 스크린 8 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
 msgid "Club skins"
 msgstr "클럽 스킨"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "클럽을 업데이트하지 못했습니다. 다시 시도하십시오. (오류 %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "클럽 버티컬 삭제에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr "클럽 버티컬 편집에 실패했습니다. 다시 시도하십시오. (오류 코드: %1)"
 
 msgid "Clubs"
 msgstr "클럽"
@@ -957,22 +907,22 @@ msgid "DIRECTOR"
 msgstr "상무"
 
 msgid "DIRECTOR MEDIA & CRM, EMEA"
-msgstr "미디어&CRM 상무, EMEA"
+msgstr "미디어 & CRM, 상무, EMEA"
 
 msgid "DIRECTOR OF BRAND DEVELOPMENT"
 msgstr "브랜드 개발 상무"
 
 msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
-msgstr "고객경험 상무"
+msgstr "고객 경험 상무"
 
 msgid "DIRECTOR, COMMUNICATION, EMEA"
-msgstr "커뮤니케이션 상무, EMEA"
+msgstr "상무, 커뮤니케이션, EMEA"
 
 msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
-msgstr "지역활동 상무, EMEA"
+msgstr "상무, 지역활동, EMEA"
 
 msgid "DIRECTOR, PLAYER EXPERIENCE"
-msgstr "플레이어경험 상무"
+msgstr "플레이어 경험 상무"
 
 msgid "DIRECTORS"
 msgstr "DIRECTORS"
@@ -1244,7 +1194,7 @@ msgstr "맵 데이터를 수집하는 중 오류가 발생했습니다. (오류 
 
 msgid "Error while joining the server, please try again. (Error code: %1)"
 msgstr ""
-"서버에 입장하던 중 에러가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+"서버에 입장하는 중 에러가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
 
 msgid "Error while loading ranking (code: %1)"
 msgstr "순위 로딩 중 에러가 발생했습니다 (코드: %1)"
@@ -1381,13 +1331,13 @@ msgid "GAME ANALYTICS RESEARCH"
 msgstr "GAME ANALYTICS RESEARCH"
 
 msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
-msgstr "게임 및 서비스 운영 담당대리"
+msgstr "게임 및 서비스 운영 대리"
 
 msgid "GAME AND SERVICES OPERATIONS MANAGER"
-msgstr "게임 및 서비스 운영과장"
+msgstr "게임 및 서비스 운영 과장"
 
 msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
-msgstr "게임 및 서비스 운영주임"
+msgstr "게임 및 서비스 운영 주임"
 
 msgid "GENERAL MANAGER CRC"
 msgstr "CRC 상무이사"
@@ -1504,7 +1454,7 @@ msgid "INTERN LIVE QA"
 msgstr "인턴 라이브 품질검사"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
-msgstr "국제제품과장"
+msgstr "국제 제품 과장"
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
@@ -1535,7 +1485,7 @@ msgid "It is currently not possible to vote for this server setting."
 msgstr "현재 해당 서버 설정 투표가 불가능합니다."
 
 msgid "JUNIOR ACCOUNT MANAGER"
-msgstr "책임영업관리자"
+msgstr "책임 계정 과장"
 
 msgid "JUNIOR AUTOMATION TESTER"
 msgstr "책임 자동화 테스터"
@@ -1550,7 +1500,7 @@ msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
 msgstr "사원 라이브 품질검사 및 네트워크 주임"
 
 msgid "JUNIOR PRODUCT MANAGER"
-msgstr "책임제품관리자"
+msgstr "책임 제품 과장"
 
 msgid "JUNIOR PRODUCTION COORDINATOR"
 msgstr "책임 프로덕션 코디네이터"
@@ -1776,7 +1726,7 @@ msgid "MAGIC LAB VEHICLE ARTIST"
 msgstr "매직 랩 차량 아티스트"
 
 msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
-msgstr "플레이어경험과장, 커뮤니티 프로그램"
+msgstr "플레이어 경험 과장, 커뮤니티 프로그램"
 
 msgid "MANAGER, COMMUNITY CONTENT"
 msgstr "과장, 커뮤니티 컨텐츠"
@@ -1785,16 +1735,16 @@ msgid "MANAGER, COMMUNITY DEVELOPMENT"
 msgstr "과장, 커뮤니티 개발"
 
 msgid "MANAGER, CRM OPERATIONS"
-msgstr "CRM 운영과장"
+msgstr "과장, CRM"
 
 msgid "MANAGER, CRM STRATEGY LIFECYCLE"
-msgstr "CRM 전략주기과장"
+msgstr "과장, CRM 전략주기"
 
 msgid "MANAGER, WEB DEVELOPER, EMEA"
-msgstr "웹 개발과장, EMEA"
+msgstr "과장, 웹 개발, EMEA"
 
 msgid "MANAGER, WEB PRODUCER, EMEA"
-msgstr "웹 프로듀서과장, EMEA"
+msgstr "과장; 웹 프로듀서, EMEA"
 
 msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
 msgstr "과장들, NCSA 고객 지원"
@@ -1818,7 +1768,7 @@ msgid "MARKETING CAMPAIGN MANAGER"
 msgstr "마케팅 캠페인 과장"
 
 msgid "MEDIA MANAGER, EMEA"
-msgstr "미디어과장, EMEA"
+msgstr "미디어 과장, EMEA"
 
 msgid "MONETISATION DIRECTOR"
 msgstr "MONETISATION DIRECTOR"
@@ -2174,19 +2124,19 @@ msgid "PLAYER EXPERIENCE"
 msgstr "플레이어 경험"
 
 msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
-msgstr "플레이어경험주임, 커뮤니티 프로그램"
+msgstr "플레이어 경험 사원, 커뮤니티 프로그램"
 
 msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
-msgstr "플레이어경험과장, 콜라보레이션 툴즈"
+msgstr "플레이어 경험 과장, 콜라보레이션 도구"
 
 msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
-msgstr "플레이어경험과장, 프론트라인 프로그램"
+msgstr "플레이어 경험 과장, 프론트라인 프로그램"
 
 msgid "PLAYER SUPPORT AREA MANAGER"
-msgstr "플레이어지원 지역과장"
+msgstr "플레이어 지원 분야 과장"
 
 msgid "PLAYER SUPPORT OPERATIONS MANAGER"
-msgstr "플레이어지원 운영과장"
+msgstr "플레이어 지원 분야 운영과장"
 
 msgid "PR"
 msgstr "홍보"
@@ -2204,7 +2154,7 @@ msgid "PRODUCT OWNER"
 msgstr "제품 소유주"
 
 msgid "PRODUCT SPECIALIST"
-msgstr "제품주임"
+msgstr "제품 주임"
 
 msgid "PRODUCTION"
 msgstr "PRODUCTION"
@@ -2213,25 +2163,25 @@ msgid "PRODUCTION COORDINATOR"
 msgstr "프로덕션 코디네이터"
 
 msgid "PROGRAM MANAGER"
-msgstr "프로그램과장"
+msgstr "프로그램 과장"
 
 msgid "PROGRAM MANAGER, EMEA"
-msgstr "프로그램과장, EMEA"
+msgstr "프로그램 과장, EMEA"
 
 msgid "PROGRAMMER"
 msgstr "PROGRAMMER"
 
 msgid "PROJECT ASSISTANT"
-msgstr "프로젝트사원"
+msgstr "프로젝트 사원"
 
 msgid "PROJECT MANAGER"
-msgstr "프로젝트과장"
+msgstr "프로젝트 과장"
 
 msgid "PROJECT MANAGERS "
 msgstr "PROJECT MANAGERS "
 
 msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
-msgstr "프로젝트 온라인 획득 사원, EMEA"
+msgstr "프로젝트 온라인 취득 사원, EMEA"
 
 msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
 msgstr "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
@@ -2304,7 +2254,7 @@ msgid "Play a map locally"
 msgstr "맵을 로컬에서 플레이합니다"
 
 msgid "Play against %1"
-msgstr "%1과 경쟁하기"
+msgstr "%1과 경기하기"
 
 msgid "Play against a replay"
 msgstr "리플레이를 상대로 플레이하기"
@@ -2443,7 +2393,7 @@ msgid "QA"
 msgstr "품질 검사"
 
 msgid "QA LEAD"
-msgstr "QA 수석"
+msgstr "QA 대리"
 
 msgid "QC ACCESSIBILITY TEAM"
 msgstr "QC ACCESSIBILITY 팀"
@@ -2703,7 +2653,7 @@ msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
 msgstr "커뮤니티 참여 차장"
 
 msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
-msgstr "선임 커뮤니티센티먼트주임"
+msgstr "선임 커뮤니티 센티먼트 주임"
 
 msgid "SENIOR DATABASE ADMINISTRATOR"
 msgstr "선임 데이터베이스 관리자"
@@ -2781,10 +2731,10 @@ msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
 msgstr "차장, 플레이어 경험 EMEA"
 
 msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
-msgstr "플레이어경험차장, 프론트라인 프로그램"
+msgstr "차장, 플레이어경험, 프론트라인 프로그램"
 
 msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
-msgstr "플레이어경험차장, 프론트라인 프로그램"
+msgstr "차장, 플레이어경험, 프론트라인 프로그램"
 
 msgid "STORE FRONT SPECIALIST"
 msgstr "STORE FRONT SPECIALIST"
@@ -2865,7 +2815,7 @@ msgid "Select"
 msgstr "선택하기"
 
 msgid "Select a VIP to play against"
-msgstr "경쟁할 VIP를 선택하십시오."
+msgstr "경기할 VIP를 선택하십시오."
 
 msgid "Select a billboard"
 msgstr "빌보드 선택"
@@ -3193,10 +3143,10 @@ msgid "TECHNICAL ANIMATOR"
 msgstr "기술 애니메이터"
 
 msgid "TECHNICAL DIRECTOR"
-msgstr "기술상무"
+msgstr "기술 상무"
 
 msgid "TECHNICAL MANAGER"
-msgstr "기술과장"
+msgstr "기술 과장"
 
 msgid "TECHNICAL OPERATIONS LEAD"
 msgstr "기술 운영 수석"
@@ -3351,9 +3301,6 @@ msgstr "이름 태그는 최대 %1자까지 입니다"
 
 msgid "The next match will begin in %1 "
 msgstr "다음 경기가 %1 후 시작됩니다. "
-
-msgid "The registration closed at : %1 H"
-msgstr "남은 등록 시간: %1 시간"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "룸에 접근할 수 없습니다. 다시 시도하십시오. (오류 코드: %1)"
@@ -3618,7 +3565,7 @@ msgid "VEHICLE ARTIST"
 msgstr "차량 아티스트"
 
 msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
-msgstr "관객 & 고객 관리상무, EMEA"
+msgstr "관객 & 고객 관리 상무, EMEA"
 
 msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
 msgstr "상무, 플레이어 경험"
@@ -3996,7 +3943,7 @@ msgid "You will soon be redirected to a match server."
 msgstr "매치 서버로 곧 이동합니다."
 
 msgid "Your map in less than %1 minutes"
-msgstr "지도 검토까지 남은 시간 %1 분"
+msgstr "지도 검토까지 %1 분 이하"
 
 msgid "Your search did not return any results"
 msgstr "검색 결과가 없습니다."

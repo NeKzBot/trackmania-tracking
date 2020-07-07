@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 11:21+0000\n"
+"PO-Revision-Date: 2020-07-05 20:14+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Polish, Poland\n"
 "Language: pl-PL\n"
@@ -397,7 +397,7 @@ msgid ""
 "At the end of you 3 years period, keep the 300 officials maps,\n"
 "the 1095 tracks of the day, and the advanced track editor"
 msgstr ""
-"Na końcu swojej trzyletniej subskrypcji zatrzymasz 300 oficjalnych map, \n"
+"Na końcu swojej trzyletniej subskrypcji zatrzymasz 300 oficjalnych map,\n"
 "1095 tras dnia, oraz zaawansowany edytor map"
 
 msgid ""
@@ -726,14 +726,6 @@ msgstr "Zamknij"
 msgid "Club"
 msgstr "Klub"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie klubowego tła nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja klubowego tła nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
 msgid "Club campaigns"
 msgstr "Kampanie klubowe"
 
@@ -747,25 +739,6 @@ msgid "Club creation failed. Please try again. (Error %1)"
 msgstr ""
 "Utworzenie klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Wystąpił błąd podczas usuwania naklejki klubowej. Proszę spróbować ponownie. "
-"(Błąd %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja naklejki klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie naklejki sponsora nie powiodło się. Proszę spróbować ponownie. "
-"(Błąd %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja naklejki sponsora nie powiodła się. Proszę spróbować ponownie. (Błąd "
-"%1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr ""
 "Wystąpił błąd podczas przesyłania naklejki klubowej. Proszę spróbować "
@@ -777,14 +750,6 @@ msgstr "Usunięcie klubu nie powiodło się. Proszę spróbować ponownie. (Bł�
 msgid "Club edition"
 msgstr "Edycja klubu"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usunięcie logo klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja logo klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr ""
 "Przesyłanie logo klubu nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
@@ -792,46 +757,12 @@ msgstr ""
 msgid "Club rooms"
 msgstr "Pokoje klubów"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie ekranu 16X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja ekranu 16X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie ekranu 2X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja ekranu 2X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie ekranu 8X1 nie powiodło się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja ekranu 8X1 nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
 msgid "Club skins"
 msgstr "Klubowe skiny"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr ""
 "Aktualizacja klubu nie powiodła się. Proszę spróbować ponownie. (Błąd %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Usuwanie pionowego obrazu klubu nie powiodło się. Proszę spróbować ponownie. "
-"(Błąd %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr ""
-"Edycja pionowego obrazu klubu nie powiodła się. Proszę spróbować ponownie. "
-"(Błąd %1)"
 
 msgid "Clubs"
 msgstr "Kluby"
@@ -849,7 +780,7 @@ msgid "Compete every week in the national league"
 msgstr "Rywalizuj co tydzień w lidze narodowej"
 
 msgid "Compete in the open grand league"
-msgstr "Rywalizuj w lidze Grand League"
+msgstr "Rywalizuj w open grand league"
 
 msgid "Competition"
 msgstr "Wydarzenie"
@@ -973,7 +904,7 @@ msgid "Customization"
 msgstr "Personalizacja"
 
 msgid "Customize your car with your skins or club ones"
-msgstr "Dostosuj swój pojazd przy użyciu swoich skórek bądź klubowych"
+msgstr "Dostosuj swój pojazd przy użyciu swoich, lub klubowych skinów"
 
 msgid "Cut and paste"
 msgstr "Wytnij i kopiuj"
@@ -1480,7 +1411,8 @@ msgid "Get the best of player campaigns in the arcade channel"
 msgstr "Rozgrywaj najlepsze kampanie graczy w salonie gier"
 
 msgid "Get the replay, skin and simple track editors"
-msgstr "Uzyskaj dostęp do uproszczonego edytora map, powtórek i skinów"
+msgstr ""
+"Uzyskaj dostęp do edytorów powtórek i skinów, oraz prostego edytora map"
 
 msgid "Give up"
 msgstr "Zrezygnuj"
@@ -1622,10 +1554,13 @@ msgid "Join %1"
 msgstr "Dołącz do %1"
 
 msgid "Join club activitites and see club rankings"
-msgstr "Dołącz do klubowych aktywności oraz zobacz ich rankingi"
+msgstr "Dołącz do aktywności klubowych oraz zobacz rankingi klubowe"
 
 msgid "Join public club activities: campaigns and online rooms"
 msgstr "Dołącz do publicznych aktywności klubów: kampanii i pokoi online"
+
+msgid "Joining friends"
+msgstr "Dołączanie do znajomych"
 
 msgid "Jump to map"
 msgstr "Przeskoczyć do mapy"
@@ -2363,7 +2298,10 @@ msgid "Play against a replay"
 msgstr "Graj przeciwko powtórce"
 
 msgid "Play against opponents"
-msgstr "Graj przeciwko przeciwnikom"
+msgstr "Graj z przeciwnikami"
+
+msgid "Play against your followers"
+msgstr "Graj przeciwko swoim obserwującym"
 
 msgid "Play alone"
 msgstr "Wyścig w pojedynkę"
@@ -2572,7 +2510,7 @@ msgstr ""
 "zweryfikować swojej trasy."
 
 msgid "Race and compete in the daily player's map selection"
-msgstr "Ścigaj się i rywalizuj na dziennych wybranych trasach graczy"
+msgstr "Ścigaj się i rywalizuj na trasach codziennie wybieranych przez graczy"
 
 msgid "Race ranking"
 msgstr "Ranking wyścigu"
@@ -3461,9 +3399,6 @@ msgstr "Nazwa może mieć maksymalnie %1 znaków."
 msgid "The next match will begin in %1 "
 msgstr "Następna rozgrywka rozpocznie się za %1  "
 
-msgid "The registration closed at : %1 H"
-msgstr "Rejestracja została zamknięta o : %1 G"
-
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Pokój jest nieosiągalny, proszę spróbować ponownie. (Kod błędu: %1)"
 
@@ -3528,8 +3463,8 @@ msgid ""
 "This block has a customizable skin. Use %1 to select the picture you want to "
 "use."
 msgstr ""
-"Ten blok ma niestandardową skórkę. Kliknij %1 aby wybrać obraz który chcesz "
-"użyć."
+"Ten blok posiada możliwość personalizacji. Kliknij %1 aby wybrać obraz który "
+"chcesz użyć."
 
 msgid "This competition is closed"
 msgstr "To wydarzenie zakończyło się"

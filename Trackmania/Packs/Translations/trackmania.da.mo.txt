@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-06-30 21:31+0000\n"
+"PO-Revision-Date: 2020-07-03 10:43+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -718,13 +718,6 @@ msgstr "Luk"
 msgid "Club"
 msgstr "Klub"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klub-baggrund mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af klub-baggrund mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
 msgid "Club campaigns"
 msgstr "Klubkampagner"
 
@@ -737,25 +730,6 @@ msgstr "Oprettelse af klub"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Oprettelse af klub mislykkedes. Forsøg venligst igen. (Fejl %1)"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Sletning af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl "
-"%1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Sletning af kluboverføringsmærke-sponsor mislykkedes. Forsøg venligst igen. "
-"(Fejl %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af kluboverføringsmærke-sponsor mislykkedes. Forsøg venligst "
-"igen. (Fejl %1)"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr ""
 "Upload af kluboverføringsmærke mislykkedes. Forsøg venligst igen. (Fejl %1)"
@@ -766,51 +740,17 @@ msgstr "Sletning af klub mislykkedes. Forsøg venligst igen. (Error %1)"
 msgid "Club edition"
 msgstr "Redigering af klub"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klublogo mislykkedes. Forsøg venligst igen. (Error %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "Redigering af klublogo mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "Upload af klublogo mislykkedes. Forsøg venligst igen. (Fejl %1)"
 
 msgid "Club rooms"
 msgstr "Klubrum"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klub-skærm 16 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af klub-skærm 16 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klub-skærm 2 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af klub-skærm 2 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klub-skærm 8 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af klub-skærm 8 mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
 msgid "Club skins"
 msgstr "Klub-skins"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "Opdatering af klub mislykkedes. Forsøg venligst igen. (Error %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "Sletning af klub-vertikal mislykkedes. Forsøg venligst igen. (Fejl %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr ""
-"Redigering af klub-vertikal mislykkedes. Forsøg venligst igen. (Fejl %1)"
 
 msgid "Clubs"
 msgstr "Klubber"
@@ -1421,7 +1361,7 @@ msgid "Get the best of player campaigns in the arcade channel"
 msgstr "Få det bedste ud af spillerkampagner i arkade-kanalen"
 
 msgid "Get the replay, skin and simple track editors"
-msgstr "Få gengivelse-, skin- og simpel bane-editorer"
+msgstr "Få gengivelse-, skin- og simpel bane-editoren"
 
 msgid "Give up"
 msgstr "Giv op"
@@ -3321,9 +3261,6 @@ msgstr "Navnemærket har et maksimum på %1 tegn"
 
 msgid "The next match will begin in %1 "
 msgstr "Dén næste kamp vil starte om %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "Tilmelding lukkede kl. : %1"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Rummet er utilgængeligt, forsøg venligst igen. (Fejlkode: %1)"

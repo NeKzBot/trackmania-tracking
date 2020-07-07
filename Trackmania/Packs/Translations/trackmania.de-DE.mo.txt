@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 13:05+0000\n"
+"PO-Revision-Date: 2020-07-04 07:11+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -544,16 +544,6 @@ msgstr "Schließen"
 msgid "Club"
 msgstr "Club"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Hintergrunds fehlgeschlagen. Bitte versuchen Sie es später "
-"erneut. (Fehlercode %1)"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Hintergrunds fehlgeschlagen. bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
 msgid "Club campaigns"
 msgstr "Club-Kampagnen"
 
@@ -565,26 +555,6 @@ msgstr "Club-Erstellung"
 
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "Club-Erstellung fehlgeschlagen. Bitte erneut versuchen. (Fehler %1)"
-
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Fehler beim entfernen des Clubdekors. Bitte versuchen Sie es erneut. (Fehler "
-"%1)"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeitung des Clubdekors fehlgeschlagen. Bitte versuchen Sie es erneut. "
-"(Fehler %1)"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Sponsorenaufklebers fehlgeschlagen. Bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Sponsorenaufklebers fehlgeschlagen. bitte versuchen Sie "
-"es erneut. (Fehler %1)"
 
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr ""
@@ -598,16 +568,6 @@ msgstr ""
 msgid "Club edition"
 msgstr "Club-Bearbeitung"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Logos fehlgeschlagen. Bitte versuchen Sie es erneut. "
-"(Fehler %1)"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeitung des Clublogos fehlgeschlagen. Bitte versuchen Sie es erneut. "
-"(Fehler %1)"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr ""
 "Upload des Club-Logos ist fehlgeschlagen. Bitte versuchen Sie es erneut. "
@@ -616,36 +576,6 @@ msgstr ""
 msgid "Club rooms"
 msgstr "Clubräume"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Bildschirm 16-Bildes fehlgeschlagen. Bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Bildschirm 16-Bildes fehlgeschlagen. Bitte versuchen Sie "
-"es erneut. (Fehler %1)"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Bildschirm 2-Bildes fehlgeschlagen. Bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Bildschirm 2-Bildes fehlgeschlagen. Bitte versuchen Sie "
-"es erneut. (Fehler %1)"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Bildschirm 8-Bildes fehlgeschlagen. Bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Bildschirm 8-Bildes fehlgeschlagen. Bitte versuchen Sie "
-"es erneut. (Fehler %1)"
-
 msgid "Club skins"
 msgstr "Club-Skins"
 
@@ -653,16 +583,6 @@ msgid "Club update failed. Please try again. (Error %1)"
 msgstr ""
 "Aktualisieren des Clubs fehlgeschlagen. Bitte versuchen Sie es erneut. "
 "(Fehler %1)"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr ""
-"Löschen des Club-Vertikal-Bildes fehlgeschlagen. Bitte versuchen Sie es "
-"erneut. (Fehler %1)"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr ""
-"Bearbeiten des Club-Vertikal-Bildes fehlgeschlagen. bitte versuchen Sie es "
-"erneut. (Fehler %1)"
 
 msgid "Clubs"
 msgstr "Clubs"
@@ -1305,6 +1225,9 @@ msgid "Join public club activities: campaigns and online rooms"
 msgstr ""
 "Nehmen Sie an öffentlichen Club-Aktivitäten teil: Kampagnen und Online-Räume"
 
+msgid "Joining friends"
+msgstr "Freunden beitreten"
+
 msgid "Jump to map"
 msgstr "Zu Strecke springen"
 
@@ -1816,6 +1739,9 @@ msgstr "Gegen ein Replay spielen"
 
 msgid "Play against opponents"
 msgstr "Gegen Gegner spielen"
+
+msgid "Play against your followers"
+msgstr "Spielen Sie gegen Ihre Follower"
 
 msgid "Play alone"
 msgstr "Allein spielen"
@@ -2728,9 +2654,6 @@ msgstr "Das Namensschild hat ein Maximum von %1 Zeichen"
 
 msgid "The next match will begin in %1 "
 msgstr "Das nächste Match beginnt in %1 "
-
-msgid "The registration closed at : %1 H"
-msgstr "Die Registrierung endete um %1 Uhr"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr ""

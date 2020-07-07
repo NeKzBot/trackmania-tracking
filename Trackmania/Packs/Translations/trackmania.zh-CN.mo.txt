@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-01 06:18+0000\n"
+"PO-Revision-Date: 2020-07-07 07:25+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -709,12 +709,6 @@ msgstr "关闭"
 msgid "Club"
 msgstr "俱乐部"
 
-msgid "Club background deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部背景图片删除失败，请重试。（错误 %1）"
-
-msgid "Club background edition failed. Please try again. (Error %1)"
-msgstr "俱乐部背景图片编辑失败，请重试。（错误 %1）"
-
 msgid "Club campaigns"
 msgstr "俱乐部赛事"
 
@@ -727,18 +721,6 @@ msgstr "创建俱乐部"
 msgid "Club creation failed. Please try again. (Error %1)"
 msgstr "俱乐部创建失败，请重试。（错误%1）"
 
-msgid "Club decal deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部印花删除失败，请重试。（错误 %1）"
-
-msgid "Club decal edition failed. Please try again. (Error %1)"
-msgstr "俱乐部印花编辑失败，请重试。（错误 %1）"
-
-msgid "Club decal sponsor deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部赞助商印花删除失败，请重试。（错误 %1）"
-
-msgid "Club decal sponsor edition failed. Please try again. (Error %1)"
-msgstr "俱乐部赞助商印花编辑失败，请重试。（错误 %1）"
-
 msgid "Club decal upload failed. Please try again. (Error %1)"
 msgstr "俱乐部印花上传失败，请重试。（错误 %1）"
 
@@ -748,47 +730,17 @@ msgstr "俱乐部删除失败。请重试。（错误%1）"
 msgid "Club edition"
 msgstr "编辑俱乐部"
 
-msgid "Club logo deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部徽标删除失败。请重试。（错误%1）"
-
-msgid "Club logo edition failed. Please try again. (Error %1)"
-msgstr "俱乐部徽标编辑失败。请重试。（错误 %1）"
-
 msgid "Club logo upload failed. Please try again. (Error %1)"
 msgstr "俱乐部徽标上传失败，请重试。（错误%1）"
 
 msgid "Club rooms"
 msgstr "俱乐部房间"
 
-msgid "Club screen 16 deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图16删除失败，请重试。（错误 %1）"
-
-msgid "Club screen 16 edition failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图16编辑失败，请重试。（错误 %1）"
-
-msgid "Club screen 2 deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图2删除失败，请重试。（错误 %1）"
-
-msgid "Club screen 2 edition failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图2编辑失败，请重试。（错误 %1）"
-
-msgid "Club screen 8 deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图8删除失败，请重试。（错误 %1）"
-
-msgid "Club screen 8 edition failed. Please try again. (Error %1)"
-msgstr "俱乐部屏幕截图8编辑失败，请重试。（错误 %1）"
-
 msgid "Club skins"
 msgstr "俱乐部皮肤"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "俱乐部更新失败。请重试。（错误%1）"
-
-msgid "Club vertical deletion failed. Please try again. (Error %1)"
-msgstr "俱乐部垂直图像删除失败，请重试。（错误 %1）"
-
-msgid "Club vertical edition failed. Please try again. (Error %1)"
-msgstr "俱乐部垂直图像编辑失败，请重试。（错误 %1）"
 
 msgid "Clubs"
 msgstr "俱乐部"
@@ -1383,7 +1335,7 @@ msgid "Get the Club access for one year"
 msgstr "购买一年的俱乐部版赛道狂飙"
 
 msgid "Get the Club access for three years"
-msgstr "购买3年俱乐部会员"
+msgstr "购买三年的俱乐部版赛道狂飙"
 
 msgid "Get the Standard access for one year"
 msgstr "购买一年的标准版赛道狂飙"
@@ -1536,6 +1488,9 @@ msgstr "加入俱乐部活动并查看俱乐部排名"
 
 msgid "Join public club activities: campaigns and online rooms"
 msgstr "加入包括赛事和在线房间在内的公开俱乐部活动"
+
+msgid "Joining friends"
+msgstr "正在加入好友"
 
 msgid "Jump to map"
 msgstr "跳转至地图"
@@ -1921,7 +1876,7 @@ msgid "Monday"
 msgstr "星期一"
 
 msgid "More VIPs"
-msgstr "更多VIP"
+msgstr "更多高级会员"
 
 msgid "Move"
 msgstr "移动"
@@ -2266,6 +2221,9 @@ msgstr "与回放进行对决"
 
 msgid "Play against opponents"
 msgstr "挑战对手"
+
+msgid "Play against your followers"
+msgstr "与关注者进行对决"
 
 msgid "Play alone"
 msgstr "独自游玩"
@@ -2833,7 +2791,7 @@ msgid "Select"
 msgstr "选择"
 
 msgid "Select a VIP to play against"
-msgstr "选择要挑战的VIP"
+msgstr "选择要挑战的高级会员"
 
 msgid "Select a billboard"
 msgstr "选择一个广告牌"
@@ -3316,9 +3274,6 @@ msgstr "名称缩写最多可以容纳%1个字符"
 msgid "The next match will begin in %1 "
 msgstr "下一场比赛将在%1后开始 "
 
-msgid "The registration closed at : %1 H"
-msgstr "注册将在%1时关闭"
-
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "无法连接至此房间，请稍后再试。（错误代码：%1）"
 
@@ -3575,7 +3530,7 @@ msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
 msgstr "玩家体验副总裁"
 
 msgid "VIPs from club '%1'"
-msgstr "来至俱乐部‘%1’的VIP"
+msgstr "来自“%1”俱乐部的高级会员"
 
 msgid "VP EDITORIAL"
 msgstr "剪辑副总裁"
@@ -4197,7 +4152,7 @@ msgid "|Club|Requests"
 msgstr "|Club|申请"
 
 msgid "|Club|VIP"
-msgstr "|Club|VIP"
+msgstr "|Club|高级会员"
 
 msgid "|Club|request"
 msgstr "|Club|请求"
@@ -4554,7 +4509,7 @@ msgstr ""
 msgid ""
 "|Map style description|Those maps are meant to be played without letting go "
 "of the accelerator. Go full throttle!"
-msgstr "|Map style description|在游玩这些地图时不需要松开油门。一路狂飙吧！"
+msgstr "|Map style description|在游玩这些地图时不需要松开油门，一路狂飙吧！"
 
 msgid ""
 "|Map style description|Those tracks are built upon a single strong idea or "
@@ -4571,12 +4526,12 @@ msgstr "|Map style description|那些赛道通常是在赛事末尾额外添加�
 msgid ""
 "|Map style description|Those tracks are set up in natural areas. Don't get "
 "lost!"
-msgstr "|Map style description|这些赛道的场景是自然环境。别迷路了！"
+msgstr "|Map style description|这些赛道的场景是自然环境，别迷路了！"
 
 msgid ""
 "|Map style description|Those tracks feature many traps and jumps. Watch out "
 "below!"
-msgstr "|Map style description|这些地图有许多陷阱和跳台。注意下面！"
+msgstr "|Map style description|这些地图有许多陷阱和跳台，注意下面！"
 
 msgid ""
 "|Map style description|Those tracks feature many turns, U-Turns, and braking "
@@ -4786,7 +4741,7 @@ msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|开始游戏"
 
 msgid "|Race|Lap"
-msgstr "|Time|圈速"
+msgstr "|Time|圈数"
 
 msgid "|Race|Laps"
 msgstr "|Race|圈数"

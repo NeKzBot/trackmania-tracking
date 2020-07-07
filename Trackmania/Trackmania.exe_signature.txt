@@ -1,29 +1,29 @@
-Current PE checksum   : 027F0DB1
-Calculated PE checksum: 027F0DB1
+Current PE checksum   : 027EB165
+Calculated PE checksum: 027EB165
 
 Message digest algorithm  : SHA1
-Current message digest    : F2C6934C79034215E06B72B3933DA0205F959EA0
-Calculated message digest : F2C6934C79034215E06B72B3933DA0205F959EA0
+Current message digest    : 071753D07697BBA42CF9D5BB52EB7DB50B0F3BC3
+Calculated message digest : 071753D07697BBA42CF9D5BB52EB7DB50B0F3BC3
 
 Signature verification: ok
 
 Number of signers: 1
 	Signer #0:
-		Subject: /C=FR/ST=Paris/L=Paris/O=NADEO SASU/CN=NADEO SASU
-		Issuer : /C=US/O=thawte, Inc./CN=thawte SHA256 Code Signing CA
+		Subject: /C=FR/ST=ILE-DE-FRANCE/L=Paris/O=NADEO SASU/CN=NADEO SASU
+		Issuer : /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Assured ID Code Signing CA
 
 Number of certificates: 4
 	Cert #0:
 		Subject: /C=US/O=Symantec Corporation/CN=Symantec Time Stamping Services CA - G2
 		Issuer : /C=ZA/ST=Western Cape/L=Durbanville/O=Thawte/OU=Thawte Certification/CN=Thawte Timestamping CA
 	Cert #1:
-		Subject: /C=FR/ST=Paris/L=Paris/O=NADEO SASU/CN=NADEO SASU
-		Issuer : /C=US/O=thawte, Inc./CN=thawte SHA256 Code Signing CA
-	Cert #2:
-		Subject: /C=US/O=thawte, Inc./CN=thawte SHA256 Code Signing CA
-		Issuer : /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-	Cert #3:
 		Subject: /C=US/O=Symantec Corporation/CN=Symantec Time Stamping Services Signer - G4
 		Issuer : /C=US/O=Symantec Corporation/CN=Symantec Time Stamping Services CA - G2
+	Cert #2:
+		Subject: /C=FR/ST=ILE-DE-FRANCE/L=Paris/O=NADEO SASU/CN=NADEO SASU
+		Issuer : /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Assured ID Code Signing CA
+	Cert #3:
+		Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Assured ID Code Signing CA
+		Issuer : /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
 
 Succeeded
