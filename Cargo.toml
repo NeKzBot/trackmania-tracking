@@ -1,0 +1,12 @@
+[package]
+name = "trackmania-tracking"
+version = "0.1.0"
+authors = ["NeKz <nekzor@users.noreply.github.com>"]
+edition = "2018"
+
+[[bin]]
+name = "class_dumper"
+path = "class_dumper.rs"
+
+[dependencies]
+goblin = "0.2"

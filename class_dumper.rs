@@ -1,4 +1,6 @@
-// rustc -O class_dumper.rs
+// cargo build --release && cp target/release/class_dumper class_dumper
+
+use goblin::{error, Object};
 
 struct Pattern<'a, T> {
     offsets: (usize, usize, usize),
@@ -30,14 +32,14 @@ fn read_cstr(buffer: &[u8], offset: usize) -> String {
     result
 }
 
-fn deref<T, V>(r#type: &V, buffer: &[u8], offset: usize) -> T
+fn deref<T, V>(r#type: &V, buffer: &[u8], offset: usize, rdata_offset: usize) -> T
 where
     T: Sized,
     V: Fn(&[u8], usize) -> T,
 {
     r#type(
         buffer,
-        offset + read_i32(buffer, offset) as usize + std::mem::size_of::<i32>(),
+        offset + read_i32(buffer, offset) as usize + std::mem::size_of::<i32>() - rdata_offset
     )
 }
 
@@ -50,6 +52,18 @@ macro_rules! pattern {
     };
 }
 
+fn find_raw_offset_to_rdata(buffer: &Vec<u8>) -> error::Result<u32> {
+    match Object::parse(buffer)? {
+        Object::PE(pe) => {
+            let text = pe.sections.get(0).expect(".text section missing");
+            let rdata = pe.sections.get(1).expect(".rdata section missing");
+
+            Ok(rdata.virtual_address - (text.virtual_address + text.size_of_raw_data))
+        }
+        _ => panic!("not a PE file"),
+    }
+}
+
 fn main() -> std::io::Result<()> {
     let args = std::env::args().collect::<Vec<String>>();
 
@@ -58,6 +72,8 @@ fn main() -> std::io::Result<()> {
 
     let buffer: Vec<u8> = std::fs::read(exe)?;
     let buffer_length = buffer.len();
+
+    let rdata_offset = find_raw_offset_to_rdata(&buffer).expect("failed to find raw .rdata offset");
 
     #[rustfmt::skip]
     let patterns = vec!(
@@ -128,6 +144,7 @@ fn main() -> std::io::Result<()> {
                     &read_cstr,
                     buffer.as_slice(),
                     byte_index + pattern.offsets.1,
+                    rdata_offset as usize
                 );
                 let id = read_i32(buffer.as_slice(), byte_index + pattern.offsets.2);
 

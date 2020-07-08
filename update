@@ -75,7 +75,6 @@ Commit()
 {
     git add --all
     git -c user.name="NeKzBot" -c user.email="44978126+NeKzBot@users.noreply.github.com" commit -m "$(date --iso-8601)"
-    git push origin master
 }
 
 ProcessTrackmania
