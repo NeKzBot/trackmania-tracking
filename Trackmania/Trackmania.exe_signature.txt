@@ -1,9 +1,9 @@
-Current PE checksum   : 027EB165
-Calculated PE checksum: 027EB165
+Current PE checksum   : 027ED6AD
+Calculated PE checksum: 027ED6AD
 
 Message digest algorithm  : SHA1
-Current message digest    : 071753D07697BBA42CF9D5BB52EB7DB50B0F3BC3
-Calculated message digest : 071753D07697BBA42CF9D5BB52EB7DB50B0F3BC3
+Current message digest    : 071A36AC27A3EB2BF5C3138B31C1F461AD60AD15
+Calculated message digest : 071A36AC27A3EB2BF5C3138B31C1F461AD60AD15
 
 Signature verification: ok
 
