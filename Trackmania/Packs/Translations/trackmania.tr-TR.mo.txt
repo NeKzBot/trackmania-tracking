@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-03 19:04+0000\n"
+"PO-Revision-Date: 2020-07-08 21:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -983,6 +983,9 @@ msgstr "KULÜBÜ SİL"
 msgid "Deleting club..."
 msgstr "Kulüp siliniyor..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "'%1' türündeki resim silinemedi. Lütfen tekrar deneyin. (Hata %2)"
+
 msgid "Did you like this map?"
 msgstr "Bu haritayı beğendiniz mi?"
 
@@ -1114,6 +1117,9 @@ msgstr "Etkinlik düzenleniyor..."
 
 msgid "Editing club room..."
 msgstr "Kulüp odası düzenleniyor..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "'%1' türündeki resim düzenlenemedi. Lütfen tekrar deneyin. (Hata %2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Sekizinci (8'e basın)"
@@ -3370,6 +3376,9 @@ msgstr "İsim etiketinde en fazla %1 karakter olabilir"
 msgid "The next match will begin in %1 "
 msgstr "Bir sonraki karşılaşma %1 içinde başlayacak  "
 
+msgid "The registration closed at: %1 H"
+msgstr "Kayıt alımı kapanış saati: %1 H"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Odaya ulaşılamıyor, lütfen tekrar deneyin. (Hata kodu: %1)"
 
@@ -4385,6 +4394,33 @@ msgstr "|GameMode|ZAMANA KARŞI"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|Dekorasyon"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|Arka plan"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|Kaplama"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|Kaplama sponsoru"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|Ekran 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|Ekran 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|Ekran 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|Bilinmeyen"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|Dikey"
 
 msgid "|Image|Background"
 msgstr "|Image|Arka plan"

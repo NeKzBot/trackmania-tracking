@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-04 07:11+0000\n"
+"PO-Revision-Date: 2020-07-08 11:38+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -776,6 +776,11 @@ msgstr "Club löschen"
 msgid "Deleting club..."
 msgstr "Club wird gelöscht..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Löschen des Bildes vom Typ '%1' ist fehlgeschlagen. Bitte versuchen Sie es "
+"erneut. (Fehler %2)"
+
 msgid "Did you like this map?"
 msgstr "Hat Ihnen diese Strecke gefallen?"
 
@@ -881,6 +886,11 @@ msgstr "Aktivität bearbeiten..."
 
 msgid "Editing club room..."
 msgstr "Club-Raum wird aktualisiert..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Bearbeitung des Bildes vom Typ '%1' ist fehlgeschlagen. Bitte versuchen Sie "
+"es erneut. (Fehler %2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Achter (8 drücken)"
@@ -2655,6 +2665,9 @@ msgstr "Das Namensschild hat ein Maximum von %1 Zeichen"
 msgid "The next match will begin in %1 "
 msgstr "Das nächste Match beginnt in %1 "
 
+msgid "The registration closed at: %1 H"
+msgstr "Die Registrierung endete um: %1 Uhr"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr ""
 "Der Raum ist nicht erreichbar, bitte erneut versuchen. (Fehlercode: %1)"
@@ -3588,6 +3601,33 @@ msgstr "|GameMode|Zeitrennen"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|Dekoration"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|Hintergrund"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|Aufkleber"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|Sponsorenaufkleber"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|Bildschirm 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|Bildschirm 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|Bildschirm 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|Unbekannt"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|Vertikal"
 
 msgid "|Image|Background"
 msgstr "|Image|Hintergrund"

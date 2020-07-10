@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 00:20+0000\n"
+"PO-Revision-Date: 2020-07-08 13:36+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -5738,6 +5738,9 @@ msgstr "请求超时"
 
 msgid "Required"
 msgstr "必须"
+
+msgid "Requires restart"
+msgstr "需要重启游戏"
 
 msgid "Reset"
 msgstr "重置"

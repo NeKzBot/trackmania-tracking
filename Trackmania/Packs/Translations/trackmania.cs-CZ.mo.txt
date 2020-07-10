@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-06 15:20+0000\n"
+"PO-Revision-Date: 2020-07-09 12:40+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -495,7 +495,7 @@ msgid "Browse"
 msgstr "Procházet"
 
 msgid "Build your track and place a finish block to complete it."
-msgstr "Postavte vaší trať a umístěte cílový blok pro dokončení."
+msgstr "Postavte vaši trať a umístěte cílový blok pro dokončení."
 
 msgid "By %1"
 msgstr "Od %1"
@@ -780,7 +780,7 @@ msgid "Confirm"
 msgstr "Potvrdit"
 
 msgid "Confirm your choice"
-msgstr "Potvrďte svůj výběr"
+msgstr "Potvrďte váš výběr"
 
 msgid "Confirmation"
 msgstr "Potvrzení"
@@ -977,6 +977,9 @@ msgstr "Odstranit klub"
 msgid "Deleting club..."
 msgstr "Odstraňování klubu..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "Odstraňování obrázku typu '%1' selhalo. Prosím opakujte. (Chyba %2)"
+
 msgid "Did you like this map?"
 msgstr "Libí se vám tato mapa?"
 
@@ -1108,6 +1111,9 @@ msgstr "Upravování aktivity..."
 
 msgid "Editing club room..."
 msgstr "Upravování klubové místnosti..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "Upravování obrázku typu '%1' selhalo. Prosím opakujte. (Chyba %2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Osmý (Stiskněte 8)"
@@ -2307,7 +2313,7 @@ msgid "Please reconnect the %1"
 msgstr "Prosím připojte %1 zpět"
 
 msgid "Please select your %1"
-msgstr "Prosím, zvolte svůj/svou %1"
+msgstr "Prosím, zvolte váš/vaši %1"
 
 msgid ""
 "Please stay in the channel until the Knockout begins. You will be "
@@ -2915,7 +2921,7 @@ msgid "Select where you want to start"
 msgstr "Vyberte si, kde chcete začít"
 
 msgid "Select your activity"
-msgstr "Vyberte vaší aktivitu"
+msgstr "Vyberte vaši aktivitu"
 
 msgid "Select zone"
 msgstr "Vybrat zónu"
@@ -3343,6 +3349,9 @@ msgstr "Tag jména má maximálně %1 znaků"
 msgid "The next match will begin in %1 "
 msgstr "Další zápas začne za %1 "
 
+msgid "The registration closed at: %1 H"
+msgstr "Registrace ukončena v: %1 H"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Nelze se připojit k místnosti, prosím opakujte. (Kód chyby: %1)"
 
@@ -3745,7 +3754,7 @@ msgid "Waiting for your allies to be ready."
 msgstr "Čekání, až se vaši spojenci připraví."
 
 msgid "Waiting for your match"
-msgstr "Čeká se na tvůj zápas"
+msgstr "Čeká se na váš zápas"
 
 msgid "Waiting for your match to start"
 msgstr "Čekání na začátek vašeho zápasu"
@@ -3792,7 +3801,7 @@ msgstr ""
 "\n"
 "Na dnešní mapě závodíte 10 minut. Potom se budete moct připojit do fáze "
 "knockoutu a získat ještě více trofejí. \n"
-"Své globální umístění na všech serverech můžete vidět na pravé straně "
+"Vaše globální umístění na všech serverech můžete vidět na pravé straně "
 "obrazovky."
 
 msgid ""
@@ -3807,7 +3816,7 @@ msgstr ""
 "\n"
 "Dnes závodíte 10 minut. Potom se budete moct připojit do fáze knockoutu a "
 "získat ještě více trofejí!\n"
-"Své globální umístění na všech serverech můžete vidět na pravé straně "
+"Vaše globální umístění na všech serverech můžete vidět na pravé straně "
 "obrazovky. Hodně štěstí!"
 
 msgid "Welcome to the club!"
@@ -3897,7 +3906,7 @@ msgid ""
 "You can test your track at any time. Press the \"test\" button to choose "
 "where to start."
 msgstr ""
-"Vaší trať můžete otestovat kdykoli. Stiskněte tlačítko \"test\" a vyberte "
+"Vaši trať můžete otestovat kdykoli. Stiskněte tlačítko \"test\" a vyberte "
 "si, kde začnete."
 
 msgid "You can't accelerate until the next checkpoint"
@@ -4347,6 +4356,33 @@ msgstr "Na čas"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "Dekorace"
+
+msgid "|ImageType|Background"
+msgstr "Pozadí"
+
+msgid "|ImageType|Decal"
+msgstr "Obtisk"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "Obtisk sponzora"
+
+msgid "|ImageType|Logo"
+msgstr "Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "Obrazovka 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "Obrazovka 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "Obrazovka 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "Neznámý"
+
+msgid "|ImageType|Vertical"
+msgstr "Vertikála"
 
 msgid "|Image|Background"
 msgstr "|Image|Pozadí"

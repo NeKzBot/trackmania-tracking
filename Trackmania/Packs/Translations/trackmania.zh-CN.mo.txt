@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 07:25+0000\n"
+"PO-Revision-Date: 2020-07-08 13:36+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -967,6 +967,9 @@ msgstr "删除俱乐部"
 msgid "Deleting club..."
 msgstr "正在删除俱乐部…"
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "删除“%1”类型的图片失败。请重试（错误 %2）"
+
 msgid "Did you like this map?"
 msgstr "您喜欢这张地图吗？"
 
@@ -1098,6 +1101,9 @@ msgstr "正在编辑活动…"
 
 msgid "Editing club room..."
 msgstr "正在编辑俱乐部房间…"
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "编辑“%1”类型的图片失败。请重试（错误 %2）"
 
 msgid "Eighth (Press 8)"
 msgstr "第八位（按下8键）"
@@ -3274,6 +3280,9 @@ msgstr "名称缩写最多可以容纳%1个字符"
 msgid "The next match will begin in %1 "
 msgstr "下一场比赛将在%1后开始 "
 
+msgid "The registration closed at: %1 H"
+msgstr "注册将在%1时结束"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "无法连接至此房间，请稍后再试。（错误代码：%1）"
 
@@ -4252,6 +4261,33 @@ msgstr "|GameMode|计时赛"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|装饰"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|背景"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|贴花"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|赞助商贴花"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|徽标"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|16x1屏幕"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|16x9屏幕"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|8x1屏幕"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|未知"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|水平"
 
 msgid "|Image|Background"
 msgstr "|Image|背景图片"

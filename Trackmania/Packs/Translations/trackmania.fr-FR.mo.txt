@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-04 07:09+0000\n"
+"PO-Revision-Date: 2020-07-07 20:04+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -994,6 +994,11 @@ msgstr "Supprimer le club"
 msgid "Deleting club..."
 msgstr "Suppression du club..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"La suppression de l'image avec le type '%1' a échoué. Veuillez réessayer. "
+"(Erreur %2)"
+
 msgid "Did you like this map?"
 msgstr "Aimez-vous ce circuit ?"
 
@@ -1127,6 +1132,11 @@ msgstr "Editer l'activité..."
 
 msgid "Editing club room..."
 msgstr "Edition du salon du club..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"L'édition de l'image avec le type '%1' a échoué. Veuillez réessayer. (Erreur "
+"%2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Huitième (Appuyez sur 8)"
@@ -3402,6 +3412,9 @@ msgstr "Le tag doit être de maximum de %1 caractères"
 msgid "The next match will begin in %1 "
 msgstr "Le prochain match démarrera dans %1 "
 
+msgid "The registration closed at: %1 H"
+msgstr "L'enregistrement fermera à : %1 H"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Le salon n'est pas joignable, merci de réessayer. (Code d'erreur : %1)"
 
@@ -4432,6 +4445,33 @@ msgstr "Contre la Montre"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "Décoration"
+
+msgid "|ImageType|Background"
+msgstr "Arrière plan"
+
+msgid "|ImageType|Decal"
+msgstr "Autocollant"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "Autocollant sponsor"
+
+msgid "|ImageType|Logo"
+msgstr "Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "Ecran 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "Ecran 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "Ecran 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "Inconnu"
+
+msgid "|ImageType|Vertical"
+msgstr "Verticale"
 
 msgid "|Image|Background"
 msgstr "Arrière plan"

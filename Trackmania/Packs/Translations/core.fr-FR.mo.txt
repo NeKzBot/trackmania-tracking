@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-04 07:11+0000\n"
+"PO-Revision-Date: 2020-07-07 19:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -5893,6 +5893,9 @@ msgstr "Temps de la requête écoulé"
 
 msgid "Required"
 msgstr "Obligatoire"
+
+msgid "Requires restart"
+msgstr "Nécessite un redémarrage"
 
 msgid "Reset"
 msgstr "Réinitialiser"

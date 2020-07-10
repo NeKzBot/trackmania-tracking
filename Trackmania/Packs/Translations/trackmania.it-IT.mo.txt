@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-03 12:34+0000\n"
+"PO-Revision-Date: 2020-07-07 20:27+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -994,6 +994,11 @@ msgstr "Elimina club"
 msgid "Deleting club..."
 msgstr "Eliminazione club..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Eliminazione dell'immagine di tipo '%1' fallita, riprovare. (Codice errore: "
+"%2)"
+
 msgid "Did you like this map?"
 msgstr "Ti piace questa mappa?"
 
@@ -1126,6 +1131,10 @@ msgstr "Modifica dell'attività..."
 
 msgid "Editing club room..."
 msgstr "Modifica della stanza del club..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Modifica dell'immagine di tipo '%1' fallita, riprovare. (Codice errore: %2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Ottavo (premi 8)"
@@ -3374,6 +3383,9 @@ msgstr "Il tag nome ha un massimo di %1 caratteri"
 msgid "The next match will begin in %1 "
 msgstr "Il prossimo match inizierà tra %1 "
 
+msgid "The registration closed at: %1 H"
+msgstr "Chiusura registrazione: %1 h"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Non è possibile raggiungere la stanza, riprovare. (Codice errore: %1)"
 
@@ -4392,6 +4404,33 @@ msgstr "|GameMode|Time attack"
 
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|Decorazione"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|Sfondo"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|Decalcomania"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|Decalcomania sponsor"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|Schermo 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|Schermo 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|Schermo 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|Sconosciuto"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|Verticale"
 
 msgid "|Image|Background"
 msgstr "|Image|Sfondo"
