@@ -13,9 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-msgid "$%1Author"
-msgstr "$%1Автор"
-
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> Король Лобби!"
 
@@ -404,12 +401,6 @@ msgstr "Будь в топе %1"
 
 msgid "Best lap"
 msgstr "Лучший круг"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Лучший круг $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Лучший круг: %1"
 
 msgid "Best time :"
 msgstr "Лучшее время :"
@@ -1521,9 +1512,6 @@ msgstr "Новая трасса"
 msgid "News"
 msgstr "Новости"
 
-msgid "News creation"
-msgstr "Создание новостей"
-
 msgid "News image"
 msgstr "Изображение новостей"
 
@@ -1950,9 +1938,6 @@ msgstr "Удалить"
 msgid "Remove from favorite"
 msgstr "Убрать из избранного"
 
-msgid "Remove image"
-msgstr "Удалить изображение"
-
 msgid "Remove map"
 msgstr "Удалить карту"
 
@@ -2192,9 +2177,6 @@ msgstr "Выбрать всё"
 
 msgid "Select an account"
 msgstr "Выберите учётную запись"
-
-msgid "Select an image"
-msgstr "Выбрать изображение"
 
 msgid "Select map"
 msgstr "Выбрать карту"
@@ -2547,9 +2529,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "Левый стик"
-
-msgid "The Map %1 is already used"
-msgstr "Карта %1 уже используется"
 
 msgid "The Right Stick"
 msgstr "Правый стик"
@@ -3443,12 +3422,6 @@ msgstr "|Club|Запросы"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|Скоро"
 
-msgid "|Competition|Private"
-msgstr "|Competition|Частное"
-
-msgid "|Competition|Public"
-msgstr "|Competition|Публичное"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Кампания"
 
@@ -3985,56 +3958,11 @@ msgstr "|Month 3 letters|Окт %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Сен %1"
 
-msgid "|Month|April"
-msgstr "|Month|Апрель"
-
-msgid "|Month|August"
-msgstr "|Month|Август"
-
-msgid "|Month|December"
-msgstr "|Month|Декабрь"
-
-msgid "|Month|February"
-msgstr "|Month|Февраль"
-
-msgid "|Month|January"
-msgstr "|Month|Январь"
-
-msgid "|Month|July"
-msgstr "|Month|Июль"
-
-msgid "|Month|June"
-msgstr "|Month|Июнь"
-
-msgid "|Month|March"
-msgstr "|Month|Март"
-
-msgid "|Month|May"
-msgstr "|Month|Май"
-
-msgid "|Month|November"
-msgstr "|Month|Ноябрь"
-
-msgid "|Month|October"
-msgstr "|Month|Октябрь"
-
-msgid "|Month|September"
-msgstr "|Month|Сентябрь"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Камера"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Назад"
-
-msgid "|News|Body"
-msgstr "|News|Содержание"
-
-msgid "|News|Headline"
-msgstr "|News|Заголовок"
-
-msgid "|News|Title"
-msgstr "|News|Титул"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|крестовина"
@@ -4224,12 +4152,6 @@ msgstr "|SpecialBlock|вниз"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|вверх"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|Все"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|Одиночная"
 
 msgid "|Status|Finalist"
 msgstr "|Status|Финалист"

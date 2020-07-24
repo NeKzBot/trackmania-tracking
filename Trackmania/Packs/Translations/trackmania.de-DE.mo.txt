@@ -406,12 +406,6 @@ msgstr "Seien Sie in den Top %1"
 msgid "Best lap"
 msgstr "Beste Runde"
 
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Beste Runde $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Beste Runde: %1"
-
 msgid "Best time :"
 msgstr "Beste Zeit:"
 
@@ -1552,9 +1546,6 @@ msgstr "Neue Strecke"
 msgid "News"
 msgstr "Neuigkeiten"
 
-msgid "News creation"
-msgstr "Neuigkeiten erstellen"
-
 msgid "News image"
 msgstr "Neuigkeiten-Bild"
 
@@ -1984,9 +1975,6 @@ msgstr "Entfernen"
 msgid "Remove from favorite"
 msgstr "Von Favoriten entfernen"
 
-msgid "Remove image"
-msgstr "Bild entfernen"
-
 msgid "Remove map"
 msgstr "Strecke entfernen"
 
@@ -2224,9 +2212,6 @@ msgstr "Alle auswählen"
 
 msgid "Select an account"
 msgstr "Konto auswählen"
-
-msgid "Select an image"
-msgstr "Bild auswählen"
 
 msgid "Select map"
 msgstr "Strecke auswählen"
@@ -2583,9 +2568,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "Der Linke Stick"
-
-msgid "The Map %1 is already used"
-msgstr "Die Strecke %1 wird bereits verwendet"
 
 msgid "The Right Stick"
 msgstr "Der Rechte Stick"
@@ -3512,12 +3494,6 @@ msgstr "|Club|Anfragen"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|Demnächst"
 
-msgid "|Competition|Private"
-msgstr "|Competition|Privat"
-
-msgid "|Competition|Public"
-msgstr "|Competition|Öffentlich"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Kampagne"
 
@@ -4050,56 +4026,11 @@ msgstr "|Month 3 letters|Okt %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Sep %1"
 
-msgid "|Month|April"
-msgstr "|Month|April"
-
-msgid "|Month|August"
-msgstr "|Month|August"
-
-msgid "|Month|December"
-msgstr "|Month|Dezember"
-
-msgid "|Month|February"
-msgstr "|Month|Februar"
-
-msgid "|Month|January"
-msgstr "|Month|Januar"
-
-msgid "|Month|July"
-msgstr "|Month|Juli"
-
-msgid "|Month|June"
-msgstr "|Month|Juni"
-
-msgid "|Month|March"
-msgstr "|Month|März"
-
-msgid "|Month|May"
-msgstr "|Month|Mai"
-
-msgid "|Month|November"
-msgstr "|Month|November"
-
-msgid "|Month|October"
-msgstr "|Month|Oktober"
-
-msgid "|Month|September"
-msgstr "|Month|September"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Kamera"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Zurück"
-
-msgid "|News|Body"
-msgstr "|News|Inhalt"
-
-msgid "|News|Headline"
-msgstr "|News|Überschrift"
-
-msgid "|News|Title"
-msgstr "|News|Titel"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|die Richtungstasten"
@@ -4289,12 +4220,6 @@ msgstr "|SpecialBlock|nach unten"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|nach oben"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|Alle"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|Einzeln"
 
 msgid "|Status|Finalist"
 msgstr "|Status|Finalist"

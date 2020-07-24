@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-08 13:36+0000\n"
+"PO-Revision-Date: 2020-07-15 18:22+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-msgid "$%1Author"
-msgstr "$%1作者"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>是大厅之王！"
@@ -454,12 +451,6 @@ msgstr "进入前%1名"
 
 msgid "Best lap"
 msgstr "最快圈速"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "最快圈速$fff(%1)$g%2"
-
-msgid "Best lap: %1"
-msgstr "最快圈速：%1"
 
 msgid "Best time :"
 msgstr "最佳时间："
@@ -1932,9 +1923,6 @@ msgstr "新赛道"
 msgid "News"
 msgstr "新闻"
 
-msgid "News creation"
-msgstr "创建新闻"
-
 msgid "News image"
 msgstr "新闻配图"
 
@@ -2495,9 +2483,6 @@ msgstr "移除"
 msgid "Remove from favorite"
 msgstr "从收藏中移除"
 
-msgid "Remove image"
-msgstr "删除图片"
-
 msgid "Remove map"
 msgstr "移除地图"
 
@@ -2836,9 +2821,6 @@ msgstr "选择所有"
 
 msgid "Select an account"
 msgstr "选择一个账户"
-
-msgid "Select an image"
-msgstr "选择图片"
 
 msgid "Select map"
 msgstr "选择地图"
@@ -3205,9 +3187,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "左摇杆"
-
-msgid "The Map %1 is already used"
-msgstr "地图%1已被使用"
 
 msgid "The Right Stick"
 msgstr "右摇杆"
@@ -4172,12 +4151,6 @@ msgstr "|Club|请求"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|即将推出"
 
-msgid "|Competition|Private"
-msgstr "|Competition|私密"
-
-msgid "|Competition|Public"
-msgstr "|Competition|公开"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|赛事"
 
@@ -4266,10 +4239,10 @@ msgid "|ImageType|Background"
 msgstr "|ImageType|背景"
 
 msgid "|ImageType|Decal"
-msgstr "|ImageType|贴花"
+msgstr "|ImageType|印花"
 
 msgid "|ImageType|Decal sponsor"
-msgstr "|ImageType|赞助商贴花"
+msgstr "|ImageType|赞助商印花"
 
 msgid "|ImageType|Logo"
 msgstr "|ImageType|徽标"
@@ -4686,56 +4659,11 @@ msgstr "|Month 3 letters|十月 %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|九月 %1"
 
-msgid "|Month|April"
-msgstr "|Month|四月"
-
-msgid "|Month|August"
-msgstr "|Month|八月"
-
-msgid "|Month|December"
-msgstr "|Month|十二月"
-
-msgid "|Month|February"
-msgstr "|Month|二月"
-
-msgid "|Month|January"
-msgstr "|Month|一月"
-
-msgid "|Month|July"
-msgstr "|Month|七月"
-
-msgid "|Month|June"
-msgstr "|Month|六月"
-
-msgid "|Month|March"
-msgstr "|Month|三月"
-
-msgid "|Month|May"
-msgstr "|Month|五月"
-
-msgid "|Month|November"
-msgstr "|Month|十一月"
-
-msgid "|Month|October"
-msgstr "|Month|十月"
-
-msgid "|Month|September"
-msgstr "|Month|九月"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|相机"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|返回"
-
-msgid "|News|Body"
-msgstr "|News|正文"
-
-msgid "|News|Headline"
-msgstr "|News|头条"
-
-msgid "|News|Title"
-msgstr "|News|标题"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|方向键"
@@ -4925,12 +4853,6 @@ msgstr "|SpecialBlock|下"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|上"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|所有人"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|单人"
 
 msgid "|Status|Finalist"
 msgstr "|Status|决赛选手"

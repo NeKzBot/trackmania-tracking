@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 08:43+0000\n"
+"PO-Revision-Date: 2020-07-14 20:19+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-msgid "$%1Author"
-msgstr "$%1Ophavsmand"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> er Kongen af lobbyen!"
@@ -448,6 +445,13 @@ msgstr "BUSINESS OPERATIONS MANAGER"
 msgid "Back"
 msgstr "Tilbage"
 
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Baggrund: bagsidebillede af siden for dine kluboplysninger.\n"
+"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
+
 msgid "Balance teams"
 msgstr "Balancér hold"
 
@@ -462,12 +466,6 @@ msgstr "Placér i top %1"
 
 msgid "Best lap"
 msgstr "Bedste omgang"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Bedste omgang $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Bedste omgang: %1"
 
 msgid "Best time :"
 msgstr "Bedste tid :"
@@ -665,10 +663,10 @@ msgid "Change the building mode"
 msgstr "Skift bygge-tilstanden"
 
 msgid "Change the connection mode"
-msgstr "Skift sammenkobling-tilstanden"
+msgstr "Skift sammenkoblingstilstanden"
 
 msgid "Chat time"
-msgstr "Sludretid"
+msgstr "Chattetid"
 
 msgid "Choose a campaign to use"
 msgstr "Vælg en kampagne at bruge"
@@ -789,7 +787,7 @@ msgid "Connect"
 msgstr "Tilkobl"
 
 msgid "Connection timed out"
-msgstr "Forbindelse afbrudt"
+msgstr "Forbindelsestid udløbet"
 
 msgid "Connector selection"
 msgstr "Valg af sammenkobling"
@@ -880,10 +878,10 @@ msgid "Current map"
 msgstr "Nuværende bane"
 
 msgid "Current match best score"
-msgstr "Bedste score for nuværende kamp"
+msgstr "Bedste stilling i nuværende kamp"
 
 msgid "Current match score"
-msgstr "Pointstilling for nuværende kamp"
+msgstr "Stilling i nuværende kamp"
 
 msgid "Current player"
 msgstr "Nuværende spiller"
@@ -943,7 +941,7 @@ msgid "Daily cup"
 msgstr "Daglig turnering"
 
 msgid "Daily rankings"
-msgstr "Daglige ranglister"
+msgstr "Daglige rangeringer"
 
 msgid "Date"
 msgstr "Dato"
@@ -954,6 +952,22 @@ msgstr "Deaktivér"
 msgid "Dead end"
 msgstr "Blind vej"
 
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Sponsor-overføringsmærke: billede er synligt på sponsorbanneret, der omgiver "
+"vejen.\n"
+"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
+
+msgid ""
+"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Overføringsmærke: billede er synligt på vejoverfladen (ved start, "
+"kontrolpunkt og mål).\n"
+"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
+
 msgid "Decoration"
 msgstr "Udsmykning"
 
@@ -962,6 +976,11 @@ msgstr "Slet klub"
 
 msgid "Deleting club..."
 msgstr "Sletter klub..."
+
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Sletning af billede af typen '%1' mislykkedes. Forsøg venligst igen. (Fejl "
+"%2)"
 
 msgid "Did you like this map?"
 msgstr "Kunne du lide denne bane?"
@@ -1051,7 +1070,8 @@ msgid "EXTERNAL PARTNERS"
 msgstr "EXTERNAL PARTNERS"
 
 msgid "Earn medals and track your progression in regional rankings"
-msgstr "Optjen medaljer, og spor dine fremskridt i ranglister for dit område"
+msgstr ""
+"Indbring medaljer, og spor dine fremskridt i rangeringer for dit område"
 
 msgid "Edit"
 msgstr "Redigér"
@@ -1094,6 +1114,11 @@ msgstr "Redigerer aktivitet..."
 
 msgid "Editing club room..."
 msgstr "Redigerer klubrum..."
+
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Redigering af billede af typen '%1' mislykkedes. Forsøg venligst igen. (Fejl "
+"%2)"
 
 msgid "Eighth (Press 8)"
 msgstr "Ottende (Tryk 8)"
@@ -1201,8 +1226,8 @@ msgid ""
 "Error while loading scores from Nadeo Services. Please try again. (Error "
 "code: %1)"
 msgstr ""
-"Fejl ved indlæsning af pointstilling fra Nadeo Services. Forsøg venligst "
-"igen. (Fejlkode: %1)"
+"Fejl ved indlæsning af stillinger fra Nadeo Services. Forsøg venligst igen. "
+"(Fejlkode: %1)"
 
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr "Fejl ved indlæsning af kampagne. Forsøg venligst igen. (Fejlkode: %1)"
@@ -1354,14 +1379,20 @@ msgstr "Værksted"
 msgid "Generate"
 msgstr "Generér"
 
+msgid "Get the Club access for one year"
+msgstr "Få Klub-adgangen i ét år"
+
 msgid "Get the Club access for three years"
 msgstr "Få Klub-adgangen i tre år"
+
+msgid "Get the Standard access for one year"
+msgstr "Få Standard-adgangen i ét år"
 
 msgid "Get the best of player campaigns in the arcade channel"
 msgstr "Få det bedste ud af spillerkampagner i arkade-kanalen"
 
 msgid "Get the replay, skin and simple track editors"
-msgstr "Få gengivelse-, skin- og simpel bane-editoren"
+msgstr "Få gengivelse-, skin- og simpel bane-editorerne"
 
 msgid "Give up"
 msgstr "Giv op"
@@ -1440,7 +1471,7 @@ msgid ""
 "will not participate in the Daily Knockout match."
 msgstr ""
 "Hvis du giver op, vil du kunne fortsætte med at spille i kanalen, men du vil "
-"ikke kunne deltage i den daglige Knockout-kamp."
+"ikke deltage i den daglige Knockout-kamp."
 
 msgid "Image browser"
 msgstr "Billed-browser"
@@ -1507,6 +1538,9 @@ msgstr "Tilslut dig klubaktiviteter og se klubrangeringer"
 
 msgid "Join public club activities: campaigns and online rooms"
 msgstr "Tilslut dig offentlige klubaktiviteter: kampagner og online-rum"
+
+msgid "Joining friends"
+msgstr "Tilslutter dig venner"
 
 msgid "Jump to map"
 msgstr "Spring til bane"
@@ -1681,6 +1715,13 @@ msgstr "Login"
 
 msgid "Logo"
 msgstr "Logo"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Logo: dét første synlige billede af din klub.\n"
+"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
 
 msgid "Lol"
 msgstr "Lol"
@@ -1938,9 +1979,6 @@ msgstr "Ny bane"
 msgid "News"
 msgstr "Nyheder"
 
-msgid "News creation"
-msgstr "Oprettelse af nyhed"
-
 msgid "News image"
 msgstr "Nyhedsbillede"
 
@@ -1994,6 +2032,9 @@ msgstr "Ingen månedlige kampagner fundet."
 
 msgid "No player"
 msgstr "Ingen spillere"
+
+msgid "No preview available"
+msgstr "Ingen forhåndsvisning tilgængelig"
 
 msgid "No quarterly campaigns found."
 msgstr "Ingen kvartalsvise kampagner fundet."
@@ -2056,7 +2097,7 @@ msgid "ONLINE TECHNOLOGIES MANAGER"
 msgstr "ONLINE TECHNOLOGIES MANAGER"
 
 msgid "Official rankings"
-msgstr "Officielle ranglister"
+msgstr "Officielle rangeringer"
 
 msgid "Offroad"
 msgstr "Offroad"
@@ -2226,11 +2267,17 @@ msgstr "Spil en bane"
 msgid "Play a map locally"
 msgstr "Spil en bane lokalt"
 
+msgid "Play against %1"
+msgstr "Spil imod %1"
+
 msgid "Play against a replay"
 msgstr "Spil imod en gengivelse"
 
 msgid "Play against opponents"
 msgstr "Spil imod modstandere"
+
+msgid "Play against your followers"
+msgstr "Spil imod dine følgere"
 
 msgid "Play alone"
 msgstr "Spil alene"
@@ -2308,6 +2355,9 @@ msgstr "Popularitet"
 msgid "Prebuilt Landscapes"
 msgstr "Forudbyggede landskaber"
 
+msgid "Preferences"
+msgstr "Præferencer"
+
 msgid "Press a key"
 msgstr "Tryk på en tast"
 
@@ -2316,7 +2366,7 @@ msgid ""
 "define the zone where the terraforming will be applied and release the "
 "button."
 msgstr ""
-"Tryk og fasthold \"tilføj\"- eller \"fjern\"-knappen. Dernæst flyt markøren "
+"Tryk og fasthold \"tilføj\"- eller \"fjern\"-knappen. Derefter flyt markøren "
 "for at angive området, hvor terra-formningen vil blive anvendt, og slip "
 "knappen."
 
@@ -2378,7 +2428,7 @@ msgid "QC NETWORKING TEAM LEAD"
 msgstr "QC NETWORKING TEAM LEAD"
 
 msgid "QUALITY"
-msgstr "KVALITET"
+msgstr "QUALITY"
 
 msgid "QUALITY CONTROL MANAGER"
 msgstr "QUALITY CONTROL MANAGER"
@@ -2436,7 +2486,7 @@ msgstr ""
 "validere din bane."
 
 msgid "Race and compete in the daily player's map selection"
-msgstr "Ræs og konkurrér i dén daglige spillers baneudvalg"
+msgstr "Ræs og konkurrér i den daglige spillers udvalg af baner"
 
 msgid "Race ranking"
 msgstr "Placering i ræs"
@@ -2461,7 +2511,7 @@ msgid "Ranking"
 msgstr "Rangering"
 
 msgid "Rankings"
-msgstr "Ranglister"
+msgstr "Rangeringer"
 
 msgid "Ready"
 msgstr "Klar"
@@ -2501,9 +2551,6 @@ msgstr "Fjern"
 
 msgid "Remove from favorite"
 msgstr "Fjern fra favorit"
-
-msgid "Remove image"
-msgstr "Fjern billede"
 
 msgid "Remove map"
 msgstr "Fjern bane"
@@ -2704,6 +2751,9 @@ msgstr "SENIOR WEB DEVELOPER"
 msgid "SENIOR WEB PROGRAMMER"
 msgstr "SENIOR WEB PROGRAMMER"
 
+msgid "SITE ADMINISTATOR"
+msgstr "SITE ADMINISTRATOR"
+
 msgid "SOUND DESIGNER"
 msgstr "SOUND DESIGNER"
 
@@ -2764,6 +2814,27 @@ msgstr "Gemte aktiviteter"
 msgid "Saving campaign..."
 msgstr "Gemmer kampagne..."
 
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Skærm 16x1: billede, som vises på stadionets podium (under storskærm).\n"
+"Dimensioner: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Skærm 16x9: billede, som vises på stadionets storskærm.\n"
+"Dimensioner: %1 - Format: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Skærm 8x1: billede, som vises på stadionets tribuner.\n"
+"Dimensioner: %1 - Format: DDS (DXT5)"
+
 msgid "Scroll down"
 msgstr "Rul ned"
 
@@ -2778,6 +2849,9 @@ msgstr "Se vejledning igen"
 
 msgid "Select"
 msgstr "Vælg"
+
+msgid "Select a VIP to play against"
+msgstr "Vælg en VIP at spille imod"
 
 msgid "Select a billboard"
 msgstr "Vælg en reklametavle"
@@ -2817,9 +2891,6 @@ msgstr "Vælg alle"
 
 msgid "Select an account"
 msgstr "Vælg en konto"
-
-msgid "Select an image"
-msgstr "Vælg et billede"
 
 msgid "Select map"
 msgstr "Vælg bane"
@@ -3070,7 +3141,7 @@ msgid "Subscribe to Trackmania %1 to play the HotSeat mode."
 msgstr "Abonnér på Trackmania %1 for at spille HotSeat-tilstanden."
 
 msgid "Subscribe to Trackmania %1 to play the live monthly campaign."
-msgstr "Abonnér på Trackmania %1 for at spille dén live månedlige kampagne."
+msgstr "Abonnér på Trackmania %1 for at spille den live månedlige kampagne."
 
 msgid "Subscribe to Trackmania %1 to play the live quarterly campaign."
 msgstr "Abonnér på Trackmania %1 for at spille den live kvartalsvise kampagne."
@@ -3094,7 +3165,7 @@ msgid "Sunday"
 msgstr "Søndag"
 
 msgid "Support %1$z: \"go %2$z\" in chat"
-msgstr "Støt %1$z: \"go %2$z\" i chatten"
+msgstr "Støt %1$z: \"kom så %2$z\" i chatten"
 
 msgid "Switch"
 msgstr "Skift"
@@ -3185,9 +3256,6 @@ msgstr ""
 msgid "The Left Stick"
 msgstr "Den venstre analog-pind"
 
-msgid "The Map %1 is already used"
-msgstr "Banen %1 er allerede brugt"
-
 msgid "The Right Stick"
 msgstr "Den højre analog-pind"
 
@@ -3234,7 +3302,7 @@ msgid "The map '%1' is already in the playlist"
 msgstr "Banen '%1' er allerede i spillelisten"
 
 msgid "The map '%1' is not compatible with the selected game mode"
-msgstr "Banen '%1' er ikke kompatibel med den valgte spiltype"
+msgstr "Banen '%1' er ikke kompatibel med dén valgte spiltype"
 
 msgid ""
 "The map '%1' is not playable. Please validate the map and compute the "
@@ -3262,6 +3330,9 @@ msgstr "Navnemærket har et maksimum på %1 tegn"
 msgid "The next match will begin in %1 "
 msgstr "Dén næste kamp vil starte om %1 "
 
+msgid "The registration closed at: %1 H"
+msgstr "Tilmeldingen lukkede kl.: %1"
+
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Rummet er utilgængeligt, forsøg venligst igen. (Fejlkode: %1)"
 
@@ -3274,7 +3345,7 @@ msgstr ""
 "Banen kunne ikke auto-fuldføres. Fjern nogle få blokke, før du forsøger igen."
 
 msgid "The track is in a dead end. Try to go in another direction"
-msgstr "Banesporet er på en blind vej. Forsøg at gå i en anden retning."
+msgstr "Banen er på en blind vej. Forsøg at gå i en anden retning."
 
 msgid "The track must have an open connector to be auto-finished."
 msgstr "Banen skal have en åben sammenkobling for at blive auto-fuldført."
@@ -3318,8 +3389,8 @@ msgstr "Tredje (Tryk 3)"
 msgid ""
 "This activity is private, you need to be a member of the club to use it."
 msgstr ""
-"Denne aktivitet er privat, du er nødt til at være medlem af klubben for at "
-"kunne bruge den."
+"Denne aktivitet er privat, du skal være medlem af klubben for at kunne bruge "
+"den."
 
 msgid ""
 "This block has a customizable skin. Use %1 to select the picture you want to "
@@ -3391,7 +3462,7 @@ msgid ""
 "To do so you have to complete one race, from start to finish, passing "
 "through all checkpoints."
 msgstr ""
-"For at gøre dette, skal du have færdiggjort ét løb, fra start til slut, "
+"For at gøre dette skal du have færdiggjort ét løb, fra start til slut, "
 "passerende igennem alle kontrolpunkter."
 
 msgid "To play this track outside of the editor you need to validate it."
@@ -3516,7 +3587,7 @@ msgid ""
 "%2 to choose the block you want to place."
 msgstr ""
 "Brug %1 for at åbne skærmen til valg af blokke og for at vælge en kategori. "
-"Dernæst brug %2 til at vælge blokkene, du ønsker at placere."
+"Derefter brug %2 for at vælge blokkene, du ønsker at placere."
 
 msgid "Use a custom points repartition :"
 msgstr "Brug en brugerdefineret pointomfordeling :"
@@ -3538,6 +3609,9 @@ msgstr "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
 
 msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
 msgstr "VICE PRESIDENT, PLAYER EXPERIENCE"
+
+msgid "VIPs from club '%1'"
+msgstr "VIP'er fra klub '%1'"
 
 msgid "VP EDITORIAL"
 msgstr "VP EDITORIAL"
@@ -3577,6 +3651,13 @@ msgstr "Version: %1"
 
 msgid "Versus"
 msgstr "Imod"
+
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Vertikal: billede, som bruges i Mine Klubber-liste.\n"
+"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
 
 msgid "View replay"
 msgstr "Se gengivelse"
@@ -3704,7 +3785,7 @@ msgstr ""
 "Velkommen til Nadeo's daglige turnering!\n"
 "\n"
 "Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
-"bagefter og optjene endnu flere trofæer.\n"
+"bagefter, og optjene endnu flere trofæer.\n"
 "Du kan se din globale rangering blandt alle servere i højre side af din "
 "skærm."
 
@@ -3719,7 +3800,7 @@ msgstr ""
 "Velkommen til Nadeo's daglige turnering!\n"
 "\n"
 "Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
-"bagefter og optjene endnu flere trofæer.\n"
+"bagefter, og optjene endnu flere trofæer.\n"
 "Du kan se din globale rangering blandt alle servere i højre side af din "
 "skærm. Held og lykke!"
 
@@ -3733,7 +3814,7 @@ msgid ""
 "When you cut a block it is stored into your block history. You can then "
 "paste it back into your track or discard it from the history."
 msgstr ""
-"Når du klipper en blok, lagres den i din blok-historik. Du kan dernæst "
+"Når du klipper en blok, gemmes den i din blok-historik. Du kan derefter "
 "indsætte den i din bane igen eller kassere den fra historikken."
 
 msgid ""
@@ -3741,7 +3822,7 @@ msgid ""
 "automatically connect a compatible block."
 msgstr ""
 "Når du flytter markøren over på en blok, du har placeret, kan du kopiere den "
-"eller forsøge automatisk at tilkoble en kompatibel blok."
+"eller forsøge at automatisk tilkoble en kompatibel blok."
 
 msgid "Which map would you like to submit?"
 msgstr "Hvilken bane kunne du tænke dig at indsende?"
@@ -3871,7 +3952,7 @@ msgid "You must place at least one finish line!"
 msgstr "Du skal placere mindst én mållinje!"
 
 msgid "You must place at least one respawnable checkpoint!"
-msgstr "Du skal placere mindst ét respawn-muligt kontrolpunkt!"
+msgstr "Du skal placere mindst ét respawnbart kontrolpunkt!"
 
 msgid "You must select at least one map to play"
 msgstr "Du skal vælge mindst én bane for at spille"
@@ -3883,13 +3964,13 @@ msgid "You need to be a club member to play or download a map."
 msgstr "Du skal være klubmedlem for at kunne spille eller downloade en bane."
 
 msgid "You need to be a club member to set this skin as favorite."
-msgstr "Du skal være klubmedlem for at vælge denne beklædning som favorit."
+msgstr "Du skal være klubmedlem for at vælge dette skin som favorit."
 
 msgid "You need to pick a game mode"
 msgstr "Du skal vælge en spiltype"
 
 msgid "You need to place a starting point!"
-msgstr "Du skal placere et startlinje!"
+msgstr "Du skal placere en startlinje!"
 
 msgid "You reached the maximum number of blocks. You cannot add more."
 msgstr "Du har nået dét maksimale antal blokke. Du kan ikke tilføje flere."
@@ -3958,7 +4039,7 @@ msgid "|BlockCategory|Checkpoint"
 msgstr "|BlockCategory|Kontrolpunkt"
 
 msgid "|BlockCategory|Finish"
-msgstr "|BlockCategory|Slutning"
+msgstr "|BlockCategory|Mål"
 
 msgid "|BlockCategory|Obstacle"
 msgstr "|BlockCategory|Forhindring"
@@ -4174,12 +4255,6 @@ msgstr "|Club|anmodninger"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|Kommer Snart"
 
-msgid "|Competition|Private"
-msgstr "|Competition|Privat"
-
-msgid "|Competition|Public"
-msgstr "|Competition|Offentlig"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Kampagne"
 
@@ -4223,7 +4298,7 @@ msgid "|Game mode - Edit Decoration|Decoration"
 msgstr "|Game mode - Edit Decoration|Udsmykning"
 
 msgid "|Game mode - Edit Decoration|Decoration editing"
-msgstr "|Game mode - Edit Decoration|Udsmykning-redigering"
+msgstr "|Game mode - Edit Decoration|Redigering af udsmykning"
 
 msgid "|Game mode - Edit Landscapes|Landscape"
 msgstr "|Game mode - Edit Landscapes|Landskab"
@@ -4264,11 +4339,38 @@ msgstr "|GameMode|Time Attack"
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|Udsmykning"
 
+msgid "|ImageType|Background"
+msgstr "|ImageType|Baggrund"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|Overføringsmærke"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|Sponsor-overføringsmærke"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|Skærm 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|Skærm 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|Skærm 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|Ukendt"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|Vertikal"
+
 msgid "|Image|Background"
 msgstr "|Image|Baggrund"
 
 msgid "|Image|Decal sponsor 4X1"
-msgstr "|Image|Sponsor-mærkat 4X1"
+msgstr "|Image|Sponsor-overføringsmærke 4X1"
 
 msgid "|Image|Screen 16X1"
 msgstr "|Image|Billede 16X1"
@@ -4421,7 +4523,7 @@ msgid "|Information - window title|Track not validated"
 msgstr "|Information - window title|Bane ikke valideret"
 
 msgid "|Input|No binding"
-msgstr "|Input|Ingen tilbundet knap"
+msgstr "|Input|Ingen tastebinding"
 
 msgid "|Keyboard|Enter"
 msgstr "|Keyboard|Enter"
@@ -4672,56 +4774,11 @@ msgstr "|Month 3 letters|Okt %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Sep %1"
 
-msgid "|Month|April"
-msgstr "|Month|April"
-
-msgid "|Month|August"
-msgstr "|Month|August"
-
-msgid "|Month|December"
-msgstr "|Month|December"
-
-msgid "|Month|February"
-msgstr "|Month|Februar"
-
-msgid "|Month|January"
-msgstr "|Month|Januar"
-
-msgid "|Month|July"
-msgstr "|Month|Juli"
-
-msgid "|Month|June"
-msgstr "|Month|Juni"
-
-msgid "|Month|March"
-msgstr "|Month|Marts"
-
-msgid "|Month|May"
-msgstr "|Month|Maj"
-
-msgid "|Month|November"
-msgstr "|Month|November"
-
-msgid "|Month|October"
-msgstr "|Month|Oktober"
-
-msgid "|Month|September"
-msgstr "|Month|September"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Kamera"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Tilbage"
-
-msgid "|News|Body"
-msgstr "|News|Indhold"
-
-msgid "|News|Headline"
-msgstr "|News|Overskrift"
-
-msgid "|News|Title"
-msgstr "|News|Titel"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|retningsknapperne"
@@ -4911,12 +4968,6 @@ msgstr "|SpecialBlock|ned"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|op"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|Alle"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|Enkelt"
 
 msgid "|Status|Finalist"
 msgstr "|Status|Finalist"

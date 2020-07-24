@@ -12,9 +12,6 @@ msgstr ""
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "$%1Author"
-msgstr "$%1작성자"
-
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>님은 로비의 왕입니다!"
 
@@ -458,12 +455,6 @@ msgstr "최상위 %1위 안에 드십시오"
 
 msgid "Best lap"
 msgstr "베스트 랩"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "베스트 랩 $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "베스트 랩: %1"
 
 msgid "Best time :"
 msgstr "최고 기록 :"
@@ -1964,9 +1955,6 @@ msgstr "새로운 트랙"
 msgid "News"
 msgstr "뉴스"
 
-msgid "News creation"
-msgstr "뉴스 제작"
-
 msgid "News image"
 msgstr "뉴스 사진"
 
@@ -2533,9 +2521,6 @@ msgstr "삭제하기"
 msgid "Remove from favorite"
 msgstr "즐겨찾기에서 삭제"
 
-msgid "Remove image"
-msgstr "이미지 제거하기"
-
 msgid "Remove map"
 msgstr "맵 제거하기"
 
@@ -2855,9 +2840,6 @@ msgstr "모두 선택"
 
 msgid "Select an account"
 msgstr "계정을 선택하십시오."
-
-msgid "Select an image"
-msgstr "이미지 선택하기"
 
 msgid "Select map"
 msgstr "맵 선택"
@@ -3227,9 +3209,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "왼쪽 스틱"
-
-msgid "The Map %1 is already used"
-msgstr "%1 맵은 이미 사용 중입니다"
 
 msgid "The Right Stick"
 msgstr "오른쪽 스틱"
@@ -4210,12 +4189,6 @@ msgstr "|Club|요청"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|공개 예정"
 
-msgid "|Competition|Private"
-msgstr "|Competition|개인"
-
-msgid "|Competition|Public"
-msgstr "|Competition|공개"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|캠페인"
 
@@ -4693,56 +4666,11 @@ msgstr "|Month 3 letters|10월 %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|9월 %1"
 
-msgid "|Month|April"
-msgstr "|Month|4월"
-
-msgid "|Month|August"
-msgstr "|Month|8월"
-
-msgid "|Month|December"
-msgstr "|Month|12월"
-
-msgid "|Month|February"
-msgstr "|Month|2월"
-
-msgid "|Month|January"
-msgstr "|Month|1월"
-
-msgid "|Month|July"
-msgstr "|Month|7월"
-
-msgid "|Month|June"
-msgstr "|Month|6월"
-
-msgid "|Month|March"
-msgstr "|Month|3월"
-
-msgid "|Month|May"
-msgstr "|Month|5월"
-
-msgid "|Month|November"
-msgstr "|Month|11월"
-
-msgid "|Month|October"
-msgstr "|Month|10월"
-
-msgid "|Month|September"
-msgstr "|Month|9월"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|카메라"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|뒤로"
-
-msgid "|News|Body"
-msgstr "|News|내용"
-
-msgid "|News|Headline"
-msgstr "|News|표제"
-
-msgid "|News|Title"
-msgstr "|News|제목"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|방향 버튼"
@@ -4932,12 +4860,6 @@ msgstr "|SpecialBlock|아래"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|위"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|전체"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|단일"
 
 msgid "|Status|Finalist"
 msgstr "|Status|결승 진출자"

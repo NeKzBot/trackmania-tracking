@@ -454,12 +454,6 @@ msgstr "Be in the top %1"
 msgid "Best lap"
 msgstr "Best lap"
 
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Best lap $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Best lap: %1"
-
 msgid "Best time :"
 msgstr "Best time :"
 
@@ -1905,9 +1899,6 @@ msgstr "New track"
 msgid "News"
 msgstr "News"
 
-msgid "News creation"
-msgstr "News creation"
-
 msgid "News image"
 msgstr "News image"
 
@@ -2455,9 +2446,6 @@ msgstr "Remove"
 msgid "Remove from favorite"
 msgstr "Remove from favorites"
 
-msgid "Remove image"
-msgstr "Remove image"
-
 msgid "Remove map"
 msgstr "Remove map"
 
@@ -2771,9 +2759,6 @@ msgstr "Select all"
 
 msgid "Select an account"
 msgstr "Select an account"
-
-msgid "Select an image"
-msgstr "Select an image"
 
 msgid "Select map"
 msgstr "Select map"
@@ -3141,9 +3126,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "The Left Stick"
-
-msgid "The Map %1 is already used"
-msgstr "The map %1 is already used"
 
 msgid "The Right Stick"
 msgstr "The Right Stick"
@@ -4122,12 +4104,6 @@ msgstr "|Club|requests"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|Coming Soon"
 
-msgid "|Competition|Private"
-msgstr "|Competition|Private"
-
-msgid "|Competition|Public"
-msgstr "|Competition|Public"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Campaign"
 
@@ -4573,56 +4549,11 @@ msgstr "|Menu|Local"
 msgid "|Monday|M"
 msgstr "|Monday|M"
 
-msgid "|Month|April"
-msgstr "|Month|April"
-
-msgid "|Month|August"
-msgstr "|Month|August"
-
-msgid "|Month|December"
-msgstr "|Month|December"
-
-msgid "|Month|February"
-msgstr "|Month|February"
-
-msgid "|Month|January"
-msgstr "|Month|January"
-
-msgid "|Month|July"
-msgstr "|Month|July"
-
-msgid "|Month|June"
-msgstr "|Month|June"
-
-msgid "|Month|March"
-msgstr "|Month|March"
-
-msgid "|Month|May"
-msgstr "|Month|May"
-
-msgid "|Month|November"
-msgstr "|Month|November"
-
-msgid "|Month|October"
-msgstr "|Month|October"
-
-msgid "|Month|September"
-msgstr "|Month|September"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Camera"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Back"
-
-msgid "|News|Body"
-msgstr "|News|Body"
-
-msgid "|News|Headline"
-msgstr "|News|Headline"
-
-msgid "|News|Title"
-msgstr "|News|Title"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|the directional buttons"
@@ -4812,12 +4743,6 @@ msgstr "|SpecialBlock|down"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|up"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|All"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|Single"
 
 msgid "|Status|Finalist"
 msgstr "|Status|Finalist"

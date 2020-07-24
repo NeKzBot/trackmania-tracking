@@ -474,12 +474,6 @@ msgstr "Etre dans le top %1"
 msgid "Best lap"
 msgstr "Meilleur tour"
 
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Meilleur tour $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Meilleur tour : %1"
-
 msgid "Best time :"
 msgstr "Meilleur temps :"
 
@@ -2027,9 +2021,6 @@ msgstr "Nouveau circuit"
 msgid "News"
 msgstr "Nouvelles"
 
-msgid "News creation"
-msgstr "Création de nouvelles"
-
 msgid "News image"
 msgstr "Image de l'actualité"
 
@@ -2606,9 +2597,6 @@ msgstr "Supprimer"
 msgid "Remove from favorite"
 msgstr "Enlever des favoris"
 
-msgid "Remove image"
-msgstr "Supprimez l'image"
-
 msgid "Remove map"
 msgstr "Supprimer le circuit"
 
@@ -2949,9 +2937,6 @@ msgstr "Tout sélectionner"
 
 msgid "Select an account"
 msgstr "Sélectionner un compte"
-
-msgid "Select an image"
-msgstr "Sélectionnez une image"
 
 msgid "Select map"
 msgstr "Sélectionner un circuit"
@@ -3332,9 +3317,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "Le Joystick Gauche"
-
-msgid "The Map %1 is already used"
-msgstr "Le circuit %1 est déjà utilisé"
 
 msgid "The Right Stick"
 msgstr "Le Joystick droit"
@@ -4356,12 +4338,6 @@ msgstr "demandes"
 msgid "|Competition|Coming Soon"
 msgstr "Prochainement"
 
-msgid "|Competition|Private"
-msgstr "Privée"
-
-msgid "|Competition|Public"
-msgstr "Publique"
-
 msgid "|DataType|Campaign"
 msgstr "Campagne"
 
@@ -4902,56 +4878,11 @@ msgstr "Oct %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "Sep %1"
 
-msgid "|Month|April"
-msgstr "Avril"
-
-msgid "|Month|August"
-msgstr "Août"
-
-msgid "|Month|December"
-msgstr "Décembre"
-
-msgid "|Month|February"
-msgstr "Février"
-
-msgid "|Month|January"
-msgstr "Janvier"
-
-msgid "|Month|July"
-msgstr "Juillet"
-
-msgid "|Month|June"
-msgstr "Juin"
-
-msgid "|Month|March"
-msgstr "Mars"
-
-msgid "|Month|May"
-msgstr "Mai"
-
-msgid "|Month|November"
-msgstr "Novembre"
-
-msgid "|Month|October"
-msgstr "Octobre"
-
-msgid "|Month|September"
-msgstr "Septembre"
-
 msgid "|Move camera|Camera"
 msgstr "Caméra"
 
 msgid "|Navigation|Back"
 msgstr "Retour"
-
-msgid "|News|Body"
-msgstr "|News|Corps"
-
-msgid "|News|Headline"
-msgstr "|News|Gros titres"
-
-msgid "|News|Title"
-msgstr "|News|Titre"
 
 msgid "|PC|the directional buttons"
 msgstr "les touches directionnelles"
@@ -5141,12 +5072,6 @@ msgstr "bas"
 
 msgid "|SpecialBlock|up"
 msgstr "haut"
-
-msgid "|Spectator Target|All"
-msgstr "Tous"
-
-msgid "|Spectator Target|Single"
-msgstr "Individuel"
 
 msgid "|Status|Finalist"
 msgstr "Finaliste"

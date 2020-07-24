@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-09 12:40+0000\n"
+"PO-Revision-Date: 2020-07-13 08:24+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -463,12 +463,6 @@ msgstr "Buďte v top %1"
 
 msgid "Best lap"
 msgstr "Nejlepší okruh"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "Nejlepší okruh $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "Nejlepší okruh: %1"
 
 msgid "Best time :"
 msgstr "Nejlepší čas:"
@@ -1208,7 +1202,7 @@ msgstr ""
 "Došlo k chybě při připojování k serveru, prosím opakujte. (Kód chyby: %1)"
 
 msgid "Error while loading ranking (code: %1)"
-msgstr "Chyba při načítání umístění (kód: %1)"
+msgstr "Chyba při načítání pořadí (kód: %1)"
 
 msgid "Error while loading room details. (Error code: %1)"
 msgstr "Došlo k chybě při načítání detailů místnosti. (Kód chyby: %1)"
@@ -1972,9 +1966,6 @@ msgstr "Nová trať"
 msgid "News"
 msgstr "Novinky"
 
-msgid "News creation"
-msgstr "Vytváření novinky"
-
 msgid "News image"
 msgstr "Obrázek novinky"
 
@@ -2482,7 +2473,7 @@ msgid "Race and compete in the daily player's map selection"
 msgstr "Závoďte a soutěžte v denním výběru z map hráčů"
 
 msgid "Race ranking"
-msgstr "Výsledky závodu"
+msgstr "Pořadí závodu"
 
 msgid "Race validation"
 msgstr "Ověření závodu"
@@ -2544,9 +2535,6 @@ msgstr "Odstranit"
 
 msgid "Remove from favorite"
 msgstr "Odstranit z oblíbených"
-
-msgid "Remove image"
-msgstr "Odstranit obrázek"
 
 msgid "Remove map"
 msgstr "Odstranit mapu"
@@ -2889,9 +2877,6 @@ msgstr "Vybrat vše"
 
 msgid "Select an account"
 msgstr "Vyberte účet"
-
-msgid "Select an image"
-msgstr "Vybrat obrázek"
 
 msgid "Select map"
 msgstr "Vybrat mapu"
@@ -3274,9 +3259,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "Levá páčka"
-
-msgid "The Map %1 is already used"
-msgstr "Mapa %1 je již použita"
 
 msgid "The Right Stick"
 msgstr "Pravá páčka"
@@ -4267,12 +4249,6 @@ msgstr "žádosti"
 msgid "|Competition|Coming Soon"
 msgstr "Již brzy"
 
-msgid "|Competition|Private"
-msgstr "Soukromá"
-
-msgid "|Competition|Public"
-msgstr "Veřejná"
-
 msgid "|DataType|Campaign"
 msgstr "Kampaň"
 
@@ -4786,56 +4762,11 @@ msgstr "Říj %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "Zář %1"
 
-msgid "|Month|April"
-msgstr "Duben"
-
-msgid "|Month|August"
-msgstr "Srpen"
-
-msgid "|Month|December"
-msgstr "Prosinec"
-
-msgid "|Month|February"
-msgstr "Únor"
-
-msgid "|Month|January"
-msgstr "Leden"
-
-msgid "|Month|July"
-msgstr "Červenec"
-
-msgid "|Month|June"
-msgstr "Červen"
-
-msgid "|Month|March"
-msgstr "Březen"
-
-msgid "|Month|May"
-msgstr "Květen"
-
-msgid "|Month|November"
-msgstr "Listopad"
-
-msgid "|Month|October"
-msgstr "Říjen"
-
-msgid "|Month|September"
-msgstr "Září"
-
 msgid "|Move camera|Camera"
 msgstr "Kamera"
 
 msgid "|Navigation|Back"
 msgstr "Zpět"
-
-msgid "|News|Body"
-msgstr "Tělo"
-
-msgid "|News|Headline"
-msgstr "Nadpis"
-
-msgid "|News|Title"
-msgstr "Název"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|směrová tlačítka"
@@ -5025,12 +4956,6 @@ msgstr "dolů"
 
 msgid "|SpecialBlock|up"
 msgstr "nahoru"
-
-msgid "|Spectator Target|All"
-msgstr "Všichni"
-
-msgid "|Spectator Target|Single"
-msgstr "Jediný"
 
 msgid "|Status|Finalist"
 msgstr "Finalista"

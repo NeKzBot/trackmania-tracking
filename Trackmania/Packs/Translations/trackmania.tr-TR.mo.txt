@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-08 21:49+0000\n"
+"PO-Revision-Date: 2020-07-15 13:53+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-msgid "$%1Author"
-msgstr "$%1Yapımcı"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> Lobinin Kralı!"
@@ -468,12 +465,6 @@ msgstr "İlk %1 içine gir"
 
 msgid "Best lap"
 msgstr "En iyi tur"
-
-msgid "Best lap $fff(%1)$g %2"
-msgstr "En iyi tur $fff(%1)$g %2"
-
-msgid "Best lap: %1"
-msgstr "En iyi tur: %1"
 
 msgid "Best time :"
 msgstr "En iyi süre :"
@@ -987,7 +978,7 @@ msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
 msgstr "'%1' türündeki resim silinemedi. Lütfen tekrar deneyin. (Hata %2)"
 
 msgid "Did you like this map?"
-msgstr "Bu haritayı beğendiniz mi?"
+msgstr "BU HARİTAYI BEĞENDİNİZ Mİ?"
 
 msgid "Disable give up"
 msgstr "Vazgeçmeyi devre dışı bırak"
@@ -2000,9 +1991,6 @@ msgstr "YENİ PİST"
 msgid "News"
 msgstr "Haberler"
 
-msgid "News creation"
-msgstr "Haber oluşturma"
-
 msgid "News image"
 msgstr "Haber görseli"
 
@@ -2130,7 +2118,7 @@ msgid "Ok"
 msgstr "Tamam"
 
 msgid "Opponents from %1"
-msgstr "%1 bölgesinden rakipler"
+msgstr "%1 BÖLGESİNDEN RAKİPLER"
 
 msgid "Optional"
 msgstr "İsteğe bağlı"
@@ -2575,9 +2563,6 @@ msgstr "KALDIR"
 msgid "Remove from favorite"
 msgstr "SIK KULLANILANLARDAN KALDIR"
 
-msgid "Remove image"
-msgstr "Resmi kaldır"
-
 msgid "Remove map"
 msgstr "Haritayı kaldır"
 
@@ -2606,7 +2591,7 @@ msgid "Restart"
 msgstr "YENİDEN BAŞLAT"
 
 msgid "Restart map"
-msgstr "Haritayı yeniden başlat"
+msgstr "HARİTAYI YENİDEN BAŞLAT"
 
 msgid "Resume"
 msgstr "Devam et"
@@ -2919,9 +2904,6 @@ msgstr "Tümünü seç"
 msgid "Select an account"
 msgstr "Bir hesap seçin"
 
-msgid "Select an image"
-msgstr "Bir resim seç"
-
 msgid "Select map"
 msgstr "HARİTA SEÇ"
 
@@ -2935,7 +2917,7 @@ msgid "Select mode"
 msgstr "MOD SEÇİN"
 
 msgid "Select next map"
-msgstr "Sonraki haritayı seçin"
+msgstr "Sonraki haritayı seç"
 
 msgid "Select number of players"
 msgstr "OYUNCU SAYISINI SEÇİN"
@@ -3299,9 +3281,6 @@ msgstr ""
 
 msgid "The Left Stick"
 msgstr "Sol Analog"
-
-msgid "The Map %1 is already used"
-msgstr "%1 haritası zaten kullanımda"
 
 msgid "The Right Stick"
 msgstr "Sağ Analog"
@@ -4305,12 +4284,6 @@ msgstr "|Club|talepler"
 msgid "|Competition|Coming Soon"
 msgstr "|Competition|Çok yakında"
 
-msgid "|Competition|Private"
-msgstr "|Competition|Özel"
-
-msgid "|Competition|Public"
-msgstr "|Competition|Herkese açık"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Campaign"
 
@@ -4836,56 +4809,11 @@ msgstr "|Month 3 letters|EKİ %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|EYL %1"
 
-msgid "|Month|April"
-msgstr "|Month|Nisan"
-
-msgid "|Month|August"
-msgstr "|Month|Ağustos"
-
-msgid "|Month|December"
-msgstr "|Month|Aralık"
-
-msgid "|Month|February"
-msgstr "|Month|Şubat"
-
-msgid "|Month|January"
-msgstr "|Month|Ocak"
-
-msgid "|Month|July"
-msgstr "|Month|Temmuz"
-
-msgid "|Month|June"
-msgstr "|Month|Haziran"
-
-msgid "|Month|March"
-msgstr "|Month|Mart"
-
-msgid "|Month|May"
-msgstr "|Month|Mayıs"
-
-msgid "|Month|November"
-msgstr "|Month|Kasım"
-
-msgid "|Month|October"
-msgstr "|Month|Ekim"
-
-msgid "|Month|September"
-msgstr "|Month|Eylül"
-
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Kamera"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|GERİ"
-
-msgid "|News|Body"
-msgstr "|News|Gövde"
-
-msgid "|News|Headline"
-msgstr "|News|Ana Başlık"
-
-msgid "|News|Title"
-msgstr "|News|Başlık"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|yön tuşları"
@@ -5075,12 +5003,6 @@ msgstr "|SpecialBlock|AŞAĞI"
 
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|YUKARI"
-
-msgid "|Spectator Target|All"
-msgstr "|Spectator Target|Hepsi"
-
-msgid "|Spectator Target|Single"
-msgstr "|Spectator Target|Tek"
 
 msgid "|Status|Finalist"
 msgstr "|Status|Finalist"

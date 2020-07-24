@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 08:36+0000\n"
+"PO-Revision-Date: 2020-07-15 13:48+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -58,7 +58,7 @@ msgid ""
 " is read-only."
 msgstr ""
 "\"$<%1$>\"\n"
-" kan kun læses."
+" er skrivebeskyttet."
 
 msgid "\"Alive Bullets\""
 msgstr "\"Kugler i live\""
@@ -141,17 +141,17 @@ msgid "$F90 Show attached images"
 msgstr "$F90 Vis vedhæftede billeder"
 
 msgid "$ff0Left click$fff add vertex, "
-msgstr "$ff0Venstreklik$fff tilføj vertex, "
+msgstr "$ff0Venstreklik$fff tilføj hjørnepunkt, "
 
 msgid "$ff0LeftClick$fff to create vertex, $ff0Alt$fff to change draw plane"
 msgstr ""
-"$ff0Venstreklik$fff for at oprette vertex, $ff0Altb$fff for at ændre tegn "
-"plan"
+"$ff0Venstreklik$fff for at oprette hjørnepunkt, $ff0Alt$fff for at ændre "
+"tegningsplan"
 
 msgid "$ff0LeftClick$fff to create vertex, $ff0Tab$fff to select move axis, "
 msgstr ""
-"$ff0Venstreklik$fff for at oprette vertex, $ff0Tab$fff for at vælg flyt "
-"akse, "
+"$ff0Venstreklik$fff for at oprette hjørnepunkt, $ff0Tab$fff for at vælge "
+"flyt akse, "
 
 msgid "$ff0LeftClick$fff to delete"
 msgstr "$ff0Venstreklik$fff for at slette"
@@ -164,14 +164,14 @@ msgstr ""
 "tilføje,  $ff0Alt+Venstreklik$fff for at fjerne"
 
 msgid "$ff0LeftClick$fff to select base position, "
-msgstr "$ff0Venstreklik$fff for at vælge baseposition, "
+msgstr "$ff0Venstreklik$fff for at vælge grundposition, "
 
 msgid ""
 "$ff0LeftClick$fff to select base position, $ff0RightClick$fff to change "
 "plane normal"
 msgstr ""
-"$ff0Venstreklik$fff for at vælge baseposition, $ff0Højreklik$fff for at "
-"ændre plan normal"
+"$ff0Venstreklik$fff for at vælge grundposition, $ff0Højreklik$fff for at "
+"ændre normalplan"
 
 msgid "$ff0RightClick$fff to cancel, "
 msgstr "$ff0Højreklik$fff for at annullere, "
@@ -435,6 +435,15 @@ msgstr "(hold)"
 msgid "(no map)"
 msgstr "(ingen bane)"
 
+msgid "(this custom block is embedded in the map file)"
+msgstr "(denne brugerdefineret blok er indlejret i banefilen)"
+
+msgid "(this file is embedded in the map file)"
+msgstr "(denne fil er indlejret i banefilen)"
+
+msgid "(this item is embedded in the map file)"
+msgstr "(denne genstand er indlejret i banefilen)"
+
 msgid "---Too Fast!"
 msgstr "---For Hurtig!"
 
@@ -626,7 +635,7 @@ msgid "Additional Options"
 msgstr "Yderligere optioner"
 
 msgid "Additional icons:"
-msgstr "Ekstra ikoner:"
+msgstr "Øvrige ikoner:"
 
 msgid "Advanced"
 msgstr "Avanceret"
@@ -803,6 +812,13 @@ msgstr "Animation Varighed"
 msgid "Antialias"
 msgstr "Antialias"
 
+msgid ""
+"Any unsaved modification will be lost.\n"
+"Return to the Module Studio anyway?"
+msgstr ""
+"Enhver ikke-gemt ændring vil gå tabt.\n"
+"Vend tilbage til modul-studiet alligevel?"
+
 msgid "Apply"
 msgstr "Anvend"
 
@@ -839,7 +855,7 @@ msgstr ""
 "Alle lokale rekorder sat af $<%2$> vil gå tabt."
 
 msgid "Are you sure you want to delete the folder %1 and all its contents?"
-msgstr "Er du sikker på, at du vil slette mappen %1 og alt indholdet?"
+msgstr "Er du sikker på, at du vil slette mappen %1 og alt dets indhold?"
 
 msgid ""
 "Are you sure you want to disconnect your profile?\n"
@@ -855,7 +871,7 @@ msgstr ""
 "Er du sikker på, at du ønsker at slutte dig til din ven på serveren $<%1$>?"
 
 msgid "Are you sure you want to quit %1?"
-msgstr "Er du sikker på, at du vil afslutte %1?"
+msgstr "Er du sikker på, at du vil forlade %1?"
 
 msgid "Are you sure you want to remove $<%1$> from your buddy list?"
 msgstr "Er du sikker på, at du ønsker at fjerne $<%1$> fra din venneliste?"
@@ -888,13 +904,13 @@ msgid "Ask for opponents in solo races"
 msgstr "Bed om modstandere i sololøb"
 
 msgid "Associate %1 URL protocol to %2"
-msgstr "Associer %1 URL protokol til %2"
+msgstr "Knyt %1 URL-protokol til %2"
 
 msgid "Associate %1 files to %2"
-msgstr "Associér %1 filer med %2"
+msgstr "Knyt %1-filer til %2"
 
 msgid "Associations"
-msgstr "Associationer"
+msgstr "Tilknytninger"
 
 msgid "Attack"
 msgstr "Angrib"
@@ -984,7 +1000,7 @@ msgid "Bad language file"
 msgstr "Forbudt sprogfil"
 
 msgid "Bad proxy configuration"
-msgstr "Fejl i proxy-konfiguration"
+msgstr "Dårlig proxy-konfiguration"
 
 msgid "Balance Teams"
 msgstr "Balancer Hold"
@@ -1180,7 +1196,7 @@ msgid "Cannot change password:"
 msgstr "Kan ikke ændre adgangskode:"
 
 msgid "Cannot connect to the server"
-msgstr "Kan ikke tilslutte til server"
+msgstr "Kan ikke forbinde til serveren"
 
 msgid "Cannot convert this block into an item."
 msgstr "Kan ikke konvertere denne blok til en genstand"
@@ -1456,7 +1472,7 @@ msgid "Comment :"
 msgstr "Kommentar :"
 
 msgid "Common data files"
-msgstr "Delte datafiler"
+msgstr "Fælles datafiler"
 
 msgid "Compilation Error in: "
 msgstr "Kompileringsfejl i:"
@@ -1633,7 +1649,7 @@ msgid ""
 "Could not create the skin.\n"
 "Wrong URL?"
 msgstr ""
-"Kunne ikke oprette skin.\n"
+"Kunne ikke oprette skinnet.\n"
 "Forkert URL?"
 
 msgid "Could not determine the title to use."
@@ -1678,7 +1694,7 @@ msgid "Could not import the Anim."
 msgstr "Kunne ikke importere anim..."
 
 msgid "Could not init internet"
-msgstr "Kan ikke initialisere internet"
+msgstr "Kunne ikke initialisere Internet"
 
 msgid "Could not initialize the network."
 msgstr "Kunne ikke initialisere netværket."
@@ -1748,7 +1764,7 @@ msgid "Could not terraform to place the Block."
 msgstr "Kunne ikke terraforme for at placere blokken."
 
 msgid "Could not terraform to place the Macroblock."
-msgstr "Kunne ikke terraforme for at placere Makroblokken."
+msgstr "Kunne ikke terraforme for at placere makroblokken."
 
 msgid "Could not validate the replay for $<%1$>"
 msgstr "Kunne ikke validere gengivelse for $<%1$>"
@@ -1894,7 +1910,7 @@ msgid "Custom Lasers"
 msgstr "Brugerdefineret Lasere"
 
 msgid "Custom block deleted"
-msgstr "Tilpasset blok slettet"
+msgstr "Brugerdefineret blok slettet"
 
 msgid "Custom data directories"
 msgstr "Brugerdefineret datamappe"
@@ -1924,7 +1940,7 @@ msgid "DRIVE"
 msgstr "KØR"
 
 msgid "DUALSHOCKÂ®4 Wireless Controller"
-msgstr "DUALSHOCKÂ®4 Wireless Controller"
+msgstr "DUALSHOCKÂ®4 Trådløs Controller"
 
 msgid "Data access"
 msgstr "Dataadgang"
@@ -2135,22 +2151,23 @@ msgstr ""
 "med kodeordet '%1'?"
 
 msgid "Do you really want to permanently delete this custom block?"
-msgstr "Er du sikker på, at du permanent vil slette denne tilpassede blok?"
+msgstr ""
+"Er du sikker på, at du vil slette denne brugerdefineret blok permanent?"
 
 msgid "Do you really want to permanently delete this file?"
 msgstr "Er du sikker på, at du vil slette denne fil permanent?"
 
 msgid "Do you really want to permanently delete this item?"
-msgstr "Er du sikker på at du vil slette denne genstand permanent?"
+msgstr "Er du sikker på, at du vil slette denne genstand permanent?"
 
 msgid "Do you really want to permanently delete this macroblock?"
-msgstr "Er du sikker på at du vil slette denne makroblok permanent?"
+msgstr "Er du sikker på, at du vil slette denne makroblok permanent?"
 
 msgid "Do you really want to permanently delete this plugin?"
-msgstr "Er du sikker på, at du permanent vil slette dette plugin?"
+msgstr "Er du sikker på, at du vil slette dette plug-in permanent?"
 
 msgid "Do you really want to quit?"
-msgstr "Ønsker du virkelig at afslutte?"
+msgstr "Ønsker du virkelig at forlade?"
 
 msgid ""
 "Do you really want to unbind all inputs of\n"
@@ -2203,7 +2220,7 @@ msgstr ""
 "baner, gengivelser, og skins)?"
 
 msgid "Do you want to delete the folder %1 and all its contents?"
-msgstr "Ønsker du at slette mappen %1 og alt indholdet?"
+msgstr "Ønsker du at slette mappen %1 og alt dets indhold?"
 
 msgid "Do you want to download the update and upgrade the game ?"
 msgstr "Ønsker du at downloade opdateringen og opgradere spillet?"
@@ -2229,13 +2246,14 @@ msgstr "Ønsker du at fjerne denne server fra dine favoritter?"
 msgid ""
 "Do you want to retrieve your previous %1's data found in 'My Documents\\%2'?"
 msgstr ""
-"Vil du importere dine tidligere %1's data fundet i 'Mine Dokumenter\\%2'?"
+"Ønsker du at genvinde dine tidligere %1's data, fundet i 'Mine Dokumenter\\"
+"%2'?"
 
 msgid "Do you want to select this avatar for your profile?"
 msgstr "Ønsker du at vælge denne avatar til din profil?"
 
 msgid "Do you want to specify custom folders for your %1 files?"
-msgstr "Vil du angive en brugerdefineret mappe til dine %1 filer?"
+msgstr "Vil du specificere brugerdefinerede mapper til dine %1-filer?"
 
 msgid "Do you want to unload the title from this station?"
 msgstr "Vil du fjerne titlen fra denne sektion?"
@@ -2299,11 +2317,12 @@ msgid ""
 "We regret any inconvenience. We will be able to accept more players to play "
 "online soon."
 msgstr ""
-"Som følge af ManiaPlanet's succes, er der for mange spillere, der prøver at "
-"forbinde til hovedserveren.\n"
-"Desværre kan du ikke forbinde til den, og du kan derfor kun spille offline.\n"
-"Vi beklager ulejligheden. Vi vil snart være i stand til at acceptere flere "
-"spillere til af spille online."
+"På grund af ManiaPlanet's succes forsøger for mange spillere at forbinde sig "
+"til hovedserveren.\n"
+"Desværre kan du ikke forbinde dig til den, og du vil derfor kun spille "
+"offline.\n"
+"Vi beklager ulejligheden. Vi vil snart kunne acceptere flere spillere til at "
+"spille online."
 
 msgid ""
 "Due to the success of ManiaPlanet, too many players are trying to connect to "
@@ -2505,7 +2524,7 @@ msgid "Enter the URL or the name of the title:"
 msgstr "Indtast URL eller navnet på titlen:"
 
 msgid "Enter the URL:"
-msgstr "Indtast URL:"
+msgstr "Indtast URL'en:"
 
 msgid "Enter the password"
 msgstr "Indtast kodeordet"
@@ -2538,7 +2557,7 @@ msgid "Eraser Tool [X]"
 msgstr "Sletteværktøj [X]"
 
 msgid "Error : Cannot write config. file."
-msgstr "Fejl : Kan ikke gemme config-fil."
+msgstr "Fejl : Kan ikke skrive konfig.-fil."
 
 msgid "Error when retrieving script settings."
 msgstr "Fejl ved modtagelse af script-indstillinger"
@@ -2666,7 +2685,7 @@ msgid "Failed to convert music"
 msgstr "Kunne ikke konvertere musik"
 
 msgid "Failed to create %1"
-msgstr "Kunne ikke oprette %1"
+msgstr "Mislykkedes med at oprette %1"
 
 msgid "Failed to export file \"%1\""
 msgstr "Kunne ikke eksportere filen \"%1\""
@@ -2675,14 +2694,21 @@ msgid ""
 "Failed to export file \"%1\":\n"
 "%2"
 msgstr ""
-"Fejl ved export af fil \"%1\":\n"
+"Mislykkedes med at importere fil \"%1\":\n"
+"%2"
+
+msgid ""
+"Failed to generate mesh for \"%1\":\n"
+"%2"
+msgstr ""
+"Mislykkedes med at generere masken for \"%1\":\n"
 "%2"
 
 msgid "Failed to import file \"%1\""
-msgstr "Fejl ved import af fil \"%1\""
+msgstr "Mislykkedes med at importere fil \"%1\""
 
 msgid "Failed to import file \"%1\": %2"
-msgstr "Fejl ved import af fil \"%1\": %2"
+msgstr "Mislykkedes med at importere fil \"%1\": %2"
 
 msgid "Faster"
 msgstr "Hurtigere"
@@ -2709,7 +2735,7 @@ msgid "File format"
 msgstr "Filformat"
 
 msgid "File is read-only"
-msgstr "Filen har kun læseadgang"
+msgstr "Filen er skrivebeskyttet"
 
 msgid "File is read-only."
 msgstr "Fil er skrivebeskyttet."
@@ -2729,11 +2755,14 @@ msgstr "Fyld"
 msgid "Fill gutter"
 msgstr "Fyld rende"
 
+msgid "Filter environment"
+msgstr "Filtrér omgivelser"
+
 msgid "Filter environments"
 msgstr "Filtrér miljøer"
 
 msgid "Filter game mode"
-msgstr "Filtér spiltype"
+msgstr "Filtrér spiltype"
 
 msgid "Filtering"
 msgstr "Filtrering"
@@ -3018,7 +3047,8 @@ msgstr ""
 "Jeg ønsker at specificere en brugerdefineret mappe til mine personlige filer."
 
 msgid "I want to specify a custom folder for the common files."
-msgstr "Jeg ønsker at specificere en brugerdefineret mappe til de delte filer."
+msgstr ""
+"Jeg ønsker at specificere en brugerdefineret mappe til de fælles filer."
 
 msgid "Icon Url"
 msgstr "Ikon Url"
@@ -3035,8 +3065,8 @@ msgid ""
 "If you want to specify custom folders for your %1 files, please check the "
 "boxes below, and then click Next."
 msgstr ""
-"Hvis du vil du angive en brugerdefineret mappe til dine %1 filer, markér "
-"venligst felterne nedenfor og klik Næste."
+"Hvis du vil specificere brugerdefinerede mapper til dine %1-filer, markér "
+"venligst felterne nedenfor, og klik derefter Næste."
 
 msgid "Image"
 msgstr "Billede"
@@ -3048,7 +3078,7 @@ msgid "Import and convert into dds"
 msgstr "Importer og konverter til dds"
 
 msgid "Import anim..."
-msgstr "Importer anim..."
+msgstr "Importér anim..."
 
 msgid "Import as dds"
 msgstr "Importer som dds"
@@ -3057,7 +3087,7 @@ msgid "Import clip as..."
 msgstr "Importér klip som ..."
 
 msgid "Import file..."
-msgstr "Importer fil..."
+msgstr "Importér fil..."
 
 msgid "Import from file"
 msgstr "Importer fra fil"
@@ -3072,7 +3102,7 @@ msgid "Import image file"
 msgstr "Importer billedefil"
 
 msgid "Import library..."
-msgstr "Importer bibliotek..."
+msgstr "Importér bibliotek..."
 
 msgid "Import module..."
 msgstr "Importer modul..."
@@ -3114,7 +3144,7 @@ msgid "Incorrect password."
 msgstr "Forkert kodeord."
 
 msgid "Information"
-msgstr "Oplysning"
+msgstr "Oplysninger"
 
 msgid "Input Devices"
 msgstr "Input enhed"
@@ -3130,7 +3160,7 @@ msgstr "Inputs"
 
 msgid "Install shell extension to display thumbnails for '.gbx' files"
 msgstr ""
-"Installer shell-udvidelse for at få vist miniaturebilleder for '.gbx' filer"
+"Installér shell-udvidelse for at få vist miniaturebilleder for '.gbx'-filer"
 
 msgid "Installation path confirmation"
 msgstr "Bekræftelse af installationssti"
@@ -3311,7 +3341,7 @@ msgid "L3 button"
 msgstr "L3 knap"
 
 msgid "Ladder"
-msgstr "Rangstie"
+msgstr "Rangstige"
 
 msgid "Ladder Limit Max :"
 msgstr "Maksimumsgrænse for rangliste :"
@@ -3323,7 +3353,7 @@ msgid "Ladder mode :"
 msgstr "Ranglistemodus :"
 
 msgid "Ladder not enabled"
-msgstr "Rangliste ikke aktiveret"
+msgstr "Rangstige ikke slået til"
 
 msgid "Ladder rankings"
 msgstr "Ranglisteplaceringer"
@@ -3421,13 +3451,13 @@ msgid "Light Settings"
 msgstr "Lysindstillinger"
 
 msgid "Light indexes"
-msgstr "Lysindeks"
+msgstr "Lysindekser"
 
 msgid "Light settings"
 msgstr "Lys indstillinger"
 
 msgid "Lighting bounce %1"
-msgstr "Lysreflektion %1"
+msgstr "Belysningsrefleksion %1"
 
 msgid "Line number"
 msgstr "Linjenummer"
@@ -3532,22 +3562,22 @@ msgid "ManiaCode complete"
 msgstr "ManiaCode færdig"
 
 msgid "ManiaCode script error: invalid URL"
-msgstr "ManiaCode script fejl: ugyldig URL"
+msgstr "ManiaCode-scriptfejl: ugyldig URL"
 
 msgid "ManiaCode script error: invalid email"
-msgstr "ManiaCode script fejl: ugyldig e-mail"
+msgstr "ManiaCode-scriptfejl: ugyldig e-mail"
 
 msgid "ManiaCode script error: invalid file name"
-msgstr "ManiaCode script fejl: ugyldigt filnavn"
+msgstr "ManiaCode-scriptfejl: ugyldigt filnavn"
 
 msgid "ManiaCode script error: invalid map uid"
-msgstr "ManiaCode script fejl: ugyldig bane uid"
+msgstr "ManiaCode-scriptfejl: ugyldig bane-uid"
 
 msgid "ManiaCode script error: invalid server info"
-msgstr "ManiaCode script fejl: ugyldig server info"
+msgstr "ManiaCode-scriptfejl: ugyldig server-info"
 
 msgid "ManiaCode script is not well-formed"
-msgstr "ManiaCode script er ikke formuleret godt"
+msgstr "ManiaCode-script er ikke veletableret"
 
 msgid "ManiaPlanet needs to be restarted to load this title."
 msgstr "ManiaPlanet skal genstartes for at indlæse denne titel."
@@ -3571,7 +3601,7 @@ msgid "Map Options"
 msgstr "Banemuligheder"
 
 msgid "Map Rankings"
-msgstr "Bane rangering"
+msgstr "Banerangeringer"
 
 msgid "Map Saved"
 msgstr "Map gemt"
@@ -3840,7 +3870,7 @@ msgid "Multi teams"
 msgstr "Multi hold"
 
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "Flere spillere"
 
 msgid "Multiple Controls Selection"
 msgstr "Vælg flere kontroller"
@@ -3955,7 +3985,7 @@ msgid "No Description"
 msgstr "Ingen beskrivelse"
 
 msgid "No Ladder"
-msgstr "Ingen rangstie"
+msgstr "Ingen rangstige"
 
 msgid "No MacroDecal Selected!"
 msgstr "Der er ikke valgt nogen MakroDecals!"
@@ -4400,7 +4430,7 @@ msgid "Playlists"
 msgstr "Afspilningslister"
 
 msgid "Please close the game and launcher to proceed."
-msgstr "Luk venligst spillet og opstartsprogrammet for at fortsætte."
+msgstr "Luk venligst spillet og startfilen for at fortsætte."
 
 msgid "Please enter a key or pay to gain access to this data."
 msgstr "Indtast venligst en kode eller betal for at få adgang til disse data."
@@ -4418,8 +4448,8 @@ msgid ""
 "Please read the following License Agreement.%nYou must accept the terms of "
 "this agreement before continuing with the installation."
 msgstr ""
-"Læs venligst følgende licensaftale. %nDu skal acceptere betingelserne i "
-"denne aftale, før du kan fortsætte med installationen."
+"Læs venligst følgende licensaftale.%nDu skal acceptere betingelserne i denne "
+"aftale, før du kan fortsætte med installationen."
 
 msgid "Please read the following important information before continuing."
 msgstr "Læs venligst følgende vigtige oplysning, før du fortsætter."
@@ -4431,17 +4461,16 @@ msgid "Please select a valid map type."
 msgstr "Vælg venligst en gyldig korttype."
 
 msgid "Please select your previous %1 installation path."
-msgstr "Vælg venligst din tidligere %1 installationssti."
+msgstr "Vælg venligst din tidligere %1-installationssti."
 
 msgid "Please upgrade your application."
 msgstr "Opgradér venligst din applikation."
 
 msgid "Please upgrade: your exe version does not match the server version."
-msgstr "Opgradér venligst: din exe-version svarer ikke til serverversionen."
+msgstr "Opgradér venligst: din exe-version passer ikke til serverversionen."
 
 msgid "Please upgrade: your title version does not match the server version."
-msgstr ""
-"Opgrader venligst: din titel-version passer ikke til serverens version."
+msgstr "Opgrader venligst: din titel-version passer ikke til serverversionen."
 
 msgid "Please wait, completing installation..."
 msgstr "Vent venligst, færdiggører indstallationen..."
@@ -4486,7 +4515,7 @@ msgstr ""
 "min'."
 
 msgid "Plugin deleted"
-msgstr "Plugin slettet"
+msgstr "Plug-in slettet"
 
 msgid "Plugins Mode [P]"
 msgstr "Plugins modus [P]"
@@ -4687,7 +4716,7 @@ msgid "Random once"
 msgstr "Tilfældigt én gang"
 
 msgid "Rank"
-msgstr "Rang"
+msgstr "Rangering"
 
 msgid "Ranking"
 msgstr "Rangering"
@@ -4833,6 +4862,9 @@ msgstr "Fjern alle klip"
 msgid "Remove from Selection"
 msgstr "Fjern fra valg"
 
+msgid "Remove occurences"
+msgstr "Fjern forekomster"
+
 msgid "Remove server from favorites"
 msgstr "Fjern server fra favoritter"
 
@@ -4916,7 +4948,7 @@ msgid "Report sent!"
 msgstr "Rapport sendt!"
 
 msgid "Request not permitted"
-msgstr "Forespørgsel ikke tilladt"
+msgstr "Anmodning ikke tilladt"
 
 msgid "Request timeout"
 msgstr "Anmodning tog for lang tid"
@@ -4980,10 +5012,13 @@ msgid "Return to Editor?"
 msgstr "Vend tilbage til Redigeringsværktøjet?"
 
 msgid "Return to menu?"
-msgstr "Tilbage til menu?"
+msgstr "Vend tilbage til menu?"
 
 msgid "Return to the Item Editor?"
 msgstr "Gå tilbage til Genstandsredigering?"
+
+msgid "Return to the Module Studio?"
+msgstr "Vend tilbage til modul-studiet"
 
 msgid "Right"
 msgstr "Højre"
@@ -5185,7 +5220,7 @@ msgid "Scale Up Image"
 msgstr "Skalér billedet op"
 
 msgid "Score"
-msgstr "Score"
+msgstr "Stilling"
 
 msgid "Score Attack"
 msgstr "Score angreb"
@@ -5209,13 +5244,13 @@ msgid "Script Parameters"
 msgstr "Script parameter"
 
 msgid "Script compilation ended successfully."
-msgstr "Script kompilering sluttede med succes."
+msgstr "Script-kompilering afsluttedes med succes."
 
 msgid "Script compilation ended with warnings."
-msgstr "Script kompilering sluttede med advarsler."
+msgstr "Script-kompilering afsluttedes med advarsler."
 
 msgid "Script compilation failed."
-msgstr "Script kompilering mislykkedes."
+msgstr "Script-kompilering mislykkedes."
 
 msgid "Scroll Down"
 msgstr "Scroll ned"
@@ -5257,7 +5292,7 @@ msgid "Select All [Ctrl+A]"
 msgstr "Vælg alt [Ctrl+A]"
 
 msgid "Select Common Data Directory"
-msgstr "Vælg mappe til de delte data"
+msgstr "Vælg fælles datamappe"
 
 msgid "Select Personal Data Directory"
 msgstr "Vælg mappe til personlige data"
@@ -5281,7 +5316,7 @@ msgid "Select a file:"
 msgstr "Vælg en fil:"
 
 msgid "Select a font file :"
-msgstr "Vælg en font fil:"
+msgstr "Vælg en skrifttypefil:"
 
 msgid "Select a map"
 msgstr "Vælg en bane"
@@ -5314,25 +5349,25 @@ msgid "Select a sound"
 msgstr "Vælg en lyd"
 
 msgid "Select a video file :"
-msgstr "Vælg en video fil:"
+msgstr "Vælg en videofil:"
 
 msgid "Select all keys"
 msgstr "Vælg alle taster"
 
 msgid "Select an UI base file :"
-msgstr "Vælg en UI base fil:"
+msgstr "Vælg en UI-grundlagsfil:"
 
 msgid "Select an audio file :"
-msgstr "Vælg en lyd fil:"
+msgstr "Vælg en lydfil:"
 
 msgid "Select an image"
 msgstr "Vælg et billede"
 
 msgid "Select an image file :"
-msgstr "Vælg en billede fil:"
+msgstr "Vælg en billedfil:"
 
 msgid "Select data you want to update:"
-msgstr "Vælg de data som du vil opdatere:"
+msgstr "Vælg data, som du vil opdatere:"
 
 msgid "Select file"
 msgstr "Vælg fil"
@@ -5374,17 +5409,18 @@ msgid ""
 "Select the folder in which %1 should store common data files, and then click "
 "Next."
 msgstr ""
-"Angiv den mappe hvor %1 skal gemme generelle datafiler og klik på Næste."
+"Vælg den mappe, hvor %1 skal gemme fælles datafiler, og klik derefter på "
+"Næste."
 
 msgid ""
 "Select the folder in which %1 should store personal data files, and then "
 "click Next."
 msgstr ""
-"Angiv den mappe, hvor %1 skal gemme dine personlige datafiler og klik på "
-"Næste."
+"Vælg den mappe, hvori %1 skal gemme dine personlige datafiler, og klik "
+"derefter på Næste."
 
 msgid "Select the installation type below, and then click Next."
-msgstr "Vælg installationstypen nedenfor og klik på Næste."
+msgstr "Vælg installationstypen nedenfor, og klik derefter på Næste."
 
 msgid "Select your crosshair"
 msgstr "Vælg dit sigtekorn"
@@ -5402,7 +5438,7 @@ msgid "Selected maps are incompatible."
 msgstr "Valgte baner er inkompatible."
 
 msgid "Selection of the type of installation"
-msgstr "Udvælgelse af installations type"
+msgstr "Valg af installationstypen"
 
 msgid "Send"
 msgstr "Send"
@@ -5445,13 +5481,13 @@ msgid "Server Parameters"
 msgstr "Serverparametre"
 
 msgid "Server is unreachable."
-msgstr "Server kan ikke kontaktes."
+msgstr "Server er utilgængelig."
 
 msgid "Server not ready."
 msgstr "Server er ikke klar."
 
 msgid "Server unknown or not connected to the Internet"
-msgstr "Server ukendt eller er ikke tilsluttet til internettet"
+msgstr "Server er ukendt eller ikke forbundet til Internettet"
 
 msgid "Servers"
 msgstr "Servere"
@@ -5620,7 +5656,7 @@ msgid "Size of the text"
 msgstr "Tekstens størrelse"
 
 msgid "Skillpoints on %1:"
-msgstr "SkillPoints på %1:"
+msgstr "Færdighedspoint på %1:"
 
 msgid "Skinning Mode (F4)"
 msgstr "Skinning-modus (F3)"
@@ -5943,8 +5979,17 @@ msgid ""
 "The common data folder must be different from the installation folder and "
 "the user data folder. Please select another folder."
 msgstr ""
-"Generel datamappen må ikke være den samme som installations- eller "
-"brugerdatamappen. Vælg venligst en anden mappe."
+"Fællesdata-mappen må ikke være den samme som installations- eller brugerdata-"
+"mappen. Vælg venligst en anden mappe."
+
+msgid ""
+"The custom block cannot be deleted because it is used in this map.\n"
+"Do you want to remove all its occurences from the map?\n"
+"(The custom block file will not be deleted yet)"
+msgstr ""
+"Den brugerdefineret blok kan ikke slettes, fordi den bruges i denne bane.\n"
+"Ønsker du at fjerne alle dets forekomster fra banen?\n"
+"(Den brugerdefineret blok-fil vil ikke blive slettet)"
 
 msgid "The data is incomplete:"
 msgstr "Dataene er ufuldstændige:"
@@ -5982,21 +6027,20 @@ msgid ""
 "Overwrite it?"
 msgstr ""
 "Filen \"$<%1$>\" eksisterer allerede.\n"
-"Vil du overskrive den?"
+"Overskriv den?"
 
 msgid "The file has been successfully uploaded and published to the workshop."
 msgstr "Filen er blevet uploadet og offentliggjort til workshop."
 
 msgid ""
 "The folder's path must contain the '%1' word. Please select another folder."
-msgstr ""
-"Mappens placering skal indeholde '%1' ord. Vælg venligst en anden mappe."
+msgstr "Mappens sti skal indeholde '%1'-ordet. Vælg venligst en anden mappe."
 
 msgid "The full game is now unlocked."
 msgstr "Det fulde spil er nu låst op."
 
 msgid "The game is outdated, please run the launcher."
-msgstr "Spillet er forældet, kør venligst launcheren."
+msgstr "Spillet er forældet, kør venligst startfilen."
 
 msgid "The game key is not valid. Please make sure you spelled it correctly."
 msgstr ""
@@ -6028,6 +6072,15 @@ msgstr ""
 " Du kan ikke bruge det."
 
 msgid ""
+"The item cannot be deleted because it is used in this map.\n"
+"Do you want to remove all its occurences from the map?\n"
+"(The item file will not be deleted yet)"
+msgstr ""
+"Genstanden kan ikke slettes, fordi den bruges i denne bane.\n"
+"Ønsker du at fjerne alle dets forekomster fra banen?\n"
+"(Genstandsfilen vil ikke blive slettet)"
+
+msgid ""
 "The ladder is disabled.\n"
 "You will not be able to play in official mode."
 msgstr ""
@@ -6041,7 +6094,7 @@ msgid "The login $f00does not exist$z"
 msgstr "Dette login $f00eksisterer ikke$z"
 
 msgid "The login must contain between %1 to %2 characters."
-msgstr "Brugnernavnet skal indeholde mellem %1 to %2 tegn."
+msgstr "Brugernavnet skal indeholde mellem %1 to %2 tegn."
 
 msgid ""
 "The login must contain only valid characters: a-z, A-Z, 0-9 or ._- "
@@ -6054,17 +6107,18 @@ msgid ""
 "Do not exceed the limit of the top right indicator."
 msgstr ""
 "Banen indeholder for mange blokke!\n"
-"Overskrid ikke grænsen du ser på indikatoren øverst til højre."
+"Overskrid ikke grænsen, du ser på indikatoren øverst til højre."
 
 msgid ""
 "The map contains too many blocks!\n"
 "You CANNOT SAVE the map while the top right indicator exceeds the limit."
 msgstr ""
 "Banen indeholder for mange blokke!\n"
-"Du kan IKKE GEMME banen mens den øverste højre indikator overskrider grænsen."
+"Du kan IKKE GEMME banen, så længe indikatoren øverst til højre overskrider "
+"grænsen."
 
 msgid "The map has been modified and is now unvalidated."
-msgstr "Banen er blevet ændret og er ikke længere valideret."
+msgstr "Banen er blevet ændret, og er ikke længere valideret."
 
 msgid ""
 "The map has been modified.\n"
@@ -6098,6 +6152,27 @@ msgstr ""
 
 msgid "The match will begin shortly ..."
 msgstr "Kampen starter snart ..."
+
+msgid ""
+"The mesh uses special layer type '%1'.\n"
+"You should set the waypoint type, or this layer will be ignored."
+msgstr ""
+"Masken bruger særlig lagtype, '%1'.\n"
+"Du bør indstille rutepunkttypen, ellers vil dette lag ignoreres."
+
+msgid ""
+"The mesh uses special layer types '%1' and '%2'.\n"
+"You should set the waypoint type, or those layers will be ignored."
+msgstr ""
+"Masken bruger særlige lagtyper, '%1' og '%2'.\n"
+"Du bør indstille rutepunkttypen, ellers vil de lag ignoreres."
+
+msgid ""
+"The mesh uses special layer types '%1', '%2' and '%3'.\n"
+"You should set the waypoint type, or those layers will be ignored."
+msgstr ""
+"Masken bruger særlige lagtyper, '%1', '%2' og '%3'.\n"
+"Du bør indstille rutepunkttypen, ellers vil de lag ignoreres."
 
 msgid "The number of laps required must be higher than 0!"
 msgstr "Antallet af påkrævede omgange skal være højere end 0!"
@@ -6154,7 +6229,7 @@ msgid ""
 "The user data folder must be different from the installation folder. Please "
 "select another folder."
 msgstr ""
-"Brugerdatamappe må ikke være den samme som installationsmappen. Vælg "
+"Brugerdata-mappe må ikke være den samme som installationsmappen. Vælg "
 "venligst en anden mappe."
 
 msgid ""
@@ -6193,7 +6268,7 @@ msgid "This Key or Activation Code is not valid. Please try again."
 msgstr "Denne nøgle eller aktiveringskode er ikke gyldig. Prøv venligst igen."
 
 msgid "This ManiaCode will perform the following actions:"
-msgstr "Denne ManiaCode udfører følgende aktioner:"
+msgstr "Denne ManiaCode vil udføre følgende handlinger:"
 
 msgid ""
 "This Profile is not connected to an online account.\n"
@@ -6247,6 +6322,12 @@ msgstr ""
 "%1\n"
 "Denne spilfil er skrivebeskyttet og kan ikke erstattes."
 
+msgid "This element cannot be deleted because it belongs to the title pack."
+msgstr "Dette element kan ikke slettes, fordi det tilhører title pack'en"
+
+msgid "This element cannot be deleted because its file is read-only."
+msgstr "Dette element kan ikke slettes, fordi dets fil er skrivebeskyttet."
+
 msgid "This element cannot be deleted."
 msgstr "Dette element kan ikke slettes."
 
@@ -6278,7 +6359,7 @@ msgid "This key gives you access to: %1"
 msgstr "Denne nøgle giver dig adgang til: %1"
 
 msgid "This kind of block cannot be placed in Ghost block mode."
-msgstr "Denne form for blok kan ikke placeres i Ghost blok tilstand."
+msgstr "Denne slags blok kan ikke placeres i skyggeblok-tilstand."
 
 msgid ""
 "This login is already in use.\n"
@@ -6294,7 +6375,7 @@ msgid "This name is already in use. Choose another one."
 msgstr "Dette navn er allerede i brug. Vælg et andet."
 
 msgid "This patch can only be installed on the (%1) versions of %2"
-msgstr "Denne programrettelse kan kun installeres på (%1) versioner af %2"
+msgstr "Denne programrettelse kan kun installeres på (%1)-versionerne af %2"
 
 msgid "This player has been successfully invited to join this group."
 msgstr "Det lykkedes at invitere denne spiller til at deltage i denne gruppe."
@@ -6458,7 +6539,9 @@ msgstr ""
 "Billedet skal være mindre end 32 Kb"
 
 msgid "To draw a road, move the mouse while holding the left mouse button."
-msgstr "Flyt musen, mens du holder venstre museknap nede, for at tegne en vej."
+msgstr ""
+"For at tegne en vej skal du flytte musen, mens du holder venstre museknap "
+"nede."
 
 msgid "To generate a new password, please enter your login and email."
 msgstr ""
@@ -6509,10 +6592,10 @@ msgid "Total :"
 msgstr "total :"
 
 msgid "Total medal ranking"
-msgstr "Totale medaljerang"
+msgstr "Samlet medaljerangering"
 
 msgid "Total skillpoints ranking"
-msgstr "Totale Skillpoint-rang"
+msgstr "Samlet færdighedspoint-rangering"
 
 msgid "Trackmania"
 msgstr "Trackmania"
@@ -6548,7 +6631,7 @@ msgid "Type"
 msgstr "Type"
 
 msgid "Typical automatic installation"
-msgstr "Normal automatisk installation"
+msgstr "Typisk automatisk installation"
 
 msgid ""
 "Ubisoft Entertainment collects and processes your personal data to allow you "
@@ -6780,9 +6863,9 @@ msgid ""
 "Your game needs access to some Uplay services.\n"
 "You can download the Uplay PC installer from http://uplay.com."
 msgstr ""
-"Uplay-PC er ikke installeret.\n"
-"Dit spil har brug for adgang til Uplay services.\n"
-"Du kan downloade Uplay PC installeren fra http://uplay.com."
+"Uplay-PC er på nuværende tidspunkt ikke installeret.\n"
+"Dit spil behøver adgang til nogle Uplay-tjenester.\n"
+"Du kan downloade Uplay-PC-installationsprogrammet fra http://uplay.com."
 
 msgid "Upload to YouTube"
 msgstr "Upload til Youtube"
@@ -7083,9 +7166,9 @@ msgid ""
 "in the map!\n"
 "Pay attention to the top right indicator!"
 msgstr ""
-"Advarsel: Du er ved at nå det maksimale antal blokke du kan placere i "
+"Advarsel: Du er ved at nå det maksimale antal blokke, du kan placere i "
 "banen!\n"
-"Hold øje med indikatoren øverest til højre!"
+"Hold øje med indikatoren øverst til højre!"
 
 msgid "Watch"
 msgstr "Se"
@@ -7140,7 +7223,7 @@ msgid "Wheel sensitivity"
 msgstr "Hjul sensitivitet"
 
 msgid "Where should common data files be stored?"
-msgstr "Hvor skal almindelige datafiler gemmes?"
+msgstr "Hvor skal fælles datafiler gemmes?"
 
 msgid "Where should personal data files be stored?"
 msgstr "Hvor skal personlige datafiler gemmes?"
@@ -7194,7 +7277,7 @@ msgid "Wrong Password!"
 msgstr "Forkert kodeord!"
 
 msgid "Wrong module file."
-msgstr "Forkert modul fil."
+msgstr "Forkert modul-fil."
 
 msgid "Wrong title."
 msgstr "Forkert titel."
@@ -7209,10 +7292,10 @@ msgid "X or C / Shift + Mouse Right Click"
 msgstr "X eller C / Shift + højreklik med mus"
 
 msgid "XInput Controller %1"
-msgstr "XInput Controller %1"
+msgstr "XInput Styreenhed %1"
 
 msgid "Xbox One Wireless Controller"
-msgstr "Xbox One Wireless Controller"
+msgstr "Xbox One Trådløs Controller"
 
 msgid "Yday."
 msgstr "I går."
@@ -7296,14 +7379,14 @@ msgid ""
 "You are using these files for the first time.\n"
 " Do you accept responsibility for sharing them?"
 msgstr ""
-"Du benytter disse filer for første gang.\n"
+"Du bruger disse filer for første gang.\n"
 " Accepterer du dit ansvar ved at dele dem?"
 
 msgid "You beat the %1!"
 msgstr "Du slog %1!"
 
 msgid "You beat the score of %1!"
-msgstr "Du har slået %1's score!"
+msgstr "Du har overgået %1's point!"
 
 msgid "You can cancel 1 match."
 msgstr "Du kan annullere 1 kamp."
@@ -7438,8 +7521,7 @@ msgstr "Du har ikke modellen '%1'."
 msgid ""
 "You don't have write permission to this folder. Please select another folder."
 msgstr ""
-"Du har ikke rettighed til at skrive i denne mappe. Vælg venligst en anden "
-"mappe."
+"Du har ikke skriverettighed til denne mappe. Vælg venligst en anden mappe."
 
 msgid "You eliminated yourself!"
 msgstr "Du har elimineret dig selv!"
@@ -7687,7 +7769,7 @@ msgid "You need more medals to unlock this map."
 msgstr "Du mangler flere medaljer for at låse denne bane op."
 
 msgid "You need to activate the plugin before moving it."
-msgstr "Du skal aktivere plugin, før du flytter det."
+msgstr "Du skal aktivere plug-in'et, før du flytter det."
 
 msgid "You need to choose a name for the pack."
 msgstr "Du skal vælge et navn til pakken."
@@ -7712,7 +7794,7 @@ msgid "You need to select at least two players!"
 msgstr "Du skal vælge mindst to spillere!"
 
 msgid "You need to select blocks bound to your current selection."
-msgstr "Du bedes vælge blokke bundet til dit nuværende valg."
+msgstr "Du skal vælge blokke, bundet til dit nuværende valg."
 
 msgid "You need to select some data to include in the pack."
 msgstr "Du bedes vælge data, som skal inkluderes i pakken."
@@ -7725,7 +7807,7 @@ msgstr ""
 "Er du sikker på, at du vil ændre dit kaldenavn?"
 
 msgid "You set a new personal record!"
-msgstr "Du har sat ny personlig rekord!"
+msgstr "Du har sat en ny personlig rekord!"
 
 msgid ""
 "You still have some empty stations available.\n"
@@ -7772,13 +7854,13 @@ msgid "You won %1 medals!"
 msgstr "Du vandt %1 medaljer!"
 
 msgid "You won %1 skillpoints!"
-msgstr "Du har vundet %1 kvalifikationspoint!"
+msgstr "Du har vundet %1 færdighedspoint!"
 
 msgid "You won 1 medal!"
 msgstr "Du vandt 1 medalje!"
 
 msgid "You won 1 skillpoint!"
-msgstr "Du har vundet 1 kvalifikationspoint!"
+msgstr "Du vandt 1 færdighedspoint!"
 
 msgid "You won all the gold medals for this campaign!"
 msgstr "Du har vundet alle guldmedaljerne for denne kampagne!"
@@ -7844,7 +7926,7 @@ msgid ""
 "Do you want to increase the maximum size of your cache?"
 msgstr ""
 "Din cache er næsten fuld.\n"
-"Ønsker du at forøge maksimalstørrelsen af din cache?"
+"Ønsker du at forøge den maksimale størrelse af din cache?"
 
 msgid ""
 "Your daily play time is over.\n"
@@ -7906,10 +7988,15 @@ msgid ""
 "Pay attention to the top right indicator to help you increase the "
 "performance of your maps."
 msgstr ""
-"Din bane kan forårsage problemer med ydelsen, når du spiller med ældre "
-"computere.\n"
+"Din bane kan måske forårsage problemer med ydeevnen, når de spilles på "
+"mindre kraftfulde computere.\n"
 "Hold øje med indikatoren i øverste højre hjørne for at hjælpe dig med at øge "
 "dine baners ydeevne."
+
+msgid "Your map use many water planes (%1) and may cause performance issues."
+msgstr ""
+"Din bane bruger mange vandniveauer (%1), som måske kan forårsage problemer "
+"med ydeevnen."
 
 msgid "Your message has been successfully sent."
 msgstr "Det lykkedes at sende din besked."
@@ -7924,7 +8011,7 @@ msgid "Your password must contain between %1 to %2 characters."
 msgstr "Dit kodeord skal indeholde mellem %1 og %2 tegn."
 
 msgid "Your password must contain only valid characters."
-msgstr "Dit kodeord skal indeholde gyldige tegn."
+msgstr "Dit kodeord må kun indeholde gyldige tegn."
 
 msgid "Your password:"
 msgstr "Dit kodeord:"
@@ -8108,7 +8195,7 @@ msgid "|Audio|HrtfFull"
 msgstr "|Audio|HrtfFuld"
 
 msgid "|Audio|HrtfLight"
-msgstr "|Audio|HrtfLys"
+msgstr "|Audio|HrtfLet"
 
 msgid "|Audio|NoHrtf"
 msgstr "|Audio|IngenHrtf"
@@ -8270,7 +8357,7 @@ msgid "|CarQuality|High, Medium Opponents"
 msgstr "|CarQuality|Høj, Middel Modstandere"
 
 msgid "|CarQuality|Medium, Low Opponents"
-msgstr "|CarQuality|Mellem, Lav Modstandere"
+msgstr "|CarQuality|Middel, Lav Modstandere"
 
 msgid "|CardinalDir|C"
 msgstr "|CardinalDir|C"
@@ -8516,7 +8603,7 @@ msgid "|GeometryQuality|Very Fast"
 msgstr "|GeometryQuality|Meget Hurtig"
 
 msgid "|GeometryQuality|Very Nice"
-msgstr "|GeometryQuality|Meget pæn"
+msgstr "|GeometryQuality|Meget Pæn"
 
 msgid "|GfxAuto|Faster"
 msgstr "|GfxAuto|Hurtigere"
@@ -8654,7 +8741,7 @@ msgid "|Input|Chat to all"
 msgstr "|Input|Chat til alle"
 
 msgid "|Input|Checkpoint respawn"
-msgstr "|Input|Checkpoint respawn"
+msgstr "|Input|Respawn ved kontrolpunkt"
 
 msgid "|Input|Enter or exit Vehicle"
 msgstr "|Input|Gå ind eller ud af køretøjet"
@@ -8705,13 +8792,13 @@ msgid "|Input|Roll"
 msgstr "|Input|Rul"
 
 msgid "|Input|Roll left"
-msgstr "|Input|Rul venstre"
+msgstr "|Input|Rul til venstre"
 
 msgid "|Input|Roll right"
-msgstr "|Input|Rul højre"
+msgstr "|Input|Rul til højre"
 
 msgid "|Input|Save prev. race replay"
-msgstr "|Input|Gem tidligere løbsgengivelse"
+msgstr "|Input|Gem tidl. gengivelse af løb"
 
 msgid "|Input|Save replay"
 msgstr "|Input|Gem gengivelse"
@@ -8735,7 +8822,7 @@ msgid "|Input|Show/hide opponents"
 msgstr "|Input|Vis/skjul modstandere"
 
 msgid "|Input|Show/hide scores"
-msgstr "|Input|Vis/skjul scoringer"
+msgstr "|Input|Vis/skjul stillinger"
 
 msgid "|Input|Spectator camera: Follow"
 msgstr "|Input|Tilskuer kamera: Følg"
@@ -8764,8 +8851,11 @@ msgstr "|Input|Brug 1"
 msgid "|Input|Use 2"
 msgstr "|Input|Brug 2"
 
+msgid "|ItemType|Bot"
+msgstr "Bot"
+
 msgid "|ItemType|Decoration"
-msgstr "|ItemType|Dekoration"
+msgstr "|ItemType|Udsmykning"
 
 msgid "|ItemType|Undefined"
 msgstr "|ItemType|Udefineret"
@@ -8986,26 +9076,47 @@ msgstr "|Modeler3D Layer Name|Kaos"
 msgid "|Modeler3D Layer Name|Cubes"
 msgstr "|Modeler3D Layer Name|Kuber"
 
+msgid "|Modeler3D Layer Name|Deformation"
+msgstr "Deformation"
+
+msgid "|Modeler3D Layer Name|Extrude"
+msgstr "Ekstrudér"
+
 msgid "|Modeler3D Layer Name|Geometry"
 msgstr "|Modeler3D Layer Name|Geometri"
 
+msgid "|Modeler3D Layer Name|Material Transition"
+msgstr "Materiel overgang"
+
 msgid "|Modeler3D Layer Name|Mirror"
-msgstr "|Modeler3D Layer Name|Spejl"
+msgstr "|Modeler3D Layer Name|Spejlvend"
 
 msgid "|Modeler3D Layer Name|Move to Ground"
-msgstr "|Modeler3D Layer Name|Flyt til grund"
+msgstr "|Modeler3D Layer Name|Flyt til jorden"
 
 msgid "|Modeler3D Layer Name|Rotation"
 msgstr "|Modeler3D Layer Name|Rotation"
+
+msgid "|Modeler3D Layer Name|Scale"
+msgstr "Skalér"
 
 msgid "|Modeler3D Layer Name|Sector"
 msgstr "|Modeler3D Layer Name|Sektor"
 
 msgid "|Modeler3D Layer Name|Smooth"
-msgstr "|Modeler3D Layer Name|Glat"
+msgstr "|Modeler3D Layer Name|Udjævn"
+
+msgid "|Modeler3D Layer Name|Smooth Groups"
+msgstr "Udjævningsgrupper"
+
+msgid "|Modeler3D Layer Name|Spawn Position"
+msgstr "Spawn-placering"
+
+msgid "|Modeler3D Layer Name|Subdivide"
+msgstr "Underopdel"
 
 msgid "|Modeler3D Layer Name|Translation"
-msgstr "|Modeler3D Layer Name|Oversættelse"
+msgstr "|Modeler3D Layer Name|Gengivelse"
 
 msgid "|Modeler3D Layer Name|Trigger"
 msgstr "|Modeler3D Layer Name|Udløser"
@@ -9032,7 +9143,7 @@ msgid "|NetworkSpeed|Very Low - 100Kbps"
 msgstr "|NetworkSpeed|Meget lav - 100Kbps"
 
 msgid "|Network|Not connected"
-msgstr "|Network|Ikke tilsluttet"
+msgstr "|Network|Ikke forbundet"
 
 msgid "|Notifications|Everything"
 msgstr "|Notifications|Alt"
@@ -9047,13 +9158,13 @@ msgid "|OpenVrInput|A"
 msgstr "|OpenVrInput|A"
 
 msgid "|OpenVrInput|AxisBut2"
-msgstr "|OpenVrInput|AxisKnap2"
+msgstr "|OpenVrInput|AkseKnap2"
 
 msgid "|OpenVrInput|AxisBut3"
-msgstr "|OpenVrInput|AxisKnap3"
+msgstr "|OpenVrInput|AkseKnap3"
 
 msgid "|OpenVrInput|AxisBut4"
-msgstr "|OpenVrInput|AxisKnap4"
+msgstr "|OpenVrInput|AkseKnap4"
 
 msgid "|OpenVrInput|Down"
 msgstr "|OpenVrInput|Ned"
@@ -9077,7 +9188,7 @@ msgid "|OpenVrInput|System"
 msgstr "|OpenVrInput|System"
 
 msgid "|OpenVrInput|Touchpad"
-msgstr "|OpenVrInput|Touchpad"
+msgstr "|OpenVrInput|Berøringsplade"
 
 msgid "|OpenVrInput|Trigger"
 msgstr "|OpenVrInput|Udløser"
@@ -9086,10 +9197,10 @@ msgid "|OpenVrInput|Up"
 msgstr "|OpenVrInput|Op"
 
 msgid "|Opponents|Always Visible"
-msgstr "|Opponents|Altid synlige"
+msgstr "|Opponents|Altid Synlige"
 
 msgid "|Opponents|Hide Too Close"
-msgstr "|Opponents|Skjul for tæt på"
+msgstr "|Opponents|Skjul, hvis for tæt på"
 
 msgid "|PC|the left stick"
 msgstr "|PC|Den venstre analog pind"
@@ -9113,13 +9224,13 @@ msgid "|PS4|L3"
 msgstr "|PS4|L3"
 
 msgid "|PS4|Left stick X"
-msgstr "|PS4|Venstre pind X"
+msgstr "|PS4|Venstre analog-pind X"
 
 msgid "|PS4|Left stick Y"
-msgstr "|PS4|Venstre pind Y"
+msgstr "|PS4|Venstre analog-pind Y"
 
 msgid "|PS4|Options"
-msgstr "|PS4|Indstillinger"
+msgstr "|PS4|Valgmuligheder"
 
 msgid "|PS4|R1"
 msgstr "|PS4|R1"
@@ -9131,10 +9242,10 @@ msgid "|PS4|R3"
 msgstr "|PS4|R3"
 
 msgid "|PS4|Right stick X"
-msgstr "|PS4|Højre pind X"
+msgstr "|PS4|Højre analog-pind X"
 
 msgid "|PS4|Right stick Y"
-msgstr "|PS4|Højre pind Y"
+msgstr "|PS4|Højre analog-pind Y"
 
 msgid "|PS4|Share"
 msgstr "|PS4|Del"
@@ -9146,7 +9257,7 @@ msgid "|PS4|System"
 msgstr "|PS4|System"
 
 msgid "|PS4|Touchpad"
-msgstr "|PS4|Touchpad"
+msgstr "|PS4|Berøringsplade"
 
 msgid "|PS4|Triangle"
 msgstr "|PS4|Trekant"
@@ -9242,16 +9353,16 @@ msgid "|ServerLevel|Beginners"
 msgstr "|ServerLevel|Begyndere"
 
 msgid "|ServerLevel|Competitive racers"
-msgstr "|ServerLevel|Konkurrencedygtige racere"
+msgstr "|ServerLevel|Konkurrencedygtige ræsere"
 
 msgid "|ServerLevel|Pro racing"
-msgstr "|ServerLevel|Pro racing"
+msgstr "|ServerLevel|Pro-løb"
 
 msgid "|ServerLevel|Races of champions"
 msgstr "|ServerLevel|Mestrenes løb"
 
 msgid "|ServerLevel|Serious challengers"
-msgstr "|ServerLevel|Seriøse modstandere"
+msgstr "|ServerLevel|Seriøse konkurrenter"
 
 msgid "|Settings|Graphic"
 msgstr "|Indstillinger|Grafik"
@@ -9566,7 +9677,7 @@ msgid "|Unit|MB"
 msgstr "|Unit|MB"
 
 msgid "|Unit|kB"
-msgstr "|Unit|Kb"
+msgstr "|Unit|kB"
 
 msgid "|VSync|Full"
 msgstr "|VSync|Fuld"
@@ -9656,10 +9767,10 @@ msgid "|XInput|Left"
 msgstr "|XInput|Venstre"
 
 msgid "|XInput|Left stick X"
-msgstr "|XInput|Venstre pind X"
+msgstr "|XInput|Venstre analog-pind X"
 
 msgid "|XInput|Left stick Y"
-msgstr "|XInput|Venstre pind Y"
+msgstr "|XInput|Venstre analog-pind Y"
 
 msgid "|XInput|RB"
 msgstr "|XInput|RB"
@@ -9674,10 +9785,10 @@ msgid "|XInput|Right"
 msgstr "|XInput|Højre"
 
 msgid "|XInput|Right stick X"
-msgstr "|XInput|Højre pind X"
+msgstr "|XInput|Højre analog-pind X"
 
 msgid "|XInput|Right stick Y"
-msgstr "|XInput|Højre pind Y"
+msgstr "|XInput|Højre analog-pind Y"
 
 msgid "|XInput|Start"
 msgstr "|XInput|Start"
@@ -9686,7 +9797,7 @@ msgid "|XInput|Up"
 msgstr "|XInput|Op"
 
 msgid "|XInput|View"
-msgstr "|XInput|Vis"
+msgstr "|XInput|Se"
 
 msgid "|XInput|X"
 msgstr "|XInput|X"

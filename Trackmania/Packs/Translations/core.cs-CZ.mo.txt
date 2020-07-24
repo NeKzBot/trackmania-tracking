@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-09 12:42+0000\n"
+"PO-Revision-Date: 2020-07-13 08:32+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -3932,7 +3932,7 @@ msgid "Ladder not enabled"
 msgstr "Žebříček zakázán"
 
 msgid "Ladder rankings"
-msgstr "Pozice v žebříčku"
+msgstr "Umístění v žebříčku"
 
 msgid "Language"
 msgstr "Jazyk"
@@ -4227,7 +4227,7 @@ msgid "Map mods"
 msgstr "Dekorace map"
 
 msgid "Map rankings"
-msgstr "Hodnocení mapy"
+msgstr "Pořadí mapy"
 
 msgid "Map size exceeds the limit."
 msgstr "Velikost mapy přesahuje limit."
@@ -5502,10 +5502,10 @@ msgid "Rank"
 msgstr "Pořadí"
 
 msgid "Ranking"
-msgstr "Hodnocení"
+msgstr "Umístění"
 
 msgid "Rankings"
-msgstr "Pozice"
+msgstr "Umístění"
 
 msgid "RayCast reflects"
 msgstr "Odrazy paprsků"
@@ -9233,7 +9233,7 @@ msgid "Your IP was banned from this server."
 msgstr "Vaší IP adrese byl zakázán vstup na tento server."
 
 msgid "Your Ladder World Ranking"
-msgstr "Pozice ve světovém žebříčku"
+msgstr "Umístění ve světovém žebříčku"
 
 msgid "Your Medals World Ranking"
 msgstr "Vaše umístění ve světě podle medailí"
@@ -10514,7 +10514,7 @@ msgid "|Ladder|Not ranked"
 msgstr "|Ladder|Nehodnocen"
 
 msgid "|Ladder|Rank: "
-msgstr "|Ladder|Pozice: "
+msgstr "|Ladder|Umístění: "
 
 msgid "|Ladder|Unknown"
 msgstr "|Ladder|Neznámý"
