@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-10 22:34+0000\n"
+"PO-Revision-Date: 2020-08-06 10:33+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -483,7 +483,7 @@ msgid "2 players race"
 msgstr "Course 2 joueurs"
 
 msgid "2D skins only"
-msgstr "modèle 2D seulement"
+msgstr "Skins 2D seulement"
 
 msgid "2nd"
 msgstr "2ème"
@@ -498,7 +498,7 @@ msgid "3D glasses"
 msgstr "Lunettes 3D"
 
 msgid "3D models + 2D skins"
-msgstr "modèles 3D + peintures 2D"
+msgstr "modèles 3D +  skins 2D"
 
 msgid "3d Stereo"
 msgstr "3D stéréo"
@@ -4461,7 +4461,7 @@ msgid "Mode settings"
 msgstr "Paramètres du mode"
 
 msgid "Model skins"
-msgstr "Modèles de voiture"
+msgstr "Skins de voiture"
 
 msgid "Models"
 msgstr "Modèles"
@@ -10927,7 +10927,7 @@ msgid "|MediaTracker Fog values|Sky intensity"
 msgstr "Intensité ciel"
 
 msgid "|MediaTracker Ghost action|Select skin"
-msgstr "Sélectionner le modèle"
+msgstr "Sélectionner la skin"
 
 msgid "|MediaTracker Ghost values|Force hue"
 msgstr "Forcer la nuance"
@@ -10939,7 +10939,7 @@ msgid "|MediaTracker Ghost values|Lights"
 msgstr "Lumières"
 
 msgid "|MediaTracker Ghost values|Skin name"
-msgstr "Nom du modèle"
+msgstr "Nom de la skin"
 
 msgid "|MediaTracker Ghost values|Start offset"
 msgstr "Décalage du début"
@@ -12158,7 +12158,7 @@ msgid ""
 msgstr "Appliquer Mat et Métal sans couleur"
 
 msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
-msgstr "Exporter le modèle"
+msgstr "Exporter la skin"
 
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "

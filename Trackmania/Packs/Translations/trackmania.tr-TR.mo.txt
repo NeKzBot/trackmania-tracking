@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-15 13:53+0000\n"
+"PO-Revision-Date: 2020-07-29 15:48+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "$%1Author"
+msgstr "$%1Yapımcı"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> Lobinin Kralı!"
@@ -34,13 +37,13 @@ msgid "$<%1$> wins the map!"
 msgstr "Haritayı $<%1$> kazandı!"
 
 msgid "$<%1$> wins the match!"
-msgstr "$<%1$> karşılaşmayı kazandı!"
+msgstr "$<%1$> maçı kazandı!"
 
 msgid "$<%1$> wins the round!"
 msgstr "Round'u $<%1$> kazandı!"
 
 msgid "$<%1$> won the match!"
-msgstr "$<%1$> karşılaşmayı kazandı!"
+msgstr "$<%1$> maçı kazandı!"
 
 msgid "$f00%1 players will be eliminated"
 msgstr "$f00%1 oyuncu elenecek"
@@ -198,7 +201,7 @@ msgid "%1$<%2$> canceled match start."
 msgstr "%1$<%2$> maç başlangıcını iptal etti."
 
 msgid "%1$<%2$> join a match."
-msgstr "%1$<%2$> bir karşılaşmaya katıldı."
+msgstr "%1$<%2$> bir maça katıldı."
 
 msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$> maça yedek olarak katıldı."
@@ -314,6 +317,12 @@ msgstr "REPLAY'E KARŞI"
 msgid "All clubs"
 msgstr "Tüm kulüpler"
 
+msgid "All done here, thanks for playing!"
+msgstr "Burası tamam, oynadığınız için teşekkürler!"
+
+msgid "All events"
+msgstr "Tüm etkinlikler"
+
 msgid "All fields must be completed"
 msgstr "Tüm alanlar doldurulmalıdır"
 
@@ -337,8 +346,7 @@ msgid ""
 "An error occurred while retrieving your accounts, please try again. (Error "
 "code: %1)"
 msgstr ""
-"Hesaplarınıza ulaşırken bir hata oluştu, lütfen tekrar deneyin. (Hata kodu: "
-"%1)"
+"Hesaplarınıza ulaşılırken hata oluştu, lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "An error occurred, please try again. (Error: %1)"
 msgstr "Bir hata oluştu, lütfen tekrar deneyin. (Hata: %1)"
@@ -362,7 +370,7 @@ msgid "Are you really sure you want to %1?"
 msgstr "Emin misiniz: %1?"
 
 msgid "Are you really sure you want to leave the match?"
-msgstr "KARŞILAŞMADAN AYRILMAK İSTEDİĞİNİZE EMİN MİSİNİZ?"
+msgstr "MAÇTAN AYRILMAK İSTEDİĞİNİZE EMİN MİSİNİZ?"
 
 msgid "Are you sure you want to create a new track?"
 msgstr "Yeni bir pist oluşturmak istediğinize emin misiniz?"
@@ -415,10 +423,10 @@ msgid "Auto-finish"
 msgstr "OTO-BİTİŞ"
 
 msgid "Automatic retry in %1 second."
-msgstr "%1 saniye içinde otomatik olarak tekrar denenecek."
+msgstr "%1 SANİYE İÇİNDE OTOMATİK OLARAK TEKRAR DENENECEK."
 
 msgid "Automatic retry in %1 seconds."
-msgstr "%1 saniye içinde otomatik olarak tekrar denenecek."
+msgstr "%1 SANİYE İÇİNDE OTOMATİK OLARAK TEKRAR DENENECEK."
 
 msgid "Average lap"
 msgstr "Ortalama tur"
@@ -706,6 +714,9 @@ msgstr "Partisine katılmak için oyuncunun üzerine tıklayın."
 msgid "Click on a player to set them as ally."
 msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
 
+msgid "Click on a server to join it"
+msgstr "Katılmak için bir sunucuya tıklayın"
+
 msgid "Click on the UI modules to edit their properties"
 msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
 
@@ -767,7 +778,7 @@ msgid "Compete in the open grand league"
 msgstr "OPEN GRAND LEAGUE'DE YARIŞIN"
 
 msgid "Competition"
-msgstr "Karşılaşma"
+msgstr "KARŞILAŞMA"
 
 msgid "Concept"
 msgstr "Konsept"
@@ -876,10 +887,10 @@ msgid "Current map"
 msgstr "Şu anki harita"
 
 msgid "Current match best score"
-msgstr "Güncel en iyi karşılaşma skoru"
+msgstr "Güncel en iyi maç skoru"
 
 msgid "Current match score"
-msgstr "Güncel karşılaşma skoru"
+msgstr "Güncel maç skoru"
 
 msgid "Current player"
 msgstr "Şu anki oyuncu"
@@ -1005,7 +1016,7 @@ msgid "Do you want to place a checkpoint now?"
 msgstr "Şu an bir checkpoint yerleştirmek istiyor musunuz?"
 
 msgid "Do you want to play a rematch?"
-msgstr "Rövanş yarışı yapmak istiyor musunuz?"
+msgstr "Rövanş yarışı oynamak istiyor musunuz?"
 
 msgid "Do you want to quit the plugin or return to the editor?"
 msgstr "Eklentiden çıkıp editöre dönmek istiyor musunuz?"
@@ -1064,6 +1075,20 @@ msgstr "BAŞ YÖNETMEN, ULUSLARARASI STÜDYOLAR"
 msgid "EXTERNAL PARTNERS"
 msgstr "HARİCİ ORTAKLAR"
 
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
+"%1 right after%2 and respresent your country."
+msgstr ""
+"Sıralamada yükselmek için her haritada %1Yetenek Puanı %2kazanın. %1Hemen "
+"ardından%2 lig maçına erişim elde ederek ülkenizi temsil edin."
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Your final rank determines the "
+"points you score for %1your country%2."
+msgstr ""
+"Sıralamada yükselmek için her haritada %1Yetenek Puanı %2kazanın. %1Ülkeniz"
+"%2 için elde ettiğiniz puanı nihai sıralamanız belirler."
+
 msgid "Earn medals and track your progression in regional rankings"
 msgstr "MADALYALAR KAZANIN VE BÖLGESEL SIRALAMALARDAKİ İLERLEMENİZİ TAKİP EDİN"
 
@@ -1116,13 +1141,13 @@ msgid "Eighth (Press 8)"
 msgstr "Sekizinci (8'e basın)"
 
 msgid "End of warmup, match starting..."
-msgstr "Isınma bitti, karşılaşma başlıyor..."
+msgstr "Isınma bitti, maç başlıyor..."
 
 msgid "Engine disabled"
 msgstr "Motor kapalı"
 
 msgid "Enough players agreed to play a rematch."
-msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etti."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı oynamayı kabul etti."
 
 msgid "Entry"
 msgstr "Giriş"
@@ -1133,20 +1158,19 @@ msgstr "Hata"
 msgid ""
 "Error while adding your map to the queue, please try again. (Error code: %1)"
 msgstr ""
-"Haritanız sıraya eklenirken bir hata oluştu, lütfen tekrar deneyin. (Hata "
-"kodu: %1)"
+"Haritanız sıraya eklenirken hata oluştu, lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
 
 msgid "Error while creating campaign. Please try again. (Error code: %1)"
 msgstr ""
-"Campaign oluşturulurken bir hata meydana geldi. Lütfen tekrar deneyin. (Hata "
-"kodu: %1)"
+"Campaign oluşturulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "Error while creating the activity. Please try again. (Error code: %1)"
 msgstr ""
 "Etkinlik oluşturulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "Error while creating the room. Please try again. (Error code: %1)"
-msgstr "Oda kurulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
+msgstr "Oda oluşturulurken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "Error while editing the activity. Please try again. (Error code: %1)"
 msgstr ""
@@ -1156,16 +1180,23 @@ msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr "Oda düzenlenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid ""
+"Error while fetching campaigns of type %1 for the profile. Please try again. "
+"(Error code: %2)"
+msgstr ""
+"Profil için %1 türünden campaign'ler getirilirken hata oluştu. Lütfen tekrar "
+"deneyin. (Hata kodu: %2)"
+
+msgid ""
 "Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
 msgstr ""
-"%1 türündeki campaign'ler getirilirken hata oluştu. Lütfen tekrar deneyin. "
+"%1 türünden campaign'ler getirilirken hata oluştu. Lütfen tekrar deneyin. "
 "(Hata kodu: %2)"
 
 msgid ""
 "Error while fetching map list from Nadeo Services. Please try again. (Error "
 "code: %1)"
 msgstr ""
-"Harita listesini Nadeo Services'tan getirirken hata oluştu. Lütfen tekrar "
+"Harita listesi Nadeo Services'tan getirilirken hata oluştu. Lütfen tekrar "
 "deneyin. (Hata kodu: %1)"
 
 msgid ""
@@ -1198,7 +1229,7 @@ msgstr ""
 msgid ""
 "Error while fetching the server join link, please try again. (Error code: %1)"
 msgstr ""
-"Sunucuya katılma linkinde bir sorun oluştu, lütfen tekrar deneyin. (Hata "
+"Sunucuya katılma linki alınırken hata oluştu, lütfen tekrar deneyin. (Hata "
 "kodu: %1)"
 
 msgid "Error while gathering maps data. (Error code: %1)"
@@ -1207,6 +1238,9 @@ msgstr "Harita verileri toplanırken hata oluştu. (Hata kodu: %1)"
 msgid "Error while joining the server, please try again. (Error code: %1)"
 msgstr ""
 "Sunucuya katılırken hata oluştu, lütfen tekrar deneyin. (Hata kodu: %1)"
+
+msgid "Error while loading matches, try again (ErrorCode: %1)"
+msgstr "Maçlar yüklenirken hata oluştu, tekrar deneyin (Hata kodu: %1)"
 
 msgid "Error while loading ranking (code: %1)"
 msgstr "Sıralama yüklenirken hata oluştu (kod: %1)"
@@ -1221,7 +1255,7 @@ msgid ""
 "Error while loading scores from Nadeo Services. Please try again. (Error "
 "code: %1)"
 msgstr ""
-"Skorları Nadeo Services'tan getirirken hata oluştu. Lütfen tekrar deneyin. "
+"Skorlar Nadeo Services'tan getirilirken hata oluştu. Lütfen tekrar deneyin. "
 "(Hata kodu: %1)"
 
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
@@ -1232,8 +1266,12 @@ msgid ""
 "Error while loading the club of the campaign. Please try again. (Error code: "
 "%1)"
 msgstr ""
-"Campaign'in kulübü yüklenirken bir hata oluştu. Lütfen tekrar deneyin. (Hata "
+"Campaign'in kulübü yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata "
 "kodu: %1)"
+
+msgid "Error while loading the event. Please try again. (Error code: %1)"
+msgstr ""
+"Etkinlik yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
@@ -1241,14 +1279,14 @@ msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
 msgid ""
 "Error while updating club activities. Please try again. (Error code: %1)"
 msgstr ""
-"Kulüp aktiviteleri güncellenirken bir hata meydana geldi. Lütfen tekrar "
-"deneyin. (Hata kodu: %1)"
+"Kulüp aktiviteleri güncellenirken hata oluştu. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
 
 msgid ""
 "Error while updating the news media logo. Please try again. (Error code: %1)"
 msgstr ""
-"Haber logosu güncellenirken bir hata oluştu. Lütfen tekrar deneyin. (Hata "
-"kodu: %1)"
+"Haber medyası logosu güncellenirken hata oluştu. Lütfen tekrar deneyin. "
+"(Hata kodu: %1)"
 
 msgid ""
 "Error while updating the privacy of the activity. Please try again. (Error "
@@ -1259,13 +1297,13 @@ msgstr ""
 
 msgid "Error while uploading maps, please try again. (Error code: %1)"
 msgstr ""
-"Haritalar karşıya yüklenirken bir hata oluştu, lütfen tekrar deneyin. (Hata "
+"Haritalar karşıya yüklenirken hata oluştu, lütfen tekrar deneyin. (Hata "
 "kodu: %1)"
 
 msgid "Error while uploading maps. Please try again. (Error code: %1)"
 msgstr ""
-"Haritalar karşıya yüklenirken bir hata meydana geldi. Lütfen tekrar deneyin. "
-"(Hata kodu: %1)"
+"Haritalar karşıya yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata "
+"kodu: %1)"
 
 msgid ""
 "Error while uploading the activity logo. Please try again. (Error code: %1)"
@@ -1286,13 +1324,12 @@ msgstr ""
 
 msgid "Error while uploading your media. Please try again. (Error code: %1)"
 msgstr ""
-"Görsel karşıya yüklenirken bir hata meydana geldi. Lütfen tekrar deneyin. "
-"(Hata kodu: %1)"
+"Görsel karşıya yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: "
+"%1)"
 
 msgid "Error while validating activity. Please try again. (Error code: %1)"
 msgstr ""
-"Etkinlik doğrulanırken bir hata oluştu. Lütfen tekrar deneyin. (Hata kodu: "
-"%1)"
+"Etkinlik doğrulanırken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "Events"
 msgstr "ETKİNLİKLER"
@@ -1465,6 +1502,9 @@ msgstr "HotSeat"
 msgid "Hotseat"
 msgstr "Hotseat"
 
+msgid "I have read and I agree to the %1rules%2 of this event."
+msgstr "Bu etkinliğin %1kurallarını%2 okudum ve kabul ediyorum."
+
 msgid "INFRASTRUCTURE TEAM MANAGER"
 msgstr "ALTYAPI EKİBİ MÜDÜRÜ"
 
@@ -1482,7 +1522,7 @@ msgid ""
 "will not participate in the Daily Knockout match."
 msgstr ""
 "Eğer pes ederseniz, kanalda oynamaya devam edebileceksiniz ancak Günlük "
-"Eleme karşılaşmasında yer alamayacaksınız."
+"Eleme maçında yer alamayacaksınız."
 
 msgid "Image browser"
 msgstr "Resim tarayıcısı"
@@ -1495,6 +1535,9 @@ msgstr "Bilgi"
 
 msgid "Interval from %1 pos."
 msgstr "%1. ile süre farkı"
+
+msgid "Invalid"
+msgstr "Geçersiz"
 
 msgid "Invite friends"
 msgstr "Arkadaş davet et"
@@ -1803,6 +1846,9 @@ msgstr "Pisti yönet"
 msgid "Map"
 msgstr "Harita"
 
+msgid "Map %1/%2"
+msgstr "Harita %1/%2"
+
 msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
 msgstr ""
 "Harita %1/%2 - Önceki puanlarınızı kaybetmemek için %3%4 sırada veya daha "
@@ -1869,25 +1915,34 @@ msgid "Maps list already full"
 msgstr "Harita listesi zaten dolu"
 
 msgid "Match found!"
-msgstr "Karşılaşma bulundu!"
+msgstr "Maç bulundu!"
 
 msgid "Match is over"
-msgstr "Karşılaşma sona erdi"
+msgstr "Maç sona erdi"
 
 msgid "Match not started yet."
 msgstr "Maç henüz başlamadı."
 
+msgid "Match ongoing"
+msgstr "Maç devam ediyor"
+
 msgid "Match over. You should have been transferred back to the lobby."
-msgstr "Karşılaşma sona erdi. Lobiye geri gönderilmiş olmalıydınız."
+msgstr "Maç sona erdi. Lobiye geri gönderilmiş olmalıydınız."
 
 msgid "Match over. You will be transferred back."
-msgstr "Karşılaşma sona erdi. Geri gönderiliyorsunuz."
+msgstr "Maç sona erdi. Geri gönderiliyorsunuz."
 
 msgid "Match paused"
-msgstr "Karşılaşma duraklatıldı"
+msgstr "Maç duraklatıldı"
 
 msgid "Match settings"
-msgstr "KARŞILAŞMA AYARLARI"
+msgstr "MAÇ AYARLARI"
+
+msgid "Match starting"
+msgstr "Maç başlıyor"
+
+msgid "Matches"
+msgstr "MAÇLAR"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "Eşleştirme iptal edildi : mevcut sunucu yok"
@@ -1902,10 +1957,10 @@ msgid "Matchmaking in progress..."
 msgstr "Eşleştirme sürüyor..."
 
 msgid "Matchsettings browser"
-msgstr "KARŞILAŞMA AYARLARI GEZGİNİ"
+msgstr "MAÇ AYARLARI GEZGİNİ"
 
 msgid "Matchsettings have been saved in file: %1"
-msgstr "Karşılaşma ayarları %1 dosyasına kaydedildi"
+msgstr "Maç ayarları %1 dosyasına kaydedildi"
 
 msgid "Max players"
 msgstr "Maksimum oyuncu"
@@ -1943,6 +1998,9 @@ msgstr "PAZARTESİ"
 msgid "More VIPs"
 msgstr "Daha fazla VIP"
 
+msgid "More info at %1"
+msgstr "Daha fazla bilgi için: %1"
+
 msgid "Move"
 msgstr "TAŞI"
 
@@ -1957,6 +2015,9 @@ msgstr "Başlangıç bloğunu, pisti başlatmak istediğiniz yere koyun."
 
 msgid "Multi teams"
 msgstr "Çoklu takım"
+
+msgid "My Events"
+msgstr "Etkinliklerim"
 
 msgid "My clubs"
 msgstr "KULÜPLERİM"
@@ -1990,6 +2051,15 @@ msgstr "YENİ PİST"
 
 msgid "News"
 msgstr "Haberler"
+
+msgid "News Body"
+msgstr "Haber Gövdesi"
+
+msgid "News Headline"
+msgstr "Haber Ana Başlığı"
+
+msgid "News Title"
+msgstr "Haber Başlığı"
 
 msgid "News image"
 msgstr "Haber görseli"
@@ -2036,6 +2106,9 @@ msgstr "Kulüp yok"
 msgid "No daily map found to display the rankings"
 msgstr "Sıralama gösterilecek günlük harita bulunamadı"
 
+msgid "No events"
+msgstr "Etkinlik yok"
+
 msgid "No maps in this month"
 msgstr "Bu ayda harita yok"
 
@@ -2058,7 +2131,7 @@ msgid "No suitable elements were found in this folder"
 msgstr "Bu klasörde uygun öğe bulunamadı"
 
 msgid "Not enough players agreed to play a rematch."
-msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etmedi."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı oynamayı kabul etmedi."
 
 msgid "Not ranked"
 msgstr "SIRALAMADA YOK"
@@ -2073,7 +2146,7 @@ msgid "Number of laps"
 msgstr "Tur sayısı"
 
 msgid "Number of maps per match"
-msgstr "Karşılaşma başına harita sayısı"
+msgstr "Maç başına harita sayısı"
 
 msgid "Number of rounds per map"
 msgstr "Harita başına round sayısı"
@@ -2264,6 +2337,9 @@ msgstr ""
 "Kestirmelerin önüne geçmek ve diğer oyuncuların pistinizde respawn olmasını "
 "kolaylaştırmak için checkpoint'ler yerleştirin."
 
+msgid "Placement match"
+msgstr "Yerleştirme maçı"
+
 msgid "Platform"
 msgstr "Platform"
 
@@ -2337,8 +2413,8 @@ msgid ""
 "Please stay in the channel until the Knockout begins. You will be "
 "automatically redirected when your match is ready."
 msgstr ""
-"Lütfen Eleme başlayana kadar kanalda kalın. Karşılaşma hazır olduğunda "
-"otomatik olarak yönlendirileceksiniz."
+"Lütfen Eleme başlayana kadar kanalda kalın. Maç hazır olduğunda otomatik "
+"olarak yönlendirileceksiniz."
 
 msgid "Please wait."
 msgstr "Lütfen bekleyin."
@@ -2360,6 +2436,9 @@ msgstr "Puan limiti : "
 
 msgid "Points limit: %1, Current best score: %2"
 msgstr "Puan limiti: %1, Güncel en iyi skor: %2"
+
+msgid "Points repartition"
+msgstr "Puan yeniden bölümü"
 
 msgid "Popularity"
 msgstr "Popülerlik"
@@ -2444,8 +2523,14 @@ msgstr "KALİTE"
 msgid "QUALITY CONTROL MANAGER"
 msgstr "KALİTE KONTROL MÜDÜRÜ"
 
+msgid "Qualifications dates"
+msgstr "Eleme tarihleri"
+
 msgid "Qualifier rank: %1"
 msgstr "Eleme sıralaması: %1"
+
+msgid "Qualify"
+msgstr "KATIL"
 
 msgid "Quantity"
 msgstr "Miktar"
@@ -2493,7 +2578,7 @@ msgid ""
 "Race MapType has not been found or set. You might be unable to validate your "
 "map."
 msgstr ""
-"Yarış HaritaTipi bulunmadı veya ayarlanmadı. Haritanızı "
+"Yarış HaritaTürü bulunmadı veya ayarlanmadı. Haritanızı "
 "doğrulayamayabilirsiniz."
 
 msgid "Race and compete in the daily player's map selection"
@@ -2530,6 +2615,12 @@ msgstr "Hazır"
 msgid "Ready (F6)"
 msgstr "Hazır (F6)"
 
+msgid "Ready!"
+msgstr "Hazır!"
+
+msgid "Ready: %1/%2"
+msgstr "Hazır: %1/%2"
+
 msgid "Record leader ghost"
 msgstr "Lider hayaleti kaydet"
 
@@ -2551,8 +2642,17 @@ msgstr "Yenile"
 msgid "Register"
 msgstr "Kaydol"
 
+msgid "Registration dates"
+msgstr "Kayıt tarihleri"
+
 msgid "Registration failed (Error code: %1)"
 msgstr "Kaydolma başarısız (Hata kodu: %1)"
+
+msgid "Registrations are closed."
+msgstr "Kayıt alımı kapandı."
+
+msgid "Registrations have not yet started."
+msgstr "Kayıt alımı henüz başlamadı."
 
 msgid "Remaining time: %1"
 msgstr "Kalan süre: %1"
@@ -2597,7 +2697,7 @@ msgid "Resume"
 msgstr "Devam et"
 
 msgid "Resuming match"
-msgstr "Karşılaşma sürdürülüyor"
+msgstr "Maç sürdürülüyor"
 
 msgid "Retrieving map list..."
 msgstr "Harita listesi alınıyor..."
@@ -2826,6 +2926,14 @@ msgid "Saving campaign..."
 msgstr "Campaign kaydediliyor..."
 
 msgid ""
+"Score points for %1your country%2. Play against players with the%1 same "
+"placement%2 rank. You score more points in%1 high rank%2 matchs. "
+msgstr ""
+"%1Ülkeniz%2 için puan elde edin. %1Aynı yerleştirme sıralamasındaki%2 "
+"oyunculara karşı oynayın. %1Yüksek sıralamalı%2 maçlarda daha fazla puan "
+"elde edersiniz. "
+
+msgid ""
 "Screen 16x1: image displayed on stadium's podium (under big screen).\n"
 "Dimensions: %1 - Format: DDS (DXT5)"
 msgstr ""
@@ -2949,6 +3057,9 @@ msgstr "Seçilen haritalar"
 msgid "Semi-final"
 msgstr "Yarı final"
 
+msgid "Server %1"
+msgstr "Sunucu %1"
+
 msgid "Server account"
 msgstr "Sunucu hesabı"
 
@@ -2996,6 +3107,9 @@ msgstr "Tek Harita"
 
 msgid "Sixth (Press 6)"
 msgstr "Altıncı (6'ya basın)"
+
+msgid "Skill Points Ranking"
+msgstr "Yetenek Puanı Sıralaması"
 
 msgid "Skin browser"
 msgstr "Dış görünüm tarayıcısı"
@@ -3052,6 +3166,9 @@ msgstr ""
 
 msgid "Starter"
 msgstr "BAŞLANGIÇ"
+
+msgid "Starts in"
+msgstr "Başlıyor:"
 
 msgid "Stats"
 msgstr "İstatistikler"
@@ -3270,6 +3387,9 @@ msgstr "Pisti test et"
 msgid "Test your maps"
 msgstr "KENDİ HARİTALARINI TEST ET"
 
+msgid "The %1 started, GL HF"
+msgstr "%1 başladı, bol şans, iyi eğlenceler"
+
 msgid ""
 "The Club Access is a 1 year or 3 years pass offering the most complete "
 "Trackmania experience with customization, pro-level competitions and unique "
@@ -3313,6 +3433,12 @@ msgstr "Dekorasyon kaldırılacak ve pisti yeniden onaylamanız gerekecek."
 msgid "The decoration will be removed."
 msgstr "Dekorasyon kaldırılacak."
 
+msgid "The description of Competition can't be empty"
+msgstr "Karşılaşmanın açıklaması boş olamaz"
+
+msgid "The description of Competition has a maximum of %1 characters"
+msgstr "Karşılaşmanın açıklaması en fazla %1 karakterden oluşabilir"
+
 msgid "The headline has a maximum of %1 characters"
 msgstr "Ana başlık en fazla %1 karakterden oluşabilir"
 
@@ -3321,6 +3447,9 @@ msgstr "LİDER TABLOSU KAPALI!"
 
 msgid "The league is coming back in"
 msgstr "Lig devam edecek:"
+
+msgid "The map %1 is already used, please select an another map"
+msgstr "%1 zaten kullanıldı, lütfen başka bir harita seçin"
 
 msgid "The map '%1' is already in the playlist"
 msgstr "'%1' haritası zaten oynatma listesinde"
@@ -3335,11 +3464,17 @@ msgstr ""
 "'%1' haritası oynanamıyor. Lütfen haritayı doğrulayın ve gölgeleri "
 "hesaplayın."
 
+msgid "The match is over, thank you for playing. You may leave now."
+msgstr "Maç bitti, oynadığınız için teşekkürler. Şimdi ayrılabilirsiniz."
+
+msgid "The match started, GL HF"
+msgstr "Maç başladı, bol şans, iyi eğlenceler"
+
 msgid "The match will begin shortly ..."
-msgstr "Karşılaşma kısa süre içinde başlayacak..."
+msgstr "Maç kısa süre içinde başlayacak..."
 
 msgid "The matchsettings is not valid"
-msgstr "Karşılaşma ayarları geçerli değil"
+msgstr "Maç ayarları geçerli değil"
 
 msgid "The name has a maximum of %1 characters"
 msgstr "İsim en fazla %1 karaktere sahip olabilir"
@@ -3353,16 +3488,19 @@ msgid "The name tag has a maximum of %1 characters"
 msgstr "İsim etiketinde en fazla %1 karakter olabilir"
 
 msgid "The next match will begin in %1 "
-msgstr "Bir sonraki karşılaşma %1 içinde başlayacak  "
+msgstr "Bir sonraki maç %1 içinde başlayacak"
 
 msgid "The registration closed at: %1 H"
 msgstr "Kayıt alımı kapanış saati: %1 H"
+
+msgid "The registration failed. Please try again later. (Error code: %1)"
+msgstr "Kayıt yapılamadı. Lütfen daha sonra tekrar deneyin. (Hata kodu: %1)"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Odaya ulaşılamıyor, lütfen tekrar deneyin. (Hata kodu: %1)"
 
 msgid "The room is starting, it will be ready in a few seconds."
-msgstr "Oda başlıyor, birkaç saniye içinde hazır olacak."
+msgstr "ODA BAŞLIYOR, BİRKAÇ SANİYE İÇİNDE HAZIR OLACAK."
 
 msgid ""
 "The track could not be auto-finished. Remove a few blocks before retrying."
@@ -3385,6 +3523,9 @@ msgstr "Kulübünüzde görüntülenen bir etkinlik yok."
 msgid "There are no macroblocks available for this editor."
 msgstr "Bu editör için uygun makroblok mevcut değil."
 
+msgid "There are no matches now, come back later"
+msgstr "Şu an maç yok, daha sonra tekrar gelin"
+
 msgid "There are no saved activities in your club."
 msgstr "Kulübünüzde kaydedilmiş aktivite yok."
 
@@ -3392,7 +3533,7 @@ msgid ""
 "There has been an error while fetching information about this competition. "
 "(Error code: %1)"
 msgstr ""
-"Bu karşılaşma hakkındaki bilgiler getirilirken hata oluştu. (Hata kodu: %1)"
+"Bu karşılaşmaya ilişkin bilgiler getirilirken hata oluştu. (Hata kodu: %1)"
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
@@ -3410,6 +3551,9 @@ msgstr ""
 
 msgid "Third (Press 3)"
 msgstr "Üçüncü (3'e basın)"
+
+msgid "This Competition is closed"
+msgstr "Bu karşılaşma kapandı"
 
 msgid ""
 "This activity is private, you need to be a member of the club to use it."
@@ -3443,8 +3587,7 @@ msgstr "Bu harita oynanamaz"
 msgid ""
 "This matchmaking server is hosting a match. You can't join at the moment."
 msgstr ""
-"Bu eşleştirme sunucusunda bir karşılaşma gerçekleşiyor. Şu anda "
-"katılamazsınız."
+"Bu eşleştirme sunucusunda bir maç gerçekleşiyor. Şu anda katılamazsınız."
 
 msgid "This round is a draw."
 msgstr "Bu round berabere."
@@ -3594,11 +3737,24 @@ msgstr "Üyenin rolünü güncelle"
 msgid "Updating club..."
 msgstr "Kulüp güncelleniyor..."
 
+msgid ""
+"Upgrading from Standard to Club access will transform one third of your "
+"remaining days of Standard access into Club access"
+msgstr ""
+"Standart Erişim'den Kulüp Erişimi'ne yükseltildiğinde kalan Standart Erişim "
+"günlerinizin üçte biri Kulüp Erişimi gününe dönüştürülecektir"
+
 msgid "Upload a map"
 msgstr "Karşıya harita yükle"
 
 msgid "Upload a skin"
 msgstr "KARŞIYA DIŞ GÖRÜNÜM YÜKLE"
+
+msgid "Upload of the logo failed (Error code: %1)"
+msgstr "Logo karşıya yüklenemedi (Hata kodu: %1)"
+
+msgid "Uploading of the vertical Image failed (Error code: %1)"
+msgstr "Dikey resim karşıya yüklenemedi (Hata kodu: %1)"
 
 msgid "Uploading..."
 msgstr "Karşıya yükleniyor..."
@@ -3764,10 +3920,10 @@ msgid "Waiting for your allies to be ready."
 msgstr "Müttefiklerinizin hazır olması bekleniyor."
 
 msgid "Waiting for your match"
-msgstr "Karşılaşmanız için bekleniyor"
+msgstr "Maç için bekleniyor"
 
 msgid "Waiting for your match to start"
-msgstr "Karşılaşmanızın başlaması için bekleniyor"
+msgstr "Maçınızın başlaması için bekleniyor"
 
 msgid "Warm up"
 msgstr "Isınma"
@@ -3789,16 +3945,19 @@ msgid "We are sending you back to the lobby."
 msgstr "Sizi lobiye geri gönderiyoruz."
 
 msgid "We are sending you back to the match you left."
-msgstr "Sizi ayrıldığınız karşılaşmaya geri gönderiyoruz."
+msgstr "Sizi ayrıldığınız maça geri gönderiyoruz."
 
 msgid "We are starting a new match."
-msgstr "Yeni bir karşılaşma başlatıyoruz."
+msgstr "Yeni bir maç başlatıyoruz."
 
 msgid "Wednesday"
 msgstr "ÇARŞAMBA"
 
 msgid "Welcome to Trackmania"
 msgstr "Trackmania'ya Hoş Geldiniz"
+
+msgid "Welcome to the %1 server."
+msgstr "%1 sunucusuna hoş geldiniz."
 
 msgid ""
 "Welcome to the Nadeo daily cup\n"
@@ -3831,6 +3990,9 @@ msgstr ""
 
 msgid "Welcome to the club!"
 msgstr "Kulübe hoş geldiniz!"
+
+msgid "Welcome to the: %1."
+msgstr "Hoş geldiniz: %1."
 
 msgid "What do you want to do?"
 msgstr "Ne yapmak istersiniz?"
@@ -3872,6 +4034,9 @@ msgstr "SARI"
 msgid "Yes"
 msgstr "Evet"
 
+msgid "You are already registered for this event."
+msgstr "Bu etkinliğe zaten kayıtlısınız."
+
 msgid "You are being transferred as a substitute."
 msgstr "Yedek olarak transfer edilyorsunuz."
 
@@ -3887,6 +4052,9 @@ msgstr "Trackmania sunucularına olan bağlantınız kesildi. (Hata kodu: %1)"
 msgid "You are not connected to Uplay."
 msgstr "Uplay'e bağlı değilsiniz."
 
+msgid "You are not registered for any event yet"
+msgstr "Henüz herhangi bir etkinliğe kayıtlı değilsiniz"
+
 msgid "You are not subscribed to any club"
 msgstr "Herhangi bir kulübe abone değilsiniz"
 
@@ -3897,14 +4065,13 @@ msgid "You are suspended"
 msgstr "Askıya alındınız"
 
 msgid "You can cancel 1 match."
-msgstr "1 karşılaşmayı iptal edebilirsiniz."
+msgstr "1 maçı iptal edebilirsiniz."
 
 msgid ""
 "You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
 "match."
 msgstr ""
-"Kupaya $<$00f$tdevam ederek$> bir Eleme karşılaşmasında yer almayı "
-"seçebilirsiniz."
+"Kupaya $<$00f$tdevam ederek$> bir Eleme maçında yer almayı seçebilirsiniz."
 
 msgid "You can create your own party by clicking on the create button below."
 msgstr ""
@@ -3963,6 +4130,9 @@ msgstr ""
 "\n"
 "Günlük kanala 30 saniye içinde yönlendirileceksiniz."
 
+msgid "You have been successfuly registered!"
+msgstr "Kaydınız başarıyla alındı!"
+
 msgid "You have to place exactly one podium!"
 msgstr "Sadece bir podyum yerleştirmelisiniz!"
 
@@ -4008,13 +4178,13 @@ msgid "You will be able to change it later"
 msgstr "Daha sonra değiştirebilirsiniz"
 
 msgid "You will be suspended if you cancel your next match."
-msgstr "Bir sonraki karşılaşmayı iptal ederseniz askıya alınacaksınız."
+msgstr "Bir sonraki maçı iptal ederseniz askıya alınacaksınız."
 
 msgid "You will have to validate the track again."
 msgstr "Pisti yeniden doğrulamanız gerekecek."
 
 msgid "You will soon be redirected to a match server."
-msgstr "Yakında bir karşılaşma sunucusuna yönlendirileceksiniz"
+msgstr "Yakında bir maç sunucusuna yönlendirileceksiniz"
 
 msgid "Your map in less than %1 minutes"
 msgstr "Haritanıza kalan süre: %1 dk.dan daha az"
@@ -4024,6 +4194,9 @@ msgstr "Aramada herhangi bir sonuç bulunamadı"
 
 msgid "Your subscription ends on %1"
 msgstr "Aboneliğiniz %1 tarihinde sona erecek"
+
+msgid "by"
+msgstr "tarafından"
 
 msgid "by %1"
 msgstr "%1 TARAFINDAN"
@@ -4036,6 +4209,9 @@ msgstr "kontrol aracı"
 
 msgid "max %1 characters"
 msgstr "maks %1 karakter"
+
+msgid "ok"
+msgstr "tamam"
 
 msgid "per server"
 msgstr "sunucu başına"
@@ -4050,7 +4226,11 @@ msgid "yes"
 msgstr "evet"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
-msgstr "|%1 is the number of matches|%1 karşılaşmayı iptal edebilirsiniz."
+msgstr "|%1 is the number of matches|%1 maçı iptal edebilirsiniz."
+
+msgid "|About race tracks|Resetting tracks playlist before starting..."
+msgstr ""
+"|About race tracks|Başlamadan önce harita oynatma listesi sıfırlanıyor..."
 
 msgid "|Action|Quick save"
 msgstr "|Action|Hızlı kayıt"
@@ -4061,8 +4241,14 @@ msgstr "|Alert window title|Uyarı"
 msgid "|Author|By"
 msgstr "|Author|Yapımcı"
 
+msgid "|Before the match starts|Pre-match warm-up"
+msgstr "|Before the match starts|Maç öncesi ısınma"
+
 msgid "|Best score|New"
 msgstr "|Best score|Yeni"
+
+msgid "|Best score|Your record was successfully registered!"
+msgstr "|Best score|Rekorunuz başarıyla kaydedildi!"
 
 msgid "|BlockCategory|Checkpoint"
 msgstr "|BlockCategory|Checkpoint"
@@ -4133,6 +4319,9 @@ msgstr "|Blocks|Son kullanılanlar"
 msgid "|Camera|Follow"
 msgstr "|Camera|Takip"
 
+msgid "|Camera|Follow all"
+msgstr "|Camera|TÜMÜNÜ TAKİP ET"
+
 msgid "|Camera|Free"
 msgstr "|Camera|Serbest"
 
@@ -4140,13 +4329,19 @@ msgid "|Camera|Replay"
 msgstr "|Camera|Replay"
 
 msgid "|Campaign Map|Official"
-msgstr "|Campaign Map|Resmî"
+msgstr "|Campaign Map|Resmi"
 
 msgid "|Campaign|April %1"
 msgstr "|Campaign|NİSAN %1"
 
+msgid "|Campaign|April %1 %2"
+msgstr "|Campaign|%1 Nisan %2"
+
 msgid "|Campaign|August %1"
 msgstr "|Campaign|AĞUSTOS %1"
+
+msgid "|Campaign|August %1 %2"
+msgstr "|Campaign|%1 Ağustos %2"
 
 msgid "|Campaign|Club"
 msgstr "|Campaign|Kulüp"
@@ -4154,23 +4349,44 @@ msgstr "|Campaign|Kulüp"
 msgid "|Campaign|December %1"
 msgstr "|Campaign|ARALIK %1"
 
+msgid "|Campaign|December %1 %2"
+msgstr "|Campaign|%1 Aralık %2"
+
 msgid "|Campaign|February %1"
 msgstr "|Campaign|ŞUBAT %1"
+
+msgid "|Campaign|February %1 %2"
+msgstr "|Campaign|%1 Şubat %2"
 
 msgid "|Campaign|January %1"
 msgstr "|Campaign|OCAK %1"
 
+msgid "|Campaign|January %1 %2"
+msgstr "|Campaign|%1 Ocak %2"
+
 msgid "|Campaign|July %1"
 msgstr "|Campaign|TEMMUZ %1"
+
+msgid "|Campaign|July %1 %2"
+msgstr "|Campaign|%1 Temmuz %2"
 
 msgid "|Campaign|June %1"
 msgstr "|Campaign|HAZİRAN %1"
 
+msgid "|Campaign|June %1 %2"
+msgstr "|Campaign|%1 Haziran %2"
+
 msgid "|Campaign|March %1"
 msgstr "|Campaign|MART %1"
 
+msgid "|Campaign|March %1 %2"
+msgstr "|Campaign|%1 Mart %2"
+
 msgid "|Campaign|May %1"
 msgstr "|Campaign|MAYIS %1"
+
+msgid "|Campaign|May %1 %2"
+msgstr "|Campaign|%1 Mayıs %2"
 
 msgid "|Campaign|Monthly"
 msgstr "|Campaign|Aylık"
@@ -4178,8 +4394,14 @@ msgstr "|Campaign|Aylık"
 msgid "|Campaign|November %1"
 msgstr "|Campaign|KASIM %1"
 
+msgid "|Campaign|November %1 %2"
+msgstr "|Campaign|%1 Kasım %2"
+
 msgid "|Campaign|October %1"
 msgstr "|Campaign|EKİM %1"
+
+msgid "|Campaign|October %1 %2"
+msgstr "|Campaign|%1 Ekim %2"
 
 msgid "|Campaign|Official"
 msgstr "|Campaign|Resmi"
@@ -4195,6 +4417,9 @@ msgstr "|Campaign|Çeyreklik"
 
 msgid "|Campaign|September %1"
 msgstr "|Campaign|EYLÜL %1"
+
+msgid "|Campaign|September %1 %2"
+msgstr "|Campaign|%1 Eylül %2"
 
 msgid "|Campaign|Training"
 msgstr "|Campaign|Antrenman"
@@ -4300,7 +4525,7 @@ msgid "|DataType|Map"
 msgstr "|DataType|Harita"
 
 msgid "|DataType|MatchSettings"
-msgstr "|DataType|KarşılaşmaAyarları"
+msgstr "|DataType|Maç Ayarları"
 
 msgid "|DataType|None"
 msgstr "|DataType|Yok"
@@ -4319,6 +4544,12 @@ msgstr "|DataType|Dış görünüm"
 
 msgid "|DidNotFinish|DNF"
 msgstr "|DidNotFinish|DNF"
+
+msgid "|Displayed above a countdown|Ends in"
+msgstr "|Displayed above a countdown|Bitiyor:"
+
+msgid "|Displayed above a countdown|Starts in"
+msgstr "|Displayed above a countdown|Başlıyor:"
 
 msgid "|Friday|F"
 msgstr "|Friday|C"
@@ -4572,6 +4803,9 @@ msgstr "|Landscape|Dağ"
 msgid "|Landscape|Pillars"
 msgstr "|Landscape|Sütunlar"
 
+msgid "|League|Map %1"
+msgstr "|League|Harita %1"
+
 msgid "|League|Step %1"
 msgstr "|League|Adım %1"
 
@@ -4771,7 +5005,7 @@ msgid "|Menu|Local"
 msgstr "|Menu|Yerel"
 
 msgid "|Monday|M"
-msgstr "|Monday|P"
+msgstr "|Monday|Pt"
 
 msgid "|Month 3 letters|Apr %1"
 msgstr "|Month 3 letters|NİS %1"
@@ -4915,7 +5149,7 @@ msgid "|Role|Member"
 msgstr "|Role|Üye"
 
 msgid "|Saturday|S"
-msgstr "|Saturday|C"
+msgstr "|Saturday|Ct"
 
 msgid "|Score|Point"
 msgstr "|Score|Puan"
@@ -5046,8 +5280,11 @@ msgstr "|Tabs|YEREL"
 msgid "|Tabs|Solo"
 msgstr "|Tabs|SOLO"
 
+msgid "|The current map/track best scores|Map Records"
+msgstr "|The current map/track best scores|Harita Rekorları"
+
 msgid "|Thursday|T"
-msgstr "|Thursday|P"
+msgstr "|Thursday|Pe"
 
 msgid "|Time|Best"
 msgstr "|Time|En iyi"
@@ -5078,6 +5315,9 @@ msgstr "|Warning|Dikkat"
 
 msgid "|Wednesday|W"
 msgstr "|Wednesday|Ç"
+
+msgid "|When the match is over|Match completed"
+msgstr "|When the match is over|Maç tamamlandı"
 
 msgid "|Window title - creating a new track|New track"
 msgstr "|Window title - creating a new track|Yeni pist"
@@ -5111,6 +5351,9 @@ msgstr "|Zone|GÜNEY AMERİKA"
 
 msgid "|Zone|World"
 msgstr "|Zone|DÜNYA"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|%1 saniye içinde başlıyor"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|dk"

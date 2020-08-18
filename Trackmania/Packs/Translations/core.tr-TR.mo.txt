@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-15 18:21+0000\n"
+"PO-Revision-Date: 2020-07-24 23:58+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -132,7 +132,7 @@ msgid "$<%1$> takes 3rd place!"
 msgstr "$<%1$> 3. oldu!"
 
 msgid "$<%1$> wins the match!"
-msgstr "$<%1$> karşılaşmayı kazandı!"
+msgstr "$<%1$> maçı kazandı!"
 
 msgid "$<%1$> wins the round!"
 msgstr "Round'u $<%1$> kazandı!"
@@ -406,7 +406,7 @@ msgid "%1$<%2$> canceled match start."
 msgstr "%1$<%2$> maç başlangıcını iptal etti."
 
 msgid "%1$<%2$> join a match."
-msgstr "%1$<%2$> bir karşılaşmaya katıldı."
+msgstr "%1$<%2$> bir maça katıldı."
 
 msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$> maça yedek olarak katıldı."
@@ -530,7 +530,7 @@ msgid "A block's clip overrides another block."
 msgstr "Bir bloğun clip'i başka bir bloğun üzerine geliyor."
 
 msgid "A column of that type already exists in this Scores Table!"
-msgstr "Bu tür bir kolon zaten Skor Tablosu'nda mevcut!"
+msgstr "Bu türdeki bir kolon zaten Skor Tablosu'nda mevcut!"
 
 msgid "A compulsory update of the game is available (%1%2)."
 msgstr "Oyun için zorunlu bir güncelleme var (%1%2)."
@@ -1975,7 +1975,7 @@ msgid ""
 "Could not load the Match settings:\n"
 "%1"
 msgstr ""
-"Karşılaşma ayarları yüklenemedi:\n"
+"Maç ayarları yüklenemedi:\n"
 "%1"
 
 msgid "Could not load the file."
@@ -2016,7 +2016,7 @@ msgid ""
 "Could not save the MatchSettings:\n"
 "%1"
 msgstr ""
-"Karşılaşma ayarları kaydedilemedi:\n"
+"Maç Ayarları kaydedilemedi:\n"
 "%1"
 
 msgid "Could not save the file."
@@ -2167,10 +2167,10 @@ msgid "Current color"
 msgstr "Mevcut renk"
 
 msgid "Current match best score"
-msgstr "Güncel en iyi karşılaşma skoru"
+msgstr "Güncel en iyi maç skoru"
 
 msgid "Current match score"
-msgstr "Güncel karşılaşma skoru"
+msgstr "Güncel maç skoru"
 
 msgid "Current password was not provided"
 msgstr "Güncel şifre girilmedi"
@@ -2610,7 +2610,7 @@ msgid "Do you want to load this title into the station?"
 msgstr "Bu station'a bu title'ı yüklemek istiyor musunuz?"
 
 msgid "Do you want to play a rematch?"
-msgstr "Rövanş yarışı yapmak istiyor musunuz?"
+msgstr "Rövanş yarışı oynamak istiyor musunuz?"
 
 msgid "Do you want to play with this map now?"
 msgstr "Şimdi bu harita ile oynamak istiyor musunuz?"
@@ -2895,7 +2895,7 @@ msgid "End User License Agreement"
 msgstr "Son Kullanıcı Lisans Sözleşmesi"
 
 msgid "End of warmup, match starting..."
-msgstr "Isınma bitti, karşılaşma başlıyor..."
+msgstr "Isınma bitti, maç başlıyor..."
 
 msgid "End race"
 msgstr "Yarış sonu"
@@ -2907,7 +2907,7 @@ msgid "End warm-up"
 msgstr "Isınma turunu bitir"
 
 msgid "Enough players agreed to play a rematch."
-msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etti."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı oynamayı kabul etti."
 
 msgid "Enter"
 msgstr "Enter"
@@ -3054,10 +3054,10 @@ msgid "Exit (Back to menus)"
 msgstr "ÇIKIŞ (MENÜYE GERİ DÖN)"
 
 msgid "Exit (interrupt the match)"
-msgstr "Çık (karşılaşmayı kes)"
+msgstr "ÇIKIŞ (MAÇI KES)"
 
 msgid "Exit (leave the match)"
-msgstr "ÇIKIŞ (KARŞILAŞMAYI TERKET)"
+msgstr "ÇIKIŞ (MAÇI TERKET)"
 
 msgid "Exit to menu"
 msgstr "Menüye dön"
@@ -4287,22 +4287,22 @@ msgid "Match Whole word"
 msgstr "Tüm kelimeyi eşleştir"
 
 msgid "Match not started yet."
-msgstr "Karşılaşma henüz başlamadı."
+msgstr "Maç henüz başlamadı."
 
 msgid "Match over. You should have been transferred back to the lobby."
-msgstr "Karşılaşma sona erdi. Lobiye geri gönderilmiş olmalıydınız."
+msgstr "Maç sona erdi. Lobiye geri gönderilmiş olmalıydınız."
 
 msgid "Match over. You will be transferred back."
-msgstr "Karşılaşma sona erdi. Geri gönderiliyorsunuz."
+msgstr "Maç sona erdi. Geri gönderiliyorsunuz."
 
 msgid "Match restart..."
-msgstr "Karşılaşma yeniden başlatılıyor..."
+msgstr "Maç yeniden başlatılıyor..."
 
 msgid "Matchmaking canceled : no server available"
 msgstr "Eşleştirme iptal edildi : mevcut sunucu yok"
 
 msgid "Matchmaking disabled."
-msgstr "Eşleşme başarısız."
+msgstr "Eşleştirme başarısız."
 
 msgid "Matchmaking forced."
 msgstr "Zorunlu eşleştirme."
@@ -4746,7 +4746,7 @@ msgid "Not connected to server!"
 msgstr "Sunucuya bağlı değilsiniz!"
 
 msgid "Not enough players agreed to play a rematch."
-msgstr "Yeterli sayıda oyuncu rövanş yarışı yapmayı kabul etmedi."
+msgstr "Yeterli sayıda oyuncu rövanş yarışı oynamayı kabul etmedi."
 
 msgid "Not in race."
 msgstr "Yarışta değil."
@@ -5365,7 +5365,7 @@ msgid "Press C to close the chat window."
 msgstr "Sohbet penceresini kapatmak için C tuşuna basın."
 
 msgid "Press OK to retry connection"
-msgstr "Tekrar bağlanmayı denemek için Tamam üzerine basın."
+msgstr "Tekrar bağlanmayı denemek için Tamam tuşuna basın."
 
 msgid "Press a key to continue"
 msgstr "Devam etmek için bir tuşa basın"
@@ -6046,7 +6046,7 @@ msgid "Save Macroblock"
 msgstr "MakroBlok'u Kaydet"
 
 msgid "Save MatchSettings"
-msgstr "Karşılaşma ayarları dosyasını kaydet"
+msgstr "Maç Ayarları dosyasını kaydet"
 
 msgid "Save Module"
 msgstr "Modülü Kaydet"
@@ -6635,7 +6635,7 @@ msgid "Size of the text"
 msgstr "Metin boyutu"
 
 msgid "Skillpoints on %1:"
-msgstr "%1 üzerindeki Skillpoints:"
+msgstr "%1 üzerindeki Yetenek Puanı:"
 
 msgid "Skinning Mode (F4)"
 msgstr "Dış Görünüm Modu (F4)"
@@ -7215,7 +7215,7 @@ msgid ""
 "The match was interrupted.\n"
 "Returning to menus."
 msgstr ""
-"Karşılaşma durduruldu.\n"
+"Maç durduruldu.\n"
 "Menüye dönülüyor."
 
 msgid ""
@@ -7223,12 +7223,12 @@ msgid ""
 "%1\n"
 "Returning to menus."
 msgstr ""
-"Karşılaşma durduruldu:\n"
+"Maç durduruldu:\n"
 "%1\n"
 "Menüye dönülüyor."
 
 msgid "The match will begin shortly ..."
-msgstr "Karşılaşma kısa süre içinde başlayacak..."
+msgstr "Maç kısa süre içinde başlayacak..."
 
 msgid ""
 "The mesh uses special layer type '%1'.\n"
@@ -7503,8 +7503,7 @@ msgstr "Bu kullanıcı adı alınabilir."
 msgid ""
 "This matchmaking server is hosting a match. You can't join at the moment."
 msgstr ""
-"Bu eşleştirme sunucusunda bir karşılaşma gerçekleşiyor. Şu anda "
-"katılamazsınız."
+"Bu eşleştirme sunucusunda bir maç gerçekleşiyor. Şu anda katılamazsınız."
 
 msgid ""
 "This mesh contains a non-base material : \"$<%1$>\".\n"
@@ -7792,7 +7791,7 @@ msgid "Total medal ranking"
 msgstr "Toplam madalya sıralaması"
 
 msgid "Total skillpoints ranking"
-msgstr "Toplam skillpoint sıralaması"
+msgstr "Toplam yetenek puanı sıralaması"
 
 msgid "Track %1"
 msgstr "Parça %1"
@@ -8494,10 +8493,10 @@ msgid "We are sending you back to the lobby."
 msgstr "Sizi lobiye geri gönderiyoruz."
 
 msgid "We are sending you back to the match you left."
-msgstr "Sizi ayrıldığınız karşılaşmaya geri gönderiyoruz."
+msgstr "Sizi ayrıldığınız maça geri gönderiyoruz."
 
 msgid "We are starting a new match."
-msgstr "Yeni bir karşılaşma başlatıyoruz."
+msgstr "Yeni bir maç başlatıyoruz."
 
 msgid "We can't validate the score of $<%1$> (%2)."
 msgstr "$<%1$> oyuncusunun skoru (%2) doğrulanamıyor."
@@ -8653,7 +8652,7 @@ msgid "You are being transferred as a substitute."
 msgstr "Yedek olarak transfer edilyorsunuz."
 
 msgid "You are being transferred. Please wait."
-msgstr "Transfer ediliyorsunuz. Lütfen bekleyin..."
+msgstr "Transfer ediliyorsunuz. Lütfen bekleyin."
 
 msgid "You are not allowed to edit pack."
 msgstr "Paket düzenlemeye yetkiniz yok."
@@ -8718,7 +8717,7 @@ msgid "You beat the score of %1!"
 msgstr "%1'in skorunu geçtiniz!"
 
 msgid "You can cancel 1 match."
-msgstr "1 karşılaşmayı iptal edebilirsiniz."
+msgstr "1 maçı iptal edebilirsiniz."
 
 msgid ""
 "You can choose a general horn for all your cars or keep the horns specific "
@@ -9247,7 +9246,7 @@ msgid "You were kicked."
 msgstr "Atıldınız."
 
 msgid "You will be suspended if you cancel your next match."
-msgstr "Bir sonraki karşılaşmayı iptal ederseniz askıya alınacaksınız."
+msgstr "Bir sonraki maçı iptal ederseniz askıya alınacaksınız."
 
 msgid "You will lose all unsaved changes, continue ?"
 msgstr "Tüm kaydedilmemiş değişikler kaybolacak, devam edilsin mi?"
@@ -9263,13 +9262,13 @@ msgid "You won %1 medals!"
 msgstr "%1 madalya kazandınız!"
 
 msgid "You won %1 skillpoints!"
-msgstr "%1 skillpoints kazandınız!"
+msgstr "%1 yetenek puanı kazandınız!"
 
 msgid "You won 1 medal!"
 msgstr "1 madalya kazandınız!"
 
 msgid "You won 1 skillpoint!"
-msgstr "1 skillpoint kazandınız!"
+msgstr "1 yetenek puanı kazandınız!"
 
 msgid "You won all the gold medals for this campaign!"
 msgstr "Bu campaign'deki bütün altın madalyaları aldınız!"
@@ -9302,7 +9301,7 @@ msgid "Your Score"
 msgstr "Skorunuz"
 
 msgid "Your SkillPoints World Ranking"
-msgstr "SkillPoint'inize göre Dünya Sıralamanız"
+msgstr "Yetenek Puanınıza göre Dünya Sıralamanız"
 
 msgid "Your Time"
 msgstr "Süreniz"
@@ -9604,7 +9603,7 @@ msgid "you must accept the license agreement."
 msgstr "lisans sözleşmesini kabul etmelisiniz."
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
-msgstr "|%1 is the number of matches|%1 karşılaşmayı iptal edebilirsiniz."
+msgstr "|%1 is the number of matches|%1 maçı iptal edebilirsiniz."
 
 msgid "|A recap|Summary"
 msgstr "|A recap|Özet"
@@ -11069,7 +11068,7 @@ msgid "|MediaTracker block type|Image"
 msgstr "|MediaTracker block type|Resim"
 
 msgid "|MediaTracker block type|Inertial tracking CamFX"
-msgstr "|MediaTracker block type|KamFX eylemsiz izleme"
+msgstr "|MediaTracker block type|Eylemsiz izleme CamFX"
 
 msgid "|MediaTracker block type|Interface"
 msgstr "|MediaTracker block type|Arayüz"
@@ -11108,10 +11107,10 @@ msgid "|MediaTracker block type|Scenery"
 msgstr "|MediaTracker block type|Manzara"
 
 msgid "|MediaTracker block type|Script CamFX"
-msgstr "|MediaTracker block type|Script KamFX"
+msgstr "|MediaTracker block type|Script CamFX"
 
 msgid "|MediaTracker block type|Shake CamFX"
-msgstr "|MediaTracker block type|Sallama KamFX"
+msgstr "|MediaTracker block type|Sallama CamFX"
 
 msgid "|MediaTracker block type|Simple events display interface"
 msgstr "|MediaTracker block type|Basit olay görüntüleme arayüzü"
