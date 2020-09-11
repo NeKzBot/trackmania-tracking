@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-04 19:46+0000\n"
+"PO-Revision-Date: 2020-09-10 21:47+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -8258,7 +8258,7 @@ msgid "Virtual Reality"
 msgstr "Sanal Gerçeklik"
 
 msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
+msgstr "Yol kenarındaki seyircilerin görünürlüğü"
 
 msgid "Visible by other players"
 msgstr "Başka oyunculara görünür"
@@ -11202,6 +11202,9 @@ msgstr "|MeshModeler|Kutu seçim modu"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Ortalanmış"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "|MeshModeler|Çarpıştırılabilir geometri"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Seçimi kopyala [Ctrl+C]"
 
@@ -12305,11 +12308,14 @@ msgstr "|SpectatorCam|Manuel"
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
 
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Her zaman"
+
 msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Hiçbir zaman"
 
 msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|Yalnız izleyici modundayken"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Düzenleme süresi"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 14:50+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -384,13 +384,6 @@ msgstr "¿Estás seguro de que quieres generar otro mapa?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "¿Estás seguro de que quieres salir del editor?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "¿Seguro que quieres salir de Trackmania?"
 
@@ -463,7 +456,7 @@ msgstr ""
 "control."
 
 msgid "Be in the top %1"
-msgstr "Be in the top %1"
+msgstr "Entra en el top %1"
 
 msgid "Best lap"
 msgstr "Mejor vuelta"
@@ -714,9 +707,6 @@ msgstr ""
 "Haz click en los módulos de la interfaz de usuario para editar sus "
 "propiedades"
 
-msgid "Click to see %1 results"
-msgstr "Click to see %1 results"
-
 msgid "Close"
 msgstr "Cerrar"
 
@@ -961,15 +951,6 @@ msgstr "Desactivar"
 msgid "Dead end"
 msgstr "Punto muerto"
 
-msgid ""
-"Decal 1x1: image visible on the road surface (at start, checkpoint and "
-"finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"Decal 1x1: image visible on the road surface (at start, checkpoint and "
-"finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-
 msgid "Decoration"
 msgstr "Decoración"
 
@@ -1023,9 +1004,6 @@ msgstr "¿Quieres terminar el auto-finalizado?"
 
 msgid "Do you want to validate the track now?"
 msgstr "¿Quieres validar el mapa ahora?"
-
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
 
 msgid "Don't forget to save your track!"
 msgstr "¡No olvides guardar tu mapa!"
@@ -1317,20 +1295,6 @@ msgstr "PLANIFICACIÓN FINANCIERA, ESTUDIOS DE OPERACIONES Y CONTROL DE CALIDAD"
 msgid "FRONT-END ENGINEER"
 msgstr "INGENIERO DE INTERFAZ"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Quinto (Pulsa 5)"
 
@@ -1430,12 +1394,6 @@ msgstr "Rendirse %1"
 msgid "Give up Daily cup?"
 msgstr "¿Rendirse en la copa Diaria?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Ir a lista de mapas"
 
@@ -1498,20 +1456,6 @@ msgstr "INTERN LIVE QA"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "INTERNATIONAL PRODUCT MANAGER"
-
-msgid ""
-"Icon: image used in All Clubs list.\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"Icon: image used in All Clubs list.\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Si eliges un paisaje, podrías perder todo tu progreso."
@@ -1687,12 +1631,6 @@ msgstr "Último tiempo"
 
 msgid "Leader"
 msgstr "Líder"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "Ranking de liga"
@@ -2026,12 +1964,6 @@ msgstr "Nuevo ranking: %1"
 
 msgid "New records disabled"
 msgstr "Nuevos Récords deshabbilitados"
-
-msgid "New season in %1 day"
-msgstr "New season in %1 day"
-
-msgid "New season in %1 days"
-msgstr "New season in %1 days"
 
 msgid "New track"
 msgstr "Nuevo mapa"
@@ -2513,9 +2445,6 @@ msgstr "DIRECTOR DE CONTROL DE CALIDAD"
 msgid "Qualification"
 msgstr "Clasificación"
 
-msgid "Qualification server will be available in %1"
-msgstr "Qualification server will be available in %1"
-
 msgid "Qualifier rank: %1"
 msgstr "Puesto de clasificación: %1"
 
@@ -2640,6 +2569,9 @@ msgstr "Eliminar"
 
 msgid "Remove from favorite"
 msgstr "Eliminar de favoritos"
+
+msgid "Remove image"
+msgstr "Eliminar imagen"
 
 msgid "Remove map"
 msgstr "Eliminar mapa"
@@ -2976,9 +2908,6 @@ msgstr "Seleccionar siguiente mapa"
 msgid "Select number of players"
 msgstr "Seleccionar número de jugadores"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "Seleccionar estilo"
 
@@ -3313,9 +3242,6 @@ msgstr "Probar mapa"
 
 msgid "Test your maps"
 msgstr "Probar tus mapas"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "El %1 ha comenzado, GL HF"
@@ -3806,9 +3732,6 @@ msgstr "Esperando a tu partida"
 
 msgid "Waiting for your match to start"
 msgstr "Esperando a que empiece la partida"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Calentamiento"

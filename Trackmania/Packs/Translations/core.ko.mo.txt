@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-08 03:56+0000\n"
+"PO-Revision-Date: 2020-09-10 08:24+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -8188,9 +8188,6 @@ msgstr "전체 타임라인을 봅니다"
 msgid "Virtual Reality"
 msgstr "가상 현실"
 
-msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
-
 msgid "Visible by other players"
 msgstr "다른 플레이어들에게 보이기"
 
@@ -11079,6 +11076,9 @@ msgstr "|MeshModeler|상자 선택 모드"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|중심"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "|MeshModeler|충돌가능한 형상"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|선택항목 복사[Ctrl+C]"
 
@@ -12177,12 +12177,6 @@ msgstr "|SpectatorCam|수동"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|리플레이"
-
-msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
-
-msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|편집 시간"

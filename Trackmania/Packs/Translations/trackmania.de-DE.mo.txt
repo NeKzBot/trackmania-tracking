@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-08 15:28+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -357,13 +357,6 @@ msgstr "Möchten Sie wirklich eine weitere Strecke generieren?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "Wollen Sie den Editor wirklich verlassen?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Wollen Sie TrackMania wirklich beenden?"
 
@@ -426,6 +419,9 @@ msgid ""
 msgstr ""
 "Seien Sie vorsichtig! Dieser Block deaktiviert Ihren Antrieb, bis Sie einen "
 "neuen Checkpoint passieren."
+
+msgid "Be in the top %1"
+msgstr "Seien Sie in den Top %1"
 
 msgid "Best lap"
 msgstr "Beste Runde"
@@ -853,9 +849,6 @@ msgstr "Wollen Sie das Auto-Ziel beenden?"
 msgid "Do you want to validate the track now?"
 msgstr "Möchten Sie die Strecke jetzt validieren?"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "Vergessen Sie nicht, Ihre Strecke zu speichern!"
 
@@ -1170,20 +1163,6 @@ msgstr "Beenden"
 msgid "F6 to cancel"
 msgstr "F6 zum Abbrechen"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Fünfter (5 Drücken)"
 
@@ -1247,12 +1226,6 @@ msgstr "Aufgeben %1"
 msgid "Give up Daily cup?"
 msgstr "Täglichen Cup aufgeben?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Zur Streckenliste gehen"
 
@@ -1294,13 +1267,6 @@ msgstr "Ich bin bereit"
 
 msgid "I have read and I agree to the %1rules%2 of this event."
 msgstr "Ich habe die %1Regeln%2 des Events gelesen und stimme diesen zu."
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr ""
@@ -1376,12 +1342,6 @@ msgstr "Letzte Zeit"
 
 msgid "Leader"
 msgstr "Führende"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "Ligen-Rang"
@@ -2188,6 +2148,9 @@ msgstr "Entfernen"
 msgid "Remove from favorite"
 msgstr "Von Favoriten entfernen"
 
+msgid "Remove image"
+msgstr "Bild entfernen"
+
 msgid "Remove map"
 msgstr "Strecke entfernen"
 
@@ -2462,9 +2425,6 @@ msgstr "Nächste Strecke auswählen"
 
 msgid "Select number of players"
 msgstr "Anzahl der Spieler auswählen"
-
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
 
 msgid "Select style"
 msgstr "Stil auswählen"
@@ -2790,9 +2750,6 @@ msgstr "Strecke testen"
 
 msgid "Test your maps"
 msgstr "Ihre Strecken testen"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "Das %1 hat begonnen, GL HF"
@@ -3251,9 +3208,6 @@ msgstr "Warte auf Ihr Match"
 
 msgid "Waiting for your match to start"
 msgstr "Warte auf den Start ihres Matches"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Warm-Up"

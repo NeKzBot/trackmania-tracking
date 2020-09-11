@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-09 10:11+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -395,13 +395,6 @@ msgstr "你确定你想生成另一个赛道？"
 msgid "Are you sure you want to leave the editor?"
 msgstr "你确定想离开编辑器吗？"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "确定要退出《赛道狂飙》吗？"
 
@@ -477,6 +470,9 @@ msgstr "平衡队伍"
 msgid ""
 "Be careful! This block disable your engine until you cross a new checkpoint."
 msgstr "小心！这个方块将会停止你的引擎，直到你穿过一个新的检查点为止。"
+
+msgid "Be in the top %1"
+msgstr "进入前%1名"
 
 msgid "Best lap"
 msgstr "最快圈速"
@@ -1043,9 +1039,6 @@ msgstr "你是否确定想停止自动完成赛道？"
 msgid "Do you want to validate the track now?"
 msgstr "你是否想现在验证此赛道？"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "不要忘记保存你的赛道！"
 
@@ -1335,20 +1328,6 @@ msgstr "财务预算，工作室群运营和品质控制"
 msgid "FRONT-END ENGINEER"
 msgstr "前端工程师"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "第五位（按下5键）"
 
@@ -1448,12 +1427,6 @@ msgstr "放弃%1"
 msgid "Give up Daily cup?"
 msgstr "放弃每日杯赛？"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "前往地图列表"
 
@@ -1519,13 +1492,6 @@ msgstr "在线质量监控实习生"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "国际产品经理"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "如果你选择一个场景，你可能会失去你所有的进度。"
@@ -1699,12 +1665,6 @@ msgstr "上次用时"
 
 msgid "Leader"
 msgstr "领先者"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "联赛排名"
@@ -2688,6 +2648,9 @@ msgstr "移除"
 msgid "Remove from favorite"
 msgstr "从收藏中移除"
 
+msgid "Remove image"
+msgstr "删除图片"
+
 msgid "Remove map"
 msgstr "移除地图"
 
@@ -3064,9 +3027,6 @@ msgstr "选择下一个地图"
 msgid "Select number of players"
 msgstr "选择玩家数量"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "选择风格"
 
@@ -3403,9 +3363,6 @@ msgstr "测试赛道"
 
 msgid "Test your maps"
 msgstr "测试你的地图"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "%1现在开始了，祝你好运愉快"
@@ -3914,9 +3871,6 @@ msgstr "等待你的比赛"
 
 msgid "Waiting for your match to start"
 msgstr "等待你的比赛开始"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "热身"

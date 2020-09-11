@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-08 15:27+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -410,13 +410,6 @@ msgstr "Etes-vous sûr de vouloir générer un autre circuit ?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "Etes-vous sûr de vouloir quitter l'éditeur ?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Êtes-vous sûr de vouloir quitter Trackmania ?"
 
@@ -494,6 +487,9 @@ msgid ""
 msgstr ""
 "Faites attention ! Ce bloc désactive votre moteur jusqu'à ce que vous "
 "traversiez un nouveau point de contrôle."
+
+msgid "Be in the top %1"
+msgstr "Etre dans le top %1"
 
 msgid "Best lap"
 msgstr "Meilleur tour"
@@ -1069,9 +1065,6 @@ msgstr "Voulez-vous vraiment arrêter l'arrivée automatique ?"
 msgid "Do you want to validate the track now?"
 msgstr "Voulez-vous valider le circuit maintenant ?"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "N'oubliez pas de sauvegarder votre circuit !"
 
@@ -1423,20 +1416,6 @@ msgstr "PLANNING FINANCIER, OPÉRATIONS STUDIOS & CQ"
 msgid "FRONT-END ENGINEER"
 msgstr "INGÉNIEUR FRONT-END"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Cinquième (Appuyez sur 5)"
 
@@ -1537,12 +1516,6 @@ msgstr "Abandonner %1"
 msgid "Give up Daily cup?"
 msgstr "Abandonner la Coupe Journalière ?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Aller à la liste des circuits"
 
@@ -1608,13 +1581,6 @@ msgstr "STAGIAIRE ASSURANCE QUALITÉ ONLINE"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "RESPONSABLE PRODUIT INTERNATIONAL"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr ""
@@ -1792,12 +1758,6 @@ msgstr "Dernier temps"
 
 msgid "Leader"
 msgstr "Meneur"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "Classement du championnat"
@@ -2810,6 +2770,9 @@ msgstr "Supprimer"
 msgid "Remove from favorite"
 msgstr "Enlever des favoris"
 
+msgid "Remove image"
+msgstr "Supprimez l'image"
+
 msgid "Remove map"
 msgstr "Supprimer le circuit"
 
@@ -3189,9 +3152,6 @@ msgstr "Choisir le circuit suivant"
 msgid "Select number of players"
 msgstr "Choix du nombre de joueurs"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "Sélectionner le style"
 
@@ -3541,9 +3501,6 @@ msgstr "Tester le circuit"
 
 msgid "Test your maps"
 msgstr "Tester vos circuits"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "Le %1 démarre, GL HF"
@@ -4091,9 +4048,6 @@ msgstr "En attente de votre match"
 
 msgid "Waiting for your match to start"
 msgstr "En attente du commencement du match"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Échauffement"

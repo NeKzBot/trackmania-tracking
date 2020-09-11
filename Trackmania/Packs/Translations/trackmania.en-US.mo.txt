@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 14:50+0000\n"
+"PO-Revision-Date: 2020-09-11 09:19+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -404,13 +404,6 @@ msgstr "Are you sure you want to generate another track?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "Are you sure you want to leave the editor?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Are you sure you want to quit Trackmania?"
 
@@ -487,6 +480,9 @@ msgid ""
 "Be careful! This block disable your engine until you cross a new checkpoint."
 msgstr ""
 "Be careful! This block disables your engine until you cross a new checkpoint."
+
+msgid "Be in the top %1"
+msgstr "Be in the top %1"
 
 msgid "Best lap"
 msgstr "Best lap"
@@ -1055,9 +1051,6 @@ msgstr "Do you want to stop the auto-finish?"
 msgid "Do you want to validate the track now?"
 msgstr "Do you want to validate the track now?"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "Don't forget to save your track!"
 
@@ -1370,20 +1363,6 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Fifth (Press 5)"
 
@@ -1483,12 +1462,6 @@ msgstr "Give up %1"
 msgid "Give up Daily cup?"
 msgstr "Give up the Daily Cup?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Go to map list"
 
@@ -1554,13 +1527,6 @@ msgstr "INTERN LIVE QA"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "INTERNATIONAL PRODUCT MANAGER"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "If you choose a landscape, you might lose all of your progress."
@@ -1736,12 +1702,6 @@ msgstr "Last time"
 
 msgid "Leader"
 msgstr "Leader"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "League ranking"
@@ -2736,6 +2696,9 @@ msgstr "Remove"
 msgid "Remove from favorite"
 msgstr "Remove from favorites"
 
+msgid "Remove image"
+msgstr "Remove image"
+
 msgid "Remove map"
 msgstr "Remove map"
 
@@ -3114,9 +3077,6 @@ msgstr "Select next map"
 msgid "Select number of players"
 msgstr "Select number of players"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "Select style"
 
@@ -3457,9 +3417,6 @@ msgstr "Test track"
 msgid "Test your maps"
 msgstr "Test your maps"
 
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
-
 msgid "The %1 started, GL HF"
 msgstr "The %1 started, GL HF"
 
@@ -3608,6 +3565,13 @@ msgid ""
 msgstr ""
 "There was an error getting leaderboard data. Please try again later. (Error: "
 "Task no longer available)"
+
+msgid ""
+"There was an error while gathering the macth results, please try again "
+"later. (Error code: %1)"
+msgstr ""
+"There was an error while gathering the match results, please try again "
+"later. (Error code: %1)"
 
 msgid ""
 "There was an error while gathering the match results, please try again "
@@ -3995,9 +3959,6 @@ msgstr "Waiting for your match"
 
 msgid "Waiting for your match to start"
 msgstr "Waiting for your match to start"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Warmup"

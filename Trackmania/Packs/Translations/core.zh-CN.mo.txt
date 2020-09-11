@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-09 09:28+0000\n"
+"PO-Revision-Date: 2020-09-10 08:24+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -8090,9 +8090,6 @@ msgstr "显示完整时间轴"
 msgid "Virtual Reality"
 msgstr "虚拟现实"
 
-msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
-
 msgid "Visible by other players"
 msgstr "对其他玩家可见"
 
@@ -10942,6 +10939,9 @@ msgstr "|MeshModeler|方框选择模式"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|居中"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "|MeshModeler|可折叠几何图形"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|复制所选 [Ctrl+C]"
 
@@ -12035,12 +12035,6 @@ msgstr "|SpectatorCam|手动"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|回放"
-
-msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
-
-msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|编辑时间"

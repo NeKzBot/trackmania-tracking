@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 14:49+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -379,13 +379,6 @@ msgstr "Er du sikker på, at du vil generere en anden bane?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "Er du sikker på, at du vil forlade editoren?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Er du sikker på, at du vil forlade Trackmania?"
 
@@ -465,7 +458,7 @@ msgstr ""
 "kontrolpunkt."
 
 msgid "Be in the top %1"
-msgstr "Be in the top %1"
+msgstr "Placér i top %1"
 
 msgid "Best lap"
 msgstr "Bedste omgang"
@@ -712,9 +705,6 @@ msgstr "Klik på en spiller for at indstille dem som allieret."
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klik på UI-modulerne for at redigere deres egenskaber"
-
-msgid "Click to see %1 results"
-msgstr "Click to see %1 results"
 
 msgid "Close"
 msgstr "Luk"
@@ -1028,9 +1018,6 @@ msgstr "Vil du stoppe auto-fuldførelsen?"
 msgid "Do you want to validate the track now?"
 msgstr "Vil du validere banen nu?"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "Glem ikke at gemme din bane!"
 
@@ -1308,20 +1295,6 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Femte (Tryk 5)"
 
@@ -1421,12 +1394,6 @@ msgstr "Giv op %1"
 msgid "Give up Daily cup?"
 msgstr "Opgiv daglig turnering?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Gå til baneliste"
 
@@ -1486,13 +1453,6 @@ msgstr "INTERN LIVE QA"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "INTERNATIONAL PRODUCT MANAGER"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Hvis du vælger et landskab, vil du måske miste alle dine fremskridt."
@@ -1665,12 +1625,6 @@ msgstr "Forrige tid"
 
 msgid "Leader"
 msgstr "Føreren"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "Liga-rangliste"
@@ -1999,12 +1953,6 @@ msgstr "Ny rangering: %1"
 
 msgid "New records disabled"
 msgstr "Nye rekorder deaktiveret"
-
-msgid "New season in %1 day"
-msgstr "New season in %1 day"
-
-msgid "New season in %1 days"
-msgstr "New season in %1 days"
 
 msgid "New track"
 msgstr "Ny bane"
@@ -2481,9 +2429,6 @@ msgstr "QUALITY CONTROL MANAGER"
 msgid "Qualification"
 msgstr "Kvalifikation"
 
-msgid "Qualification server will be available in %1"
-msgstr "Qualification server will be available in %1"
-
 msgid "Qualifier rank: %1"
 msgstr "Kvalifikationskamp-rangering: %1"
 
@@ -2608,6 +2553,9 @@ msgstr "Fjern"
 
 msgid "Remove from favorite"
 msgstr "Fjern fra favorit"
+
+msgid "Remove image"
+msgstr "Fjern billede"
 
 msgid "Remove map"
 msgstr "Fjern bane"
@@ -2970,9 +2918,6 @@ msgstr "Vælg næste bane"
 msgid "Select number of players"
 msgstr "Vælg antal spillere"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "Vælg stilart"
 
@@ -3295,9 +3240,6 @@ msgstr "Test bane"
 msgid "Test your maps"
 msgstr "Test dine baner"
 
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
-
 msgid ""
 "The Club Access is a 1 year or 3 years pass offering the most complete "
 "Trackmania experience with customization, pro-level competitions and unique "
@@ -3369,9 +3311,6 @@ msgid ""
 "shadows."
 msgstr ""
 "Banen '%1' er ikke spilleklar. Validér venligst banen og beregn skyggerne."
-
-msgid "The match is over, thank you for playing. You can leave now."
-msgstr "The match is over, thank you for playing. You can leave now."
 
 msgid "The match will begin shortly ..."
 msgstr "Kampen begynder inden længe..."
@@ -3787,9 +3726,6 @@ msgstr "Afventer din kamp"
 
 msgid "Waiting for your match to start"
 msgstr "Venter på, at din kamp starter"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Opvarmning"

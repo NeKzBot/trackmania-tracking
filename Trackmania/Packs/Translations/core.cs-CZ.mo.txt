@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 15:07+0000\n"
+"PO-Revision-Date: 2020-09-10 08:24+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: Czech, Czech Republic\n"
+"Language-Team: tchèque, République tchèque\n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8221,9 +8221,6 @@ msgstr "Zobrazit celou časovou osu"
 msgid "Virtual Reality"
 msgstr "Virtuální Realita"
 
-msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
-
 msgid "Visible by other players"
 msgstr "Viditelné ostatními hráči"
 
@@ -11137,6 +11134,9 @@ msgstr "Režim výběru obalu"
 msgid "|MeshModeler|Centered"
 msgstr "Uprostřed"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "Kolidovatelná geometrie"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "Kopírovat výběr [Ctrl+C]"
 
@@ -12233,12 +12233,6 @@ msgstr "|SpectatorCam|Ruční"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Záznam"
-
-msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
-
-msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Čas úprav"

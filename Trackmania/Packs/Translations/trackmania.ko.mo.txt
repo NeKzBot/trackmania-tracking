@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-08 03:54+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -403,13 +403,6 @@ msgstr "정말로 다른 트랙을 생성하기를 원하십니까?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "정말 에디터를 나가시겠습니까?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Trackmania를 종료하시겠습니까?"
 
@@ -485,6 +478,9 @@ msgstr "팀 균형 맞추기"
 msgid ""
 "Be careful! This block disable your engine until you cross a new checkpoint."
 msgstr "조심하십시오! 이 블록은 새로운 체크 포인트까지 엔진 사용을 멈춥니다."
+
+msgid "Be in the top %1"
+msgstr "최상위 %1위 안에 드십시오"
 
 msgid "Best lap"
 msgstr "베스트 랩"
@@ -1051,9 +1047,6 @@ msgstr "자동 결승점 설정을 중단하시겠습니까?"
 msgid "Do you want to validate the track now?"
 msgstr "트랙을 지금 활성화시키겠습니까?"
 
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
-
 msgid "Don't forget to save your track!"
 msgstr "트랙을 저장하는 것을 잊지 마십시오!"
 
@@ -1388,20 +1381,6 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "5위(5를 누르세요)"
 
@@ -1501,12 +1480,6 @@ msgstr "%1 포기"
 msgid "Give up Daily cup?"
 msgstr "일일 컵을 포기하시겠습니까?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "맵 목록으로 이동"
 
@@ -1572,13 +1545,6 @@ msgstr "인턴 라이브 품질검사"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "국제 제품 과장"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
@@ -1754,12 +1720,6 @@ msgstr "마지막 시간"
 
 msgid "Leader"
 msgstr "선두"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "리그 랭킹"
@@ -2753,6 +2713,9 @@ msgstr "삭제하기"
 msgid "Remove from favorite"
 msgstr "즐겨찾기에서 삭제"
 
+msgid "Remove image"
+msgstr "이미지 제거하기"
+
 msgid "Remove map"
 msgstr "맵 제거하기"
 
@@ -3111,9 +3074,6 @@ msgstr "다음 맵 선택하기"
 msgid "Select number of players"
 msgstr "플레이어 수 선택:"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
-
 msgid "Select style"
 msgstr "스타일 선택"
 
@@ -3452,9 +3412,6 @@ msgstr "트랙 테스트"
 
 msgid "Test your maps"
 msgstr "내 맵 테스트"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "%1 시작. 행운을 빕니다."
@@ -3982,9 +3939,6 @@ msgstr "내 매치 기다리는 중"
 
 msgid "Waiting for your match to start"
 msgstr "매치 시작을 기다리는 중"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "워밍업"

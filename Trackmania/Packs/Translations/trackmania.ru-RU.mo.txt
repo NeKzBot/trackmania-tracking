@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 14:50+0000\n"
+"PO-Revision-Date: 2020-09-10 19:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -332,13 +332,6 @@ msgstr "Вы уверены, что хотите сгенерировать др
 msgid "Are you sure you want to leave the editor?"
 msgstr "Вы уверены, что хотите покинуть редактор?"
 
-msgid ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
-
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Вы уверены, что хотите выйти из Trackmania?"
 
@@ -403,7 +396,7 @@ msgstr ""
 "пересечёте новый чекпоинт."
 
 msgid "Be in the top %1"
-msgstr "Be in the top %1"
+msgstr "Будь в топе %1"
 
 msgid "Best lap"
 msgstr "Лучший круг"
@@ -529,9 +522,6 @@ msgstr "Кликните на игрока, чтобы установить ег
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Кликните на модули интерфейса для редактирования их свойств"
-
-msgid "Click to see %1 results"
-msgstr "Click to see %1 results"
 
 msgid "Close"
 msgstr "Закрыть"
@@ -810,9 +800,6 @@ msgstr "Вы хотите отключить авто-финиш?"
 
 msgid "Do you want to validate the track now?"
 msgstr "Вы хотите подтвердить трассу сейчас?"
-
-msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
 
 msgid "Don't forget to save your track!"
 msgstr "Не забудьте сохранить свою трассу!"
@@ -1098,20 +1085,6 @@ msgstr "Выйти"
 msgid "F6 to cancel"
 msgstr "F6 для отмены"
 
-msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-
 msgid "Fifth (Press 5)"
 msgstr "Пятый (Нажмите 5)"
 
@@ -1175,12 +1148,6 @@ msgstr "Сдаться %1"
 msgid "Give up Daily cup?"
 msgstr "Отказаться от ежедневного кубка?"
 
-msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
-
-msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
-
 msgid "Go to map list"
 msgstr "Перейти к списку карт"
 
@@ -1219,13 +1186,6 @@ msgstr "Хотсит"
 
 msgid "I have read and I agree to the %1rules%2 of this event."
 msgstr "Я прочитал и согласен с %1правилами%2 этого события."
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Если вы выберете ландшафт, вы можете потерять весь ваш прогресс."
@@ -1297,12 +1257,6 @@ msgstr "Последнее время"
 
 msgid "Leader"
 msgstr "Лидер"
-
-msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
-
-msgid "League match divisions"
-msgstr "League match divisions"
 
 msgid "League ranking"
 msgstr "Рейтинг лиги"
@@ -1578,12 +1532,6 @@ msgstr "Новый ранг: %1"
 
 msgid "New records disabled"
 msgstr "Новые рекорды отключены"
-
-msgid "New season in %1 day"
-msgstr "New season in %1 day"
-
-msgid "New season in %1 days"
-msgstr "New season in %1 days"
 
 msgid "New track"
 msgstr "Новая трасса"
@@ -1937,9 +1885,6 @@ msgstr "Профиль"
 msgid "Qualification"
 msgstr "Квалификация"
 
-msgid "Qualification server will be available in %1"
-msgstr "Qualification server will be available in %1"
-
 msgid "Qualifier rank: %1"
 msgstr "Квалификационный ранг: %1"
 
@@ -2049,6 +1994,9 @@ msgstr "Удалить"
 
 msgid "Remove from favorite"
 msgstr "Убрать из избранного"
+
+msgid "Remove image"
+msgstr "Удалить изображение"
 
 msgid "Remove map"
 msgstr "Удалить карту"
@@ -2314,9 +2262,6 @@ msgstr "Выбрать следующую карту"
 
 msgid "Select number of players"
 msgstr "Выберите количество игроков"
-
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
 
 msgid "Select style"
 msgstr "Выбрать стиль"
@@ -2633,9 +2578,6 @@ msgstr "Тестировать трассу"
 
 msgid "Test your maps"
 msgstr "Тестировать свои карты"
-
-msgid "Thank you for playing."
-msgstr "Thank you for playing."
 
 msgid "The %1 started, GL HF"
 msgstr "%1 начался, удачи и веселья"
@@ -3036,9 +2978,6 @@ msgstr "Ждите матч"
 
 msgid "Waiting for your match to start"
 msgstr "Ожидание начала матча"
-
-msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
 
 msgid "Warm up"
 msgstr "Разминка"

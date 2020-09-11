@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 14:50+0000\n"
+"PO-Revision-Date: 2020-09-11 09:19+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -408,8 +408,8 @@ msgid ""
 "Are you sure you want to leave the server? You can join your next match from "
 "the Event page."
 msgstr ""
-"Are you sure you want to leave the server? You can join your next match from "
-"the Event page."
+"Sunucudan ayrılmak istediğinize emin misiniz? Sıradaki maçınıza Etkinlik "
+"sayfasından katılabilirsiniz."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "TRACKMANIA'DAN ÇIKMAK İSTEDİĞİNİZE EMİN MİSİNİZ?"
@@ -488,6 +488,9 @@ msgid ""
 msgstr ""
 "Dikkatli olun! Bu blok, yeni bir checkpoint'ten geçene kadar motorunuzu "
 "devre dışı bırakacaktır."
+
+msgid "Be in the top %1"
+msgstr "İlk %1 içine gir"
 
 msgid "Best lap"
 msgstr "En iyi tur"
@@ -738,6 +741,9 @@ msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
 msgid "Click on the UI modules to edit their properties"
 msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
 
+msgid "Click to see %1 results"
+msgstr "%1 sonuçlarını görmek için tıklayın"
+
 msgid "Close"
 msgstr "Kapat"
 
@@ -809,6 +815,9 @@ msgstr "Seçiminizi onaylayın"
 
 msgid "Confirmation"
 msgstr "Onay"
+
+msgid "Congratulations"
+msgstr "Tebrikler"
 
 msgid "Connect"
 msgstr "Bağla"
@@ -922,6 +931,9 @@ msgstr "Şu anki oyuncu"
 msgid "Current quarterly campaign"
 msgstr "Mevcut çeyreklik campaign"
 
+msgid "Current round starts in %1"
+msgstr "Mevcut round %1 içinde başlayacak"
+
 msgid "Customization"
 msgstr "Özelleştirme"
 
@@ -992,6 +1004,15 @@ msgid "Dead end"
 msgstr "Çıkmaz yol"
 
 msgid ""
+"Decal 1x1: image visible on the road surface (at start, checkpoint and "
+"finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Kaplama 1x1: Yol yüzeyinde görülen resim (başlangıçta, bitişte ve "
+"checkpoint'te).\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid ""
 "Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
 "Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
 msgstr ""
@@ -1056,7 +1077,7 @@ msgid "Do you want to validate the track now?"
 msgstr "Pisti şimdi doğrulamak istiyor musunuz?"
 
 msgid "Do your best to qualify."
-msgstr "Do your best to qualify."
+msgstr "Elinizden gelenin en iyisini yapın ve elemeyi geçin."
 
 msgid "Don't forget to save your track!"
 msgstr "Pistinizi kaydetmeyi unutmayın!"
@@ -1313,11 +1334,20 @@ msgid "Error while loading the event. Please try again. (Error code: %1)"
 msgstr ""
 "Etkinlik yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
+msgid "Error while loading the leaderboard, please try again (Error code : %1"
+msgstr ""
+"Lider tablosu yüklenirken hata oluştu, lütfen tekrar deneyin (Hata kodu : %1)"
+
 msgid ""
 "Error while loading the leaderboard. Please try again later. (Error code: %1)"
 msgstr ""
 "Lider tablosu yüklenirken hata oluştu. Lütfen daha sonra tekrar deneyin. "
 "(Hata kodu: %1)"
+
+msgid ""
+"Error while loading the match results, please try again (Error code : %1"
+msgstr ""
+"Maç sonuçları yüklenirken hata oluştu, lütfen tekrar deneyin (Hata kodu : %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
@@ -1402,15 +1432,15 @@ msgid ""
 "Failed to join server, please join next match from the Event page. Return to "
 "the main menu in"
 msgstr ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
+"Sunucuya katılma başarısız oldu, lütfen sıradaki maça Etkinlik sayfasından "
+"katılın. Ana menüye dönülüyor:"
 
 msgid ""
 "Failed to obtain match join link, please join next match from the Event "
 "page. Return to the main menu in"
 msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
+"Maça katılma linki alınamadı, lütfen sıradaki maça Etkinlik sayfasından "
+"katılın. Ana menüye dönülüyor:"
 
 msgid "Fifth (Press 5)"
 msgstr "Beşinci (5'e basın)"
@@ -1512,10 +1542,10 @@ msgid "Give up Daily cup?"
 msgstr "Günlük kupadan vazgeç?"
 
 msgid "Go back to the menu to see the results."
-msgstr "Go back to the menu to see the results."
+msgstr "Sonuçları görmek için menüye dönün."
 
 msgid "Go back to the menu to wait for your next match."
-msgstr "Go back to the menu to wait for your next match."
+msgstr "Menüye dönün ve sıradaki maçınızı bekleyin."
 
 msgid "Go to map list"
 msgstr "Harita listesini aç"
@@ -1584,11 +1614,18 @@ msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "ULUSLARARASI ÜRÜN MÜDÜRÜ"
 
 msgid ""
+"Icon: image used in All Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"İkon: Tüm Kulüpler listesinde kullanılan resim.\n"
+"Boyut: %1 - Format: PNG, JPEG veya DDS (DXT5)"
+
+msgid ""
 "If you are not redirected, please return to the main menu and join next "
 "match from the Event page."
 msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
+"Eğer yönlendirilmezseniz, lütfen ana menüye dönün ve sıradaki maça Etkinlik "
+"sayfasından katılın."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Eğer bir manzara seçerseniz, tüm ilerlemenizi kaybedebilirsiniz."
@@ -1766,10 +1803,13 @@ msgid "Leader"
 msgstr "Lider"
 
 msgid "Leaderboard is empty"
-msgstr "Leaderboard is empty"
+msgstr "Lider tablosu boş"
+
+msgid "League match"
+msgstr "Lig maçı"
 
 msgid "League match divisions"
-msgstr "League match divisions"
+msgstr "Lig maçı sınıfları"
 
 msgid "League ranking"
 msgstr "Lig sıralaması"
@@ -2134,6 +2174,12 @@ msgstr "Yeni rekorlar devre dışı bırakıldı"
 msgid "New season in %1"
 msgstr "YENİ SEZON: %1 İÇİNDE"
 
+msgid "New season in %1 day"
+msgstr "Yeni sezon %1 gün içinde"
+
+msgid "New season in %1 days"
+msgstr "Yeni sezon %1 gün içinde"
+
 msgid "New track"
 msgstr "YENİ PİST"
 
@@ -2166,6 +2212,9 @@ msgstr "SONRAKİ HARİTA"
 
 msgid "Next map in %1..."
 msgstr "Sıradaki haritaya %1..."
+
+msgid "Next match"
+msgstr "Sıradaki maç"
 
 msgid "Next medal"
 msgstr "SIRADAKİ MADALYA"
@@ -2627,8 +2676,20 @@ msgstr "KALİTE KONTROL MÜDÜRÜ"
 msgid "Qualification"
 msgstr "Nitelik"
 
+msgid "Qualification ends in %1"
+msgstr "Eleme %1 içinde sona erecek"
+
+msgid "Qualification ranking is empty"
+msgstr "Eleme sıralaması henüz boş"
+
 msgid "Qualification server %1"
 msgstr "Eleme sunucusu %1"
+
+msgid "Qualification server will be available in %1"
+msgstr "Eleme sunucusu %1 içinde ulaşılabilir olacak"
+
+msgid "Qualifier over"
+msgstr "Eleme sona erdi"
 
 msgid "Qualifier rank: %1"
 msgstr "Eleme sıralaması: %1"
@@ -2769,6 +2830,9 @@ msgstr "KALDIR"
 
 msgid "Remove from favorite"
 msgstr "SIK KULLANILANLARDAN KALDIR"
+
+msgid "Remove image"
+msgstr "Resmi kaldır"
 
 msgid "Remove map"
 msgstr "Haritayı kaldır"
@@ -3076,6 +3140,9 @@ msgstr "Yukarı kaydır"
 msgid "Second (Press 2)"
 msgstr "İkinci (2'ye basın)"
 
+msgid "See competitors list"
+msgstr "Katılımcıların listesini gör"
+
 msgid "See full ranking"
 msgstr "Tam sıralamayı gör"
 
@@ -3150,7 +3217,7 @@ msgid "Select number of players"
 msgstr "OYUNCU SAYISINI SEÇİN"
 
 msgid "Select one of this servers to join the qualification"
-msgstr "Select one of this servers to join the qualification"
+msgstr "Elemeye katılmak için sunuculardan birini seçin"
 
 msgid "Select style"
 msgstr "Stil seç"
@@ -3501,7 +3568,7 @@ msgid "Test your maps"
 msgstr "KENDİ HARİTALARINI TEST ET"
 
 msgid "Thank you for playing."
-msgstr "Thank you for playing."
+msgstr "Oynadığınız için teşekkürler."
 
 msgid "The %1 started, GL HF"
 msgstr "%1 başladı, bol şans, iyi eğlenceler"
@@ -3577,6 +3644,9 @@ msgstr ""
 "'%1' haritası oynanamıyor. Lütfen haritayı doğrulayın ve gölgeleri "
 "hesaplayın."
 
+msgid "The match is over, thank you for playing. You can leave now."
+msgstr "Maç bitti, oynadığınız için teşekkürler. Artık ayrılabilirsiniz."
+
 msgid "The match started, GL HF"
 msgstr "Maç başladı, bol şans, iyi eğlenceler"
 
@@ -3651,6 +3721,13 @@ msgstr ""
 "(Hata: Görev artık mevcut değil)"
 
 msgid ""
+"There was an error while gathering the macth results, please try again "
+"later. (Error code: %1)"
+msgstr ""
+"Maç sonuçları yüklenirken hata oluştu, lütfen daha sonra tekrar deneyin. "
+"(Hata kodu: %1)"
+
+msgid ""
 "There was an error while gathering the match results, please try again "
 "later. (Error: Task no longer available)"
 msgstr ""
@@ -3661,14 +3738,14 @@ msgid ""
 "There was an error while gathering the rankings, please try again later. "
 "(Error code: %1)"
 msgstr ""
-"Sıralamalar toplanırken hata oluştu, lütfen daha sonra tekrar deneyin. (Hata "
+"Sıralamalar yüklenirken hata oluştu, lütfen daha sonra tekrar deneyin. (Hata "
 "kodu: %1)"
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
 "(Error: Task not longer available)"
 msgstr ""
-"Sıralamalar toplanırken hata oluştu, lütfen daha sonra tekrar deneyin. "
+"Sıralamalar yüklenirken hata oluştu, lütfen daha sonra tekrar deneyin. "
 "(Hata: Görev artık mevcut değil)"
 
 msgid "Third (Press 3)"
@@ -3684,6 +3761,9 @@ msgid ""
 msgstr ""
 "Bu bloğun özelleştirilebilir bir dış görünümü var. Kullanmak istediğiniz "
 "resmi seçmek için %1 kullanın."
+
+msgid "This competition has ended"
+msgstr "Bu karşılaşma sona erdi"
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr ""
@@ -3863,6 +3943,9 @@ msgstr "Karşıya harita yükle"
 msgid "Upload a skin"
 msgstr "KARŞIYA DIŞ GÖRÜNÜM YÜKLE"
 
+msgid "Upload image"
+msgstr "Resim yükle"
+
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Logo karşıya yüklenemedi (Hata kodu: %1)"
 
@@ -4026,6 +4109,9 @@ msgstr "WEB SUNUCULARI EKİBİ"
 msgid "WEB UI DESIGNER"
 msgstr "WEB ARAYÜZ TASARIMCISI"
 
+msgid "Wait for next match"
+msgstr "Sıradaki maç için bekleyin"
+
 msgid "Waiting for other players."
 msgstr "Diğer oyuncular bekleniyor."
 
@@ -4041,8 +4127,11 @@ msgstr "Maç için bekleniyor"
 msgid "Waiting for your match to start"
 msgstr "Maçınızın başlaması için bekleniyor"
 
+msgid "Waiting for your match, this may take up to 3 minutes."
+msgstr "Maçınız için bekleniyor, bu 3 dakikaya kadar sürebilir."
+
 msgid "Waiting on all matches currently in progress"
-msgstr "Waiting on all matches currently in progress"
+msgstr "Şu an devam eden maçların sonuçlanması bekleniyor"
 
 msgid "Warm up"
 msgstr "Isınma"
@@ -4170,6 +4259,9 @@ msgstr "Trackmania sunucuları ile bağlantınız kesildi."
 msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Trackmania sunucularına olan bağlantınız kesildi. (Hata kodu: %1)"
 
+msgid "You are eliminated"
+msgstr "Elendiniz"
+
 msgid "You are in zone: %1."
 msgstr "%1 bölgesindesiniz."
 
@@ -4181,6 +4273,12 @@ msgstr "Henüz herhangi bir etkinliğe kayıtlı değilsiniz"
 
 msgid "You are not subscribed to any club"
 msgstr "Herhangi bir kulübe abone değilsiniz"
+
+msgid "You are qualified"
+msgstr "Elemeyi geçtiniz"
+
+msgid "You are registered for this event."
+msgstr "Bu etkinliğe zaten kayıtlısınız."
 
 msgid "You are suspended"
 msgstr "Askıya alındınız"
@@ -4339,6 +4437,9 @@ msgstr "Yakında bir maç sunucusuna yönlendirileceksiniz"
 
 msgid "Your map in less than %1 minutes"
 msgstr "Haritanıza kalan süre: %1 dk.dan daha az"
+
+msgid "Your next match is ready."
+msgstr "Sıradaki maçınız hazır."
 
 msgid "Your search did not return any results"
 msgstr "Aramada herhangi bir sonuç bulunamadı"
@@ -4693,6 +4794,21 @@ msgstr "|Club|talep"
 msgid "|Club|requests"
 msgstr "|Club|talepler"
 
+msgid "|Competition|Entry"
+msgstr "|Competition|Katılım"
+
+msgid "|Competition|Infos"
+msgstr "|Competition|Bilgiler"
+
+msgid "|Competition|Map Pool"
+msgstr "|Competition|Harita Havuzu"
+
+msgid "|Competition|Matches"
+msgstr "|Competition|Maçlar"
+
+msgid "|Competition|Rounds"
+msgstr "|Competition|Round'lar"
+
 msgid "|DataType|Campaign"
 msgstr "|DataType|Campaign"
 
@@ -4795,6 +4911,9 @@ msgstr "|ImageType|Kaplama"
 msgid "|ImageType|Decal sponsor"
 msgstr "|ImageType|Kaplama sponsoru"
 
+msgid "|ImageType|Icon"
+msgstr "|ImageType|İkon"
+
 msgid "|ImageType|Logo"
 msgstr "|ImageType|Logo"
 
@@ -4815,6 +4934,18 @@ msgstr "|ImageType|Dikey"
 
 msgid "|Image|Background"
 msgstr "|Image|Arka plan"
+
+msgid "|Image|Decal"
+msgstr "|Image|Kaplama"
+
+msgid "|Image|Icon"
+msgstr "|Image|İkon"
+
+msgid "|Image|Logo"
+msgstr "|Image|Logo"
+
+msgid "|Image|Screen"
+msgstr "|Image|Ekran"
 
 msgid "|Image|Vertical"
 msgstr "|Image|Dikey"
@@ -5167,8 +5298,14 @@ msgstr "|Map|Yeni"
 msgid "|Match|%1Draw"
 msgstr "|Match|%1Berabere"
 
+msgid "|Match|Completed"
+msgstr "|Match|Sonuçlandı"
+
 msgid "|Match|Draw"
 msgstr "|Match|Berabere"
+
+msgid "|Match|In Progress"
+msgstr "|Match|Devam Ediyor"
 
 msgid "|Medal|Finished"
 msgstr "|Medal|Tamamlandı"

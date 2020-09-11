@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-07 22:52+0000\n"
+"PO-Revision-Date: 2020-09-10 19:02+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Polish, Poland\n"
 "Language: pl-PL\n"
@@ -8262,7 +8262,7 @@ msgid "Virtual Reality"
 msgstr "Wirtualna Rzeczywistość"
 
 msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
+msgstr "Widoczność przydrożnych kibiców"
 
 msgid "Visible by other players"
 msgstr "Widoczny dla innych graczy"
@@ -11196,6 +11196,9 @@ msgstr "Tryb wyboru kwadratu"
 msgid "|MeshModeler|Centered"
 msgstr "Wyśrodkowany"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "Geometria kolidująca"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "Skopiuj selekcję [Ctrl+C]"
 
@@ -12294,11 +12297,14 @@ msgstr "Ręczna"
 msgid "|SpectatorCam|Replay"
 msgstr "Powtórka"
 
+msgid "|SpectatorsVisibility|Always"
+msgstr "Zawsze"
+
 msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
+msgstr "Nigdy"
 
 msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
+msgstr "Podczas oglądania"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Czas edycji"

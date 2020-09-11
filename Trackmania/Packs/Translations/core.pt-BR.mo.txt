@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-04 09:20+0000\n"
+"PO-Revision-Date: 2020-09-10 21:03+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -102,7 +102,7 @@ msgid ""
 "$<%1$> is eliminated!\n"
 "Time expired!"
 msgstr ""
-"$<%1$> foi eliminado!\n"
+"$<%1$> está eliminado!\n"
 "O tempo acabou!"
 
 msgid "$<%1$> retired!"
@@ -121,16 +121,16 @@ msgid "$<%1$> secures 3rd place!"
 msgstr "$<%1$> consegue 3 º lugar!"
 
 msgid "$<%1$> takes %2th place!"
-msgstr "$<%1$> %2 ª lugar!"
+msgstr "$<%1$> %2º lugar!"
 
 msgid "$<%1$> takes 1st place!"
-msgstr "$<%1$> fica em 1 ª lugar!"
+msgstr "$<%1$> fica em 1º lugar!"
 
 msgid "$<%1$> takes 2nd place!"
-msgstr "$<%1$> fica em 2 ª lugar!"
+msgstr "$<%1$> fica em 2º lugar!"
 
 msgid "$<%1$> takes 3rd place!"
-msgstr "$<%1$> fica em 3 ª lugar!"
+msgstr "$<%1$> fica em 3º lugar!"
 
 msgid "$<%1$> wins the match!"
 msgstr "$<%1$> ganhou a partida!"
@@ -354,7 +354,7 @@ msgid "%1 days"
 msgstr "%1 dias"
 
 msgid "%1 eliminated himself"
-msgstr "%1 eliminado!"
+msgstr "%1 eliminou a si mesmo!"
 
 msgid "%1 has been eliminated."
 msgstr "%1 foi eliminado."
@@ -384,7 +384,7 @@ msgid "%1 is not part of the official campaign."
 msgstr "%1 não faz parte da campanha oficial."
 
 msgid "%1 is not yet unlocked."
-msgstr "%1 não está desbloqueado."
+msgstr "%1 ainda não está desbloqueado."
 
 msgid "%1 needs %2 to run. Do you want to install it?"
 msgstr "%1 precisa do %2 para ser executado. Deseja Instalar?"
@@ -684,7 +684,7 @@ msgid "Add water mode"
 msgstr "Adicionar modo de água"
 
 msgid "Add your own music"
-msgstr "Adiciona a sua própria música"
+msgstr "Adicione sua própria música"
 
 msgid "Add your own picture"
 msgstr "Adiciona a sua própria foto"
@@ -764,7 +764,7 @@ msgstr ""
 "Tempos de medalhas do mapa atualizados!"
 
 msgid "All scores validated, waiting ..."
-msgstr "Todas as pontuações validadas, a aguardar..."
+msgstr "Todas as pontuações validadas, aguardando..."
 
 msgid ""
 "All your modifications will be lost.\n"
@@ -866,7 +866,7 @@ msgid ""
 "An error occurred:\n"
 "%1"
 msgstr ""
-"Ocorreu um erro: \n"
+"Um erro ocorreu:\n"
 "%1"
 
 msgid "An inventory can't have more than 5 categories."
@@ -1100,7 +1100,7 @@ msgid "Avg"
 msgstr "Méd"
 
 msgid "Awesome!!!"
-msgstr "Espantoso!!!"
+msgstr "Espetacular!!!"
 
 msgid "Back"
 msgstr "Voltar"
@@ -1350,7 +1350,7 @@ msgid "Cancelled"
 msgstr "Cancelado"
 
 msgid "Cancelling"
-msgstr "Cancelar"
+msgstr "Cancelando"
 
 msgid "Cannot change password:"
 msgstr "Não é possível alterar a senha:"
@@ -1455,7 +1455,7 @@ msgid "Change your password"
 msgstr "Mudar a sua senha"
 
 msgid "Change your zone"
-msgstr "Mudar a sua zona"
+msgstr "Mudar sua zona"
 
 msgid "Changes will be discarded. Are you sure ?"
 msgstr "As alterações serão descartadas. Tem certeza?"
@@ -2008,7 +2008,7 @@ msgid "Could not report abuse:"
 msgstr "Não foi possível denunciar abuso:"
 
 msgid "Could not retrieve the map list."
-msgstr "Não foi possível acessar a lista do mapa."
+msgstr "Não foi possível recuperar a lista de mapas."
 
 msgid "Could not save !"
 msgstr "Não foi possível salvar !"
@@ -2340,7 +2340,7 @@ msgid "Delete file"
 msgstr "Excluir arquivo"
 
 msgid "Delete pose"
-msgstr "Deleta pose"
+msgstr "Deletar pose"
 
 msgid "Delete property?"
 msgstr "Excluir propriedade?"
@@ -2801,7 +2801,7 @@ msgid "Edit or Close Edit Layer"
 msgstr "Edita ou Fecha a edição de camada"
 
 msgid "Edit pose"
-msgstr "Edite pose"
+msgstr "Editar pose"
 
 msgid "Edit selected item"
 msgstr "Editar item selecionado"
@@ -2974,7 +2974,7 @@ msgid "Error : Cannot write config. file."
 msgstr "Erro: Não é possível gravar o arquivo de configuração."
 
 msgid "Error when retrieving script settings."
-msgstr "Erro ao acessar as configurações script."
+msgstr "Erro ao acessar as configurações do script."
 
 msgid "Error while loading map!"
 msgstr "Erro ao carregar o mapa!"
@@ -3646,13 +3646,13 @@ msgid "Import module..."
 msgstr "Importar módulo..."
 
 msgid "Import object..."
-msgstr "Importar objeto"
+msgstr "Importar objeto..."
 
 msgid "Importing account %1 from remote server..."
 msgstr "Importando a conta %1 do servidor remoto..."
 
 msgid "Impressive!!"
-msgstr "Impressionante!!!"
+msgstr "Impressionante!!"
 
 msgid "In Game"
 msgstr "No jogo"
@@ -3779,8 +3779,8 @@ msgid ""
 "Invalid horn:\n"
 " It must be a mono '.ogg' or '.wav' file and no longer that 10 seconds."
 msgstr ""
-"Buzina Inválida:\n"
-"Deverá ser arquivo mono 'ogg' ou 'wav' e não ultrapasse 10 segundos"
+"Buzina inválida:\n"
+"Deve ser um arquivo mono 'ogg' ou 'wav' e não ultrapassar 10 segundos."
 
 msgid "Invalid manialink file"
 msgstr "Arquivo do manialink inválido"
@@ -3960,7 +3960,7 @@ msgid "Lasers"
 msgstr "Lasers"
 
 msgid "Last lap!"
-msgstr "Último mapa!"
+msgstr "Última volta!"
 
 msgid "Later"
 msgstr "Mais tarde"
@@ -4166,7 +4166,7 @@ msgid "Manage server"
 msgstr "Administrar servidor"
 
 msgid "Manage your ClubLink"
-msgstr "Administrar o seu ClubLink"
+msgstr "Administrar seu ClubLink"
 
 msgid "ManiaCode complete"
 msgstr "ManiaCode concluído"
@@ -4257,9 +4257,9 @@ msgid ""
 "is not compatible with the current\n"
 "game version %2."
 msgstr ""
-"Versáo do mapa %1 \n"
-"não é compativel com a versão  \n"
-"corrente do jogo %2"
+"Versão %1 do mapa\n"
+"não é compatível com a atual\n"
+"versão do jogo %2"
 
 msgid "MapType :"
 msgstr "Tipo de Mapa:"
@@ -4399,7 +4399,7 @@ msgstr ""
 "título):"
 
 msgid "Missing custom blocks:"
-msgstr "Blocos customizados faltando:"
+msgstr "Blocos personalizados ausentes:"
 
 msgid "Missing resources (from script):"
 msgstr "Recursos (de script) faltando:"
@@ -4714,7 +4714,7 @@ msgid "No valid blocks selected for the creation of a Macroblock."
 msgstr "Não há blocos válidos selecionados para a criação de um Macroblock."
 
 msgid "No winner"
-msgstr "Não há vencedor"
+msgstr "Sem vencedor"
 
 msgid "Non-Frame Control Selection"
 msgstr "Non-Frame Control Selection"
@@ -5268,7 +5268,7 @@ msgid "Please wait."
 msgstr "Aguarde."
 
 msgid "Please wait..."
-msgstr "Aguarde..."
+msgstr "Por favor, aguarde..."
 
 msgid "Please, enter a password for the referee mode."
 msgstr "Por favor, insira uma senha para o modo árbitro."
@@ -5295,10 +5295,10 @@ msgid "Podium"
 msgstr "Pódio"
 
 msgid "Podium lose pose"
-msgstr "Podium pose derrota"
+msgstr "Pose de derrota do pódio"
 
 msgid "Podium win pose"
-msgstr "Podium pose vitória"
+msgstr "Pose de vitória do pódio"
 
 msgid "Point limit :"
 msgstr "Limite de pontos:"
@@ -5549,7 +5549,7 @@ msgid "Really destroy all keys?"
 msgstr "Eliminar todas as chaves?"
 
 msgid "Really go to next race?"
-msgstr "Ir mesmo para a próxima corrida?"
+msgstr "Deseja mesmo ir para a próxima corrida?"
 
 msgid "Really remove block?"
 msgstr "Deseja realmente remover o bloco?"
@@ -5564,7 +5564,7 @@ msgid "Really remove track?"
 msgstr "Deseja realmente remover a pista?"
 
 msgid "Really restart?"
-msgstr "Recomeçar realmente?"
+msgstr "Deseja realmente reiniciar?"
 
 msgid "Reason :"
 msgstr "Motivo :"
@@ -5892,7 +5892,7 @@ msgid "Restart map"
 msgstr "Reiniciar mapa"
 
 msgid "Restart the game"
-msgstr "Reinicie o jogo"
+msgstr "Reiniciar o jogo"
 
 msgid "Restart the script: test&close => You should save first (Ctrl+R)"
 msgstr ""
@@ -6028,7 +6028,7 @@ msgid "Save %1"
 msgstr "Salvar %1"
 
 msgid "Save Action"
-msgstr "Salve ação"
+msgstr "Salvar ação"
 
 msgid "Save Anim As..."
 msgstr "Salvar Animação como..."
@@ -6082,7 +6082,7 @@ msgid "Save file"
 msgstr "Salvar arquivo"
 
 msgid "Save icon"
-msgstr "Guardar icon"
+msgstr "Salvar ícone"
 
 msgid "Save item"
 msgstr "Salvar item"
@@ -6247,7 +6247,7 @@ msgid "Select URL"
 msgstr "Selecionar URL"
 
 msgid "Select a Macroblock first"
-msgstr "Primeiro selecione um Macroblock"
+msgstr "Selecione primeiro um Macrobloco"
 
 msgid "Select a Replay"
 msgstr "Selecionar um replay"
@@ -6268,7 +6268,7 @@ msgid "Select a map"
 msgstr "Selecionar um mapa"
 
 msgid "Select a map type"
-msgstr "Selecionar tipo de mapa"
+msgstr "Selecione um tipo de mapa"
 
 msgid "Select a mesh"
 msgstr "Selecione um mesh"
@@ -6337,7 +6337,7 @@ msgid "Select multiple controls"
 msgstr "Selecione múltiplos controles"
 
 msgid "Select music"
-msgstr "Selecione uma música"
+msgstr "Selecionar música"
 
 msgid "Select next / previous frame"
 msgstr "Select next / previous frame"
@@ -6650,7 +6650,7 @@ msgid "Solo Play"
 msgstr "Corrida solo"
 
 msgid "Solution saved."
-msgstr "Solução está guardada."
+msgstr "Solução salva."
 
 msgid ""
 "Solution version (%1) is not compatible\n"
@@ -6754,7 +6754,7 @@ msgid "Step"
 msgstr "Passo"
 
 msgid "Stereoscopy"
-msgstr "Estereoscópio"
+msgstr "Estereoscopia"
 
 msgid "Stereoscopy mode"
 msgstr "Modo da estereoscopia"
@@ -6911,7 +6911,7 @@ msgid "Target Time (milliseconds)"
 msgstr "Tempo alvo (milésimos)"
 
 msgid "Team"
-msgstr "equipe"
+msgstr "Equipe"
 
 msgid "Team Mode"
 msgstr "Modo Equipe"
@@ -7763,8 +7763,7 @@ msgstr "Amanhã"
 
 msgid "Too many buddies. Go to your player page to get more buddy slots."
 msgstr ""
-"Você já tem muitos amigos.Vá até a sua pagina de jogador e obtenha mais "
-"amigos comprando slots."
+"Muitos amigos. Vá para sua página de jogador para obter mais vagas de amigos."
 
 msgid "ToolBar"
 msgstr "Barra de ferramentas"
@@ -8258,9 +8257,6 @@ msgstr "Visualizar toda a linha do tempo"
 msgid "Virtual Reality"
 msgstr "Realidade Virtual"
 
-msgid "Visibility of roadside spectators"
-msgstr "Visibility of roadside spectators"
-
 msgid "Visible by other players"
 msgstr "Visível por outros jogadores"
 
@@ -8365,7 +8361,7 @@ msgid ""
 msgstr ""
 "Aviso!\n"
 "Você está criando uma nova conta sem um endereço de e-mail.\n"
-"Este endereço pode ser usado para enviar uma nova senha se você a perder.\n"
+"Este endereço pode ser usado para enviar uma nova senha se você perdê-la.\n"
 "\n"
 "Deseja realmente criar uma conta sem um endereço de e-mail?"
 
@@ -8652,7 +8648,7 @@ msgid "You are not allowed to perform this operation."
 msgstr "Não está autorizado a executar esta operação."
 
 msgid "You are not connected to an online account."
-msgstr "Não estás conectado a uma conta online."
+msgstr "Você não está conectado a uma conta online."
 
 msgid "You are not connected to the Internet."
 msgstr "Você não está conectado à Internet."
@@ -8896,7 +8892,7 @@ msgstr ""
 "pasta."
 
 msgid "You eliminated yourself!"
-msgstr "Você foi eliminado!"
+msgstr "Você se eliminou!"
 
 msgid "You forgot to give the receiver login."
 msgstr "Você esqueceu de indicar o nome de início de sessão do receptor."
@@ -8976,7 +8972,7 @@ msgid "You hit yourself!"
 msgstr "Você acertou a si mesmo! "
 
 msgid "You just beat $<%1$>'s High Score!"
-msgstr "Acabaste de bater a Melhor pontuação de $<%1$>"
+msgstr "Você acabou de bater a Pontuação Máxima de $<%1$>!"
 
 msgid "You just got your licence to play!"
 msgstr "Você acabou de obter sua licença para jogar!"
@@ -9013,7 +9009,7 @@ msgstr ""
 msgid "You must challenge another player by link or by file to unlock this map"
 msgstr ""
 "Você precisa desafiar outro jogador por link ou por arquivo para desbloquear "
-"este map"
+"este mapa"
 
 msgid "You must create a Crystal with a '%1' layer and a '%2' layer."
 msgstr "Você deve criar um Crystal com uma camada '%1' e uma camada '%2'."
@@ -9187,7 +9183,7 @@ msgstr ""
 "salvá-lo."
 
 msgid "You need to have map %1 to execute this request."
-msgstr "É necessário ter mapa %1 para executar este seu pedido."
+msgstr "Você precisa ter o mapa %1 para executar esta solicitação."
 
 msgid "You need to place a starting point!"
 msgstr "É preciso inserir um ponto de largada!"
@@ -9268,13 +9264,13 @@ msgid "You won all the gold medals for this campaign!"
 msgstr "Você ganhou todas as medalhas de ouro desta campanha!"
 
 msgid "You won the Bronze Medal!"
-msgstr "Ganhou a Medalha de Bronze"
+msgstr "Você ganhou a Medalha de Bronze!"
 
 msgid "You won the Gold Medal!"
-msgstr "Ganhou a Medalha de Ouro!"
+msgstr "Você ganhou a Medalha de Ouro!"
 
 msgid "You won the Silver Medal!"
-msgstr "Ganhou a Medalha de Prata!"
+msgstr "Você ganhou a Medalha de Prata!"
 
 msgid "You won!"
 msgstr "Você venceu!"
@@ -9429,9 +9425,9 @@ msgid ""
 "The map has been modified.\n"
 "Do you want to save the modifications?"
 msgstr ""
-"O teu tempo de jogo terminou.\n"
+"Seu tempo de jogo expirou.\n"
 "O mapa foi modificado.\n"
-"Quer guardar as modificações?"
+"Deseja salvar as modificações?"
 
 msgid "Your player page online"
 msgstr "Sua página de jogador online"
@@ -9592,7 +9588,7 @@ msgid "you must accept the license agreement."
 msgstr "você deve aceitar o contrato de licença."
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
-msgstr "Você pode cancelar %1 partidas."
+msgstr "|%1 is the number of matches|Você pode cancelar %1 partidas."
 
 msgid "|A recap|Summary"
 msgstr "Resumo"
@@ -9862,10 +9858,10 @@ msgid "|CarQuality|All Low"
 msgstr "|CarQuality|Todos Inferiores"
 
 msgid "|CarQuality|High, Medium Opponents"
-msgstr "|CarQuality|Oponentes Médios, Altos"
+msgstr "|CarQuality|Alta, Oponentes Médios"
 
 msgid "|CarQuality|Medium, Low Opponents"
-msgstr "|CarQuality|Oponentes baixos, médios"
+msgstr "|CarQuality|Média, Oponentes baixos"
 
 msgid "|CardinalDir|C"
 msgstr "|CardinalDir|C"
@@ -10321,7 +10317,7 @@ msgid "|Input|Camera 2"
 msgstr "|Input|Câmera 2"
 
 msgid "|Input|Camera 3"
-msgstr "Trocar câmera"
+msgstr "|Input|Câmera 3"
 
 msgid "|Input|Camera 4"
 msgstr "|Input|Câmera 4"
@@ -10363,7 +10359,7 @@ msgid "|Input|Decrease cam fov"
 msgstr "Diminuir perspectiva da câmera"
 
 msgid "|Input|Enter or exit Vehicle"
-msgstr "Entrar ou sair do veículo"
+msgstr "|Input|Entrar ou sair do veículo"
 
 msgid "|Input|Forward"
 msgstr "|Input|Para frente"
@@ -10450,7 +10446,7 @@ msgid "|Input|Save screenshot"
 msgstr "|Input|Salvar captura de tela"
 
 msgid "|Input|Shoot"
-msgstr "Bate-papo"
+msgstr "|Input|Gravar"
 
 msgid "|Input|Show/Hide interface"
 msgstr "|Input|Mostrar/Ocultar interface"
@@ -10498,10 +10494,10 @@ msgid "|Input|Turbo"
 msgstr "|Input|Turbo"
 
 msgid "|Input|Use 1"
-msgstr "Usar 1"
+msgstr "|Input|Usar 1"
 
 msgid "|Input|Use 2"
-msgstr "Usar 2"
+msgstr "|Input|Usar 2"
 
 msgid "|Input|Use Action 1"
 msgstr "Usar Ação 1"
@@ -11185,6 +11181,9 @@ msgstr "Modo de seleção em caixa"
 msgid "|MeshModeler|Centered"
 msgstr "Centralizado"
 
+msgid "|MeshModeler|Collidable geometry"
+msgstr "Geometria colidível"
+
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Copiar seleção [CTRL+C]"
 
@@ -11570,13 +11569,13 @@ msgid "|MeshModeler|material only (Keep UVs)"
 msgstr "Apenas material (Manter UVs)"
 
 msgid "|MeshType|Dynamic"
-msgstr "Dinâmico"
+msgstr "|MeshType|Dinâmico"
 
 msgid "|MeshType|Static"
-msgstr "Estático"
+msgstr "|MeshType|Estático"
 
 msgid "|MeshType|Vehicle"
-msgstr "Veículo"
+msgstr "|MeshType|Veículo"
 
 msgid "|Million|M"
 msgstr "|Million|Mi"
@@ -11854,6 +11853,9 @@ msgstr "Medidor de Arma"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|Lista de Armas"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|Escondida"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Opaco"
 
@@ -12069,6 +12071,9 @@ msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Exportar skin"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor (leaves the editor)|Sair"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12279,13 +12284,13 @@ msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Repetir"
 
 msgid "|SpectatorsVisibility|Always"
-msgstr "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Sempre"
 
 msgid "|SpectatorsVisibility|Never"
-msgstr "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Nunca"
 
 msgid "|SpectatorsVisibility|When spectating"
-msgstr "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|Ao assistir"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Tempo de edição"
