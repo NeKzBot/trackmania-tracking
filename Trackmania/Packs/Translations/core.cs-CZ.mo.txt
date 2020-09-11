@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-08-01 12:45+0000\n"
+"PO-Revision-Date: 2020-09-07 15:07+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -64,7 +64,7 @@ msgid "\"Alive Bullets\""
 msgstr "\"Živé kulky\""
 
 msgid "\"Delete\" key"
-msgstr "\"Smazat\" klíč"
+msgstr "Klávesa \"Delete\""
 
 msgid "\"Explosion Bullets\""
 msgstr "\"Výbušné kulky\""
@@ -328,7 +328,7 @@ msgstr ""
 "Všechny vaše postupy, pozice, medaile a veškerá perzistentní data v titulu "
 "%1 budou vymazána.\n"
 "\n"
-"Jste si jisti, že chcete uvolnit stanici?"
+"Jste si jistí, že chcete uvolnit stanici?"
 
 msgid ""
 "$s$ff0LeftClick$fff to add/remove trigger block, $ff0Ctrl+RightClick$fff to "
@@ -833,6 +833,9 @@ msgstr "Alt + klik na osu času"
 msgid "Always"
 msgstr "Vždy"
 
+msgid "Always display records"
+msgstr "Vždy zobrazit rekordy"
+
 msgid "Ambiance"
 msgstr "Atmosféra"
 
@@ -954,7 +957,7 @@ msgid ""
 "Are you sure you want to delete $<%1$>?\n"
 "All local scores made by $<%2$> will be lost."
 msgstr ""
-"Jste si jisti, že chcete smazat $<%1$>?\n"
+"Jste si jistí, že chcete smazat $<%1$>?\n"
 "Všechny místní výsledky dosažené $<%2$> budou ztraceny."
 
 msgid "Are you sure you want to delete the folder %1 and all its contents?"
@@ -1076,9 +1079,6 @@ msgstr "Automaticky (jihozápad)"
 
 msgid "Automatic Minimum Fps"
 msgstr "Automatický minimální Fps"
-
-msgid "Automatically log me in at launch"
-msgstr "Automaticky přihlásit při spuštění"
 
 msgid "Automatically save all replays"
 msgstr "Automaticky ukládat všechny záznamy"
@@ -1421,9 +1421,6 @@ msgstr "Změnit oblast"
 msgid "Change map"
 msgstr "Změnit mapu"
 
-msgid "Change password"
-msgstr "Změnit heslo"
-
 msgid "Change sort order"
 msgstr "Změnit řazení"
 
@@ -1455,7 +1452,7 @@ msgid "Change your zone"
 msgstr "Změnit vaši oblast"
 
 msgid "Changes will be discarded. Are you sure ?"
-msgstr "Změny budou zrušeny. Jste si jisti?"
+msgstr "Změny budou zrušeny. Jste si jistí?"
 
 msgid "Channels"
 msgstr "Kanály"
@@ -2042,13 +2039,6 @@ msgstr "Nelze ověřit záznam hráče $<%1$>"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Nelze ověřit!\n"
-" žádné klíčové události..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Nelze ověřit!\n"
@@ -2279,6 +2269,9 @@ msgstr "Výchozí klaksony"
 msgid "Default image"
 msgstr "Výchozí obrázek"
 
+msgid "Default opponents visibility"
+msgstr "Výchozí viditelnost soupeřů"
+
 msgid "Default sound"
 msgstr "Výchozí zvuk"
 
@@ -2403,9 +2396,6 @@ msgstr "Zahodit změny"
 
 msgid "Disconnect Account"
 msgstr "Odpojit účet"
-
-msgid "Disconnect local account"
-msgstr "Odpojit místní účet"
 
 msgid "Disconnected from server"
 msgstr "Odpojeno od serveru"
@@ -2861,9 +2851,6 @@ msgstr "Povolit automatické odřádkování"
 msgid "Enable chat"
 msgstr "Povolit chat"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Povolit chat na serverech pro hru více hráčů"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Povolit spouštění událostí skriptu myší"
 
@@ -2947,6 +2934,9 @@ msgstr "Zadejte ověřovací kód"
 
 msgid "Enter your friend's email"
 msgstr "Zadejte email vašeho přítele"
+
+msgid "Enter your key"
+msgstr "Vložte svůj klíč"
 
 msgid "Enter your name:"
 msgstr "Vložte své jméno:"
@@ -3817,7 +3807,7 @@ msgid ""
 "Are you sure you want to change your nickname for the last time?"
 msgstr ""
 "Toto je vaše $<$f00POSLEDNÍ$> možná změna online přezdívky.\n"
-"Jste si jisti, že chcete naposledy změnit svou přezdívku?"
+"Jste si jistí, že chcete naposledy změnit svou přezdívku?"
 
 msgid "It's $<%1$> turn to play!"
 msgstr "Teď je na řadě hráč $<%1$>!"
@@ -3872,6 +3862,9 @@ msgstr "Zachovat změny"
 
 msgid "Keep last block of the track active"
 msgstr "Ponechat poslední blok stopy aktivní"
+
+msgid "Key"
+msgstr "Klíč"
 
 msgid "Key 1"
 msgstr "Klávesa 1"
@@ -5113,6 +5106,9 @@ msgstr "Vstupy hráče"
 msgid "Player Page"
 msgstr "Stránka hráče"
 
+msgid "Player State Component"
+msgstr "Komponenta stavu hráče"
+
 msgid "Player already selected!"
 msgstr "Hráč byl již vybrán!"
 
@@ -5516,6 +5512,9 @@ msgstr "Připraven/a"
 msgid "Ready (F6)"
 msgstr "Připraven/a (F6)"
 
+msgid "Real name and ID card information have been successfully validated."
+msgstr "Vaše skutečné jméno a informace z ID karty byly úspěšně potvrzeny."
+
 msgid "Really balance teams?"
 msgstr "Opravdu vyvážit týmy?"
 
@@ -5535,7 +5534,7 @@ msgid "Really remove clip?"
 msgstr "Opravdu odebrat klip?"
 
 msgid "Really remove track?"
-msgstr "Opravdu odebrat trať?"
+msgstr "Opravdu odebrat stopu?"
 
 msgid "Really restart?"
 msgstr "Opravdu restartovat?"
@@ -6215,7 +6214,7 @@ msgid "Select Personal Data Directory"
 msgstr "Vyberte složku pro osobní data"
 
 msgid "Select URL"
-msgstr "Vzberte URL"
+msgstr "Vyberte URL"
 
 msgid "Select a Macroblock first"
 msgstr "Nejprve vyberte Makroblok"
@@ -6530,9 +6529,6 @@ msgstr "Zobrazit pokročilé parametry"
 msgid "Show avatars"
 msgstr "Zobrazovat avatary"
 
-msgid "Show avatars of other players"
-msgstr "Zobrazit avatary jiných hráčů"
-
 msgid "Show helpers"
 msgstr "Zobrazit mřížku"
 
@@ -6669,6 +6665,9 @@ msgstr "Sledovat"
 
 msgid "Spectator"
 msgstr "Divák"
+
+msgid "Spectators placement computed"
+msgstr "Umístění diváků vypočteno"
 
 msgid "Speed"
 msgstr "Rychlost"
@@ -8148,15 +8147,6 @@ msgstr "Ověřování $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Ověřuji…"
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Ověření záznamů nahraných v módu\n"
-" %1\n"
-"nelze provést."
-
 msgid "Variables"
 msgstr "Proměnné"
 
@@ -8230,6 +8220,9 @@ msgstr "Zobrazit celou časovou osu"
 
 msgid "Virtual Reality"
 msgstr "Virtuální Realita"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Viditelné ostatními hráči"
@@ -8726,7 +8719,7 @@ msgstr ""
 "Nemůžete změnit přezdívku online. Můžeme tuto změnu přijmout, když jste "
 "offline. Uvědomte si, že změna vaší přezdívky bude zrušena při příštím "
 "online přihlášení.\n"
-"Jste si jisti, že chcete změnit svou přezdívku?"
+"Jste si jistí, že chcete změnit svou přezdívku?"
 
 msgid ""
 "You cannot change your nickname.\n"
@@ -9153,7 +9146,7 @@ msgid ""
 "Are you sure you want to change your nickname?"
 msgstr ""
 "Zbývá vám pouze $<$0f0%1$> změn online přezdívky.\n"
-"Jste si jisti, že chcete změnit svou přezdívku?"
+"Jste si jistí, že chcete změnit svou přezdívku?"
 
 msgid "You set a new personal record!"
 msgstr "Dosáhl/a jste nového osobního rekordu!"
@@ -9163,7 +9156,7 @@ msgid ""
 "Are you sure you want to buy new stations now?"
 msgstr ""
 "Stále máte několik prázdných stanic k dispozici.\n"
-"Jste si jisti, že chcete nyní koupit nové stanice?"
+"Jste si jistí, že chcete nyní koupit nové stanice?"
 
 msgid "You unlocked a new campaign:"
 msgstr "Odemkl/a jste novou kampaň:"
@@ -10409,6 +10402,9 @@ msgstr "|Input|Uložit záznam"
 msgid "|Input|Save screenshot"
 msgstr "|Input|Uložit snímek obrazovky"
 
+msgid "|Input|Secondary respawn"
+msgstr "Sekundární obnovení"
+
 msgid "|Input|Shoot"
 msgstr "|Input|Střílet"
 
@@ -10970,7 +10966,7 @@ msgid "|MediaTracker block type|Depth blur"
 msgstr "Hloubkové rozostření"
 
 msgid "|MediaTracker block type|Depth of field"
-msgstr "Hloubka pole"
+msgstr "Hloubka ostrosti"
 
 msgid "|MediaTracker block type|Dirty lens"
 msgstr "Špinavý obraz"
@@ -11140,9 +11136,6 @@ msgstr "Režim výběru obalu"
 
 msgid "|MeshModeler|Centered"
 msgstr "Uprostřed"
-
-msgid "|MeshModeler|Collidable geometry"
-msgstr "Kolidovatelná geometrie"
 
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "Kopírovat výběr [Ctrl+C]"
@@ -11810,6 +11803,12 @@ msgstr "Indikátor zbraně"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "Seznam zbraní"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "Skrytý"
+
+msgid "|PlayerVisibility|Old"
+msgstr "Po staru"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "Neprůhledný"
 
@@ -12023,6 +12022,9 @@ msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Exportovat vzhled"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "Odejít"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12231,6 +12233,12 @@ msgstr "|SpectatorCam|Ruční"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Záznam"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Čas úprav"

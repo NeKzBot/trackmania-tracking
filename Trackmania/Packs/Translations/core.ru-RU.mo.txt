@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-21 13:25+0000\n"
+"PO-Revision-Date: 2020-09-04 09:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -1086,9 +1086,6 @@ msgstr "Автоматическая (юго-запад)"
 msgid "Automatic Minimum Fps"
 msgstr "Автоматический минимальный Fps"
 
-msgid "Automatically log me in at launch"
-msgstr "Автоматически подключать меня при запуске"
-
 msgid "Automatically save all replays"
 msgstr "Автоматически сохранять все повторы"
 
@@ -1429,9 +1426,6 @@ msgstr "Изменить местонахождение"
 
 msgid "Change map"
 msgstr "Изменить карту"
-
-msgid "Change password"
-msgstr "Изменить пароль"
 
 msgid "Change sort order"
 msgstr "Изменить порядок сортировки"
@@ -2053,13 +2047,6 @@ msgstr "Невозможно подтвердить повтор для $<%1$>"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Невозможно подтвердить!\n"
-" нет доступных ключевых событий..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Невозможно подтвердить!\n"
@@ -2414,9 +2401,6 @@ msgstr "Отменить изменения"
 
 msgid "Disconnect Account"
 msgstr "Сброс"
-
-msgid "Disconnect local account"
-msgstr "Отключить локальную учётную запись"
 
 msgid "Disconnected from server"
 msgstr "Отключён от сервера"
@@ -2879,9 +2863,6 @@ msgstr "Включить автоматическое перемещение н�
 msgid "Enable chat"
 msgstr "Включить чат"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Включить чат на многопользовательских серверах"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Включить запуск скрипта при помощи мыши"
 
@@ -2969,6 +2950,9 @@ msgstr "Введите код подтверждения"
 
 msgid "Enter your friend's email"
 msgstr "Введите адрес электронной почты вашего друга"
+
+msgid "Enter your key"
+msgstr "Введите ключ"
 
 msgid "Enter your name:"
 msgstr "Введите имя:"
@@ -3899,6 +3883,9 @@ msgstr "Сохранить изменения"
 
 msgid "Keep last block of the track active"
 msgstr "Оставить последний блок дорожки активным"
+
+msgid "Key"
+msgstr "Ключ"
 
 msgid "Key 1"
 msgstr "Кнопка 1"
@@ -5136,6 +5123,9 @@ msgstr "Клавиши игрока"
 
 msgid "Player Page"
 msgstr "Страница игрока"
+
+msgid "Player State Component"
+msgstr "Компонент статуса игрока"
 
 msgid "Player already selected!"
 msgstr " Игрок уже выбран!"
@@ -6568,9 +6558,6 @@ msgstr "Показать расширенные параметры"
 
 msgid "Show avatars"
 msgstr "Показывать аватары"
-
-msgid "Show avatars of other players"
-msgstr "Показывать аватары других игроков"
 
 msgid "Show helpers"
 msgstr "Показать сетку"
@@ -8194,15 +8181,6 @@ msgstr "Подтверждение $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Подтверждение ..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Подтверждение повторов записанных в режиме\n"
-" %1\n"
-"не предусмотрено."
-
 msgid "Variables"
 msgstr "Переменные"
 
@@ -8276,6 +8254,9 @@ msgstr "Показать всю временную шкалу"
 
 msgid "Virtual Reality"
 msgstr "Вирт. реальность"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Видим для других игроков"
@@ -11224,9 +11205,6 @@ msgstr "|MeshModeler|Режим выбора рамкой"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|По центру"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|Геометрия столкновения"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Копировать выделенное [Ctrl+C]"
 
@@ -12318,6 +12296,15 @@ msgstr "|SpectatorCam|Вручную"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Повтор"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Always"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Времени в редакторе"

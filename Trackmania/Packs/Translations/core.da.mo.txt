@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-15 13:48+0000\n"
+"PO-Revision-Date: 2020-09-04 09:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -937,13 +937,16 @@ msgid "Author"
 msgstr "Skaber"
 
 msgid "Author "
-msgstr "Udgiver"
+msgstr "Skaber "
 
 msgid "Author Medal"
-msgstr "Skaber medalje"
+msgstr "Skaber-medalje"
+
+msgid "Author ghost"
+msgstr "Skaber-skygge"
 
 msgid "Author's comment"
-msgstr "Udgivers kommentar"
+msgstr "Skaberens kommentar"
 
 msgid "Auto connect at start"
 msgstr "Autoforbind ved start"
@@ -1255,9 +1258,6 @@ msgstr "Skift lokation"
 
 msgid "Change map"
 msgstr "Skift bane"
-
-msgid "Change password"
-msgstr "Skift adgangskode"
 
 msgid "Change sort order"
 msgstr "Ændre sorteringsordre"
@@ -1768,13 +1768,6 @@ msgstr "Kunne ikke terraforme for at placere makroblokken."
 
 msgid "Could not validate the replay for $<%1$>"
 msgstr "Kunne ikke validere gengivelse for $<%1$>"
-
-msgid ""
-"Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Kunne ikke validere!\n"
-"ingen tilgængelige kodeevents ..."
 
 msgid ""
 "Could not validate!\n"
@@ -2457,9 +2450,6 @@ msgstr "Aktiver automatisk ny linje"
 msgid "Enable chat"
 msgstr "Aktivér chat"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Aktiver chat på multiplayer servere"
-
 msgid "Enable personalised adverts"
 msgstr "Aktivér personaliserede annoncer"
 
@@ -2537,6 +2527,9 @@ msgstr "Indtast bekræftelseskoden"
 
 msgid "Enter your friend's email"
 msgstr "Indtast din vens e-mail"
+
+msgid "Enter your key"
+msgstr "Indtast din nøgle"
 
 msgid "Enter your name:"
 msgstr "Indtast dit navn:"
@@ -2879,7 +2872,7 @@ msgid "Get remote blacklist..."
 msgstr "Hent blacklist..."
 
 msgid "Ghost 1/4: Author Medal"
-msgstr "Ghost 1/4: Udgivermedalje"
+msgstr "Skygge 1/4: Skaber-medalje"
 
 msgid "Ghost 2/4: Gold Medal"
 msgstr "Ghost 2/4: Guldmedalje"
@@ -3302,6 +3295,9 @@ msgstr "Kb/s Mål"
 
 msgid "Keep changes"
 msgstr "Behold ændringer."
+
+msgid "Key"
+msgstr "Kode"
 
 msgid "Key 1"
 msgstr "Tast 1"
@@ -3994,7 +3990,7 @@ msgid "No Target"
 msgstr "Intet mål"
 
 msgid "No author record yet"
-msgstr "Endnu ingen udgiverrekord"
+msgstr "Endnu ingen skaber-rekord"
 
 msgid "No avatar images available."
 msgstr "Ingen avatar-billeder tilgængelige."
@@ -6915,15 +6911,6 @@ msgstr "Validerer $<%1$> (%2) ..."
 msgid "Validating ..."
 msgstr "Validerer ..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Validering af replays optaget i modus\n"
-" %1\n"
-"er ikke implementeret."
-
 msgid "Variables"
 msgstr "Variabler"
 
@@ -6985,6 +6972,9 @@ msgstr "Se %1 manual"
 
 msgid "Virtual Reality"
 msgstr "Virtual Reality"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Synlig for andre spillere"
@@ -9001,6 +8991,9 @@ msgstr "|MaxFiltering|Bilineær"
 msgid "|MaxFiltering|Trilinear"
 msgstr "|MaxFiltering|Trilineær"
 
+msgid "|MediaTracker Reference ghosts|Author ghost"
+msgstr "|MediaTracker Reference ghosts|Skaber-skygge"
+
 msgid "|MediaTrack|Camera"
 msgstr "|MediaTrack|Kamera"
 
@@ -9510,6 +9503,15 @@ msgstr "|SpectatorCam|Manuel"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Gengivelse"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Always"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Redigeringstid"

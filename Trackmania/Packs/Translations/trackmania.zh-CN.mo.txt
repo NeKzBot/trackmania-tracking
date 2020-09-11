@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-29 15:51+0000\n"
+"PO-Revision-Date: 2020-09-09 10:11+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -29,9 +29,6 @@ msgstr "$<%1$>离开了游戏"
 
 msgid "$<%1$> takes %2 place!"
 msgstr "$<%1$>拿下了%2！"
-
-msgid "$<%1$> wins step %2"
-msgstr "$<%1$>赢下了第%2阶段"
 
 msgid "$<%1$> wins the map!"
 msgstr "$<%1$>在本地图获胜！"
@@ -168,6 +165,15 @@ msgstr ""
 "$>。当你成为决赛选手以后，你必须以$<$t$6F9第一名$>完成比赛才能获得奖杯。当有3"
 "名玩家成为决赛选手并首先完成后，奖杯赛模式结束。"
 
+msgid "%1 Will lose %3 of points %2"
+msgstr "%1即将失去%3积分%2"
+
+msgid "%1 Will lose all points %2"
+msgstr "%1 即将失去全部积分%2"
+
+msgid "%1 Will lose half of their points %2"
+msgstr "%1 即将失去一半积分%2"
+
 msgid "%1 is not a Stadium map"
 msgstr "%1不是竞技场地图"
 
@@ -179,6 +185,9 @@ msgstr "%1张地图"
 
 msgid "%1 maps"
 msgstr "%1张地图"
+
+msgid "%1 player"
+msgstr "%1 名玩家"
 
 msgid "%1 players"
 msgstr "%1名玩家"
@@ -198,8 +207,17 @@ msgstr "%1$<%2$>加入一场比赛。"
 msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$>作为替补加入了比赛。"
 
+msgid "%1$<%2$> wins step %3"
+msgstr "%1$<%2$>赢得了第%3步"
+
+msgid "%1$<%2$> wins the match!"
+msgstr "%1$<%2$>赢得了比赛！"
+
 msgid "%1's server"
 msgstr "%1的服务器"
+
+msgid "%1Be in the top %2"
+msgstr "%1进入前%2名"
 
 msgid "%1Best CP %2"
 msgstr "%1最佳检查点%2"
@@ -328,11 +346,6 @@ msgid "An error occured while joining, please try again. (Error code: %1)"
 msgstr "加入时发生错误，请再试一次。（错误代码：%1）"
 
 msgid ""
-"An error occurred while fetching the next match. Please try again. (Error "
-"code: %1)"
-msgstr "在获取下一场比赛时出现了错误。请重试。（错误代码：%1）"
-
-msgid ""
 "An error occurred while retrieving your accounts, please try again. (Error "
 "code: %1)"
 msgstr "获取你的帐户时出错，请重试。（错误代码：%1）"
@@ -361,6 +374,9 @@ msgstr "确定要%1吗？"
 msgid "Are you really sure you want to leave the match?"
 msgstr "确定要离开比赛吗？"
 
+msgid "Are you sure to remove this map?"
+msgstr "确定要移除这张地图吗？"
+
 msgid "Are you sure you want to create a new track?"
 msgstr "你是否想创建一条新的赛道？"
 
@@ -378,6 +394,13 @@ msgstr "你确定你想生成另一个赛道？"
 
 msgid "Are you sure you want to leave the editor?"
 msgstr "你确定想离开编辑器吗？"
+
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "确定要退出《赛道狂飙》吗？"
@@ -454,9 +477,6 @@ msgstr "平衡队伍"
 msgid ""
 "Be careful! This block disable your engine until you cross a new checkpoint."
 msgstr "小心！这个方块将会停止你的引擎，直到你穿过一个新的检查点为止。"
-
-msgid "Be in the top %1"
-msgstr "进入前%1名"
 
 msgid "Best lap"
 msgstr "最快圈速"
@@ -617,6 +637,9 @@ msgstr "资深客户支持信息经理"
 msgid "Campaign"
 msgstr "赛事"
 
+msgid "Campaign '$<%1$>'"
+msgstr "'$ <%1$> '赛事"
+
 msgid "Campaign creation"
 msgstr "创建赛事"
 
@@ -699,9 +722,6 @@ msgstr "点选玩家以加入他们的派对。"
 
 msgid "Click on a player to set them as ally."
 msgstr "点选玩家以将他们设置为队友。"
-
-msgid "Click on a server to join it"
-msgstr "点击服务器来加入"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "点击界面模组来编辑属性"
@@ -823,6 +843,9 @@ msgstr "创建赛事"
 msgid "Create club"
 msgstr "创建俱乐部"
 
+msgid "Create competition"
+msgstr "创建比赛"
+
 msgid "Create map"
 msgstr "创建地图"
 
@@ -857,6 +880,9 @@ msgstr "正在创建活动…"
 msgid "Creating campaign..."
 msgstr "正在创建赛事…"
 
+msgid "Creating club activity..."
+msgstr "正在创建俱乐部活动…"
+
 msgid "Creating club room..."
 msgstr "正在创建俱乐部房间…"
 
@@ -880,6 +906,9 @@ msgstr "当前比赛得分"
 
 msgid "Current player"
 msgstr "当前玩家"
+
+msgid "Current quarterly campaign"
+msgstr "当前季度赛事"
 
 msgid "Customization"
 msgstr "自定义"
@@ -935,6 +964,9 @@ msgstr "每日淘汰杯赛"
 msgid "Daily cup"
 msgstr "每日杯赛"
 
+msgid "Daily map"
+msgstr "每日地图"
+
 msgid "Daily rankings"
 msgstr "每日排名"
 
@@ -954,13 +986,6 @@ msgstr ""
 "赞助商贴花：显示在赛道周围赞助商条幅上的图片。\n"
 "尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
 
-msgid ""
-"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"贴花：可以显示在路面上的图片（如起点，检查点及终点）。\n"
-"尺寸：%1 - 格式：PNG, JPEG 或 DDS（DXT5）"
-
 msgid "Decoration"
 msgstr "装饰"
 
@@ -972,6 +997,9 @@ msgstr "正在删除俱乐部…"
 
 msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
 msgstr "删除“%1”类型的图片失败。请重试（错误 %2）"
+
+msgid "Description"
+msgstr "描述"
 
 msgid "Did you like this map?"
 msgstr "您喜欢这张地图吗？"
@@ -1014,6 +1042,9 @@ msgstr "你是否确定想停止自动完成赛道？"
 
 msgid "Do you want to validate the track now?"
 msgstr "你是否想现在验证此赛道？"
+
+msgid "Do your best to qualify."
+msgstr "Do your best to qualify."
 
 msgid "Don't forget to save your track!"
 msgstr "不要忘记保存你的赛道！"
@@ -1116,6 +1147,9 @@ msgstr "编辑赛道"
 msgid "Editing activity..."
 msgstr "正在编辑活动…"
 
+msgid "Editing club activity..."
+msgstr "正在编辑俱乐部活动…"
+
 msgid "Editing club room..."
 msgstr "正在编辑俱乐部房间…"
 
@@ -1125,6 +1159,9 @@ msgstr "编辑“%1”类型的图片失败。请重试（错误 %2）"
 msgid "Eighth (Press 8)"
 msgstr "第八位（按下8键）"
 
+msgid "End Date"
+msgstr "结束日期"
+
 msgid "End of warmup, match starting..."
 msgstr "热身结束，比赛即将开始…"
 
@@ -1133,9 +1170,6 @@ msgstr "引擎关闭"
 
 msgid "Enough players agreed to play a rematch."
 msgstr "已有足够多的玩家同意重赛。"
-
-msgid "Entry"
-msgstr "条目"
 
 msgid "Error"
 msgstr "错误"
@@ -1196,14 +1230,21 @@ msgid ""
 "Error while fetching the server join link, please try again. (Error code: %1)"
 msgstr "获取服务器加入链接时发生错误，请重试。（错误代码：%1）"
 
+msgid ""
+"Error while fetching your submitted maps, please try again. (Error code: %1)"
+msgstr "获取已提交地图信息时出错，请重试。（错误代码：%1）"
+
 msgid "Error while gathering maps data. (Error code: %1)"
 msgstr "在获取地图数据时发生错误。（错误代码：%1）"
 
 msgid "Error while joining the server, please try again. (Error code: %1)"
 msgstr "加入服务器时出错，请重试（错误代码：%1）"
 
-msgid "Error while loading matches, try again (ErrorCode: %1)"
-msgstr "载入比赛时出错，请重试（错误代码：%1）"
+msgid "Error while loading matches. (Error code: %1)"
+msgstr "载入比赛时发生错误。（错误代码：%1）"
+
+msgid "Error while loading past matches. (Error code: %1)"
+msgstr "载入历史比赛时发生错误。（错误代码：%1）"
 
 msgid "Error while loading ranking (code: %1)"
 msgstr "载入排名时发生了错误（代码：%1）"
@@ -1229,6 +1270,10 @@ msgstr "载入赛事所属俱乐部时出错。请重试。（错误代码：%1�
 
 msgid "Error while loading the event. Please try again. (Error code: %1)"
 msgstr "载入活动时出错。请稍后重试。（错误代码：%1）"
+
+msgid ""
+"Error while loading the leaderboard. Please try again later. (Error code: %1)"
+msgstr "载入排名榜时出错，请稍后再尝试。（错误代码：%1）"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "载入奖杯时发生错误。（代码：%1）"
@@ -1289,6 +1334,20 @@ msgstr "财务预算，工作室群运营和品质控制"
 
 msgid "FRONT-END ENGINEER"
 msgstr "前端工程师"
+
+msgid ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+msgstr ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+msgstr ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
 
 msgid "Fifth (Press 5)"
 msgstr "第五位（按下5键）"
@@ -1389,6 +1448,12 @@ msgstr "放弃%1"
 msgid "Give up Daily cup?"
 msgstr "放弃每日杯赛？"
 
+msgid "Go back to the menu to see the results."
+msgstr "Go back to the menu to see the results."
+
+msgid "Go back to the menu to wait for your next match."
+msgstr "Go back to the menu to wait for your next match."
+
 msgid "Go to map list"
 msgstr "前往地图列表"
 
@@ -1440,6 +1505,9 @@ msgstr "热座模式"
 msgid "Hotseat"
 msgstr "热座模式"
 
+msgid "I am ready"
+msgstr "准备就绪"
+
 msgid "I have read and I agree to the %1rules%2 of this event."
 msgstr "我已阅读并同意本次活动的%1规则%2。"
 
@@ -1451,6 +1519,13 @@ msgstr "在线质量监控实习生"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "国际产品经理"
+
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+msgstr ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "如果你选择一个场景，你可能会失去你所有的进度。"
@@ -1468,9 +1543,6 @@ msgstr "刷新纪录"
 
 msgid "Information"
 msgstr "详情"
-
-msgid "Interval from %1 pos."
-msgstr "与第%1位的差距"
 
 msgid "Invalid"
 msgstr "无效"
@@ -1628,6 +1700,12 @@ msgstr "上次用时"
 msgid "Leader"
 msgstr "领先者"
 
+msgid "Leaderboard is empty"
+msgstr "Leaderboard is empty"
+
+msgid "League match divisions"
+msgstr "League match divisions"
+
 msgid "League ranking"
 msgstr "联赛排名"
 
@@ -1675,9 +1753,6 @@ msgstr "正在载入俱乐部活动…"
 
 msgid "Loading club room..."
 msgstr "正在载入俱乐部房间…"
-
-msgid "Loading competition..."
-msgstr "正在载入竞赛…"
 
 msgid "Loading offline campaign..."
 msgstr "正在载入离线赛事…"
@@ -1785,8 +1860,11 @@ msgstr "地图"
 msgid "Map %1/%2"
 msgstr "地图%1/%2"
 
-msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
-msgstr "地图%1/%2 - 通过排名1至%3%4名来保留之前的积分"
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3"
+msgstr "Map %1/%2 - 保持在第%3至第1名间来维持之前的积分"
+
+msgid "Map %1/%2 - Warm up"
+msgstr "地图 %1/%2 - 热身"
 
 msgid ""
 "Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
@@ -1867,14 +1945,17 @@ msgstr "比赛结束。你将被转回。"
 msgid "Match paused"
 msgstr "比赛暂停"
 
+msgid "Match results currently not available, check back later!"
+msgstr "尚无比赛成绩，稍后再来看看吧！"
+
 msgid "Match settings"
 msgstr "比赛设置"
 
 msgid "Match starting"
 msgstr "比赛即将开始"
 
-msgid "Matches"
-msgstr "比赛"
+msgid "Matches are currently unavailable, check back later!"
+msgstr "尚无比赛，稍后再来看看吧！"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "在线匹配已取消：没有可用的服务器"
@@ -1896,9 +1977,6 @@ msgstr "比赛设置已经保存为文件：%1"
 
 msgid "Max players"
 msgstr "最多玩家"
-
-msgid "Max players number"
-msgstr "最多玩家数量"
 
 msgid "Max points :"
 msgstr "最多积分："
@@ -1948,11 +2026,17 @@ msgstr "请通过移动起点方块来设置赛道的起点的位置。"
 msgid "Multi teams"
 msgstr "多队竞争"
 
-msgid "My Events"
-msgstr "我的活动"
-
 msgid "My clubs"
 msgstr "我的俱乐部"
+
+msgid "My events"
+msgstr "我的活动"
+
+msgid "My maps"
+msgstr "我的地图"
+
+msgid "My submitted maps"
+msgstr "已提交地图"
 
 msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
 msgstr "美洲客户关系中心 - 社区团队"
@@ -1977,6 +2061,9 @@ msgstr "新的排名：%1"
 
 msgid "New records disabled"
 msgstr "已禁用新纪录"
+
+msgid "New season in %1"
+msgstr "新赛季开始于 %1"
 
 msgid "New track"
 msgstr "新赛道"
@@ -2079,6 +2166,9 @@ msgstr "圈数"
 
 msgid "Number of maps per match"
 msgstr "每场比赛的地图数"
+
+msgid "Number of rounds"
+msgstr "回合数"
 
 msgid "Number of rounds per map"
 msgstr "每张地图的回合数"
@@ -2233,6 +2323,9 @@ msgstr "密码"
 msgid "Past 14 days"
 msgstr "过去14天"
 
+msgid "Past round matches are currently unavailable, check back later!"
+msgstr "尚无回合比赛历史，稍后再来看看吧！"
+
 msgid "Paste"
 msgstr "粘贴"
 
@@ -2241,6 +2334,9 @@ msgstr "暂停"
 
 msgid "Personal best"
 msgstr "个人最佳"
+
+msgid "Phase %1"
+msgstr "第%1阶段"
 
 msgid "Pick the controller"
 msgstr "选择控制器"
@@ -2330,6 +2426,9 @@ msgstr "在服务器内的玩家"
 
 msgid "Players order"
 msgstr "玩家发车顺序"
+
+msgid "Players per match"
+msgstr "最大玩家数量"
 
 msgid "Please reconnect the %1"
 msgstr "请重新连接%1"
@@ -2447,11 +2546,17 @@ msgstr "品质"
 msgid "QUALITY CONTROL MANAGER"
 msgstr "质量监控经理"
 
-msgid "Qualifications dates"
-msgstr "资格赛日期"
+msgid "Qualification"
+msgstr "资格"
+
+msgid "Qualification server %1"
+msgstr "资格赛服务器 %1"
 
 msgid "Qualifier rank: %1"
 msgstr "晋级赛排名：%1"
+
+msgid "Qualifiers are not available now, please try again later"
+msgstr "尚无资格赛，稍后再来看看吧！"
 
 msgid "Qualify"
 msgstr "资格赛"
@@ -2529,14 +2634,14 @@ msgstr "排名"
 msgid "Rankings"
 msgstr "排名"
 
+msgid "Rankings activity"
+msgstr "排名活动"
+
 msgid "Ready"
 msgstr "准备就绪"
 
 msgid "Ready (F6)"
 msgstr "准备就绪（F6）"
-
-msgid "Ready!"
-msgstr "就绪！"
 
 msgid "Ready: %1/%2"
 msgstr "就绪：%1/%2"
@@ -2562,17 +2667,17 @@ msgstr "刷新"
 msgid "Register"
 msgstr "注册"
 
+msgid "Registration"
+msgstr "注册"
+
 msgid "Registration dates"
 msgstr "报名日期"
 
-msgid "Registration failed (Error code: %1)"
-msgstr "注册失败（错误代码：%1）"
+msgid "Registrations are closed"
+msgstr "注册已截止"
 
-msgid "Registrations are closed."
-msgstr "报名已结束。"
-
-msgid "Registrations have not yet started."
-msgstr "报名尚未开始。"
+msgid "Registrations have not yet started"
+msgstr "注册未开始"
 
 msgid "Remaining time: %1"
 msgstr "剩余时间：%1"
@@ -2612,6 +2717,9 @@ msgstr "重新开始"
 
 msgid "Restart map"
 msgstr "重新开始地图"
+
+msgid "Results"
+msgstr "成绩"
 
 msgid "Resume"
 msgstr "继续"
@@ -2876,11 +2984,17 @@ msgstr ""
 msgid "Scroll down"
 msgstr "向下滚动"
 
+msgid "Scroll to top"
+msgstr "回到顶端"
+
 msgid "Scroll up"
 msgstr "向上滚动"
 
 msgid "Second (Press 2)"
 msgstr "第二位（按下2键）"
+
+msgid "See full ranking"
+msgstr "查看完整排名"
 
 msgid "See tutorial again"
 msgstr "再次查看教程"
@@ -2907,6 +3021,9 @@ msgid ""
 "Select a landscape. When you find one that pleases you, you can start your "
 "track."
 msgstr "请选择一个场景。选好后，你就可以开始创建你的赛道。"
+
+msgid "Select a map to move"
+msgstr "选择一个要移动的地图"
 
 msgid "Select a mode"
 msgstr "选择一种模式"
@@ -2947,6 +3064,9 @@ msgstr "选择下一个地图"
 msgid "Select number of players"
 msgstr "选择玩家数量"
 
+msgid "Select one of this servers to join the qualification"
+msgstr "Select one of this servers to join the qualification"
+
 msgid "Select style"
 msgstr "选择风格"
 
@@ -2974,8 +3094,8 @@ msgstr "选择地图"
 msgid "Semi-final"
 msgstr "半决赛"
 
-msgid "Server %1"
-msgstr "%1号服务器"
+msgid "Server"
+msgstr "服务器"
 
 msgid "Server account"
 msgstr "服务器账户"
@@ -2985,9 +3105,6 @@ msgstr "服务器已不存在"
 
 msgid "Server name"
 msgstr "服务器名称"
-
-msgid "Server region"
-msgstr "服务器地区"
 
 msgid "Servers are offline or in maintenance, please try again later."
 msgstr "服务器离线或正在维护，请稍后再试。"
@@ -3079,6 +3196,9 @@ msgid ""
 "players, full of creation and activities!"
 msgstr "标准版是为期一年的年票，为常规玩家提供了充满创意活动的完美体验！"
 
+msgid "Start Date"
+msgstr "开始日期"
+
 msgid "Starter"
 msgstr "新手版"
 
@@ -3094,14 +3214,8 @@ msgstr "阶段排名"
 msgid "Stop auto-finish"
 msgstr "停止自动完成赛道"
 
-msgid "Streaming subscriptions"
-msgstr "直播订阅"
-
 msgid "Style"
 msgstr "风格"
-
-msgid "Subscribe"
-msgstr "订阅"
 
 msgid "Subscribe to Trackmania %1 to access the server review."
 msgstr "订阅《赛道狂飙》%1即可使用服务器评价功能。"
@@ -3205,9 +3319,6 @@ msgstr "订阅《赛道狂飙》%1即可使用自定义皮肤。"
 msgid "Sunday"
 msgstr "星期日"
 
-msgid "Support %1$z: \"go %2$z\" in chat"
-msgstr "支持%1$z:：在聊天中输入“%2$z加油”"
-
 msgid "Switch"
 msgstr "切换"
 
@@ -3293,6 +3404,9 @@ msgstr "测试赛道"
 msgid "Test your maps"
 msgstr "测试你的地图"
 
+msgid "Thank you for playing."
+msgstr "Thank you for playing."
+
 msgid "The %1 started, GL HF"
 msgstr "%1现在开始了，祝你好运愉快"
 
@@ -3350,9 +3464,6 @@ msgstr "标题最多不能超过%1个字符"
 msgid "The leaderboard is now closed on this day!"
 msgstr "当日排行榜功能现已关闭！"
 
-msgid "The league is coming back in"
-msgstr "联赛回归时间："
-
 msgid "The map %1 is already used, please select an another map"
 msgstr "%1地图已在使用，请选择另一张地图"
 
@@ -3366,9 +3477,6 @@ msgid ""
 "The map '%1' is not playable. Please validate the map and compute the "
 "shadows."
 msgstr "无法游玩地图“%1”。请验证地图，并计算阴影。"
-
-msgid "The match is over, thank you for playing. You may leave now."
-msgstr "比赛结束了，感谢游玩。你现在可以由此离开。"
 
 msgid "The match started, GL HF"
 msgstr "比赛开始了，祝你好运愉快"
@@ -3390,14 +3498,14 @@ msgstr "竞赛的名称最少需要%1个字符且最多不超过%2个字符"
 msgid "The name tag has a maximum of %1 characters"
 msgstr "名称缩写最多可以容纳%1个字符"
 
-msgid "The next match will begin in %1 "
-msgstr "下一场比赛将在%1后开始 "
+msgid "The rankings activity is not linked to any campaign"
+msgstr "排名活动未连接至赛事。"
 
-msgid "The registration closed at: %1 H"
-msgstr "注册将在%1时结束"
+msgid "The registration failed, please try again (Error code: %1 %2)"
+msgstr "注册失败，请重试（错误代码：%1 %2）"
 
-msgid "The registration failed. Please try again later. (Error code: %1)"
-msgstr "登记失败。请稍后重试。（错误代码：%1）"
+msgid "The registration failed, your current zone is not allowed"
+msgstr "注册失败，你当前所在区域不支持"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "无法连接至此房间，请稍后再试。（错误代码：%1）"
@@ -3424,16 +3532,23 @@ msgstr "你的俱乐部目前没有可显示的活动。"
 msgid "There are no macroblocks available for this editor."
 msgstr "此编辑器中没有组合方块可使用。"
 
-msgid "There are no matches now, come back later"
-msgstr "目前没有比赛，稍后再来"
-
 msgid "There are no saved activities in your club."
 msgstr "你的俱乐部没有已保存的活动。"
 
 msgid ""
-"There has been an error while fetching information about this competition. "
+"There was an error while gathering the leaderboard, please try again later. "
 "(Error code: %1)"
-msgstr "在获取此竞赛时出现了错误。（错误代码：%1）"
+msgstr "获取排名榜信息时出错，请稍后再试。（错误代码：%1）"
+
+msgid ""
+"There was an error while gathering the leaderboard, please try again later. "
+"(Error: Task no longer available)"
+msgstr "获取排名榜信息时出错，请稍后再试。（错误：任务已不可用）"
+
+msgid ""
+"There was an error while gathering the match results, please try again "
+"later. (Error: Task no longer available)"
+msgstr "获取比赛结果信息时出错，请稍后再试。（错误：任务已不可用）"
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
@@ -3448,9 +3563,6 @@ msgstr "获取排名信息时发生错误，请稍后再试。（错误：进程
 msgid "Third (Press 3)"
 msgstr "第三位（按下3键）"
 
-msgid "This Competition is closed"
-msgstr "比赛已结束"
-
 msgid ""
 "This activity is private, you need to be a member of the club to use it."
 msgstr "这是一个私密活动，仅俱乐部成员可以使用。"
@@ -3459,9 +3571,6 @@ msgid ""
 "This block has a customizable skin. Use %1 to select the picture you want to "
 "use."
 msgstr "这个方块有一个可自定义的皮肤。使用%1来选择你想使用的图片。"
-
-msgid "This competition is closed"
-msgstr "此竞赛已经关闭"
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr "这是一个由玩家开设的专用服务器。现在可能并不在线。"
@@ -3613,9 +3722,6 @@ msgstr "取消应用皮肤"
 msgid "Unselect all"
 msgstr "取消全选"
 
-msgid "Unsubscribe"
-msgstr "取消订阅"
-
 msgid "Update member's role"
 msgstr "更新成员职位"
 
@@ -3636,6 +3742,9 @@ msgstr "上传皮肤"
 
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "更新Logo失败（错误代码：%1）"
+
+msgid "Uploading of the logo and Vertical failed (Error code: %1)"
+msgstr "上传徽标和垂直图片失败（错误代码：%1）"
 
 msgid "Uploading of the vertical Image failed (Error code: %1)"
 msgstr "更新垂直图片失败（错误代码：%1）"
@@ -3806,6 +3915,9 @@ msgstr "等待你的比赛"
 msgid "Waiting for your match to start"
 msgstr "等待你的比赛开始"
 
+msgid "Waiting on all matches currently in progress"
+msgstr "Waiting on all matches currently in progress"
+
 msgid "Warm up"
 msgstr "热身"
 
@@ -3815,12 +3927,8 @@ msgstr "热身"
 msgid "Warmup: %1/%2"
 msgstr "热身：%1/%2"
 
-msgid ""
-"Watch\n"
-"warm-up"
-msgstr ""
-"观看\n"
-"热身"
+msgid "Watch warmup"
+msgstr "观看赛前热身"
 
 msgid "We are sending you back to the lobby."
 msgstr "我们正将你送回至大厅。"
@@ -3874,6 +3982,9 @@ msgstr "欢迎来到：%1。"
 msgid "What do you want to do?"
 msgstr "你想要做什么？"
 
+msgid "When the previous round is over"
+msgstr "上一回合结束时"
+
 msgid ""
 "When you cut a block it is stored into your block history. You can then "
 "paste it back into your track or discard it from the history."
@@ -3908,20 +4019,26 @@ msgstr "黄色"
 msgid "Yes"
 msgstr "是"
 
-msgid "You are already registered for this event."
-msgstr "你已报名参加过此活动。"
-
 msgid "You are being transferred as a substitute."
 msgstr "你正在作为替补来被交换。"
 
 msgid "You are being transferred. Please wait."
 msgstr "你正在被交换。请稍等。"
 
+msgid "You are disconnected from Uplay."
+msgstr "你已从优派对断开连接。"
+
 msgid "You are disconnected from Uplay. (Error code: %1)"
 msgstr "你已经从优派对断开连接。（错误代码：%1）"
 
+msgid "You are disconnected from the Trackmania servers."
+msgstr "你已从《赛道狂飙》服务器断开连接。"
+
 msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "你已经从《赛道狂飙》服务器断开连接。（错误代码：%1）"
+
+msgid "You are in zone: %1."
+msgstr "你所在的区域：%1"
 
 msgid "You are not connected to Uplay."
 msgstr "你尚未连接至优派对。"
@@ -3931,9 +4048,6 @@ msgstr "你目前还没有注册过任何活动"
 
 msgid "You are not subscribed to any club"
 msgstr "你没有订阅任何俱乐部"
-
-msgid "You are registered"
-msgstr "你已成功注册"
 
 msgid "You are suspended"
 msgstr "你被禁赛了"
@@ -3956,6 +4070,13 @@ msgstr "你可以在赛道建造器中的装饰目录里找到颁奖台方块。
 msgid "You can place only one starting point!"
 msgstr "只能放置一个起点！"
 
+msgid "You can start qualification rounds at the same time as registration."
+msgstr "在注册参与的同时可以开始资格赛回合。"
+
+msgid ""
+"You can start this competition 10 minutes after registration or qualification"
+msgstr "在注册或资格赛结束后才可以开始进行赛事"
+
 msgid ""
 "You can test your track at any time. Press the \"test\" button to choose "
 "where to start."
@@ -3967,6 +4088,9 @@ msgstr "你无法在下一个检查点之前使用加速"
 msgid "You can't remove the starting line of the track."
 msgstr "你不能移除赛道的起点。"
 
+msgid "You don't have any events in progress"
+msgstr "你没有正在进行的活动"
+
 msgid "You don't have any server accounts registered."
 msgstr "你没有注册过任何服务器账户。"
 
@@ -3975,8 +4099,14 @@ msgid ""
 "the track."
 msgstr "你已几乎用尽了最多能使用的放置方块于赛道的数量。"
 
+msgid "You have been disconnected from Uplay."
+msgstr "你已从Uplay断开连接。"
+
 msgid "You have been disconnected from Uplay. (Error code: %1)"
 msgstr "你已经从优派对服务器断开。（错误代码：%1）"
+
+msgid "You have been disconnected from the Trackmania servers."
+msgstr "你已从赛道狂飙服务器断开连接。"
 
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
@@ -3999,11 +4129,20 @@ msgstr ""
 " \n"
 "将在30秒后回到每日频道"
 
+msgid "You have been reconnected to Uplay."
+msgstr "你已重新连接至优派对。"
+
+msgid "You have been reconnected to the Trackmania servers."
+msgstr "你已重新连接至《赛道狂飙》服务器。"
+
 msgid "You have been successfuly registered!"
 msgstr "你已成功报名！"
 
 msgid "You have to place exactly one podium!"
 msgstr "你必须且只能放置一个颁奖台！"
+
+msgid "You haven't submitted a map yet."
+msgstr "你还没有提交过地图。"
 
 msgid "You must enter a name for your club"
 msgstr "必须为你的俱乐部输入一个名称"
@@ -4018,7 +4157,7 @@ msgid "You must place at least one finish line!"
 msgstr "至少放置一条终点线！"
 
 msgid "You must place at least one respawnable checkpoint!"
-msgstr "你必须放置至少一个可重生的检查点！"
+msgstr "你必须放置至少一个可重置的检查点！"
 
 msgid "You must select at least one map to play"
 msgstr "你至少必须选择一个地图进行游戏"
@@ -4037,6 +4176,9 @@ msgstr "你需要选择一个游戏模式"
 
 msgid "You need to place a starting point!"
 msgstr "需要放置起点！"
+
+msgid "You need to set a name to the activity."
+msgstr "你需要为活动命名。"
 
 msgid "You reached the maximum number of blocks. You cannot add more."
 msgstr "已达到方块最大数量限制。你不能添加更多方块。"
@@ -4059,9 +4201,6 @@ msgstr "您的地图还有不到%1分钟"
 msgid "Your search did not return any results"
 msgstr "无搜索结果"
 
-msgid "Your subscription ends on %1"
-msgstr "你的订阅将于%1结束"
-
 msgid "by"
 msgstr "来自"
 
@@ -4073,6 +4212,9 @@ msgstr "俱乐部版"
 
 msgid "controller"
 msgstr "控制器"
+
+msgid "from %1"
+msgstr "距 %1"
 
 msgid "max %1 characters"
 msgstr "最多%1个字符"
@@ -4088,6 +4230,9 @@ msgstr "标准版"
 
 msgid "starter access"
 msgstr "新手版"
+
+msgid "support %1: \"go %2\" in chat"
+msgstr "应援%1：“加油！%2”"
 
 msgid "yes"
 msgstr "是"
@@ -4296,6 +4441,24 @@ msgstr "|Campaign|未知"
 msgid "|Cancel|Back"
 msgstr "|Cancel|返回"
 
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1热身结束，决赛阶段即将开始"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1热身结束，公开阶段即将开始"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1热身结束，半决赛阶段即将开始"
+
+msgid "|Champion|Final Phase"
+msgstr "|Champion|决赛阶段"
+
+msgid "|Champion|Opening Phase"
+msgstr "|Champion|公开阶段"
+
+msgid "|Champion|Semi-Final Phase"
+msgstr "|Champion|半决赛阶段"
+
 msgid "|ClubActivity|Maps"
 msgstr "|ClubActivity|地图"
 
@@ -4342,8 +4505,17 @@ msgstr "|Club|%1 会员"
 msgid "|Club|Closed"
 msgstr "|Club|已关闭"
 
+msgid "|Club|Club VIP"
+msgstr "|Club|俱乐部高级会员"
+
 msgid "|Club|Description"
 msgstr "|Club|描述"
+
+msgid "|Club|Feature"
+msgstr "|Club|添加至主页"
+
+msgid "|Club|Global VIP"
+msgstr "|Club|全球高级会员"
 
 msgid "|Club|Join"
 msgstr "|Club|加入"
@@ -4357,11 +4529,17 @@ msgstr "|Club|成员"
 msgid "|Club|Members"
 msgstr "|Club|会员"
 
+msgid "|Club|Pin club"
+msgstr "|Club|置顶俱乐部"
+
 msgid "|Club|Privacy"
 msgstr "|Club|隐私"
 
 msgid "|Club|Requests"
 msgstr "|Club|申请"
+
+msgid "|Club|Unfeature"
+msgstr "|Club|移除"
 
 msgid "|Club|VIP"
 msgstr "|Club|高级会员"
@@ -4371,9 +4549,6 @@ msgstr "|Club|请求"
 
 msgid "|Club|requests"
 msgstr "|Club|请求"
-
-msgid "|Competition|Coming Soon"
-msgstr "|Competition|即将推出"
 
 msgid "|DataType|Campaign"
 msgstr "|DataType|赛事"
@@ -4465,6 +4640,9 @@ msgstr "|GameMode|计时赛"
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|装饰"
 
+msgid "|Ghost|Replay"
+msgstr "|Ghost|回放"
+
 msgid "|ImageType|Background"
 msgstr "|ImageType|背景"
 
@@ -4494,18 +4672,6 @@ msgstr "|ImageType|水平"
 
 msgid "|Image|Background"
 msgstr "|Image|背景图片"
-
-msgid "|Image|Decal sponsor 4X1"
-msgstr "|Image|赞助商印花 4X1"
-
-msgid "|Image|Screen 16X1"
-msgstr "|Image|屏幕截图 16X1"
-
-msgid "|Image|Screen 16x9"
-msgstr "|Image|屏幕 16x9"
-
-msgid "|Image|Screen 8X1"
-msgstr "|Image|屏幕截图 8X1"
 
 msgid "|Image|Vertical"
 msgstr "|Image|垂直图片"
@@ -4672,9 +4838,6 @@ msgstr "|Landscape|石柱"
 msgid "|League|Map %1"
 msgstr "|League|%1号地图"
 
-msgid "|League|Step %1"
-msgstr "|League|第%1阶段"
-
 msgid "|League|map %1/%2"
 msgstr "|League|地图%1/%2"
 
@@ -4840,6 +5003,9 @@ msgstr "|Map|移动"
 
 msgid "|Map|New"
 msgstr "|Map|新建"
+
+msgid "|Match|%1Draw"
+msgstr "|Match|%1平局"
 
 msgid "|Match|Draw"
 msgstr "|Match|平局"
@@ -5101,15 +5267,6 @@ msgstr "|Status|竞赛中"
 
 msgid "|Status|Winner"
 msgstr "|Status|获胜者"
-
-msgid "|Streamer|Channel"
-msgstr "|Streamer|频道"
-
-msgid "|Streaming|Platform"
-msgstr "|Streaming|平台"
-
-msgid "|Subscription|Ends on"
-msgstr "|Streaming|结束于"
 
 msgid "|Sunday|S"
 msgstr "|Sunday|周日"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-08 13:36+0000\n"
+"PO-Revision-Date: 2020-09-09 09:28+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -807,6 +807,9 @@ msgstr "按下Alt键+在时间轴上点击"
 msgid "Always"
 msgstr "总是"
 
+msgid "Always display records"
+msgstr "保持显示纪录"
+
 msgid "Ambiance"
 msgstr "氛围"
 
@@ -1050,9 +1053,6 @@ msgstr "自动（西南）"
 
 msgid "Automatic Minimum Fps"
 msgstr "自动最小帧数"
-
-msgid "Automatically log me in at launch"
-msgstr "启动时自动登录"
 
 msgid "Automatically save all replays"
 msgstr "自动保存所有回放"
@@ -1394,9 +1394,6 @@ msgstr "更换地区"
 
 msgid "Change map"
 msgstr "更改地图"
-
-msgid "Change password"
-msgstr "更改密码"
 
 msgid "Change sort order"
 msgstr "更改排序方式"
@@ -2011,13 +2008,6 @@ msgstr "无法为$<%1$>验证回放。"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"无法验证！\n"
-"没有可用的关键事件…"
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "无法验证！\n"
@@ -2248,6 +2238,9 @@ msgstr "默认鸣笛"
 msgid "Default image"
 msgstr "默认图片"
 
+msgid "Default opponents visibility"
+msgstr "默认对手能见度"
+
 msgid "Default sound"
 msgstr "默认音效"
 
@@ -2372,9 +2365,6 @@ msgstr "放弃修改"
 
 msgid "Disconnect Account"
 msgstr "断开帐户"
-
-msgid "Disconnect local account"
-msgstr "断开本地账户"
 
 msgid "Disconnected from server"
 msgstr "从服务器断开连接"
@@ -2821,9 +2811,6 @@ msgstr "启用自动换行"
 msgid "Enable chat"
 msgstr "打开聊天"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "在多人联机服务器中启用聊天"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "启用通过鼠标触发脚本事件"
 
@@ -2907,6 +2894,9 @@ msgstr "输入验证码"
 
 msgid "Enter your friend's email"
 msgstr "输入你朋友的电子邮件地址"
+
+msgid "Enter your key"
+msgstr "输入的密钥"
 
 msgid "Enter your name:"
 msgstr "输入你的名字："
@@ -3814,6 +3804,9 @@ msgstr "保留更改"
 
 msgid "Keep last block of the track active"
 msgstr "保持轨道最后片段为活动状态"
+
+msgid "Key"
+msgstr "按键"
 
 msgid "Key 1"
 msgstr "键位 1"
@@ -4744,6 +4737,9 @@ msgstr "官方得分"
 msgid "Official time"
 msgstr "官方时间"
 
+msgid "Official time rankings for %1"
+msgstr "%官方时间排名"
+
 msgid "Offline"
 msgstr "离线"
 
@@ -5045,6 +5041,9 @@ msgstr "玩家输入"
 
 msgid "Player Page"
 msgstr "玩家页面"
+
+msgid "Player State Component"
+msgstr "玩家状态组件"
 
 msgid "Player already selected!"
 msgstr "玩家已经选择！"
@@ -5439,6 +5438,9 @@ msgstr "准备就绪"
 
 msgid "Ready (F6)"
 msgstr "准备就绪（F6）"
+
+msgid "Real name and ID card information have been successfully validated."
+msgstr "身份证信息验证通过 实名注册成功."
 
 msgid "Really balance teams?"
 msgstr "确认要平衡队伍吗？"
@@ -6445,9 +6447,6 @@ msgstr "显示高级参数"
 msgid "Show avatars"
 msgstr "显示头像"
 
-msgid "Show avatars of other players"
-msgstr "显示其他玩家的头像"
-
 msgid "Show helpers"
 msgstr "显示提示"
 
@@ -6583,6 +6582,9 @@ msgstr "观看"
 
 msgid "Spectator"
 msgstr "观众"
+
+msgid "Spectators placement computed"
+msgstr "观众位置已计算"
 
 msgid "Speed"
 msgstr "速度"
@@ -8014,15 +8016,6 @@ msgstr "验证$<%1$> （%2）…"
 msgid "Validating ..."
 msgstr "正在验证……"
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"在模式%1中录制\n"
-"的录像验证\n"
-"未实现。"
-
 msgid "Variables"
 msgstr "变量"
 
@@ -8096,6 +8089,9 @@ msgstr "显示完整时间轴"
 
 msgid "Virtual Reality"
 msgstr "虚拟现实"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "对其他玩家可见"
@@ -10211,6 +10207,9 @@ msgstr "|Input|保存回放"
 msgid "|Input|Save screenshot"
 msgstr "|Input|保存截图"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|次级重置"
+
 msgid "|Input|Shoot"
 msgstr "|Input|射击"
 
@@ -10943,9 +10942,6 @@ msgstr "|MeshModeler|方框选择模式"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|居中"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|可折叠几何图形"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|复制所选 [Ctrl+C]"
 
@@ -11612,6 +11608,12 @@ msgstr "|PlayerStateComponent|武器能量条"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|武器列表"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|隐藏"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|经典"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|不透明"
 
@@ -11823,6 +11825,9 @@ msgstr ""
 msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr "|SkinEditor (export a finished version of the skin, usable)|导出皮肤"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor(leaves the editor)|退出"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12030,6 +12035,12 @@ msgstr "|SpectatorCam|手动"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|回放"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|编辑时间"

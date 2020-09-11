@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-23 13:31+0000\n"
+"PO-Revision-Date: 2020-09-08 03:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: coréen\n"
+"Language-Team: Korean\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,6 +18,9 @@ msgstr "$%1작성자"
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>님은 로비의 왕입니다!"
 
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$>님은 현재 %2위입니다!"
+
 msgid "$<%1$> joined the game"
 msgstr "$<%1$>님이 게임에 참여했습니다"
 
@@ -26,9 +29,6 @@ msgstr "$<%1$>님이 게임을 나갔습니다"
 
 msgid "$<%1$> takes %2 place!"
 msgstr "$<%1$>님이 %2위를 차지했습니다!"
-
-msgid "$<%1$> wins step %2"
-msgstr "$<%1$>님이 %2단계 승리"
 
 msgid "$<%1$> wins the map!"
 msgstr "$<%1$>님이 맵에서 승리했습니다!"
@@ -172,6 +172,15 @@ msgstr ""
 "다. 3명의 플레이어가 파이널리스트가 되고 1등으로 경기를 마치면 컵 모드가 종료"
 "됩니다."
 
+msgid "%1 Will lose %3 of points %2"
+msgstr "%1 %3의 포인트를 잃게 됩니다 %2"
+
+msgid "%1 Will lose all points %2"
+msgstr "%1 모든 포인트를 잃게 됩니다 %2"
+
+msgid "%1 Will lose half of their points %2"
+msgstr "%1 포인트의 절반을 잃게 됩니다 %2"
+
 msgid "%1 is not a Stadium map"
 msgstr "%1은(는) 스타디움 맵이 아닙니다."
 
@@ -183,6 +192,9 @@ msgstr "%1 맵"
 
 msgid "%1 maps"
 msgstr "%1 맵"
+
+msgid "%1 player"
+msgstr "플레이어 %1"
 
 msgid "%1 players"
 msgstr "플레이어 %1명"
@@ -202,8 +214,17 @@ msgstr "%1$<%2$>님이 매치에 참여했습니다."
 msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$>님이 교체 선수로 자신의 매치에 참여했습니다."
 
+msgid "%1$<%2$> wins step %3"
+msgstr "%1$<%2$> %3단계 승리"
+
+msgid "%1$<%2$> wins the match!"
+msgstr "%1$<%2$> 경기 승리!"
+
 msgid "%1's server"
 msgstr "%1의 서버"
+
+msgid "%1Be in the top %2"
+msgstr "%1 %2위에 들어야 합니다"
 
 msgid "%1Best CP %2"
 msgstr "%1최고의 CP %2"
@@ -313,6 +334,12 @@ msgstr "리플레이 상대"
 msgid "All clubs"
 msgstr "모든 클럽"
 
+msgid "All done here, thanks for playing!"
+msgstr "여기는 모든 것이 완료되었습니다. 플레이해주셔서 감사합니다!"
+
+msgid "All events"
+msgstr "모든 이벤트"
+
 msgid "All fields must be completed"
 msgstr "모든 항목을 작성해야 합니다."
 
@@ -324,13 +351,6 @@ msgstr "아군"
 
 msgid "An error occured while joining, please try again. (Error code: %1)"
 msgstr "참여하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
-
-msgid ""
-"An error occurred while fetching the next match. Please try again. (Error "
-"code: %1)"
-msgstr ""
-"다음 경기를 불러오는 과정에서 에러가 발생했습니다. 다시 시도하십시오. (에러 "
-"코드: %1)"
 
 msgid ""
 "An error occurred while retrieving your accounts, please try again. (Error "
@@ -356,8 +376,14 @@ msgstr "스킨 적용"
 msgid "Arcade"
 msgstr "아케이드"
 
+msgid "Are you really sure you want to %1?"
+msgstr "정말로 경기에서 나가시겠습니까?"
+
 msgid "Are you really sure you want to leave the match?"
 msgstr "정말로 경기에서 나가시겠습니까?"
+
+msgid "Are you sure to remove this map?"
+msgstr "정말로 이 맵을 지우시겠습니까?"
 
 msgid "Are you sure you want to create a new track?"
 msgstr "정말로 새로운 트랙을 만들고 싶으십니까?"
@@ -376,6 +402,13 @@ msgstr "정말로 다른 트랙을 생성하기를 원하십니까?"
 
 msgid "Are you sure you want to leave the editor?"
 msgstr "정말 에디터를 나가시겠습니까?"
+
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Trackmania를 종료하시겠습니까?"
@@ -452,9 +485,6 @@ msgstr "팀 균형 맞추기"
 msgid ""
 "Be careful! This block disable your engine until you cross a new checkpoint."
 msgstr "조심하십시오! 이 블록은 새로운 체크 포인트까지 엔진 사용을 멈춥니다."
-
-msgid "Be in the top %1"
-msgstr "최상위 %1위 안에 드십시오"
 
 msgid "Best lap"
 msgstr "베스트 랩"
@@ -614,6 +644,9 @@ msgstr "고객지원지식차장"
 
 msgid "Campaign"
 msgstr "캠페인"
+
+msgid "Campaign '$<%1$>'"
+msgstr "캠페인 '$<%1$>'"
 
 msgid "Campaign creation"
 msgstr "캠페인 생성"
@@ -818,6 +851,9 @@ msgstr "캠페인 만들기"
 msgid "Create club"
 msgstr "클럽 만들기"
 
+msgid "Create competition"
+msgstr "대회 생성"
+
 msgid "Create map"
 msgstr "맵 만들기"
 
@@ -852,6 +888,9 @@ msgstr "활동 만드는 중..."
 msgid "Creating campaign..."
 msgstr "캠페인 만드는 중..."
 
+msgid "Creating club activity..."
+msgstr "클럽 활동을 생성하는 중..."
+
 msgid "Creating club room..."
 msgstr "클럽 룸 생성 중..."
 
@@ -875,6 +914,9 @@ msgstr "현재 매치 점수"
 
 msgid "Current player"
 msgstr "현재 플레이어"
+
+msgid "Current quarterly campaign"
+msgstr "현재 분기 캠페인"
 
 msgid "Customization"
 msgstr "사용자 지정"
@@ -930,6 +972,9 @@ msgstr "데일리 컵 녹아웃"
 msgid "Daily cup"
 msgstr "데일리 컵"
 
+msgid "Daily map"
+msgstr "일일 맵"
+
 msgid "Daily rankings"
 msgstr "일일 랭킹"
 
@@ -949,13 +994,6 @@ msgstr ""
 "데칼 스폰서: 도로를 둘러싼 스폰서 배너에 보이는 이미지입니다.\n"
 "면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
 
-msgid ""
-"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"데칼: 도로 표면에 보이는 이미지입니다 (출발점, 체크포인트 및 결승점).\n"
-"면적: %1 - 형식: PNG, JPEG 또는 DDS (DXT5)"
-
 msgid "Decoration"
 msgstr "장식"
 
@@ -964,6 +1002,12 @@ msgstr "클럽 삭제"
 
 msgid "Deleting club..."
 msgstr "클럽 삭제 중..."
+
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "'%1' 유형 이미지를 삭제하지 못했습니다. 다시 시도해주십시오. (%2 오류)"
+
+msgid "Description"
+msgstr "설명"
 
 msgid "Did you like this map?"
 msgstr "이 맵에 만족하셨습니까?"
@@ -1006,6 +1050,9 @@ msgstr "자동 결승점 설정을 중단하시겠습니까?"
 
 msgid "Do you want to validate the track now?"
 msgstr "트랙을 지금 활성화시키겠습니까?"
+
+msgid "Do your best to qualify."
+msgstr "Do your best to qualify."
 
 msgid "Don't forget to save your track!"
 msgstr "트랙을 저장하는 것을 잊지 마십시오!"
@@ -1052,6 +1099,20 @@ msgstr "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
 msgid "EXTERNAL PARTNERS"
 msgstr "외부 협력업체"
 
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
+"%1 right after%2 and respresent your country."
+msgstr ""
+"각 맵에서 %1스킬 포인트%2를 획득해 랭킹을 올리십시오. %1바로 이어서%2 리그 매"
+"치의 액세스 권한을 얻어 국가를 대표하십시오."
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Your final rank determines the "
+"points you score for %1your country%2."
+msgstr ""
+"각 맵에서 %1스킬 포인트%2를 획득해 랭킹을 올리십시오. 최종 랭킹에 따라 %1플레"
+"이어의 국가%2를 위해 획득한 포인트가 결정됩니다."
+
 msgid "Earn medals and track your progression in regional rankings"
 msgstr "메달을 얻고 지역 랭킹이 얼마나 올랐는지 확인해보십시오."
 
@@ -1094,11 +1155,20 @@ msgstr "트랙 수정"
 msgid "Editing activity..."
 msgstr "활동 편집하는 중..."
 
+msgid "Editing club activity..."
+msgstr "클럽 활동을 수정하는 중..."
+
 msgid "Editing club room..."
 msgstr "클럽 룸 편집하는 중..."
 
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr "'%1' 유형 이미지를 편집하지 못했습니. 다시 시도해주십시오. (%2 오류)"
+
 msgid "Eighth (Press 8)"
 msgstr "8위(8을 누르세요)"
+
+msgid "End Date"
+msgstr "종료 날짜"
 
 msgid "End of warmup, match starting..."
 msgstr "워밍업 종료. 경기 시작하는 중..."
@@ -1108,9 +1178,6 @@ msgstr "엔진 정지"
 
 msgid "Enough players agreed to play a rematch."
 msgstr "충분한 수의 플레이어가 리매치에 동의했습니다."
-
-msgid "Entry"
-msgstr "항목"
 
 msgid "Error"
 msgstr "오류"
@@ -1137,6 +1204,13 @@ msgstr "활동을 편집하지 못했습니다. 다시 시도하십시오. (오�
 
 msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr "룸을 편집하는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1 for the profile. Please try again. "
+"(Error code: %2)"
+msgstr ""
+"프로필을 위해 %1 유형의 캠페인을 가져오는 중 오류가 발생했습니다. 다시 시도하"
+"십시오. (오류 코드: %2)"
 
 msgid ""
 "Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
@@ -1183,12 +1257,24 @@ msgstr ""
 "서버 참여 링크를 가져오는 중 오류가 발생했습니다. 다시 시도하십시오. (오류 코"
 "드: %1)"
 
+msgid ""
+"Error while fetching your submitted maps, please try again. (Error code: %1)"
+msgstr ""
+"제출한 맵을 가져오는 동안 오류가 발생했습니다. 다시 시도해보세요. (오류 코"
+"드: %1)"
+
 msgid "Error while gathering maps data. (Error code: %1)"
 msgstr "맵 데이터를 수집하는 중 오류가 발생했습니다. (오류 코드: %1)"
 
 msgid "Error while joining the server, please try again. (Error code: %1)"
 msgstr ""
 "서버에 입장하는 중 에러가 발생했습니다. 다시 시도하십시오. (오류 코드: %1)"
+
+msgid "Error while loading matches. (Error code: %1)"
+msgstr "경기를 가져오는 동안 오류가 발생했습니다. (오류 코드: %1)"
+
+msgid "Error while loading past matches. (Error code: %1)"
+msgstr "지난 경기를 가져오는 동안 오류가 발생했습니다. (오류 코드: %1)"
 
 msgid "Error while loading ranking (code: %1)"
 msgstr "순위 로딩 중 에러가 발생했습니다 (코드: %1)"
@@ -1216,6 +1302,17 @@ msgid ""
 "%1)"
 msgstr ""
 "클럽 캠페인 로딩 중 오류가 발생했습니다. 다시 시도하십시오. (에러 코드: %1)"
+
+msgid "Error while loading the event. Please try again. (Error code: %1)"
+msgstr ""
+"이벤트를 로딩하는 중 오류가 발생했습니다. 다시 시도해주십시오. (오류 코드: "
+"%1)"
+
+msgid ""
+"Error while loading the leaderboard. Please try again later. (Error code: %1)"
+msgstr ""
+"리더보드를 가져오는 동안 오류가 발생했습니다. 나중에 다시 시도해보세요. (오"
+"류 코드: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "트로피 로딩 중 에러 발생(코드: %1)"
@@ -1290,6 +1387,20 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
+
+msgid ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+msgstr ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+msgstr ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
 
 msgid "Fifth (Press 5)"
 msgstr "5위(5를 누르세요)"
@@ -1390,6 +1501,12 @@ msgstr "%1 포기"
 msgid "Give up Daily cup?"
 msgstr "일일 컵을 포기하시겠습니까?"
 
+msgid "Go back to the menu to see the results."
+msgstr "Go back to the menu to see the results."
+
+msgid "Go back to the menu to wait for your next match."
+msgstr "Go back to the menu to wait for your next match."
+
 msgid "Go to map list"
 msgstr "맵 목록으로 이동"
 
@@ -1441,6 +1558,12 @@ msgstr "핫시트"
 msgid "Hotseat"
 msgstr "핫시트"
 
+msgid "I am ready"
+msgstr "준비됐습니다"
+
+msgid "I have read and I agree to the %1rules%2 of this event."
+msgstr "이 이벤트의 %1규칙%2을 읽었으며 이에 동의합니다."
+
 msgid "INFRASTRUCTURE TEAM MANAGER"
 msgstr "INFRASTRUCTURE TEAM MANAGER"
 
@@ -1449,6 +1572,13 @@ msgstr "인턴 라이브 품질검사"
 
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "국제 제품 과장"
+
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+msgstr ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
@@ -1469,8 +1599,8 @@ msgstr "재도전"
 msgid "Information"
 msgstr "정보"
 
-msgid "Interval from %1 pos."
-msgstr "%1위와의 간격"
+msgid "Invalid"
+msgstr "유효하지 않음"
 
 msgid "Invite friends"
 msgstr "친구 초대"
@@ -1525,6 +1655,9 @@ msgstr "클럽 활동에 참여하고 클럽 랭킹을 확인해보십시오."
 
 msgid "Join public club activities: campaigns and online rooms"
 msgstr "공개 클럽 활동에 참여보십시오. 캠페인과 온라인 룸"
+
+msgid "Joining friends"
+msgstr "친구와 합류하는 중"
 
 msgid "Jump to map"
 msgstr "맵으로 점프"
@@ -1622,6 +1755,12 @@ msgstr "마지막 시간"
 msgid "Leader"
 msgstr "선두"
 
+msgid "Leaderboard is empty"
+msgstr "Leaderboard is empty"
+
+msgid "League match divisions"
+msgstr "League match divisions"
+
 msgid "League ranking"
 msgstr "리그 랭킹"
 
@@ -1669,9 +1808,6 @@ msgstr "클럽 활동 불러오는 중..."
 
 msgid "Loading club room..."
 msgstr "클럽 룸 불러오는 중..."
-
-msgid "Loading competition..."
-msgstr "경기 로딩..."
 
 msgid "Loading offline campaign..."
 msgstr "캠페인 불러오는 중..."
@@ -1776,6 +1912,15 @@ msgstr "트랙 관리하기"
 msgid "Map"
 msgstr "맵"
 
+msgid "Map %1/%2"
+msgstr "맵 %1/%2"
+
+msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3"
+msgstr "맵 %1/%2 - 1위~%3위 안에 들어서 이전 포인트를 유지하세요"
+
+msgid "Map %1/%2 - Warm up"
+msgstr "맵 %1/%2 - 워밍업"
+
 msgid ""
 "Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
 msgstr ""
@@ -1844,6 +1989,9 @@ msgstr "경기가 끝났습니다"
 msgid "Match not started yet."
 msgstr "매치가 아직 시작되지 않았습니다."
 
+msgid "Match ongoing"
+msgstr "매치 진행 중"
+
 msgid "Match over. You should have been transferred back to the lobby."
 msgstr "매치가 끝났습니다. 로비로 돌아가야 합니다."
 
@@ -1853,8 +2001,17 @@ msgstr "매치가 끝났습니다. 이전 화면으로 돌아가게 됩니다."
 msgid "Match paused"
 msgstr "경기 일시 정지됨"
 
+msgid "Match results currently not available, check back later!"
+msgstr "지금은 경기 결과를 확인할 수 없습니다. 나중에 다시 확인해보세요!"
+
 msgid "Match settings"
 msgstr "매치 설정"
+
+msgid "Match starting"
+msgstr "매치 시작 중"
+
+msgid "Matches are currently unavailable, check back later!"
+msgstr "지금은 경기를 할 수 없습니다. 나중에 다시 확인해보세요!"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "매치메이킹 취소됨: 이용 가능한 서버가 없습니다"
@@ -1875,9 +2032,6 @@ msgid "Matchsettings have been saved in file: %1"
 msgstr "매치 설정이 %1 파일에 저장됩니다."
 
 msgid "Max players"
-msgstr "최대 플레이어 수"
-
-msgid "Max players number"
 msgstr "최대 플레이어 수"
 
 msgid "Max points :"
@@ -1910,6 +2064,9 @@ msgstr "월요일"
 msgid "More VIPs"
 msgstr "VIP 더보기"
 
+msgid "More info at %1"
+msgstr "자세한 정보: %1"
+
 msgid "Move"
 msgstr "이동"
 
@@ -1927,6 +2084,15 @@ msgstr "여러 팀"
 
 msgid "My clubs"
 msgstr "내 클럽"
+
+msgid "My events"
+msgstr "내 이벤트"
+
+msgid "My maps"
+msgstr "나의 맵"
+
+msgid "My submitted maps"
+msgstr "내가 제출한 맵"
 
 msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
 msgstr "NCSA 고객 관계 센터 - 커뮤니티팀"
@@ -1952,11 +2118,23 @@ msgstr "새로운 랭킹: %1"
 msgid "New records disabled"
 msgstr "신규 기록 비활성화됨"
 
+msgid "New season in %1"
+msgstr "%1에 새로운 시즌이 시작됩니다"
+
 msgid "New track"
 msgstr "새로운 트랙"
 
 msgid "News"
 msgstr "뉴스"
+
+msgid "News Body"
+msgstr "뉴스 본문"
+
+msgid "News Headline"
+msgstr "뉴스 헤드라인"
+
+msgid "News Title"
+msgstr "뉴스 제목"
 
 msgid "News image"
 msgstr "뉴스 사진"
@@ -2003,6 +2181,9 @@ msgstr "클럽 없음"
 msgid "No daily map found to display the rankings"
 msgstr "랭킹을 표시할 일일 맵이 발견되지 않았습니다."
 
+msgid "No events"
+msgstr "이벤트 없음"
+
 msgid "No maps in this month"
 msgstr "해당 월에는 맵이 없습니다"
 
@@ -2041,6 +2222,9 @@ msgstr "랩 수"
 
 msgid "Number of maps per match"
 msgstr "랩 수: "
+
+msgid "Number of rounds"
+msgstr "라운드 수"
 
 msgid "Number of rounds per map"
 msgstr "랩 수: "
@@ -2195,6 +2379,9 @@ msgstr "암호"
 msgid "Past 14 days"
 msgstr "최근 14일"
 
+msgid "Past round matches are currently unavailable, check back later!"
+msgstr "확인할 수 있는 이전 라운드 경기가 없습니다. 나중에 다시 확인해보세요!"
+
 msgid "Paste"
 msgstr "붙여넣기"
 
@@ -2203,6 +2390,9 @@ msgstr "일시 중지"
 
 msgid "Personal best"
 msgstr "개인 최고 기록"
+
+msgid "Phase %1"
+msgstr "%1 단계"
 
 msgid "Pick the controller"
 msgstr "컨트롤러 선택"
@@ -2229,6 +2419,9 @@ msgstr ""
 "지름길 이용 방지를 위해 체크포인트를 두십시오. 다른 플레이어들이 트랙에서 더 "
 "쉽게 부활할 수 있습니다."
 
+msgid "Placement match"
+msgstr "순위 매치"
+
 msgid "Platform"
 msgstr "플랫폼"
 
@@ -2252,6 +2445,9 @@ msgstr "리플레이를 상대로 플레이하기"
 
 msgid "Play against opponents"
 msgstr "상대와 플레이하기"
+
+msgid "Play against your followers"
+msgstr "팔로워 상대로 플레이"
 
 msgid "Play alone"
 msgstr "혼자 플레이하기"
@@ -2290,6 +2486,9 @@ msgstr "서버에 접속 중인 플레이어"
 msgid "Players order"
 msgstr "플레이어 순서"
 
+msgid "Players per match"
+msgstr "경기 당 플레이어 수"
+
 msgid "Please reconnect the %1"
 msgstr "%1와 다시 연결하십시오."
 
@@ -2323,6 +2522,9 @@ msgstr "포인트 제한: "
 
 msgid "Points limit: %1, Current best score: %2"
 msgstr "점수 제한: %1, 현재 최고 점수: %2"
+
+msgid "Points repartition"
+msgstr "포인트 분배"
 
 msgid "Popularity"
 msgstr "인기도"
@@ -2407,8 +2609,20 @@ msgstr "품질"
 msgid "QUALITY CONTROL MANAGER"
 msgstr "품질 관리 과장"
 
+msgid "Qualification"
+msgstr "자격"
+
+msgid "Qualification server %1"
+msgstr "예선 서버 %1"
+
 msgid "Qualifier rank: %1"
 msgstr "예선 등수: %1"
+
+msgid "Qualifiers are not available now, please try again later"
+msgstr "지금은 예선 참가자가 없습니다. 나중에 다시 시도해보세요"
+
+msgid "Qualify"
+msgstr "예선"
 
 msgid "Quantity"
 msgstr "수량"
@@ -2485,11 +2699,17 @@ msgstr "랭킹"
 msgid "Rankings"
 msgstr "랭킹"
 
+msgid "Rankings activity"
+msgstr "랭킹 활동"
+
 msgid "Ready"
 msgstr "준비"
 
 msgid "Ready (F6)"
 msgstr "준비(F6)"
+
+msgid "Ready: %1/%2"
+msgstr "준비: %1/%2"
 
 msgid "Record leader ghost"
 msgstr "리더 고스트 기록하기"
@@ -2512,8 +2732,17 @@ msgstr "새로고침"
 msgid "Register"
 msgstr "등록"
 
-msgid "Registration failed (Error code: %1)"
-msgstr "등록 실패 (에러 코드: %1)"
+msgid "Registration"
+msgstr "등록"
+
+msgid "Registration dates"
+msgstr "등록 날짜"
+
+msgid "Registrations are closed"
+msgstr "등록이 마감되었습니다"
+
+msgid "Registrations have not yet started"
+msgstr "등록이 아직 시작되지 않았습니다"
 
 msgid "Remaining time: %1"
 msgstr "남은 시간: %1"
@@ -2553,6 +2782,9 @@ msgstr "재시작"
 
 msgid "Restart map"
 msgstr "맵 다시 시작하기"
+
+msgid "Results"
+msgstr "결과"
 
 msgid "Resume"
 msgstr "계속하기"
@@ -2767,6 +2999,14 @@ msgid "Saving campaign..."
 msgstr "캠페인 저장하는 중..."
 
 msgid ""
+"Score points for %1your country%2. Play against players with the%1 same "
+"placement%2 rank. You score more points in%1 high rank%2 matchs. "
+msgstr ""
+"%1자신의 국가%2를 위해 점수를 획득하십시오. %1같은 순위%2 랭킹의 플레이어를 "
+"상대로 플레이하십시오. %1높은 랭킹%2의 매치에서 더 많은 포인트를 획득할 수 있"
+"습니다. "
+
+msgid ""
 "Screen 16x1: image displayed on stadium's podium (under big screen).\n"
 "Dimensions: %1 - Format: DDS (DXT5)"
 msgstr ""
@@ -2790,11 +3030,17 @@ msgstr ""
 msgid "Scroll down"
 msgstr "스크롤 내리기"
 
+msgid "Scroll to top"
+msgstr "위로 이동"
+
 msgid "Scroll up"
 msgstr "스크롤 올리기"
 
 msgid "Second (Press 2)"
 msgstr "2위(2를 누르세요)"
+
+msgid "See full ranking"
+msgstr "전체 랭킹 보기"
 
 msgid "See tutorial again"
 msgstr "튜토리얼 다시 보기"
@@ -2822,6 +3068,9 @@ msgid ""
 "track."
 msgstr ""
 "풍경을 선택하십시오. 마음에 드는 풍경을 선택하면, 경기를 시작할 수 있습니다."
+
+msgid "Select a map to move"
+msgstr "이동할 맵을 선택하십시오"
 
 msgid "Select a mode"
 msgstr "모드 선택"
@@ -2862,6 +3111,9 @@ msgstr "다음 맵 선택하기"
 msgid "Select number of players"
 msgstr "플레이어 수 선택:"
 
+msgid "Select one of this servers to join the qualification"
+msgstr "Select one of this servers to join the qualification"
+
 msgid "Select style"
 msgstr "스타일 선택"
 
@@ -2889,6 +3141,9 @@ msgstr "선택된 맵"
 msgid "Semi-final"
 msgstr "준결승"
 
+msgid "Server"
+msgstr "서버"
+
 msgid "Server account"
 msgstr "서버 계정"
 
@@ -2897,9 +3152,6 @@ msgstr "서버가 더 이상 존재하지 않습니다."
 
 msgid "Server name"
 msgstr "서버 이름"
-
-msgid "Server region"
-msgstr "서버 지역"
 
 msgid "Servers are offline or in maintenance, please try again later."
 msgstr "서버가 오프라인이거나 점검 중입니다, 나중에 다시 시도하십시오."
@@ -2936,6 +3188,9 @@ msgstr "싱글 맵"
 
 msgid "Sixth (Press 6)"
 msgstr "6위(6을 누르세요)"
+
+msgid "Skill Points Ranking"
+msgstr "스킬 포인트 랭킹"
 
 msgid "Skin browser"
 msgstr "스킨 브라우저"
@@ -2988,8 +3243,14 @@ msgid ""
 "players, full of creation and activities!"
 msgstr "스탠다드 액세스는 게임 내 모든 활동을 즐길 수 있는 1년 패스권입니다."
 
+msgid "Start Date"
+msgstr "시작 날짜"
+
 msgid "Starter"
 msgstr "스타터"
+
+msgid "Starts in"
+msgstr "다음 후에 시작:"
 
 msgid "Stats"
 msgstr "통계"
@@ -3000,14 +3261,8 @@ msgstr "단계 랭킹"
 msgid "Stop auto-finish"
 msgstr "자동 결승점 설정 중단"
 
-msgid "Streaming subscriptions"
-msgstr "스트리밍 구독"
-
 msgid "Style"
 msgstr "스타일"
-
-msgid "Subscribe"
-msgstr "구독"
 
 msgid "Subscribe to Trackmania %1 to access the server review."
 msgstr "서버 리뷰를 보려면 Trackmania %1에 가입하십시오."
@@ -3112,9 +3367,6 @@ msgstr "커스텀 스킨을 사용하려면 Trackmania %1에 가입하십시오.
 msgid "Sunday"
 msgstr "일요일"
 
-msgid "Support %1$z: \"go %2$z\" in chat"
-msgstr "채팅에서 %1$z: \"go %2$z\" 지원"
-
 msgid "Switch"
 msgstr "변경"
 
@@ -3201,6 +3453,12 @@ msgstr "트랙 테스트"
 msgid "Test your maps"
 msgstr "내 맵 테스트"
 
+msgid "Thank you for playing."
+msgstr "Thank you for playing."
+
+msgid "The %1 started, GL HF"
+msgstr "%1 시작. 행운을 빕니다."
+
 msgid ""
 "The Club Access is a 1 year or 3 years pass offering the most complete "
 "Trackmania experience with customization, pro-level competitions and unique "
@@ -3244,14 +3502,20 @@ msgstr "장식은 제거할 수 있으며, 트랙을 다시 유효화해야 합�
 msgid "The decoration will be removed."
 msgstr "장식이 제거됩니다."
 
+msgid "The description of Competition can't be empty"
+msgstr "경기 설명은 비워둘 수 없습니다."
+
+msgid "The description of Competition has a maximum of %1 characters"
+msgstr "경기 설명은 최대 %1자까지 허용됩니다."
+
 msgid "The headline has a maximum of %1 characters"
 msgstr "표제는 최대 %1 글자입니다."
 
 msgid "The leaderboard is now closed on this day!"
 msgstr "오늘의 순위표는 지금 폐쇄됩니다!"
 
-msgid "The league is coming back in"
-msgstr "리그 재개까지 남은 시간:"
+msgid "The map %1 is already used, please select an another map"
+msgstr "맵 %1은(는) 이미 사용 중입니다. 다른 맵을 선택하십시오."
 
 msgid "The map '%1' is already in the playlist"
 msgstr "'%1' 맵은 이미 플레이리스트에 있습니다."
@@ -3263,6 +3527,9 @@ msgid ""
 "The map '%1' is not playable. Please validate the map and compute the "
 "shadows."
 msgstr "'%1' 맵은 플레이할 수 없습니다. 맵 인하고 음영을 계산하십시오."
+
+msgid "The match started, GL HF"
+msgstr "매치 시작. 행운을 빕니다."
 
 msgid "The match will begin shortly ..."
 msgstr "매치가 곧 시작됩니다..."
@@ -3281,8 +3548,14 @@ msgstr "경기 이름은 최소 %1 글자, 최대 %2글자입니다."
 msgid "The name tag has a maximum of %1 characters"
 msgstr "이름 태그는 최대 %1자까지 입니다"
 
-msgid "The next match will begin in %1 "
-msgstr "다음 경기가 %1 후 시작됩니다. "
+msgid "The rankings activity is not linked to any campaign"
+msgstr "랭킹 활동과 연결된 캠페인이 없습니다."
+
+msgid "The registration failed, please try again (Error code: %1 %2)"
+msgstr "등록에 실패하였습니다. 다시 시도하십시오. (오류 코드: %1 %2)"
+
+msgid "The registration failed, your current zone is not allowed"
+msgstr "등록에 실패하였습니다. 지원하지 않는 지역입니다"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "룸에 접근할 수 없습니다. 다시 시도하십시오. (오류 코드: %1)"
@@ -3314,11 +3587,25 @@ msgid "There are no saved activities in your club."
 msgstr "클럽에 저장된 활동이 없습니다."
 
 msgid ""
-"There has been an error while fetching information about this competition. "
+"There was an error while gathering the leaderboard, please try again later. "
 "(Error code: %1)"
 msgstr ""
-"해당 경기에 대한 정보를 가져오는 과정에서 오류가 발생했습니다. (에러 코드: "
-"%1)"
+"리더보드를 수집하는 동안 오류가 발생했습니다. 나중에 시도해보세요. (오류 코"
+"드: %1)"
+
+msgid ""
+"There was an error while gathering the leaderboard, please try again later. "
+"(Error: Task no longer available)"
+msgstr ""
+"리더보드를 수집하는 동안 오류가 발생했습니다. 나중에 다시 시도해보세요. (오"
+"류: 작업을 더 이상 수행할 수 없습니다)"
+
+msgid ""
+"There was an error while gathering the match results, please try again "
+"later. (Error: Task no longer available)"
+msgstr ""
+"경기 결과를 수집하는 동안 오류가 발생했습니다. 나중에 다시 시도해보세요. (오"
+"류: 작업을 더 이상 수행할 수 없습니다)"
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
@@ -3346,9 +3633,6 @@ msgid ""
 "use."
 msgstr ""
 "이 블록은 커스텀이 가능합니다. 사용하고 싶은 사진을 누르려면 %1를 쓰십시오."
-
-msgid "This competition is closed"
-msgstr "마감된 경기입니다."
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr "플레이어가 호스팅하는 전용 서버입니다. 오프라인 상태일 수 있습니다."
@@ -3503,20 +3787,33 @@ msgstr "스킨 적용 취소"
 msgid "Unselect all"
 msgstr "모두 선택 취소"
 
-msgid "Unsubscribe"
-msgstr "탈퇴하기"
-
 msgid "Update member's role"
 msgstr "멤버 역할 업데이트"
 
 msgid "Updating club..."
 msgstr "클럽 업데이트 중..."
 
+msgid ""
+"Upgrading from Standard to Club access will transform one third of your "
+"remaining days of Standard access into Club access"
+msgstr ""
+"스탠다드 액세스에서 클럽 액세스로 업그레이드하면 스탠다드 액세스의 남은 날짜 "
+"중 1/3이 클럽 액세스로 전환됩니다."
+
 msgid "Upload a map"
 msgstr "맵 업로드"
 
 msgid "Upload a skin"
 msgstr "스킨 업로드"
+
+msgid "Upload of the logo failed (Error code: %1)"
+msgstr "로고를 업로드하지 못했습니다. (오류 코드: %1)"
+
+msgid "Uploading of the logo and Vertical failed (Error code: %1)"
+msgstr "로고와 버티칼을 가져오는데 실패했습니다. (오류 코드: %1)"
+
+msgid "Uploading of the vertical Image failed (Error code: %1)"
+msgstr "수직 이미지를 업로드하지 못했습니다. (오류 코드: %1)"
 
 msgid "Uploading..."
 msgstr "업로드하는 중..."
@@ -3686,6 +3983,9 @@ msgstr "내 매치 기다리는 중"
 msgid "Waiting for your match to start"
 msgstr "매치 시작을 기다리는 중"
 
+msgid "Waiting on all matches currently in progress"
+msgstr "Waiting on all matches currently in progress"
+
 msgid "Warm up"
 msgstr "워밍업"
 
@@ -3695,12 +3995,8 @@ msgstr "워밍업"
 msgid "Warmup: %1/%2"
 msgstr "워밍업: %1/%2"
 
-msgid ""
-"Watch\n"
-"warm-up"
-msgstr ""
-"시계\n"
-"워밍업"
+msgid "Watch warmup"
+msgstr "워밍업 보기"
 
 msgid "We are sending you back to the lobby."
 msgstr "플레이어를 로비로 돌려보내는 중입니다."
@@ -3716,6 +4012,9 @@ msgstr "수요일"
 
 msgid "Welcome to Trackmania"
 msgstr "Trackmania에 잘 오셨습니다."
+
+msgid "Welcome to the %1 server."
+msgstr "%1 서버에 오신 것을 환영합니다."
 
 msgid ""
 "Welcome to the Nadeo daily cup\n"
@@ -3747,8 +4046,14 @@ msgstr ""
 msgid "Welcome to the club!"
 msgstr "클럽에 오신 것을 환영합니다!"
 
+msgid "Welcome to the: %1."
+msgstr "%1에 오신 것을 환영합니다."
+
 msgid "What do you want to do?"
 msgstr "무엇을 하기를 원하십시까?"
+
+msgid "When the previous round is over"
+msgstr "이전 라운드 종료 후 시작됩니다"
 
 msgid ""
 "When you cut a block it is stored into your block history. You can then "
@@ -3792,20 +4097,29 @@ msgstr "교체 선수로 이동 중입니다."
 msgid "You are being transferred. Please wait."
 msgstr "이동되고 있습니다. 잠시 기다려주십시오."
 
+msgid "You are disconnected from Uplay."
+msgstr "Uplay와 연결이 끊어졌습니다."
+
 msgid "You are disconnected from Uplay. (Error code: %1)"
 msgstr "Uplay와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid "You are disconnected from the Trackmania servers."
+msgstr "Trackmania 서버와 연결이 끊어졌습니다."
 
 msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Trackmania 서버와의 연결이 끊어졌습니다. (오류 코드: %1)"
 
+msgid "You are in zone: %1."
+msgstr "현재 구역: %1"
+
 msgid "You are not connected to Uplay."
 msgstr "구독한 클럽이 없습니다."
 
+msgid "You are not registered for any event yet"
+msgstr "아직 등록된 이벤트가 없습니다."
+
 msgid "You are not subscribed to any club"
 msgstr "구독한 클럽이 없습니다."
-
-msgid "You are registered"
-msgstr "등록되었습니다."
 
 msgid "You are suspended"
 msgstr "플레이가 중단되었습니다"
@@ -3828,6 +4142,13 @@ msgstr "트랙 빌더의 장식 섹션에서 연단 블록을 찾을 수 있습�
 msgid "You can place only one starting point!"
 msgstr "출발점은 하나만 배치할 수 있습니다!"
 
+msgid "You can start qualification rounds at the same time as registration."
+msgstr "등록과 동시에 예선 라운드를 시작할 수 있습니다."
+
+msgid ""
+"You can start this competition 10 minutes after registration or qualification"
+msgstr "등록이나 예선을 마치고 10분 뒤에 이 대회를 시작할 수 있습니다."
+
 msgid ""
 "You can test your track at any time. Press the \"test\" button to choose "
 "where to start."
@@ -3841,6 +4162,9 @@ msgstr "다음 체크포인트까지 악셀을 밟을 수 없습니다."
 msgid "You can't remove the starting line of the track."
 msgstr "트랙의 시작점은 지울 수 없습니다."
 
+msgid "You don't have any events in progress"
+msgstr "진행 중인 이벤트가 없습니다"
+
 msgid "You don't have any server accounts registered."
 msgstr "등록된 서버 계정을 보유하고 있지 않습니다."
 
@@ -3849,8 +4173,14 @@ msgid ""
 "the track."
 msgstr "트랙에 놓을 수 있는 최대 블록 허용량을 거의 다 사용하였습니다."
 
+msgid "You have been disconnected from Uplay."
+msgstr "Uplay와 연결이 끊어졌습니다."
+
 msgid "You have been disconnected from Uplay. (Error code: %1)"
 msgstr "Uplay와의 연결이 끊어졌습니다. (오류 코드: %1)"
+
+msgid "You have been disconnected from the Trackmania servers."
+msgstr "Trackmania 서버와의 연결이 끊어졌습니다."
 
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
@@ -3873,8 +4203,20 @@ msgstr ""
 "\n"
 "30초 안에 일일 채널로 이동"
 
+msgid "You have been reconnected to Uplay."
+msgstr "Uplay에 다시 연결되었습니다."
+
+msgid "You have been reconnected to the Trackmania servers."
+msgstr "Trackmania 서버에 다시 연결되었습니다."
+
+msgid "You have been successfuly registered!"
+msgstr "등록되었습니다!"
+
 msgid "You have to place exactly one podium!"
 msgstr "정확히 하나의 연단을 제작해야 합니다."
+
+msgid "You haven't submitted a map yet."
+msgstr "아직 제출한 맵이 없습니다."
 
 msgid "You must enter a name for your club"
 msgstr "클럽 이름을 입력해야 합니다."
@@ -3909,6 +4251,9 @@ msgstr "게임 모드를 선택해야 합니다."
 msgid "You need to place a starting point!"
 msgstr "출발점을 배치해야 합니다!"
 
+msgid "You need to set a name to the activity."
+msgstr "활동의 이름을 입력해주세요."
+
 msgid "You reached the maximum number of blocks. You cannot add more."
 msgstr "최대 생성 블록을 넘어섰습니다. 더 이상 블록을 생성할 수 없습니다."
 
@@ -3930,8 +4275,8 @@ msgstr "지도 검토까지 %1 분 이하"
 msgid "Your search did not return any results"
 msgstr "검색 결과가 없습니다."
 
-msgid "Your subscription ends on %1"
-msgstr "구독이 %1에 종료됩니다."
+msgid "by"
+msgstr "- 작성자:"
 
 msgid "by %1"
 msgstr "%1 제작"
@@ -3942,8 +4287,14 @@ msgstr "클럽 액세스"
 msgid "controller"
 msgstr "컨트롤러"
 
+msgid "from %1"
+msgstr "%1와의 간격"
+
 msgid "max %1 characters"
 msgstr "최대 %1자"
+
+msgid "ok"
+msgstr "확인"
 
 msgid "per server"
 msgstr "서버 당"
@@ -3954,11 +4305,17 @@ msgstr "스탠다드 액세스"
 msgid "starter access"
 msgstr "스타터 액세스"
 
+msgid "support %1: \"go %2\" in chat"
+msgstr "%1 지원: 채팅 창에 \"달려라 %2\""
+
 msgid "yes"
 msgstr "예"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|매치를 %1번 취소할 수 있습니다."
+
+msgid "|About race tracks|Resetting tracks playlist before starting..."
+msgstr "|About race tracks|시작하기 전에 트랙 플레이리스트 초기화하는 중..."
 
 msgid "|Action|Quick save"
 msgstr "|Action|빠른 저장"
@@ -3969,8 +4326,14 @@ msgstr "|Alert window title|경고"
 msgid "|Author|By"
 msgstr "|Author|작성자"
 
+msgid "|Before the match starts|Pre-match warm-up"
+msgstr "|Before the match starts|매치 전 워밍업"
+
 msgid "|Best score|New"
 msgstr "|Best score|New"
+
+msgid "|Best score|Your record was successfully registered!"
+msgstr "|Best score|기록이 등록되었습니다!"
 
 msgid "|BlockCategory|Checkpoint"
 msgstr "|BlockCategory|체크포인트"
@@ -4041,6 +4404,9 @@ msgstr "|Blocks|최근 기록"
 msgid "|Camera|Follow"
 msgstr "|Camera|따라가기"
 
+msgid "|Camera|Follow all"
+msgstr "|Camera|모두 따라가기"
+
 msgid "|Camera|Free"
 msgstr "|Camera|자유"
 
@@ -4053,8 +4419,14 @@ msgstr "|Campaign Map|공식"
 msgid "|Campaign|April %1"
 msgstr "|Campaign|4월 %1"
 
+msgid "|Campaign|April %1 %2"
+msgstr "|Campaign|%2 4월 %1"
+
 msgid "|Campaign|August %1"
 msgstr "|Campaign|8월 %1"
+
+msgid "|Campaign|August %1 %2"
+msgstr "|Campaign|%2 8월 %1"
 
 msgid "|Campaign|Club"
 msgstr "|Campaign|클럽"
@@ -4062,23 +4434,44 @@ msgstr "|Campaign|클럽"
 msgid "|Campaign|December %1"
 msgstr "|Campaign|12월 %1"
 
+msgid "|Campaign|December %1 %2"
+msgstr "|Campaign|%2 12월 %1"
+
 msgid "|Campaign|February %1"
 msgstr "|Campaign|2월 %1"
+
+msgid "|Campaign|February %1 %2"
+msgstr "|Campaign|%2 2월 %1"
 
 msgid "|Campaign|January %1"
 msgstr "|Campaign|1월 %1"
 
+msgid "|Campaign|January %1 %2"
+msgstr "|Campaign|%2 1월 %1"
+
 msgid "|Campaign|July %1"
 msgstr "|Campaign|7월 %1"
+
+msgid "|Campaign|July %1 %2"
+msgstr "|Campaign|%2 7월 %1"
 
 msgid "|Campaign|June %1"
 msgstr "|Campaign|6월 %1"
 
+msgid "|Campaign|June %1 %2"
+msgstr "|Campaign|%2 6월 %1"
+
 msgid "|Campaign|March %1"
 msgstr "|Campaign|3월 %1"
 
+msgid "|Campaign|March %1 %2"
+msgstr "|Campaign|%2 3월 %1"
+
 msgid "|Campaign|May %1"
 msgstr "|Campaign|5월 %1"
+
+msgid "|Campaign|May %1 %2"
+msgstr "|Campaign|%2 5월 %1"
 
 msgid "|Campaign|Monthly"
 msgstr "|Campaign|월간"
@@ -4086,8 +4479,14 @@ msgstr "|Campaign|월간"
 msgid "|Campaign|November %1"
 msgstr "|Campaign|11월 %1"
 
+msgid "|Campaign|November %1 %2"
+msgstr "|Campaign|%2 11월 %1"
+
 msgid "|Campaign|October %1"
 msgstr "|Campaign|10월 %1"
+
+msgid "|Campaign|October %1 %2"
+msgstr "|Campaign|%2 10월 %1"
 
 msgid "|Campaign|Official"
 msgstr "|Campaign|공식"
@@ -4104,6 +4503,9 @@ msgstr "|Campaign|분기별"
 msgid "|Campaign|September %1"
 msgstr "|Campaign|9월 %1"
 
+msgid "|Campaign|September %1 %2"
+msgstr "|Campaign|%2 9월 %1"
+
 msgid "|Campaign|Training"
 msgstr "|Campaign|훈련"
 
@@ -4112,6 +4514,24 @@ msgstr "|Campaign|알 수 없음"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|뒤로 가기"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1워밍업을 마치고 결승 단계를 시작하는 중"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1워밍업을 마치고 개막 단계를 시작하는 중"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1워밍업을 마치고 준결승 단계를 시작하는 중"
+
+msgid "|Champion|Final Phase"
+msgstr "|Champion|결승 단계"
+
+msgid "|Champion|Opening Phase"
+msgstr "|Champion|개막 단계"
+
+msgid "|Champion|Semi-Final Phase"
+msgstr "|Champion|준결승 단계"
 
 msgid "|ClubActivity|Maps"
 msgstr "|ClubActivity|지도"
@@ -4159,8 +4579,17 @@ msgstr "|Club|%1 회원"
 msgid "|Club|Closed"
 msgstr "|Club|개방하지 않음"
 
+msgid "|Club|Club VIP"
+msgstr "|Club|클럽 VIP"
+
 msgid "|Club|Description"
 msgstr "|Club|설명"
+
+msgid "|Club|Feature"
+msgstr "|Club|자세히 보기"
+
+msgid "|Club|Global VIP"
+msgstr "|Club|글로벌 VIP"
 
 msgid "|Club|Join"
 msgstr "|Club|가입"
@@ -4174,11 +4603,17 @@ msgstr "|Club|회원"
 msgid "|Club|Members"
 msgstr "|Club|회원"
 
+msgid "|Club|Pin club"
+msgstr "|Club|클럽 고정"
+
 msgid "|Club|Privacy"
 msgstr "|Club|프라이버시"
 
 msgid "|Club|Requests"
 msgstr "|Club|요청"
+
+msgid "|Club|Unfeature"
+msgstr "|Club|닫기"
 
 msgid "|Club|VIP"
 msgstr "|Club|VIP"
@@ -4188,9 +4623,6 @@ msgstr "|Club|요청"
 
 msgid "|Club|requests"
 msgstr "|Club|요청"
-
-msgid "|Competition|Coming Soon"
-msgstr "|Competition|공개 예정"
 
 msgid "|DataType|Campaign"
 msgstr "|DataType|캠페인"
@@ -4227,6 +4659,12 @@ msgstr "|DataType|스킨"
 
 msgid "|DidNotFinish|DNF"
 msgstr "|DidNotFinish|DNF"
+
+msgid "|Displayed above a countdown|Ends in"
+msgstr "|Displayed above a countdown|종료:"
+
+msgid "|Displayed above a countdown|Starts in"
+msgstr "|Displayed above a countdown|다음 후에 시작:"
 
 msgid "|Friday|F"
 msgstr "|Friday|금요일"
@@ -4276,20 +4714,38 @@ msgstr "|GameMode|타임 어택"
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|장식"
 
+msgid "|Ghost|Replay"
+msgstr "|Ghost|리플레이"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|배경"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|데칼"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|데칼 스폰서"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|로고"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|스크린 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|스크린 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|스크린 8x1"
+
+msgid "|ImageType|Unknown"
+msgstr "|ImageType|알 수 없음"
+
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|수직"
+
 msgid "|Image|Background"
 msgstr "|Image|배경"
-
-msgid "|Image|Decal sponsor 4X1"
-msgstr "|Image|데칼 스폰서 4X1"
-
-msgid "|Image|Screen 16X1"
-msgstr "|Image|화면 16X1"
-
-msgid "|Image|Screen 16x9"
-msgstr "|Image|화면 16x9"
-
-msgid "|Image|Screen 8X1"
-msgstr "|Image|화면 8X1"
 
 msgid "|Image|Vertical"
 msgstr "|Image|수직"
@@ -4453,8 +4909,8 @@ msgstr "|Landscape|산"
 msgid "|Landscape|Pillars"
 msgstr "|Landscape|기둥"
 
-msgid "|League|Step %1"
-msgstr "|League|%1단계"
+msgid "|League|Map %1"
+msgstr "|League|맵 %1"
 
 msgid "|League|map %1/%2"
 msgstr "|League|맵 %1/%2"
@@ -4617,6 +5073,9 @@ msgstr "|Map|이동"
 
 msgid "|Map|New"
 msgstr "|Map|신규"
+
+msgid "|Match|%1Draw"
+msgstr "|Match|%1무승부"
 
 msgid "|Match|Draw"
 msgstr "|Match|무승부"
@@ -4879,15 +5338,6 @@ msgstr "|Status|레이싱 중"
 msgid "|Status|Winner"
 msgstr "|Status|우승"
 
-msgid "|Streamer|Channel"
-msgstr "|Streamer|채널"
-
-msgid "|Streaming|Platform"
-msgstr "|Streaming|플랫폼"
-
-msgid "|Subscription|Ends on"
-msgstr "|Subscription|남은 날짜"
-
 msgid "|Sunday|S"
 msgstr "|Sunday|일요일"
 
@@ -4905,6 +5355,9 @@ msgstr "|Tabs|로컬"
 
 msgid "|Tabs|Solo"
 msgstr "|Tabs|솔로"
+
+msgid "|The current map/track best scores|Map Records"
+msgstr "|The current map/track best scores|맵 기록"
 
 msgid "|Thursday|T"
 msgstr "|Thursday|목요일"
@@ -4939,6 +5392,9 @@ msgstr "|Warning|주의"
 msgid "|Wednesday|W"
 msgstr "|Wednesday|수요일"
 
+msgid "|When the match is over|Match completed"
+msgstr "|When the match is over|매치 완료"
+
 msgid "|Window title - creating a new track|New track"
 msgstr "|Window title - creating a new track|새로운 트랙"
 
@@ -4971,6 +5427,9 @@ msgstr "|Zone|남미"
 
 msgid "|Zone|World"
 msgstr "|Zone|세계"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|%1초 후에 시작"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|분"

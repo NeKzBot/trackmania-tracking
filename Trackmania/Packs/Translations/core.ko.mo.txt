@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-10 11:09+0000\n"
+"PO-Revision-Date: 2020-09-08 03:56+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -827,6 +827,9 @@ msgstr "Alt + 타임 라인 클릭"
 msgid "Always"
 msgstr "항상"
 
+msgid "Always display records"
+msgstr "기록을 항상 표시"
+
 msgid "Ambiance"
 msgstr "앰비언스"
 
@@ -1070,9 +1073,6 @@ msgstr "자동(남서)"
 
 msgid "Automatic Minimum Fps"
 msgstr "자동 최소 FPS"
-
-msgid "Automatically log me in at launch"
-msgstr "실행할 때 자동으로 나를 기록"
 
 msgid "Automatically save all replays"
 msgstr "모든 리플레이 자동 저장"
@@ -1414,9 +1414,6 @@ msgstr "위치 변경"
 
 msgid "Change map"
 msgstr "맵 변경"
-
-msgid "Change password"
-msgstr "암호 변경"
 
 msgid "Change sort order"
 msgstr "정렬 순서 변경"
@@ -2034,13 +2031,6 @@ msgstr "$<%1$>을 위한 리플레이를 인증하지 못했습니다"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"인증할 수 없습니다!\n"
-" 유효한 키 이벤트가 없습니다..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "인증할 수 없습니다!\n"
@@ -2193,6 +2183,9 @@ msgstr "초당 바이트 단위의 사용자 지정 업로드 속도"
 msgid "Custom block deleted"
 msgstr "사용자 지정 블록 삭제됨"
 
+msgid "Custom blocks"
+msgstr "커스텀 블록"
+
 msgid "Custom data directories"
 msgstr "커스텀 데이터 디렉토리"
 
@@ -2267,6 +2260,9 @@ msgstr "기본 경적"
 
 msgid "Default image"
 msgstr "기본 이미지"
+
+msgid "Default opponents visibility"
+msgstr "상대 보기 기본 설정"
 
 msgid "Default sound"
 msgstr "기본 사운드"
@@ -2392,9 +2388,6 @@ msgstr "변경 사항 폐기"
 
 msgid "Disconnect Account"
 msgstr "계정 연결 해제하기"
-
-msgid "Disconnect local account"
-msgstr "로컬 계정 접속 해제"
 
 msgid "Disconnected from server"
 msgstr "서버와 연결 끊어짐"
@@ -2848,9 +2841,6 @@ msgstr "자동 새 라인 활성화"
 msgid "Enable chat"
 msgstr "채팅 활성화"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "멀티플레이어 서버에서 채팅 활성화"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "스크립트 이벤트의 마우스 트리거링 활성화"
 
@@ -2934,6 +2924,9 @@ msgstr "인증 번호를 입력하십시오."
 
 msgid "Enter your friend's email"
 msgstr "친구의 이메일 입력"
+
+msgid "Enter your key"
+msgstr "키를 입력하십시오"
 
 msgid "Enter your name:"
 msgstr "이름을 입력하세요:"
@@ -3826,6 +3819,9 @@ msgstr "아이템이 이미 이 상점에 불러와져 있습니다."
 msgid "Item deleted"
 msgstr "아이템 삭제됨"
 
+msgid "Item edition"
+msgstr "아이템 편집"
+
 msgid "Item export options"
 msgstr "아이템 내보내기 옵션"
 
@@ -3855,6 +3851,9 @@ msgstr "변경 사항 유지"
 
 msgid "Keep last block of the track active"
 msgstr "트랙의 마지막 블록 활성화 상태 유지"
+
+msgid "Key"
+msgstr "키"
 
 msgid "Key 1"
 msgstr "키 1"
@@ -5091,6 +5090,9 @@ msgstr "플레이어 입력"
 msgid "Player Page"
 msgstr "플레이어 페이지"
 
+msgid "Player State Component"
+msgstr "플레이어 상태 구성 요소"
+
 msgid "Player already selected!"
 msgstr "플레이어가 이미 선택되었습니다!"
 
@@ -5238,6 +5240,9 @@ msgstr "'래더 제한 최대'는 '래더 제한 최소'보다 커야만 합니�
 
 msgid "Plugin deleted"
 msgstr "플러그인 삭제됨"
+
+msgid "Plugins"
+msgstr "플러그인"
 
 msgid "Plugins Mode [P]"
 msgstr "플러그인 모드[P]"
@@ -5492,6 +5497,9 @@ msgstr "준비"
 msgid "Ready (F6)"
 msgstr "준비(F6)"
 
+msgid "Real name and ID card information have been successfully validated."
+msgstr "실명과 신분증 정보가 성공적으로 인증되었습니다."
+
 msgid "Really balance teams?"
 msgstr "정말로 팀의 균형을 맞추시겠습니까?"
 
@@ -5540,6 +5548,9 @@ msgstr "다시 바인딩"
 
 msgid "Receive mail about %1"
 msgstr "%1에 관한 메일 수신"
+
+msgid "Receive mail about Trackmania"
+msgstr "Trackmania에 관한 메일 받기"
 
 msgid "Recommended Display Mode"
 msgstr "권장 디스플레이 모드"
@@ -5790,6 +5801,9 @@ msgstr "요청 시간 초과"
 msgid "Required"
 msgstr "필수"
 
+msgid "Requires restart"
+msgstr "재시작 필요"
+
 msgid "Reset"
 msgstr "초기화"
 
@@ -5807,6 +5821,9 @@ msgstr "글자 초기화"
 
 msgid "Reset joint rotation"
 msgstr "조인트 회전 초기화"
+
+msgid "Reset password"
+msgstr "암호 재설정"
 
 msgid "Reset the UI customization"
 msgstr "UI 사용자 지정 초기화"
@@ -6493,9 +6510,6 @@ msgstr "고급 매개변수 보기"
 msgid "Show avatars"
 msgstr "아바타 보기"
 
-msgid "Show avatars of other players"
-msgstr "다른 플레이어의 아바타 표시"
-
 msgid "Show helpers"
 msgstr "도움말 표시"
 
@@ -6632,6 +6646,9 @@ msgstr "구경하기"
 
 msgid "Spectator"
 msgstr "관전자"
+
+msgid "Spectators placement computed"
+msgstr "관중 배치 완료"
 
 msgid "Speed"
 msgstr "속도"
@@ -7257,6 +7274,9 @@ msgid ""
 "The validation code is not valid. Please make sure you spelled it correctly."
 msgstr "승인 코드가 유효하지 않습니다. 철자가 올바른지 확인하십시오."
 
+msgid "The version %1 of %2 will be installed above version %3%n found in %4"
+msgstr "%4에서 찾은 버전 %3 위에 %2 버전 %1이 설치됩니다."
+
 msgid "Then hurry up! Playing TrackMania with friends is great!"
 msgstr ""
 "그럼 서두르십시오! TrackMania를 친구들과 함께 플레이하면 재미가 배가 됩니다!"
@@ -7734,6 +7754,9 @@ msgstr "시도"
 msgid "Trigger "
 msgstr "트리거 "
 
+msgid "Trigger %1"
+msgstr "트리거 "
+
 msgid "Trigger Options"
 msgstr "트리거 "
 
@@ -8091,15 +8114,6 @@ msgstr "$<%1$> (%2) 인증 중..."
 msgid "Validating ..."
 msgstr "인증 중..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"%1 모드에서 기록된\n"
-"리플레이의 유효화가\n"
-"적용되지 않았습니다."
-
 msgid "Variables"
 msgstr "변수"
 
@@ -8125,7 +8139,7 @@ msgid "Vertexes"
 msgstr "꼭짓점"
 
 msgid "Vertical"
-msgstr "세로"
+msgstr "수직"
 
 msgid "Vertical alignment"
 msgstr "수직 정렬"
@@ -8173,6 +8187,9 @@ msgstr "전체 타임라인을 봅니다"
 
 msgid "Virtual Reality"
 msgstr "가상 현실"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "다른 플레이어들에게 보이기"
@@ -10325,6 +10342,9 @@ msgstr "|Input|리플레이 저장"
 msgid "|Input|Save screenshot"
 msgstr "|Input|스크린샷 저장"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|2차 리스폰"
+
 msgid "|Input|Shoot"
 msgstr "|Input|사격"
 
@@ -11059,9 +11079,6 @@ msgstr "|MeshModeler|상자 선택 모드"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|중심"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|충돌가능한 형상"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|선택항목 복사[Ctrl+C]"
 
@@ -11728,6 +11745,12 @@ msgstr "|PlayerStateComponent|무기 게이지"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|무기 목록"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|숨김"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|구형"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|불투명"
 
@@ -11941,6 +11964,9 @@ msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|스킨 내보내기"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor (leaves the editor)|나가기"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12151,6 +12177,12 @@ msgstr "|SpectatorCam|수동"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|리플레이"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|편집 시간"

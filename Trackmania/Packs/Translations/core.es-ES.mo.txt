@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 08:36+0000\n"
+"PO-Revision-Date: 2020-09-04 09:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -1094,9 +1094,6 @@ msgstr "Automático (suroeste)"
 msgid "Automatic Minimum Fps"
 msgstr "Máximos Fps automático"
 
-msgid "Automatically log me in at launch"
-msgstr "Logearme automáticamente al iniciar"
-
 msgid "Automatically save all replays"
 msgstr "Guardar todas las repeticiones automáticamente"
 
@@ -1438,9 +1435,6 @@ msgstr "Cambiar ubicación"
 msgid "Change map"
 msgstr "Cambiar mapa"
 
-msgid "Change password"
-msgstr "Cambiar contraseña"
-
 msgid "Change sort order"
 msgstr "Cambiar orden de elección"
 
@@ -1449,6 +1443,9 @@ msgstr "Cambiar de equipo"
 
 msgid "Change the current camera"
 msgstr "Cambiar cámara actual"
+
+msgid "Change the current camera speed : Currently %1 (+ and -)"
+msgstr "Cambiar la velocidad de cámara actual: Actualmente % 1 (+ y -)"
 
 msgid "Change the playback speed. Right click to reset."
 msgstr "Cambiar velocidad de reproducción. Clic derecho para reiniciar."
@@ -2061,13 +2058,6 @@ msgstr "No se ha podido validar la repetición para $<%1$>."
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"¡No se ha podido validar!\n"
-" No hay eventos clave disponibles."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "¡No se ha podido validar!\n"
@@ -2419,9 +2409,6 @@ msgstr "Descartar cambios"
 
 msgid "Disconnect Account"
 msgstr "Desconectar cuenta"
-
-msgid "Disconnect local account"
-msgstr "Desconectar cuenta local"
 
 msgid "Disconnected from server"
 msgstr "Desconectado del servidor"
@@ -2880,9 +2867,6 @@ msgstr "Habilitar salto de línea automático"
 msgid "Enable chat"
 msgstr "Mostrar el chat"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Habilitar chat en servidores multijugador"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Habilitar disparador por mouse de eventos de script"
 
@@ -2970,6 +2954,9 @@ msgstr "Introduce el código de verificación"
 
 msgid "Enter your friend's email"
 msgstr "Introduce la dirección de e-mail de tu amigo"
+
+msgid "Enter your key"
+msgstr "Introduce tu clave de juego."
 
 msgid "Enter your name:"
 msgstr "Introduce tu nombre:"
@@ -3900,6 +3887,9 @@ msgstr "Mantener cambios"
 
 msgid "Keep last block of the track active"
 msgstr "Mantener el último bloque de la pista activo"
+
+msgid "Key"
+msgstr "Clave"
 
 msgid "Key 1"
 msgstr "Tecla 1"
@@ -5146,6 +5136,9 @@ msgstr "Controles de juego"
 msgid "Player Page"
 msgstr "Página de Jugador"
 
+msgid "Player State Component"
+msgstr "Componente Estado de Jugador"
+
 msgid "Player already selected!"
 msgstr "¡Este jugador ya ha sido seleccionado!"
 
@@ -5862,6 +5855,9 @@ msgstr "Tiempo de solicitud expirado"
 msgid "Required"
 msgstr "Requerido"
 
+msgid "Requires restart"
+msgstr "Requiere reinicio"
+
 msgid "Reset"
 msgstr "Reiniciar"
 
@@ -6570,9 +6566,6 @@ msgstr "Mostrar parámetros avanzados"
 
 msgid "Show avatars"
 msgstr "Mostrar avatares"
-
-msgid "Show avatars of other players"
-msgstr "Mostrar avatares de jugadores"
 
 msgid "Show helpers"
 msgstr "Mostrar rejilla"
@@ -7350,6 +7343,10 @@ msgid ""
 "The validation code is not valid. Please make sure you spelled it correctly."
 msgstr ""
 "El código de validación no es válido. Asegúrate de que lo has escrito bien."
+
+msgid "The version %1 of %2 will be installed above version %3%n found in %4"
+msgstr ""
+"La versión %1 de %2 será instalada sobre la versión %3 encontrada en %4."
 
 msgid "Then hurry up! Playing TrackMania with friends is great!"
 msgstr "¿A qué esperas? ¡Es divertido jugar con los amigos a TrackMania!"
@@ -8205,15 +8202,6 @@ msgstr "Validando $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Validando..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Validación de repeticiones grabadas en modo\n"
-" %1\n"
-"no implementada."
-
 msgid "Variables"
 msgstr "Variables"
 
@@ -8287,6 +8275,9 @@ msgstr "Ver línea de tiempo completa"
 
 msgid "Virtual Reality"
 msgstr "Realidad virtual"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Visible para otros jugadores"
@@ -11218,9 +11209,6 @@ msgstr "|MeshModeler|Modo selección de caja"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Centrado"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|Geometría de colisión"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Copiar selección [Ctrl+C]"
 
@@ -12066,6 +12054,9 @@ msgstr ""
 msgid "|SkinEditor (save as a Painter Project, flag as WIP)|Save project"
 msgstr "|SkinEditor (save as a Painter Project, flag as WIP)|Guardar proyecto"
 
+msgid "|SkinEditor (sub parts of the mesh to be painted)|Masks"
+msgstr "|SkinEditor (sub parts of the mesh to be painted)|Máscaras"
+
 msgid "|SkinEditor(Mirror)|Text"
 msgstr "|SkinEditor(Mirror)|Texto"
 
@@ -12256,6 +12247,15 @@ msgstr "|SpectatorCam|Manual"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Repetición"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Always"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Estadisticas|Tiempo de edición"

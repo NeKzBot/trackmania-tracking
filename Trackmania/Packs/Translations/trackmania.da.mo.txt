@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-23 13:31+0000\n"
+"PO-Revision-Date: 2020-09-07 14:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "$%1Author"
-msgstr "$%1Ophavsmand"
+msgstr "$%1Skaber"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> er Kongen af lobbyen!"
@@ -29,9 +29,6 @@ msgstr "$<%1$> forlod spillet"
 
 msgid "$<%1$> takes %2 place!"
 msgstr "$<%1$> tager %2 pladsen!"
-
-msgid "$<%1$> wins step %2"
-msgstr "$<%1$> vinder trin %2"
 
 msgid "$<%1$> wins the map!"
 msgstr "$<%1$> vinder banen!"
@@ -318,6 +315,9 @@ msgstr "Imod gengivelse"
 msgid "All clubs"
 msgstr "Alle klubber"
 
+msgid "All events"
+msgstr "Alle events"
+
 msgid "All fields must be completed"
 msgstr "Alle felter skal udfyldes"
 
@@ -329,13 +329,6 @@ msgstr "Allieret"
 
 msgid "An error occured while joining, please try again. (Error code: %1)"
 msgstr "En fejl opstod ved tilslutning, forsøg venligst igen. (Fejlkode: %1)"
-
-msgid ""
-"An error occurred while fetching the next match. Please try again. (Error "
-"code: %1)"
-msgstr ""
-"En fejl opstod ved hentning af næste kamp. Forsøg venligst igen. (Fejlkode: "
-"%1)"
 
 msgid ""
 "An error occurred while retrieving your accounts, please try again. (Error "
@@ -386,6 +379,13 @@ msgstr "Er du sikker på, at du vil generere en anden bane?"
 msgid "Are you sure you want to leave the editor?"
 msgstr "Er du sikker på, at du vil forlade editoren?"
 
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Er du sikker på, at du vil forlade Trackmania?"
 
@@ -407,13 +407,13 @@ msgstr ""
 "de 365 dagens baner og dén avancerede bane-editor"
 
 msgid "Author"
-msgstr "Ophavsmand"
+msgstr "Skaber"
 
 msgid "Author medal"
-msgstr "Ophavsmandens medalje"
+msgstr "Skaber-medalje"
 
 msgid "Author time"
-msgstr "Ophavsmandens tid"
+msgstr "Skaberens tid"
 
 msgid "Auto-finish"
 msgstr "Auto-fuldfør"
@@ -465,7 +465,7 @@ msgstr ""
 "kontrolpunkt."
 
 msgid "Be in the top %1"
-msgstr "Placér i top %1"
+msgstr "Be in the top %1"
 
 msgid "Best lap"
 msgstr "Bedste omgang"
@@ -713,6 +713,9 @@ msgstr "Klik på en spiller for at indstille dem som allieret."
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klik på UI-modulerne for at redigere deres egenskaber"
 
+msgid "Click to see %1 results"
+msgstr "Click to see %1 results"
+
 msgid "Close"
 msgstr "Luk"
 
@@ -943,6 +946,9 @@ msgstr "Daglig Turnering-Knockout"
 msgid "Daily cup"
 msgstr "Daglig turnering"
 
+msgid "Daily map"
+msgstr "Daglig bane"
+
 msgid "Daily rankings"
 msgstr "Daglige rangeringer"
 
@@ -963,14 +969,6 @@ msgstr ""
 "vejen.\n"
 "Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
 
-msgid ""
-"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"Overføringsmærke: billede er synligt på vejoverfladen (ved start, "
-"kontrolpunkt og mål).\n"
-"Dimensioner: %1 - Format: PNG, JPEG eller DDS (DXT5)"
-
 msgid "Decoration"
 msgstr "Udsmykning"
 
@@ -984,6 +982,9 @@ msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
 msgstr ""
 "Sletning af billede af typen '%1' mislykkedes. Forsøg venligst igen. (Fejl "
 "%2)"
+
+msgid "Description"
+msgstr "Beskrivelse"
 
 msgid "Did you like this map?"
 msgstr "Kunne du lide denne bane?"
@@ -1026,6 +1027,9 @@ msgstr "Vil du stoppe auto-fuldførelsen?"
 
 msgid "Do you want to validate the track now?"
 msgstr "Vil du validere banen nu?"
+
+msgid "Do your best to qualify."
+msgstr "Do your best to qualify."
 
 msgid "Don't forget to save your track!"
 msgstr "Glem ikke at gemme din bane!"
@@ -1134,9 +1138,6 @@ msgstr "Motor deaktiveret"
 
 msgid "Enough players agreed to play a rematch."
 msgstr "Nok spillere gik med til at spille en omkamp."
-
-msgid "Entry"
-msgstr "Indgang"
 
 msgid "Error"
 msgstr "Fejl"
@@ -1307,6 +1308,20 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
 
+msgid ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+msgstr ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+msgstr ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+
 msgid "Fifth (Press 5)"
 msgstr "Femte (Tryk 5)"
 
@@ -1406,6 +1421,12 @@ msgstr "Giv op %1"
 msgid "Give up Daily cup?"
 msgstr "Opgiv daglig turnering?"
 
+msgid "Go back to the menu to see the results."
+msgstr "Go back to the menu to see the results."
+
+msgid "Go back to the menu to wait for your next match."
+msgstr "Go back to the menu to wait for your next match."
+
 msgid "Go to map list"
 msgstr "Gå til baneliste"
 
@@ -1466,6 +1487,13 @@ msgstr "INTERN LIVE QA"
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "INTERNATIONAL PRODUCT MANAGER"
 
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+msgstr ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Hvis du vælger et landskab, vil du måske miste alle dine fremskridt."
 
@@ -1484,9 +1512,6 @@ msgstr "Forbedre"
 
 msgid "Information"
 msgstr "Oplysninger"
-
-msgid "Interval from %1 pos."
-msgstr "Interval fra %1 pos."
 
 msgid "Invite friends"
 msgstr "Invitér venner"
@@ -1641,6 +1666,12 @@ msgstr "Forrige tid"
 msgid "Leader"
 msgstr "Føreren"
 
+msgid "Leaderboard is empty"
+msgstr "Leaderboard is empty"
+
+msgid "League match divisions"
+msgstr "League match divisions"
+
 msgid "League ranking"
 msgstr "Liga-rangliste"
 
@@ -1688,9 +1719,6 @@ msgstr "Indlæser klubaktiviteter..."
 
 msgid "Loading club room..."
 msgstr "Indlæser klubrum..."
-
-msgid "Loading competition..."
-msgstr "Indlæser konkurrence..."
 
 msgid "Loading offline campaign..."
 msgstr "Indlæser offline-kampagne..."
@@ -1795,10 +1823,6 @@ msgstr "Administrér bane"
 msgid "Map"
 msgstr "Bane"
 
-msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
-msgstr ""
-"Bane %1%2 - Behold dine forrige point ved at forblive mellem 1. og %3%4."
-
 msgid ""
 "Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
 msgstr ""
@@ -1901,9 +1925,6 @@ msgstr "Kampindstillinger er blevet gemt i fil: %1"
 msgid "Max players"
 msgstr "Maks. spillere"
 
-msgid "Max players number"
-msgstr "Maks. antal spillere"
-
 msgid "Max points :"
 msgstr "Maks. point :"
 
@@ -1934,6 +1955,9 @@ msgstr "Mandag"
 msgid "More VIPs"
 msgstr "Flere VIP'er"
 
+msgid "More info at %1"
+msgstr "Mere info her %1"
+
 msgid "Move"
 msgstr "Flyt"
 
@@ -1962,7 +1986,7 @@ msgid "Name"
 msgstr "Navn"
 
 msgid "New author time"
-msgstr "Ny tid af ophavsmand"
+msgstr "Ny skaber-tid"
 
 msgid "New best time"
 msgstr "Ny bedste tid"
@@ -1976,11 +2000,26 @@ msgstr "Ny rangering: %1"
 msgid "New records disabled"
 msgstr "Nye rekorder deaktiveret"
 
+msgid "New season in %1 day"
+msgstr "New season in %1 day"
+
+msgid "New season in %1 days"
+msgstr "New season in %1 days"
+
 msgid "New track"
 msgstr "Ny bane"
 
 msgid "News"
 msgstr "Nyheder"
+
+msgid "News Body"
+msgstr "Nyheds Indhold"
+
+msgid "News Headline"
+msgstr "Nyheds Overskrift"
+
+msgid "News Title"
+msgstr "Nyheds titel"
 
 msgid "News image"
 msgstr "Nyhedsbillede"
@@ -2026,6 +2065,9 @@ msgstr "Ingen klubber"
 
 msgid "No daily map found to display the rankings"
 msgstr "Ingen daglig bane fundet, der viser rangeringer"
+
+msgid "No events"
+msgstr "Ingen events"
 
 msgid "No maps in this month"
 msgstr "Ingen baner i denne måned"
@@ -2389,7 +2431,7 @@ msgid "Pressforward"
 msgstr "Pressforward"
 
 msgid "Previous author time"
-msgstr "Forrige tid af ophavsmand"
+msgstr "Forrige skaber-tid"
 
 msgid "Previous player"
 msgstr "Forrige spiller"
@@ -2436,8 +2478,17 @@ msgstr "QUALITY"
 msgid "QUALITY CONTROL MANAGER"
 msgstr "QUALITY CONTROL MANAGER"
 
+msgid "Qualification"
+msgstr "Kvalifikation"
+
+msgid "Qualification server will be available in %1"
+msgstr "Qualification server will be available in %1"
+
 msgid "Qualifier rank: %1"
 msgstr "Kvalifikationskamp-rangering: %1"
+
+msgid "Qualify"
+msgstr "Kvalificér"
 
 msgid "Quantity"
 msgstr "Mængde"
@@ -2522,6 +2573,9 @@ msgstr "Klar"
 msgid "Ready (F6)"
 msgstr "Klar (F6)"
 
+msgid "Ready: %1/%2"
+msgstr "Klar: %1/%2"
+
 msgid "Record leader ghost"
 msgstr "Optag førerens skygge-gengivelse"
 
@@ -2543,8 +2597,8 @@ msgstr "Opdatér"
 msgid "Register"
 msgstr "Tilmeld"
 
-msgid "Registration failed (Error code: %1)"
-msgstr "Tilmelding mislykkedes (Fejlkode: %1)"
+msgid "Registration dates"
+msgstr "Registration datoer"
 
 msgid "Remaining time: %1"
 msgstr "Resterende tid: %1"
@@ -2584,6 +2638,9 @@ msgstr "Genstart"
 
 msgid "Restart map"
 msgstr "Genstart bane"
+
+msgid "Results"
+msgstr "Resultater"
 
 msgid "Resume"
 msgstr "Fortsæt"
@@ -2913,6 +2970,9 @@ msgstr "Vælg næste bane"
 msgid "Select number of players"
 msgstr "Vælg antal spillere"
 
+msgid "Select one of this servers to join the qualification"
+msgstr "Select one of this servers to join the qualification"
+
 msgid "Select style"
 msgstr "Vælg stilart"
 
@@ -2948,9 +3008,6 @@ msgstr "Serveren eksisterer ikke længere"
 
 msgid "Server name"
 msgstr "Servernavn"
-
-msgid "Server region"
-msgstr "Server-område"
 
 msgid "Servers are offline or in maintenance, please try again later."
 msgstr ""
@@ -3055,14 +3112,8 @@ msgstr "Trin-rangliste"
 msgid "Stop auto-finish"
 msgstr "Stop auto-fuldfør"
 
-msgid "Streaming subscriptions"
-msgstr "Streaming-abonnementer"
-
 msgid "Style"
 msgstr "Stil"
-
-msgid "Subscribe"
-msgstr "Abonnér"
 
 msgid "Subscribe to Trackmania %1 to access the server review."
 msgstr "Abonnér på Trackmania %1 for at få adgang til server-anmeldelser."
@@ -3167,9 +3218,6 @@ msgstr "Abonnér på Trackmania %1 for at bruge en brugerdefineret beklædning."
 msgid "Sunday"
 msgstr "Søndag"
 
-msgid "Support %1$z: \"go %2$z\" in chat"
-msgstr "Støt %1$z: \"kom så %2$z\" i chatten"
-
 msgid "Switch"
 msgstr "Skift"
 
@@ -3247,6 +3295,9 @@ msgstr "Test bane"
 msgid "Test your maps"
 msgstr "Test dine baner"
 
+msgid "Thank you for playing."
+msgstr "Thank you for playing."
+
 msgid ""
 "The Club Access is a 1 year or 3 years pass offering the most complete "
 "Trackmania experience with customization, pro-level competitions and unique "
@@ -3292,14 +3343,20 @@ msgstr ""
 msgid "The decoration will be removed."
 msgstr "Udsmykningen vil blive fjernet."
 
+msgid "The description of Competition can't be empty"
+msgstr "Beskrivelsen af konkurrencen kan ikke være tom"
+
+msgid "The description of Competition has a maximum of %1 characters"
+msgstr "Beskrivelsen af konkurrencen har en maks længde på %1 tegn"
+
 msgid "The headline has a maximum of %1 characters"
 msgstr "Overskriften har et maksimum på %1 tegn"
 
 msgid "The leaderboard is now closed on this day!"
 msgstr "Pointtavlen er nu lukket for denne dag!"
 
-msgid "The league is coming back in"
-msgstr "Ligaen vender tilbage om"
+msgid "The map %1 is already used, please select an another map"
+msgstr "Banen %1 er allerede i brug, vælg venligst en anden bane"
 
 msgid "The map '%1' is already in the playlist"
 msgstr "Banen '%1' er allerede i spillelisten"
@@ -3312,6 +3369,9 @@ msgid ""
 "shadows."
 msgstr ""
 "Banen '%1' er ikke spilleklar. Validér venligst banen og beregn skyggerne."
+
+msgid "The match is over, thank you for playing. You can leave now."
+msgstr "The match is over, thank you for playing. You can leave now."
 
 msgid "The match will begin shortly ..."
 msgstr "Kampen begynder inden længe..."
@@ -3329,12 +3389,6 @@ msgstr "Konkurrencens navn har et minimum på %1 og et maksimum på %2 tegn"
 
 msgid "The name tag has a maximum of %1 characters"
 msgstr "Navnemærket har et maksimum på %1 tegn"
-
-msgid "The next match will begin in %1 "
-msgstr "Dén næste kamp vil starte om %1 "
-
-msgid "The registration closed at: %1 H"
-msgstr "Tilmeldingen lukkede kl.: %1"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Rummet er utilgængeligt, forsøg venligst igen. (Fejlkode: %1)"
@@ -3366,13 +3420,6 @@ msgid "There are no saved activities in your club."
 msgstr "Der er ingen gemte aktiviteter i din klub."
 
 msgid ""
-"There has been an error while fetching information about this competition. "
-"(Error code: %1)"
-msgstr ""
-"Der har været en fejl ved hentning af oplysninger om denne konkurrence. "
-"(Fejlkode: %1)"
-
-msgid ""
 "There was an error while gathering the rankings, please try again later. "
 "(Error code: %1)"
 msgstr ""
@@ -3401,9 +3448,6 @@ msgid ""
 msgstr ""
 "Denne blok har et brugerdefinerbart skin. Brug %1 for at vælge billedet, du "
 "ønsker at bruge."
-
-msgid "This competition is closed"
-msgstr "Denne konkurrence er lukket"
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr ""
@@ -3563,9 +3607,6 @@ msgstr "Anvend ikke skin"
 
 msgid "Unselect all"
 msgstr "Fravælg alle"
-
-msgid "Unsubscribe"
-msgstr "Afmeld abonnement"
 
 msgid "Update member's role"
 msgstr "Opdatér medlems rolle"
@@ -3747,6 +3788,9 @@ msgstr "Afventer din kamp"
 msgid "Waiting for your match to start"
 msgstr "Venter på, at din kamp starter"
 
+msgid "Waiting on all matches currently in progress"
+msgstr "Waiting on all matches currently in progress"
+
 msgid "Warm up"
 msgstr "Opvarmning"
 
@@ -3755,13 +3799,6 @@ msgstr "Opvarmning"
 
 msgid "Warmup: %1/%2"
 msgstr "Opvarmning: %1/%2"
-
-msgid ""
-"Watch\n"
-"warm-up"
-msgstr ""
-"Se\n"
-"opvarmning"
 
 msgid "We are sending you back to the lobby."
 msgstr "Vi sender dig tilbage til lobbyen."
@@ -3777,6 +3814,9 @@ msgstr "Onsdag"
 
 msgid "Welcome to Trackmania"
 msgstr "Velkommen til Trackmania"
+
+msgid "Welcome to the %1 server."
+msgstr "Velkommen til %1 serveren."
 
 msgid ""
 "Welcome to the Nadeo daily cup\n"
@@ -3863,11 +3903,11 @@ msgstr "Du er afbrudt fra Trackmania-serverne. (Fejlkode: %1)"
 msgid "You are not connected to Uplay."
 msgstr "Du er ikke forbundet til Uplay."
 
+msgid "You are not registered for any event yet"
+msgstr "Du er ikke registeret til et event endnu"
+
 msgid "You are not subscribed to any club"
 msgstr "Du har ikke abonneret på nogen klub"
-
-msgid "You are registered"
-msgstr "Du er tilmeldt"
 
 msgid "You are suspended"
 msgstr "Du er udelukket"
@@ -3996,8 +4036,8 @@ msgstr "Din bane om mindre end %1 minutter"
 msgid "Your search did not return any results"
 msgstr "Din søgning gav ingen resultater"
 
-msgid "Your subscription ends on %1"
-msgstr "Dit abonnement slutter d. %1"
+msgid "by"
+msgstr "af"
 
 msgid "by %1"
 msgstr "af %1"
@@ -4008,8 +4048,14 @@ msgstr "klub-adgang"
 msgid "controller"
 msgstr "styreenhed"
 
+msgid "from %1"
+msgstr "fra %1"
+
 msgid "max %1 characters"
 msgstr "maks. %1 tegn"
+
+msgid "ok"
+msgstr "ok"
 
 msgid "per server"
 msgstr "per server"
@@ -4107,6 +4153,9 @@ msgstr "|Blocks|Seneste"
 msgid "|Camera|Follow"
 msgstr "|Camera|Følg"
 
+msgid "|Camera|Follow all"
+msgstr "|Camera|Følg alle"
+
 msgid "|Camera|Free"
 msgstr "|Camera|Frit"
 
@@ -4119,8 +4168,14 @@ msgstr "|Campaign Map|Officiel"
 msgid "|Campaign|April %1"
 msgstr "|Campaign|April %1"
 
+msgid "|Campaign|April %1 %2"
+msgstr "|Campaign|April %1 %2"
+
 msgid "|Campaign|August %1"
 msgstr "|Campaign|August %1"
+
+msgid "|Campaign|August %1 %2"
+msgstr "|Campaign|August %1 %2"
 
 msgid "|Campaign|Club"
 msgstr "|Campaign|Klub"
@@ -4128,23 +4183,44 @@ msgstr "|Campaign|Klub"
 msgid "|Campaign|December %1"
 msgstr "|Campaign|December %1"
 
+msgid "|Campaign|December %1 %2"
+msgstr "|Campaign|December %1 %2"
+
 msgid "|Campaign|February %1"
 msgstr "|Campaign|Februar %1"
+
+msgid "|Campaign|February %1 %2"
+msgstr "|Campaign|Februar %1 %2"
 
 msgid "|Campaign|January %1"
 msgstr "|Campaign|Januar %1"
 
+msgid "|Campaign|January %1 %2"
+msgstr "|Campaign|Januar %1 %2"
+
 msgid "|Campaign|July %1"
 msgstr "|Campaign|Juli %1"
+
+msgid "|Campaign|July %1 %2"
+msgstr "|Campaign|Juli %1 %2"
 
 msgid "|Campaign|June %1"
 msgstr "|Campaign|Juni %1"
 
+msgid "|Campaign|June %1 %2"
+msgstr "|Campaign|Juni %1 %2"
+
 msgid "|Campaign|March %1"
 msgstr "|Campaign|Marts %1"
 
+msgid "|Campaign|March %1 %2"
+msgstr "|Campaign|Marts %1 %2"
+
 msgid "|Campaign|May %1"
 msgstr "|Campaign|Maj %1"
+
+msgid "|Campaign|May %1 %2"
+msgstr "|Campaign|Maj %1 %2"
 
 msgid "|Campaign|Monthly"
 msgstr "|Campaign|Månedlig"
@@ -4152,8 +4228,14 @@ msgstr "|Campaign|Månedlig"
 msgid "|Campaign|November %1"
 msgstr "|Campaign|November %1"
 
+msgid "|Campaign|November %1 %2"
+msgstr "|Campaign|November %1 %2"
+
 msgid "|Campaign|October %1"
 msgstr "|Campaign|Oktober %1"
+
+msgid "|Campaign|October %1 %2"
+msgstr "|Campaign|Oktober %1 %2"
 
 msgid "|Campaign|Official"
 msgstr "|Campaign|Officiel"
@@ -4169,6 +4251,9 @@ msgstr "|Campaign|Kvartal"
 
 msgid "|Campaign|September %1"
 msgstr "|Campaign|September %1"
+
+msgid "|Campaign|September %1 %2"
+msgstr "|Campaign|September %1 %2"
 
 msgid "|Campaign|Training"
 msgstr "|Campaign|Træning"
@@ -4254,9 +4339,6 @@ msgstr "|Club|anmodning"
 
 msgid "|Club|requests"
 msgstr "|Club|anmodninger"
-
-msgid "|Competition|Coming Soon"
-msgstr "|Competition|Kommer Snart"
 
 msgid "|DataType|Campaign"
 msgstr "|DataType|Kampagne"
@@ -4371,18 +4453,6 @@ msgstr "|ImageType|Vertikal"
 
 msgid "|Image|Background"
 msgstr "|Image|Baggrund"
-
-msgid "|Image|Decal sponsor 4X1"
-msgstr "|Image|Sponsor-overføringsmærke 4X1"
-
-msgid "|Image|Screen 16X1"
-msgstr "|Image|Billede 16X1"
-
-msgid "|Image|Screen 16x9"
-msgstr "|Image|Skærm 16x9"
-
-msgid "|Image|Screen 8X1"
-msgstr "|Image|Billede 8X1"
 
 msgid "|Image|Vertical"
 msgstr "|Image|Vertikal"
@@ -4546,8 +4616,8 @@ msgstr "|Landscape|Bjerg"
 msgid "|Landscape|Pillars"
 msgstr "|Landscape|Søjler"
 
-msgid "|League|Step %1"
-msgstr "|League|Trin %1"
+msgid "|League|Map %1"
+msgstr "|League|Bane %1"
 
 msgid "|League|map %1/%2"
 msgstr "|League|bane %1/%2"
@@ -4986,15 +5056,6 @@ msgstr "|Status|Kører"
 
 msgid "|Status|Winner"
 msgstr "|Status|Vinder"
-
-msgid "|Streamer|Channel"
-msgstr "|Streamer|Kanal"
-
-msgid "|Streaming|Platform"
-msgstr "|Streaming|Platform"
-
-msgid "|Subscription|Ends on"
-msgstr "|Subscription|Slutter"
 
 msgid "|Sunday|S"
 msgstr "|Sunday|S"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-07 20:28+0000\n"
+"PO-Revision-Date: 2020-09-04 09:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -1087,9 +1087,6 @@ msgstr "Automatico (sud-ovest)"
 msgid "Automatic Minimum Fps"
 msgstr "FPS minimo automatico"
 
-msgid "Automatically log me in at launch"
-msgstr "Connettimi automaticamente all'avvio"
-
 msgid "Automatically save all replays"
 msgstr "Salva automaticamente tutti i replay"
 
@@ -1431,9 +1428,6 @@ msgstr "Cambia localizzazione"
 
 msgid "Change map"
 msgstr "Cambia mappa"
-
-msgid "Change password"
-msgstr "Cambia password"
 
 msgid "Change sort order"
 msgstr "Cambia ordine"
@@ -2057,13 +2051,6 @@ msgstr "Impossibile convalidare il replay per $<%1$>"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Impossibile convalidare!\n"
-" nessun codice evento disponibile..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Impossibile convalidare!\n"
@@ -2420,9 +2407,6 @@ msgstr "Scarta modifiche"
 
 msgid "Disconnect Account"
 msgstr "Disconnetti account"
-
-msgid "Disconnect local account"
-msgstr "Disconnetti account locale"
 
 msgid "Disconnected from server"
 msgstr "Disconnesso dal server"
@@ -2878,9 +2862,6 @@ msgstr "Attiva nuova linea automatica"
 msgid "Enable chat"
 msgstr "Abilita la chat"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Attiva chat su server multiplayer"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Abilita innesco di eventi script tramite il mouse"
 
@@ -2968,6 +2949,9 @@ msgstr "Inserisci il codice di verifica"
 
 msgid "Enter your friend's email"
 msgstr "Inserisci l'e-mail del tuo amico"
+
+msgid "Enter your key"
+msgstr "Inserisci il tuo codice"
 
 msgid "Enter your name:"
 msgstr "Inserisci il tuo nome:"
@@ -3902,6 +3886,9 @@ msgstr "Mantieni modifiche"
 
 msgid "Keep last block of the track active"
 msgstr "Mantieni attivo l'ultimo blocco della traccia"
+
+msgid "Key"
+msgstr "Codice"
 
 msgid "Key 1"
 msgstr "Tasto 1"
@@ -5150,6 +5137,9 @@ msgstr "Comandi giocatore"
 
 msgid "Player Page"
 msgstr "PlayerPage"
+
+msgid "Player State Component"
+msgstr "Componento Stato Giocatore"
 
 msgid "Player already selected!"
 msgstr "Giocatore già selezionato!"
@@ -6579,9 +6569,6 @@ msgstr "Mostra parametri avanzati"
 
 msgid "Show avatars"
 msgstr "Mostra avatar"
-
-msgid "Show avatars of other players"
-msgstr "Mostra avatar degli altri giocatori"
 
 msgid "Show helpers"
 msgstr "Mostra aiuti visivi"
@@ -8215,15 +8202,6 @@ msgstr "Convalida di $<%1$> (%2) in corso..."
 msgid "Validating ..."
 msgstr "Convalida in corso..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"La convalida dei replay registrati nella modalità\n"
-" %1\n"
-"non è implementata."
-
 msgid "Variables"
 msgstr "Variabili"
 
@@ -8297,6 +8275,9 @@ msgstr "Mostra l'intera timeline"
 
 msgid "Virtual Reality"
 msgstr "Realtà virtuale"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Visibile dagli altri giocatori"
@@ -11232,9 +11213,6 @@ msgstr "|MeshModeler|Mod. selezione riquadro"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Centrato"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|Geometria collisionabile"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Copia selezione [CTRL+C]"
 
@@ -12329,6 +12307,15 @@ msgstr "|SpectatorCam|Manuale"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Always"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Tempo di modifica"

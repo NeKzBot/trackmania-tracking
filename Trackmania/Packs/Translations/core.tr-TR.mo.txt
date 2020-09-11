@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-24 23:58+0000\n"
+"PO-Revision-Date: 2020-09-04 19:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -834,6 +834,9 @@ msgstr "Alt + ZamanÇizgisi'ne tıkla"
 msgid "Always"
 msgstr "Daima"
 
+msgid "Always display records"
+msgstr "Rekorları her zaman göster"
+
 msgid "Ambiance"
 msgstr "Ambiyans"
 
@@ -1078,9 +1081,6 @@ msgstr "Otomatik (güney-batı)"
 
 msgid "Automatic Minimum Fps"
 msgstr "Otomatik Minimum FPS"
-
-msgid "Automatically log me in at launch"
-msgstr "Oturumumu başlangıçta otomatik olarak aç"
 
 msgid "Automatically save all replays"
 msgstr "Tüm replay'leri otomatik olarak kaydet"
@@ -1422,9 +1422,6 @@ msgstr "Konumu değiştir"
 
 msgid "Change map"
 msgstr "Haritayı değiştir"
-
-msgid "Change password"
-msgstr "Şifreyi değiştir"
 
 msgid "Change sort order"
 msgstr "Sıralama düzenini değiştir"
@@ -2046,13 +2043,6 @@ msgstr "$<%1$> için replay doğrulanamadı."
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Doğrulanamadı!\n"
-" anahtar olay yok..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Doğrulanamadı!\n"
@@ -2283,6 +2273,9 @@ msgstr "Varsayılan kornalar"
 msgid "Default image"
 msgstr "Varsayılan resim"
 
+msgid "Default opponents visibility"
+msgstr "Varsayılan rakip görünürlüğü"
+
 msgid "Default sound"
 msgstr "Varsayılan ses"
 
@@ -2407,9 +2400,6 @@ msgstr "DEĞİŞİKLİKLERİ İPTAL ET"
 
 msgid "Disconnect Account"
 msgstr "Hesabın Bağlantısını Kes"
-
-msgid "Disconnect local account"
-msgstr "Yerel hesabın bağlantısını kes"
 
 msgid "Disconnected from server"
 msgstr "Sunucuyla bağlantı koptu"
@@ -2873,9 +2863,6 @@ msgstr "Otomatik satır başını aktifleştir"
 msgid "Enable chat"
 msgstr "Sohbeti etkinleştir"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Çoklu oyunculu sunucularda sohbeti etkinleştir"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Script etkinliklerini fare ile tetiklemeyi etkinleştir"
 
@@ -2961,11 +2948,14 @@ msgstr "Doğrulama kodunu giriniz"
 msgid "Enter your friend's email"
 msgstr "Arkadaşınızın e-posta adresini girin"
 
+msgid "Enter your key"
+msgstr "Anahtarınızı girin"
+
 msgid "Enter your name:"
 msgstr "İsminizi girin:"
 
 msgid "Entrer your ID number"
-msgstr "ID numaranızı giriniz"
+msgstr "Kimlik numaranızı giriniz"
 
 msgid "Entrer your name"
 msgstr "İsminizi giriniz"
@@ -3763,7 +3753,7 @@ msgid "Invalid FileType."
 msgstr "Geçersiz DosyaTürü."
 
 msgid "Invalid ID number."
-msgstr "Geçersiz ID numarası"
+msgstr "Geçersiz kimlik numarası"
 
 msgid "Invalid URL"
 msgstr "Geçersiz URL"
@@ -3888,6 +3878,9 @@ msgstr "DEĞİŞİKLİKLERİ KAYDET"
 
 msgid "Keep last block of the track active"
 msgstr "Parçanın son bloğunu aktif tut"
+
+msgid "Key"
+msgstr "Anahtar"
 
 msgid "Key 1"
 msgstr "Tuş 1"
@@ -5133,6 +5126,9 @@ msgstr "OYUNCU GİRDİLERİ"
 msgid "Player Page"
 msgstr "Oyuncu Sayfası"
 
+msgid "Player State Component"
+msgstr "Oyuncu Durumu Öğesi"
+
 msgid "Player already selected!"
 msgstr "Oyuncu zaten seçili!"
 
@@ -5542,6 +5538,9 @@ msgstr "Hazır"
 
 msgid "Ready (F6)"
 msgstr "Hazır (F6)"
+
+msgid "Real name and ID card information have been successfully validated."
+msgstr "Gerçek isim ve kimlik kartı bilgileri başarıyla doğrulandı."
 
 msgid "Really balance teams?"
 msgstr "Takımlar dengelensin mi?"
@@ -6565,9 +6564,6 @@ msgstr "Gelişmiş parametreleri göster"
 msgid "Show avatars"
 msgstr "Avatarları göster"
 
-msgid "Show avatars of other players"
-msgstr "Diğer oyuncuların avatarlarını göster"
-
 msgid "Show helpers"
 msgstr "Yardımcıları göster"
 
@@ -6705,6 +6701,9 @@ msgstr "İzle"
 
 msgid "Spectator"
 msgstr "İzleyici"
+
+msgid "Spectators placement computed"
+msgstr "İzleyicilerin yerleşimi hesaplandı"
 
 msgid "Speed"
 msgstr "Hız"
@@ -8184,15 +8183,6 @@ msgstr "Doğrulanıyor: $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Doğrulanıyor ..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"%1 modunda\n"
-"kaydedilen replay'lerin\n"
-"onaylanması desteklenmiyor."
-
 msgid "Variables"
 msgstr "Değişkenler"
 
@@ -8266,6 +8256,9 @@ msgstr "Tüm zaman çizgisini göster"
 
 msgid "Virtual Reality"
 msgstr "Sanal Gerçeklik"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Başka oyunculara görünür"
@@ -10472,6 +10465,9 @@ msgstr "|Input|Replay'i kaydet"
 msgid "|Input|Save screenshot"
 msgstr "|Input|Ekran görüntüsü al"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|İkincil respawn"
+
 msgid "|Input|Shoot"
 msgstr "|Input|Ateş et"
 
@@ -11206,9 +11202,6 @@ msgstr "|MeshModeler|Kutu seçim modu"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Ortalanmış"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|Çarpıştırılabilir geometri"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Seçimi kopyala [Ctrl+C]"
 
@@ -11875,6 +11868,12 @@ msgstr "|PlayerStateComponent|Silah Sayacı"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|Silah Listesi"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|Gizli"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|Eski"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Opak"
 
@@ -12091,6 +12090,9 @@ msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Dış görünümü "
 "dışa aktar"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor (leaves the editor)|Çıkış"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12302,6 +12304,12 @@ msgstr "|SpectatorCam|Manuel"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Düzenleme süresi"

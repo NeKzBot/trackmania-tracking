@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-08-04 12:11+0000\n"
+"PO-Revision-Date: 2020-09-07 14:50+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: russe, Russie\n"
+"Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,9 +30,6 @@ msgstr "$<%1$> покинул игру"
 
 msgid "$<%1$> takes %2 place!"
 msgstr "$<%1$> занимает %2 место!"
-
-msgid "$<%1$> wins step %2"
-msgstr "$<%1$> выигрывает ступень %2"
 
 msgid "$<%1$> wins the map!"
 msgstr "$<%1$> выигрывает на карте!"
@@ -265,6 +262,12 @@ msgstr "Против повтора"
 msgid "All clubs"
 msgstr "Все клубы"
 
+msgid "All done here, thanks for playing!"
+msgstr "Здесь всё сделано, спасибо за игру!"
+
+msgid "All events"
+msgstr "Все события"
+
 msgid "All fields must be completed"
 msgstr "Все поля должны быть заполнены"
 
@@ -278,13 +281,6 @@ msgid "An error occured while joining, please try again. (Error code: %1)"
 msgstr ""
 "Произошла ошибка при подключении, пожалуйста, повторите снова. (Код ошибки: "
 "%1)"
-
-msgid ""
-"An error occurred while fetching the next match. Please try again. (Error "
-"code: %1)"
-msgstr ""
-"Произошла ошибка при получении следующего матча. Пожалуйста, повторите "
-"снова. (Код ошибки: %1)"
 
 msgid ""
 "An error occurred while retrieving your accounts, please try again. (Error "
@@ -335,6 +331,13 @@ msgstr "Вы уверены, что хотите сгенерировать др
 
 msgid "Are you sure you want to leave the editor?"
 msgstr "Вы уверены, что хотите покинуть редактор?"
+
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Вы уверены, что хотите выйти из Trackmania?"
@@ -400,7 +403,7 @@ msgstr ""
 "пересечёте новый чекпоинт."
 
 msgid "Be in the top %1"
-msgstr "Будь в топе %1"
+msgstr "Be in the top %1"
 
 msgid "Best lap"
 msgstr "Лучший круг"
@@ -526,6 +529,9 @@ msgstr "Кликните на игрока, чтобы установить ег
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Кликните на модули интерфейса для редактирования их свойств"
+
+msgid "Click to see %1 results"
+msgstr "Click to see %1 results"
 
 msgid "Close"
 msgstr "Закрыть"
@@ -723,6 +729,9 @@ msgstr "Ежедневный кубок на выбывание"
 msgid "Daily cup"
 msgstr "Ежедневный кубок"
 
+msgid "Daily map"
+msgstr "Карта дня"
+
 msgid "Daily rankings"
 msgstr "Ежедневные рейтинги"
 
@@ -743,14 +752,6 @@ msgstr ""
 "дорогу.\n"
 "Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
 
-msgid ""
-"Decal: image visible on the road surface (at start, checkpoint and finish).\n"
-"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
-msgstr ""
-"Наклейка: изображение, видимое на дорожном покрытии (на старте, чекпойнте и "
-"финише).\n"
-"Размеры: %1 - Формат: PNG, JPEG или DDS (DXT5)"
-
 msgid "Decoration"
 msgstr "Оформление"
 
@@ -764,6 +765,9 @@ msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
 msgstr ""
 "Не удалось удалить изображение с типом '%1'. Пожалуйста, повторите снова. "
 "(Ошибка %2)"
+
+msgid "Description"
+msgstr "Описание"
 
 msgid "Did you like this map?"
 msgstr "Вам понравилась эта карта?"
@@ -807,6 +811,9 @@ msgstr "Вы хотите отключить авто-финиш?"
 msgid "Do you want to validate the track now?"
 msgstr "Вы хотите подтвердить трассу сейчас?"
 
+msgid "Do your best to qualify."
+msgstr "Do your best to qualify."
+
 msgid "Don't forget to save your track!"
 msgstr "Не забудьте сохранить свою трассу!"
 
@@ -821,6 +828,21 @@ msgstr "Дуэль"
 
 msgid "Duration of one warm up"
 msgstr "Продолжительность одной разминки"
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
+"%1 right after%2 and respresent your country."
+msgstr ""
+"Наберите %1Очки навыков %2на каждой карте, чтобы повысить ранг. %1После%2 "
+"получите доступ к матчу лиги и представьте свою страну."
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Your final rank determines the "
+"points you score for %1your country%2."
+msgstr ""
+"Наберите %1Очки навыков %2на каждой карте, чтобы повысить ранг. Ваш "
+"окончательный ранг определяет количество очков, набранных для %1вашей страны"
+"%2."
 
 msgid "Earn medals and track your progression in regional rankings"
 msgstr ""
@@ -885,9 +907,6 @@ msgstr "Двигатель отключён"
 msgid "Enough players agreed to play a rematch."
 msgstr "Большинство игроков согласились сыграть реванш."
 
-msgid "Entry"
-msgstr "Вход"
-
 msgid "Error"
 msgstr "Ошибка"
 
@@ -918,6 +937,13 @@ msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr ""
 "Произошла ошибка при редактировании комнаты. Пожалуйста, повторите снова. "
 "(Код ошибки: %1)"
+
+msgid ""
+"Error while fetching campaigns of type %1 for the profile. Please try again. "
+"(Error code: %2)"
+msgstr ""
+"Ошибка при получении типа кампаний %1 для профиля. Пожалуйста, повторите "
+"снова. (Код ошибки: %2)"
 
 msgid ""
 "Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
@@ -1001,6 +1027,11 @@ msgstr ""
 "Произошла ошибка при загрузке клуба кампании. Пожалуйста, повторите снова. "
 "(Код ошибки: %1)"
 
+msgid "Error while loading the event. Please try again. (Error code: %1)"
+msgstr ""
+"Произошла ошибка при загрузке события. Пожалуйста, повторите снова. (Код "
+"ошибки: %1)"
+
 msgid "Error while loading trophies (code: %1)"
 msgstr "Произошла ошибка при загрузке трофеев (код: %1)"
 
@@ -1067,6 +1098,20 @@ msgstr "Выйти"
 msgid "F6 to cancel"
 msgstr "F6 для отмены"
 
+msgid ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+msgstr ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+msgstr ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+
 msgid "Fifth (Press 5)"
 msgstr "Пятый (Нажмите 5)"
 
@@ -1130,6 +1175,12 @@ msgstr "Сдаться %1"
 msgid "Give up Daily cup?"
 msgstr "Отказаться от ежедневного кубка?"
 
+msgid "Go back to the menu to see the results."
+msgstr "Go back to the menu to see the results."
+
+msgid "Go back to the menu to wait for your next match."
+msgstr "Go back to the menu to wait for your next match."
+
 msgid "Go to map list"
 msgstr "Перейти к списку карт"
 
@@ -1166,6 +1217,16 @@ msgstr "Хотсит"
 msgid "Hotseat"
 msgstr "Хотсит"
 
+msgid "I have read and I agree to the %1rules%2 of this event."
+msgstr "Я прочитал и согласен с %1правилами%2 этого события."
+
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+msgstr ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Если вы выберете ландшафт, вы можете потерять весь ваш прогресс."
 
@@ -1185,8 +1246,8 @@ msgstr "Улучшить"
 msgid "Information"
 msgstr "Информация"
 
-msgid "Interval from %1 pos."
-msgstr "Интервал от %1 поз."
+msgid "Invalid"
+msgstr "Недействительно"
 
 msgid "Invite friends"
 msgstr "Пригласить друзей"
@@ -1237,6 +1298,12 @@ msgstr "Последнее время"
 msgid "Leader"
 msgstr "Лидер"
 
+msgid "Leaderboard is empty"
+msgstr "Leaderboard is empty"
+
+msgid "League match divisions"
+msgstr "League match divisions"
+
 msgid "League ranking"
 msgstr "Рейтинг лиги"
 
@@ -1285,9 +1352,6 @@ msgstr "Загрузка активностей клуба..."
 msgid "Loading club room..."
 msgstr "Загрузка комнаты клуба..."
 
-msgid "Loading competition..."
-msgstr "Загрузка соревнования..."
-
 msgid "Loading offline campaign..."
 msgstr "Загрузка одиночной кампании..."
 
@@ -1334,8 +1398,8 @@ msgstr "Управление трассой"
 msgid "Map"
 msgstr "Карта"
 
-msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3%4"
-msgstr "Карта %1/%2 - Сохраните свои предыдущие очки, оставаясь между 1 и %3%4"
+msgid "Map %1/%2"
+msgstr "Карта %1/%2"
 
 msgid ""
 "Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
@@ -1407,6 +1471,9 @@ msgstr "Матч окончен"
 msgid "Match not started yet."
 msgstr "Матч ещё не начался."
 
+msgid "Match ongoing"
+msgstr "Матч продолжается"
+
 msgid "Match over. You should have been transferred back to the lobby."
 msgstr "Матч закончен. Вы должны быть переведены обратно в лобби."
 
@@ -1418,6 +1485,9 @@ msgstr "Матч приостановлен"
 
 msgid "Match settings"
 msgstr "Настройки матча"
+
+msgid "Match starting"
+msgstr "Матч начинается"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "Создание матча отменено: нет доступного сервера"
@@ -1439,9 +1509,6 @@ msgstr "Настройки матча сохранены в файл: %1"
 
 msgid "Max players"
 msgstr "Максимум игроков"
-
-msgid "Max players number"
-msgstr "Максимальное количество игроков"
 
 msgid "Max points :"
 msgstr "Максимум очков :"
@@ -1472,6 +1539,9 @@ msgstr "Понедельник"
 
 msgid "More VIPs"
 msgstr "Показать VIP участников"
+
+msgid "More info at %1"
+msgstr "Больше информации на %1"
 
 msgid "Move"
 msgstr "Переместить"
@@ -1509,11 +1579,26 @@ msgstr "Новый ранг: %1"
 msgid "New records disabled"
 msgstr "Новые рекорды отключены"
 
+msgid "New season in %1 day"
+msgstr "New season in %1 day"
+
+msgid "New season in %1 days"
+msgstr "New season in %1 days"
+
 msgid "New track"
 msgstr "Новая трасса"
 
 msgid "News"
 msgstr "Новости"
+
+msgid "News Body"
+msgstr "Содержание новости"
+
+msgid "News Headline"
+msgstr "Заголовок новости"
+
+msgid "News Title"
+msgstr "Название новости"
 
 msgid "News image"
 msgstr "Изображение новостей"
@@ -1559,6 +1644,9 @@ msgstr "Нет клубов"
 
 msgid "No daily map found to display the rankings"
 msgstr "Не найдена ежедневная карта для отображения рейтингов"
+
+msgid "No events"
+msgstr "Нет событий"
 
 msgid "No maps in this month"
 msgstr "Нет карт в этом месяце"
@@ -1685,6 +1773,9 @@ msgstr ""
 "Разместите чекпоинты на вашей трассе, чтобы избежать коротких путей и "
 "сделать рестарт других игроков более простым."
 
+msgid "Placement match"
+msgstr "Размещение матча"
+
 msgid "Platform"
 msgstr "Платформа"
 
@@ -1782,6 +1873,9 @@ msgstr "Лимит очков : "
 msgid "Points limit: %1, Current best score: %2"
 msgstr "Лимит очков: %1, Текущий лучший результат: %2"
 
+msgid "Points repartition"
+msgstr "Распределение очков"
+
 msgid "Popularity"
 msgstr "Популярность"
 
@@ -1840,8 +1934,17 @@ msgstr "Перейти в лобби"
 msgid "Profile"
 msgstr "Профиль"
 
+msgid "Qualification"
+msgstr "Квалификация"
+
+msgid "Qualification server will be available in %1"
+msgstr "Qualification server will be available in %1"
+
 msgid "Qualifier rank: %1"
 msgstr "Квалификационный ранг: %1"
+
+msgid "Qualify"
+msgstr "Квалифицировать"
 
 msgid "Quantity"
 msgstr "Количество"
@@ -1857,6 +1960,9 @@ msgstr "Выйти из редактора"
 
 msgid "Quit plugin"
 msgstr "Выйти из плагина"
+
+msgid "Quit%1"
+msgstr "Выход 1%"
 
 msgid "R1 button"
 msgstr "Кнопка R1"
@@ -1908,6 +2014,9 @@ msgstr "Готов"
 msgid "Ready (F6)"
 msgstr "Готовность (F6)"
 
+msgid "Ready: %1/%2"
+msgstr "Готовность: %1/%2"
+
 msgid "Record leader ghost"
 msgstr "Записать фантом лидера"
 
@@ -1929,8 +2038,8 @@ msgstr "Обновить"
 msgid "Register"
 msgstr "Зарегистрироваться"
 
-msgid "Registration failed (Error code: %1)"
-msgstr "Регистрация не удалась (Код ошибки: %1)"
+msgid "Registration dates"
+msgstr "Даты регистрации"
 
 msgid "Remaining time: %1"
 msgstr "Оставшееся время: %1"
@@ -2102,6 +2211,13 @@ msgid "Saving campaign..."
 msgstr "Сохранение кампании..."
 
 msgid ""
+"Score points for %1your country%2. Play against players with the%1 same "
+"placement%2 rank. You score more points in%1 high rank%2 matchs. "
+msgstr ""
+"Наберите очки для %1вашей страны%2. Играйте против игроков с %1тем же "
+"размещением%2 ранга. Вы наберёте больше очков в%1 высокоранговых%2 матчах. "
+
+msgid ""
 "Screen 16x1: image displayed on stadium's podium (under big screen).\n"
 "Dimensions: %1 - Format: DDS (DXT5)"
 msgstr ""
@@ -2199,6 +2315,9 @@ msgstr "Выбрать следующую карту"
 msgid "Select number of players"
 msgstr "Выберите количество игроков"
 
+msgid "Select one of this servers to join the qualification"
+msgstr "Select one of this servers to join the qualification"
+
 msgid "Select style"
 msgstr "Выбрать стиль"
 
@@ -2234,9 +2353,6 @@ msgstr "Сервер больше не существует"
 
 msgid "Server name"
 msgstr "Название сервера"
-
-msgid "Server region"
-msgstr "Регион сервера"
 
 msgid "Servers are offline or in maintenance, please try again later."
 msgstr ""
@@ -2274,6 +2390,9 @@ msgstr "Одиночная карта"
 
 msgid "Sixth (Press 6)"
 msgstr "Шестой (Нажмите 6)"
+
+msgid "Skill Points Ranking"
+msgstr "Рейтинг по Очкам навыков"
 
 msgid "Skin browser"
 msgstr "Обозреватель скинов"
@@ -2332,6 +2451,9 @@ msgstr ""
 msgid "Starter"
 msgstr "Начальный"
 
+msgid "Starts in"
+msgstr "Начнётся через"
+
 msgid "Stats"
 msgstr "Статистика"
 
@@ -2341,14 +2463,8 @@ msgstr "Рейтинг ступени"
 msgid "Stop auto-finish"
 msgstr "Отключить авто-финиш"
 
-msgid "Streaming subscriptions"
-msgstr "Потоковые подписки"
-
 msgid "Style"
 msgstr "Стиль"
-
-msgid "Subscribe"
-msgstr "Подписаться "
 
 msgid "Subscribe to Trackmania %1 to access the server review."
 msgstr "Подпишитесь на Trackmania %1, чтобы получить доступ к обзору сервера."
@@ -2462,9 +2578,6 @@ msgstr "Подпишитесь на Trackmania %1, чтобы использов
 msgid "Sunday"
 msgstr "Воскресенье"
 
-msgid "Support %1$z: \"go %2$z\" in chat"
-msgstr "Поддержите %1$z: \"go %2$z\" в чате."
-
 msgid "Switch"
 msgstr "Переключатель"
 
@@ -2521,6 +2634,12 @@ msgstr "Тестировать трассу"
 msgid "Test your maps"
 msgstr "Тестировать свои карты"
 
+msgid "Thank you for playing."
+msgstr "Thank you for playing."
+
+msgid "The %1 started, GL HF"
+msgstr "%1 начался, удачи и веселья"
+
 msgid ""
 "The Club Access is a 1 year or 3 years pass offering the most complete "
 "Trackmania experience with customization, pro-level competitions and unique "
@@ -2564,11 +2683,20 @@ msgstr "Оформление будет удалено и вам придётс�
 msgid "The decoration will be removed."
 msgstr "Оформление будет удалено."
 
+msgid "The description of Competition can't be empty"
+msgstr "Описание соревнования не может быть пустым"
+
+msgid "The description of Competition has a maximum of %1 characters"
+msgstr "Описание соревнования может содержать не более %1 символов"
+
+msgid "The headline has a maximum of %1 characters"
+msgstr "Заголовок может содержать не более 1% символов"
+
 msgid "The leaderboard is now closed on this day!"
 msgstr "В этот день таблица лидеров закрыта!"
 
-msgid "The league is coming back in"
-msgstr "Лига начнётся через"
+msgid "The map %1 is already used, please select an another map"
+msgstr "Карта %1 уже используется, пожалуйста, выберите другую карту"
 
 msgid "The map '%1' is already in the playlist"
 msgstr "Карта '%1' уже находится в плейлисте"
@@ -2582,11 +2710,17 @@ msgid ""
 msgstr ""
 "Карта '%1' неиграбельна. Пожалуйста, подтвердите карту и рассчитайте тени."
 
+msgid "The match started, GL HF"
+msgstr "Матч начался, удачи и веселья"
+
 msgid "The match will begin shortly ..."
 msgstr "Матч скоро начнётся..."
 
 msgid "The matchsettings is not valid"
 msgstr "Настройки матча недействительны"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "Имя может содержать не более 1% символов"
 
 msgid ""
 "The name of the competition has a minimum of %1 and a maximum of %2 "
@@ -2595,12 +2729,6 @@ msgstr "Имя соревнования должно содержать не м�
 
 msgid "The name tag has a maximum of %1 characters"
 msgstr "Тег имени может содержать не более %1 символов."
-
-msgid "The next match will begin in %1 "
-msgstr "Следующий матч начнётся через %1 "
-
-msgid "The registration closed at: %1 H"
-msgstr "Регистрация закроется в: %1 Ч"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "Комната недоступна, пожалуйста, повторите снова. (Код ошибки: %1)"
@@ -2634,13 +2762,6 @@ msgid "There are no saved activities in your club."
 msgstr "Нет сохранённых активностей в вашем клубе."
 
 msgid ""
-"There has been an error while fetching information about this competition. "
-"(Error code: %1)"
-msgstr ""
-"Произошла ошибка при получении информации этого соревнования. (Код ошибки: "
-"%1)"
-
-msgid ""
 "There was an error while gathering the rankings, please try again later. "
 "(Error code: %1)"
 msgstr ""
@@ -2669,9 +2790,6 @@ msgid ""
 msgstr ""
 "Этот блок имеет настраиваемый скин. Используйте %1, чтобы выбрать "
 "изображение, которое хотите использовать."
-
-msgid "This competition is closed"
-msgstr "Это соревнование закрыто"
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr "Этот выделенный сервер размещён игроком. Он может быть отключен."
@@ -2786,20 +2904,30 @@ msgstr "Отменить скин"
 msgid "Unselect all"
 msgstr "Отменить всё"
 
-msgid "Unsubscribe"
-msgstr "Отписаться"
-
 msgid "Update member's role"
 msgstr "Обновить роль участника"
 
 msgid "Updating club..."
 msgstr "Обновление клуба..."
 
+msgid ""
+"Upgrading from Standard to Club access will transform one third of your "
+"remaining days of Standard access into Club access"
+msgstr ""
+"Обновление со Стандартного доступа до Клубного, преобразует одну треть "
+"оставшихся дней Стандартного доступа в Клубный доступ"
+
 msgid "Upload a map"
 msgstr "Загрузить карту"
 
 msgid "Upload a skin"
 msgstr "Загрузить скин"
+
+msgid "Upload of the logo failed (Error code: %1)"
+msgstr "Не удалось загрузить логотип (Код ошибки: %1)"
+
+msgid "Uploading of the vertical Image failed (Error code: %1)"
+msgstr "Не удалось загрузить вертикальное изображение (Код ошибки: %1)"
 
 msgid "Uploading..."
 msgstr "Загрузка..."
@@ -2909,6 +3037,9 @@ msgstr "Ждите матч"
 msgid "Waiting for your match to start"
 msgstr "Ожидание начала матча"
 
+msgid "Waiting on all matches currently in progress"
+msgstr "Waiting on all matches currently in progress"
+
 msgid "Warm up"
 msgstr "Разминка"
 
@@ -2917,13 +3048,6 @@ msgstr "Разминка"
 
 msgid "Warmup: %1/%2"
 msgstr "Разминка: %1/%2"
-
-msgid ""
-"Watch\n"
-"warm-up"
-msgstr ""
-"Внимание\n"
-"разминка"
 
 msgid "We are sending you back to the lobby."
 msgstr "Мы отправляем вас обратно в лобби."
@@ -2939,6 +3063,9 @@ msgstr "Среда"
 
 msgid "Welcome to Trackmania"
 msgstr "Добро пожаловать в Trackmania"
+
+msgid "Welcome to the %1 server."
+msgstr "Добро пожаловать на сервер %1."
 
 msgid ""
 "Welcome to the Nadeo daily cup\n"
@@ -2971,6 +3098,9 @@ msgstr ""
 
 msgid "Welcome to the club!"
 msgstr "Добро пожаловать в клуб!"
+
+msgid "Welcome to the: %1."
+msgstr "Добро пожаловать на: %1."
 
 msgid "What do you want to do?"
 msgstr "Что вы хотите сделать?"
@@ -3027,11 +3157,11 @@ msgstr "Вы отключены от серверов Trackmania. (Код оши
 msgid "You are not connected to Uplay."
 msgstr "Вы не подключены к Uplay."
 
+msgid "You are not registered for any event yet"
+msgstr "Вы ещё не зарегистрированы ни на одно событие"
+
 msgid "You are not subscribed to any club"
 msgstr "Вы не подписаны ни на один клуб"
-
-msgid "You are registered"
-msgstr "Вы зарегистрированы"
 
 msgid "You are suspended"
 msgstr "Вы приостановлены"
@@ -3079,8 +3209,14 @@ msgstr ""
 "Вы почти достигли максимального числа блоков, которые можно разместить на "
 "трассе."
 
+msgid "You have been disconnected from Uplay."
+msgstr "Вы были отключены от Uplay."
+
 msgid "You have been disconnected from Uplay. (Error code: %1)"
 msgstr "Вы были отключены от Uplay. (Код ошибки: %1)"
+
+msgid "You have been disconnected from the Trackmania servers."
+msgstr "Вы были отключены от серверов Trackmania."
 
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
@@ -3102,6 +3238,9 @@ msgstr ""
 "\n"
 "\n"
 "Перенаправление на ежедневный канал через 30с"
+
+msgid "You have been successfuly registered!"
+msgstr "Вы были успешно зарегистрированы!"
 
 msgid "You have to place exactly one podium!"
 msgstr "Вы должны разместить только один подиум!"
@@ -3162,8 +3301,8 @@ msgstr "Ваша карта менее чем через %1 минуты"
 msgid "Your search did not return any results"
 msgstr "Поиск не дал никаких результатов"
 
-msgid "Your subscription ends on %1"
-msgstr "Ваша подписка заканчивается %1"
+msgid "by"
+msgstr "от"
 
 msgid "by %1"
 msgstr "от %1"
@@ -3176,6 +3315,9 @@ msgstr "контроллер"
 
 msgid "max %1 characters"
 msgstr "максимум %1 символов"
+
+msgid "ok"
+msgstr "ок"
 
 msgid "per server"
 msgstr "на сервере"
@@ -3192,6 +3334,9 @@ msgstr "Да"
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|Вы можете отменить %1 матчей."
 
+msgid "|About race tracks|Resetting tracks playlist before starting..."
+msgstr "|About race tracks|Сбрасывание плейлиста трасс перед стартом..."
+
 msgid "|Action|Quick save"
 msgstr "|Action|Быстрое сохранение"
 
@@ -3201,8 +3346,14 @@ msgstr "|Alert window title|Предупреждение"
 msgid "|Author|By"
 msgstr "|Author|От"
 
+msgid "|Before the match starts|Pre-match warm-up"
+msgstr "|Before the match starts|Предматчевая разминка"
+
 msgid "|Best score|New"
 msgstr "|Best score|Новый"
+
+msgid "|Best score|Your record was successfully registered!"
+msgstr "|Best score|Ваш рекорд был успешно зарегистрирован!"
 
 msgid "|BlockCategory|Checkpoint"
 msgstr "|BlockCategory|Чекпоинты"
@@ -3273,6 +3424,9 @@ msgstr "|Blocks|Недавние"
 msgid "|Camera|Follow"
 msgstr "|Camera|Следящая"
 
+msgid "|Camera|Follow all"
+msgstr "|Camera|Следить за всеми"
+
 msgid "|Camera|Free"
 msgstr "|Camera|Свободная"
 
@@ -3285,8 +3439,14 @@ msgstr "|Campaign Map|Официальная"
 msgid "|Campaign|April %1"
 msgstr "|Campaign|Апрель %1"
 
+msgid "|Campaign|April %1 %2"
+msgstr "|Campaign|Апрель %1 %2"
+
 msgid "|Campaign|August %1"
 msgstr "|Campaign|Август %1"
+
+msgid "|Campaign|August %1 %2"
+msgstr "|Campaign|Август %1 %2"
 
 msgid "|Campaign|Club"
 msgstr "|Campaign|Клуб"
@@ -3294,23 +3454,44 @@ msgstr "|Campaign|Клуб"
 msgid "|Campaign|December %1"
 msgstr "|Campaign|Декабрь %1"
 
+msgid "|Campaign|December %1 %2"
+msgstr "|Campaign|Декабрь %1 %2"
+
 msgid "|Campaign|February %1"
 msgstr "|Campaign|Февраль %1"
+
+msgid "|Campaign|February %1 %2"
+msgstr "|Campaign|Февраль %1 %2"
 
 msgid "|Campaign|January %1"
 msgstr "|Campaign|Январь %1"
 
+msgid "|Campaign|January %1 %2"
+msgstr "|Campaign|Январь %1 %2"
+
 msgid "|Campaign|July %1"
 msgstr "|Campaign|Июль %1"
+
+msgid "|Campaign|July %1 %2"
+msgstr "|Campaign|Июль %1 %2"
 
 msgid "|Campaign|June %1"
 msgstr "|Campaign|Июнь %1"
 
+msgid "|Campaign|June %1 %2"
+msgstr "|Campaign|Июнь %1 %2"
+
 msgid "|Campaign|March %1"
 msgstr "|Campaign|Март %1"
 
+msgid "|Campaign|March %1 %2"
+msgstr "|Campaign|Март %1 %2"
+
 msgid "|Campaign|May %1"
 msgstr "|Campaign|Май %1"
+
+msgid "|Campaign|May %1 %2"
+msgstr "|Campaign|Май %1 %2"
 
 msgid "|Campaign|Monthly"
 msgstr "|Campaign|Ежемесячная"
@@ -3318,8 +3499,14 @@ msgstr "|Campaign|Ежемесячная"
 msgid "|Campaign|November %1"
 msgstr "|Campaign|Ноябрь %1"
 
+msgid "|Campaign|November %1 %2"
+msgstr "|Campaign|Ноябрь %1 %2"
+
 msgid "|Campaign|October %1"
 msgstr "|Campaign|Октябрь %1"
+
+msgid "|Campaign|October %1 %2"
+msgstr "|Campaign|Октябрь %1 %2"
 
 msgid "|Campaign|Official"
 msgstr "|Campaign|Официальная"
@@ -3335,6 +3522,9 @@ msgstr "|Campaign|Сезонная"
 
 msgid "|Campaign|September %1"
 msgstr "|Campaign|Сентябрь %1"
+
+msgid "|Campaign|September %1 %2"
+msgstr "|Campaign|Сентябрь %1 %2"
 
 msgid "|Campaign|Training"
 msgstr "|Campaign|Тренировка"
@@ -3422,9 +3612,6 @@ msgstr "|Club|Запрос"
 msgid "|Club|requests"
 msgstr "|Club|Запросы"
 
-msgid "|Competition|Coming Soon"
-msgstr "|Competition|Скоро"
-
 msgid "|DataType|Campaign"
 msgstr "|DataType|Кампания"
 
@@ -3460,6 +3647,12 @@ msgstr "|DataType|Скин"
 
 msgid "|DidNotFinish|DNF"
 msgstr "|DidNotFinish|НФ"
+
+msgid "|Displayed above a countdown|Ends in"
+msgstr "|Displayed above a countdown|Закончится через"
+
+msgid "|Displayed above a countdown|Starts in"
+msgstr "|Displayed above a countdown|Начнётся через"
 
 msgid "|Friday|F"
 msgstr "|Friday|П"
@@ -3538,18 +3731,6 @@ msgstr "|ImageType|Вертикаль"
 
 msgid "|Image|Background"
 msgstr "|Image|Фон"
-
-msgid "|Image|Decal sponsor 4X1"
-msgstr "|Image|Наклейка спонсора 4X1"
-
-msgid "|Image|Screen 16X1"
-msgstr "|Image|Экран 16X1"
-
-msgid "|Image|Screen 16x9"
-msgstr "|Image|Экран 16x9"
-
-msgid "|Image|Screen 8X1"
-msgstr "|Image|Экран 8X1"
 
 msgid "|Image|Vertical"
 msgstr "|Image|Вертикаль"
@@ -3713,8 +3894,8 @@ msgstr "|Landscape|Гора"
 msgid "|Landscape|Pillars"
 msgstr "|Landscape|Столбы"
 
-msgid "|League|Step %1"
-msgstr "|League|Ступень %1"
+msgid "|League|Map %1"
+msgstr "|League|Карта %1"
 
 msgid "|League|map %1/%2"
 msgstr "|League|карта %1/%2"
@@ -4171,15 +4352,6 @@ msgstr "|Status|В гонке"
 msgid "|Status|Winner"
 msgstr "|Status|Победитель"
 
-msgid "|Streamer|Channel"
-msgstr "|Streamer|Канал"
-
-msgid "|Streaming|Platform"
-msgstr "|Streaming|Платформа"
-
-msgid "|Subscription|Ends on"
-msgstr "|Subscription|Заканчивается"
-
 msgid "|Sunday|S"
 msgstr "|Sunday|В"
 
@@ -4197,6 +4369,9 @@ msgstr "Локально"
 
 msgid "|Tabs|Solo"
 msgstr "|Tabs|Соло"
+
+msgid "|The current map/track best scores|Map Records"
+msgstr "|The current map/track best scores|Рекорды карты"
 
 msgid "|Thursday|T"
 msgstr "|Thursday|Ч"
@@ -4231,6 +4406,9 @@ msgstr "|Warning|Внимание"
 msgid "|Wednesday|W"
 msgstr "|Wednesday|С"
 
+msgid "|When the match is over|Match completed"
+msgstr "|When the match is over|Матч завершён"
+
 msgid "|Window title - creating a new track|New track"
 msgstr "|Window title - creating a new track|Новая трасса"
 
@@ -4263,6 +4441,9 @@ msgstr "|Zone|Южная Америка"
 
 msgid "|Zone|World"
 msgstr "|Zone|Мир"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|Начнётся через %1с"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|мин"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-25 01:03+0000\n"
+"PO-Revision-Date: 2020-09-04 09:20+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -1084,9 +1084,6 @@ msgstr "Automático (sudoeste)"
 msgid "Automatic Minimum Fps"
 msgstr "FPS mínimo automático"
 
-msgid "Automatically log me in at launch"
-msgstr "Fazer Log-In automaticamente ao iniciar"
-
 msgid "Automatically save all replays"
 msgstr "Salvar automaticamente todos os replays"
 
@@ -1427,9 +1424,6 @@ msgstr "Mudar localização"
 
 msgid "Change map"
 msgstr "Alterar mapa"
-
-msgid "Change password"
-msgstr "Mudar senha"
 
 msgid "Change sort order"
 msgstr "Alterar ordem de classificação"
@@ -2053,13 +2047,6 @@ msgstr "Não foi possível validar o replay para $<%1$>'"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Não foi possível validar!\n"
-"não há senha de eventos disponíveis..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Não foi possível validar!\n"
@@ -2415,9 +2402,6 @@ msgstr "Descartar alterações"
 
 msgid "Disconnect Account"
 msgstr "Desconectar conta"
-
-msgid "Disconnect local account"
-msgstr "Desconectar conta local"
 
 msgid "Disconnected from server"
 msgstr "Desconectado do servidor"
@@ -2876,9 +2860,6 @@ msgstr "Ativar uma nova linha automaticamente"
 msgid "Enable chat"
 msgstr "Ativar bate-papo"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Ativar bate-papo em servidores com múltiplos jogadores"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Ativar a ativação de gatilhos de script com o mouse"
 
@@ -2964,6 +2945,9 @@ msgstr "Insira o código de verificação"
 
 msgid "Enter your friend's email"
 msgstr "Digite o-mail do seu amigo"
+
+msgid "Enter your key"
+msgstr "Introduza a sua senha"
 
 msgid "Enter your name:"
 msgstr "Introduza seu nome:"
@@ -3892,6 +3876,9 @@ msgstr "Manter alterações"
 
 msgid "Keep last block of the track active"
 msgstr "Mantenha o último bloco da faixa ativo"
+
+msgid "Key"
+msgstr "Senha"
 
 msgid "Key 1"
 msgstr "Tecla 1"
@@ -5137,6 +5124,9 @@ msgstr "Controles do jogador"
 msgid "Player Page"
 msgstr "Página do jogador"
 
+msgid "Player State Component"
+msgstr "Componente de Estado do Jogador"
+
 msgid "Player already selected!"
 msgstr "Jogador já selecionado!"
 
@@ -5198,7 +5188,7 @@ msgid "Please choose a location and a name for a new item file."
 msgstr "Escolha um local e um nome para um novo arquivo de item."
 
 msgid "Please close the game and launcher to proceed."
-msgstr "Por favor, feche o jogo e retorne novamente para prosseguir."
+msgstr "Por favor, feche o jogo e o launcher para prosseguir."
 
 msgid "Please enter a key or pay to gain access to this data."
 msgstr "Favor inserir uma chave ou pagar para ter acesso a estes dados."
@@ -6569,9 +6559,6 @@ msgstr "Mostrar parâmetros avançados"
 msgid "Show avatars"
 msgstr "Mostrar avatars"
 
-msgid "Show avatars of other players"
-msgstr "Mostrar avatares de outros jogadores"
-
 msgid "Show helpers"
 msgstr "Mostrar as ajudas"
 
@@ -7197,7 +7184,7 @@ msgstr ""
 "o seu limite."
 
 msgid "The map has been modified and is now unvalidated."
-msgstr "O mapa foi modificado e é agora está invalidado."
+msgstr "O mapa foi modificado e agora está invalidado."
 
 msgid ""
 "The map has been modified.\n"
@@ -8197,15 +8184,6 @@ msgstr "Validando $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Validando..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Validação de replays gravadas no modo\n"
-"%1\n"
-"não implementada. "
-
 msgid "Variables"
 msgstr "Variáveis"
 
@@ -8279,6 +8257,9 @@ msgstr "Visualizar toda a linha do tempo"
 
 msgid "Virtual Reality"
 msgstr "Realidade Virtual"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Visível por outros jogadores"
@@ -11204,9 +11185,6 @@ msgstr "Modo de seleção em caixa"
 msgid "|MeshModeler|Centered"
 msgstr "Centralizado"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "Geometria colidível"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Copiar seleção [CTRL+C]"
 
@@ -11652,7 +11630,7 @@ msgid "|Modeler3D Layer Name|Subdivide"
 msgstr "|Modeler3D Layer Name|Subdividir"
 
 msgid "|Modeler3D Layer Name|Translation"
-msgstr "Tradução"
+msgstr "|Modeler3D Layer Name|Translação"
 
 msgid "|Modeler3D Layer Name|Trigger"
 msgstr "Gatilho"
@@ -12299,6 +12277,15 @@ msgstr "|SpectatorCam|Manual"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Repetir"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Always"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Tempo de edição"

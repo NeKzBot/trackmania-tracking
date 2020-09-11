@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-07-08 11:38+0000\n"
+"PO-Revision-Date: 2020-09-04 17:07+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -845,6 +845,9 @@ msgstr "Alt + Klick auf Zeitachse"
 msgid "Always"
 msgstr "Immer"
 
+msgid "Always display records"
+msgstr "Rekorde immer anzeigen"
+
 msgid "Ambiance"
 msgstr "Stimmung"
 
@@ -1095,9 +1098,6 @@ msgstr "Automatisch (Südwest)"
 
 msgid "Automatic Minimum Fps"
 msgstr "Automatisch Minimale FPS"
-
-msgid "Automatically log me in at launch"
-msgstr "Beim Start automatisch einloggen"
 
 msgid "Automatically save all replays"
 msgstr "Automatisch alle Replays speichern"
@@ -1441,9 +1441,6 @@ msgstr "Standort ändern"
 
 msgid "Change map"
 msgstr "Strecke wechseln"
-
-msgid "Change password"
-msgstr "Passwort ändern"
 
 msgid "Change sort order"
 msgstr "Sortierreihenfolge ändern"
@@ -2069,13 +2066,6 @@ msgstr "Replay von $<%1$> konnte nicht validiert werden"
 
 msgid ""
 "Could not validate!\n"
-" no key events available..."
-msgstr ""
-"Validierung nicht möglich!\n"
-"Keine Tastatureingaben..."
-
-msgid ""
-"Could not validate!\n"
 "Wrong simulation"
 msgstr ""
 "Validierung nicht möglich!\n"
@@ -2306,6 +2296,9 @@ msgstr "Standard-Hupen"
 msgid "Default image"
 msgstr "Standardbild"
 
+msgid "Default opponents visibility"
+msgstr "Standard-Gegner-Sichtbarkeit"
+
 msgid "Default sound"
 msgstr "Standardsound"
 
@@ -2430,9 +2423,6 @@ msgstr "Änderungen verwerfen"
 
 msgid "Disconnect Account"
 msgstr "Konto trennen"
-
-msgid "Disconnect local account"
-msgstr "Lokales Konto trennen"
 
 msgid "Disconnected from server"
 msgstr "Vom Server getrennt"
@@ -2896,9 +2886,6 @@ msgstr "Automatischen Zeilenumbruch aktivieren"
 msgid "Enable chat"
 msgstr "Chat aktivieren"
 
-msgid "Enable chat on multiplayer servers"
-msgstr "Chat auf Multiplayer-Servern aktivieren"
-
 msgid "Enable mouse trigerring of script events"
 msgstr "Maus-Auslösung von Script-Events aktivieren"
 
@@ -2988,6 +2975,9 @@ msgstr "Verifizierungscode eingeben"
 
 msgid "Enter your friend's email"
 msgstr "E-Mail-Adresse des Freundes eingeben"
+
+msgid "Enter your key"
+msgstr "Schlüssel eingeben"
 
 msgid "Enter your name:"
 msgstr "Namen eingeben:"
@@ -3928,6 +3918,9 @@ msgstr "Änderungen behalten"
 
 msgid "Keep last block of the track active"
 msgstr "Letzten Block der Spur aktiv lassen"
+
+msgid "Key"
+msgstr "Schlüssel"
 
 msgid "Key 1"
 msgstr "Taste 1"
@@ -5188,6 +5181,9 @@ msgstr "Spielereingaben"
 msgid "Player Page"
 msgstr "Player Page"
 
+msgid "Player State Component"
+msgstr "Spielerzustand-Komponente"
+
 msgid "Player already selected!"
 msgstr "Spieler bereits gewählt!"
 
@@ -5607,6 +5603,9 @@ msgstr "Bereit"
 
 msgid "Ready (F6)"
 msgstr "Bereit (F6)"
+
+msgid "Real name and ID card information have been successfully validated."
+msgstr "Echter Name und Personal-ID wurden erfolgreich validiert."
 
 msgid "Really balance teams?"
 msgstr "Teams wirklich ausgleichen?"
@@ -6634,9 +6633,6 @@ msgstr "Erweiterte Parameter anzeigen"
 msgid "Show avatars"
 msgstr "Avatare anzeigen"
 
-msgid "Show avatars of other players"
-msgstr "Avatare anderer Spieler anzeigen"
-
 msgid "Show helpers"
 msgstr "Raster einblenden"
 
@@ -6773,6 +6769,9 @@ msgstr "Zuschauen"
 
 msgid "Spectator"
 msgstr "Zuschauer"
+
+msgid "Spectators placement computed"
+msgstr "Zuschauer-Platzierung berechnet"
 
 msgid "Speed"
 msgstr "Geschwindigkeit"
@@ -8289,15 +8288,6 @@ msgstr "Prüfe $<%1$> (%2)..."
 msgid "Validating ..."
 msgstr "Validierung ..."
 
-msgid ""
-"Validation of replays recorded in mode\n"
-" %1\n"
-"not implemented."
-msgstr ""
-"Überprüfung von Replays im Modus\n"
-" %1\n"
-"wird nicht unterstützt."
-
 msgid "Variables"
 msgstr "Variablen"
 
@@ -8371,6 +8361,9 @@ msgstr "Die gesamte Zeitleiste anzeigen"
 
 msgid "Virtual Reality"
 msgstr "Virtuelle Realität"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibility of roadside spectators"
 
 msgid "Visible by other players"
 msgstr "Von anderen Spielern einzusehen"
@@ -10606,6 +10599,9 @@ msgstr "|Input|Replay speichern"
 msgid "|Input|Save screenshot"
 msgstr "|Input|Bildschirmfoto speichern"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|Sekundärer Respawn"
+
 msgid "|Input|Shoot"
 msgstr "|Input|Schießen"
 
@@ -11342,9 +11338,6 @@ msgstr "|MeshModeler|Box-Auswahlmodus"
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Zentriert"
 
-msgid "|MeshModeler|Collidable geometry"
-msgstr "|MeshModeler|Kollidierbare Geometrie"
-
 msgid "|MeshModeler|Copy selection [Ctrl+C]"
 msgstr "|MeshModeler|Auswahl kopieren [Strg+C]"
 
@@ -12017,6 +12010,12 @@ msgstr "|PlayerStateComponent|Waffenanzeige"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|Waffenliste"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|Versteckt"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|Intern"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Undurchsichtig"
 
@@ -12233,6 +12232,9 @@ msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Skin exportieren"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor (leaves the editor)|Verlassen"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12445,6 +12447,12 @@ msgstr "|SpectatorCam|Manuell"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Never"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|When spectating"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Editor-Zeit"
