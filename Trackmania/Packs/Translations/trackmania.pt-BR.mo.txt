@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-11 09:19+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -334,9 +334,6 @@ msgstr "Tudo feito aqui, obrigado por jogar!"
 
 msgid "All events"
 msgstr "Todos os Eventos"
-
-msgid "All fields must be completed"
-msgstr "Todos os campos devem ser preenchidos"
 
 msgid "Allies"
 msgstr "Aliados"
@@ -700,9 +697,6 @@ msgstr "Clique em um jogador para defini-lo como aliado."
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Clique nos módulos da U.I para editar suas propriedades"
-
-msgid "Click to see %1 results"
-msgstr "Clique para ver os resultados de %1"
 
 msgid "Close"
 msgstr "Fechar"
@@ -1928,9 +1922,6 @@ msgstr "Configurações de partida"
 msgid "Match starting"
 msgstr "Partida começando"
 
-msgid "Matches are currently unavailable, check back later!"
-msgstr "Partidas não disponíveis no momento, volte mais tarde!"
-
 msgid "Matchmaking canceled : no server available"
 msgstr "Matchmaking cancelado : nenhum servidor disponível"
 
@@ -2411,9 +2402,6 @@ msgstr "Jogadores por partida"
 
 msgid "Please reconnect the %1"
 msgstr "Por favor, reconecte o %1"
-
-msgid "Please select your %1"
-msgstr "Por favor, escolha seu"
 
 msgid ""
 "Please stay in the channel until the Knockout begins. You will be "
@@ -3398,9 +3386,6 @@ msgstr "O nome do clube tem no mínimo %1 e no máximo %2 caracteres"
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "A tag do clube tem no mínimo %1 e no máximo %2 caracteres"
 
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "A criação da competição falhou (Código de erro: %1)"
-
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
 msgstr "A decoração será removida e você terá que validar a pista novamente."
@@ -3509,13 +3494,6 @@ msgid ""
 msgstr ""
 "Ocorreu um erro ao obter os resultados da partida, por favor tente novamente "
 "mais tarde. (Erro: a tarefa não está mais disponível)"
-
-msgid ""
-"There was an error while gathering the rankings, please try again later. "
-"(Error code: %1)"
-msgstr ""
-"Ocorreu um erro ao coletar os rankings, por favor tente novamente mais "
-"tarde. (Código de erro:% 1)"
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
@@ -4231,9 +4209,6 @@ msgstr "acesso Starter"
 
 msgid "support %1: \"go %2\" in chat"
 msgstr "apoiar %1: \"go %2\" no chat"
-
-msgid "yes"
-msgstr "sim"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|Você pode cancelar %1 partidas."

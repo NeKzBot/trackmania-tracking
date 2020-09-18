@@ -114,7 +114,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2216  2020-09-10 09:17   Effects/Media/Text/VHLSL/Stem.VHlsl.Txt.GpuCache.Gbx
     39789  2020-09-10 09:11   Effects/Particles/MgrParticleRender_p.hlsl.GpuCache.Gbx
     60768  2020-09-03 11:50   Effects/Particles/MgrParticleRender_v.hlsl.GpuCache.Gbx
-     8730  2020-09-10 09:11   Effects/Particles/MgrParticleRenderOpaques_p.hlsl.GpuCache.Gbx
+     8730  2020-09-16 16:39   Effects/Particles/MgrParticleRenderOpaques_p.hlsl.GpuCache.Gbx
      3413  2020-09-03 11:50   Effects/Particles/MgrParticleRenderOpaques_v.hlsl.GpuCache.Gbx
      3382  2020-09-10 09:11   Effects/Particles/MgrParticleRenderStatic_p.hlsl.GpuCache.Gbx
      3673  2020-08-28 18:10   Effects/Particles/MgrParticleRenderStatic_v.hlsl.GpuCache.Gbx
@@ -528,11 +528,11 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      3929  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PyDNS_X2H2_v.hlsl.GpuCache.Gbx
      8096  2020-09-10 11:17   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_p.hlsl.GpuCache.Gbx
      3378  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_v.hlsl.GpuCache.Gbx
-    62834  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_CIn_p.hlsl.GpuCache.Gbx
+    57914  2020-09-16 16:39   Tech3/Block_DefReadP1_COut_CIn_p.hlsl.GpuCache.Gbx
    156860  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_DispIn_p.hlsl.GpuCache.Gbx
    351410  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
      8496  2020-09-03 11:50   Tech3/Block_DefReadP1_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
-    77139  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_p.hlsl.GpuCache.Gbx
+    79142  2020-09-16 16:39   Tech3/Block_DefReadP1_COut_p.hlsl.GpuCache.Gbx
      9106  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPxz_v.hlsl.GpuCache.Gbx
      9211  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPy_v.hlsl.GpuCache.Gbx
      6685  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPyPxz_v.hlsl.GpuCache.Gbx
@@ -548,7 +548,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      8618  2020-09-03 11:50   Tech3/Block_DefReadP1_LM2_TgtFixed_v.hlsl.GpuCache.Gbx
     72339  2020-09-10 09:11   Tech3/Block_DefReadP1_p.hlsl.GpuCache.Gbx
     55541  2020-09-10 11:17   Tech3/Block_DefReadP1_PyPxz_p.hlsl.GpuCache.Gbx
-    70918  2020-09-10 09:12   Tech3/Block_DefReadP1_SI_COut_p.hlsl.GpuCache.Gbx
+    63839  2020-09-16 16:40   Tech3/Block_DefReadP1_SI_COut_p.hlsl.GpuCache.Gbx
     61791  2020-09-10 09:12   Tech3/Block_DefReadP1_SI_p.hlsl.GpuCache.Gbx
     58107  2020-09-10 09:12   Tech3/Block_Ice_p.hlsl.GpuCache.Gbx
      4099  2020-09-03 11:50   Tech3/Block_Ice_v.hlsl.GpuCache.Gbx
@@ -595,12 +595,12 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
     12359  2020-09-03 11:50   Tech3/Block_PyDSNX2_v.hlsl.GpuCache.Gbx
     82700  2020-09-10 11:17   Tech3/Block_PyPxz_Blend2_p.hlsl.GpuCache.Gbx
      4019  2020-09-03 11:51   Tech3/Block_PyPxz_Blend2_v.hlsl.GpuCache.Gbx
-    72545  2020-09-10 09:13   Tech3/Block_PyPxz_ids_DefWrite_p.hlsl.GpuCache.Gbx
-    45879  2020-09-03 11:51   Tech3/Block_PyPxz_ids_DefWrite_v.hlsl.GpuCache.Gbx
-   479345  2020-09-10 09:13   Tech3/Block_PyPxz_ids_p.hlsl.GpuCache.Gbx
-    16572  2020-09-10 09:13   Tech3/Block_PyPxz_ids_PeelDiff_p.hlsl.GpuCache.Gbx
-    14061  2020-09-03 11:51   Tech3/Block_PyPxz_ids_PeelDiff_v.hlsl.GpuCache.Gbx
-    68792  2020-09-03 11:51   Tech3/Block_PyPxz_ids_v.hlsl.GpuCache.Gbx
+    71717  2020-09-16 16:40   Tech3/Block_PyPxz_ids_DefWrite_p.hlsl.GpuCache.Gbx
+    28274  2020-09-16 16:40   Tech3/Block_PyPxz_ids_DefWrite_v.hlsl.GpuCache.Gbx
+   472356  2020-09-16 16:40   Tech3/Block_PyPxz_ids_p.hlsl.GpuCache.Gbx
+    18961  2020-09-16 16:40   Tech3/Block_PyPxz_ids_PeelDiff_p.hlsl.GpuCache.Gbx
+    13894  2020-09-16 16:40   Tech3/Block_PyPxz_ids_PeelDiff_v.hlsl.GpuCache.Gbx
+    38866  2020-09-16 16:40   Tech3/Block_PyPxz_ids_v.hlsl.GpuCache.Gbx
     41413  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_DefWrite_Hue_p.hlsl.GpuCache.Gbx
     39821  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
      3743  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_DefWrite_v.hlsl.GpuCache.Gbx
@@ -617,7 +617,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      6226  2020-09-10 11:17   Tech3/Block_PyPxzT_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
      2082  2020-09-03 11:51   Tech3/Block_PyPxzT_X2H2_PeelDiff_v.hlsl.GpuCache.Gbx
     15657  2020-09-03 11:51   Tech3/Block_PyPxzT_X2H2_v.hlsl.GpuCache.Gbx
-    89205  2020-09-10 09:12   Tech3/Block_PyPxzTLayered_DefRead_p.hlsl.GpuCache.Gbx
+    86892  2020-09-16 16:40   Tech3/Block_PyPxzTLayered_DefRead_p.hlsl.GpuCache.Gbx
     21055  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_DefRead_v.hlsl.GpuCache.Gbx
     13536  2020-09-10 11:17   Tech3/Block_PyPxzTLayered_DefWrite_p.hlsl.GpuCache.Gbx
      6357  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_DefWrite_v.hlsl.GpuCache.Gbx
@@ -647,16 +647,16 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2938  2020-09-03 11:51   Tech3/Block_TDSN_Anim_v.hlsl.GpuCache.Gbx
      5071  2020-09-10 09:13   Tech3/Block_TDSN_COut_CIn_DefWrite_p.hlsl.GpuCache.Gbx
     11230  2020-09-03 11:51   Tech3/Block_TDSN_COut_CIn_DefWrite_v.hlsl.GpuCache.Gbx
-    90354  2020-09-10 09:13   Tech3/Block_TDSN_COut_CIn_p.hlsl.GpuCache.Gbx
+    92498  2020-09-16 16:40   Tech3/Block_TDSN_COut_CIn_p.hlsl.GpuCache.Gbx
     48868  2020-09-03 11:51   Tech3/Block_TDSN_COut_CIn_v.hlsl.GpuCache.Gbx
-    38983  2020-09-10 09:13   Tech3/Block_TDSN_COut_DecalMod_p.hlsl.GpuCache.Gbx
+    35686  2020-09-16 16:40   Tech3/Block_TDSN_COut_DecalMod_p.hlsl.GpuCache.Gbx
      4608  2020-09-10 09:13   Tech3/Block_TDSN_COut_DispIn_DefWrite_p.hlsl.GpuCache.Gbx
     11316  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_DefWrite_v.hlsl.GpuCache.Gbx
    354697  2020-09-10 09:13   Tech3/Block_TDSN_COut_DispIn_p.hlsl.GpuCache.Gbx
    491927  2020-09-10 09:14   Tech3/Block_TDSN_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
     37792  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
     35012  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_v.hlsl.GpuCache.Gbx
-   399608  2020-09-10 09:14   Tech3/Block_TDSN_COut_p.hlsl.GpuCache.Gbx
+   412063  2020-09-16 16:40   Tech3/Block_TDSN_COut_p.hlsl.GpuCache.Gbx
     20565  2020-09-03 18:05   Tech3/Block_TDSN_COut_v.hlsl.GpuCache.Gbx
      6550  2020-09-10 09:14   Tech3/Block_TDSN_DecalMod_DefWrite_p.hlsl.GpuCache.Gbx
      8010  2020-09-03 18:06   Tech3/Block_TDSN_DecalMod_DefWrite_v.hlsl.GpuCache.Gbx
@@ -668,10 +668,10 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1273  2020-09-03 11:51   Tech3/Block_TDSN_PeelDiff_LM2_v.hlsl.GpuCache.Gbx
      4058  2020-09-10 09:14   Tech3/Block_TDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1233  2020-09-03 11:51   Tech3/Block_TDSN_PeelDiff_v.hlsl.GpuCache.Gbx
-    98261  2020-09-10 09:14   Tech3/Block_TDSN_TI_COut_p.hlsl.GpuCache.Gbx
+    99453  2020-09-16 16:40   Tech3/Block_TDSN_TI_COut_p.hlsl.GpuCache.Gbx
      7712  2020-09-03 11:51   Tech3/Block_TDSN_TI_COut_v.hlsl.GpuCache.Gbx
     12620  2020-09-03 11:51   Tech3/Block_TDSN_v.hlsl.GpuCache.Gbx
-   100925  2020-09-10 09:13   Tech3/Block_TDSNI_COut_p.hlsl.GpuCache.Gbx
+    98114  2020-09-16 16:40   Tech3/Block_TDSNI_COut_p.hlsl.GpuCache.Gbx
      4128  2020-09-10 09:13   Tech3/Block_TDSNOp_PeelDiff_p.hlsl.GpuCache.Gbx
      4936  2020-09-03 11:51   Tech3/Block_TreeSprite_Anim_v.hlsl.GpuCache.Gbx
     10943  2020-09-10 09:14   Tech3/Block_TreeSprite_DefRead_p.hlsl.GpuCache.Gbx
@@ -1099,7 +1099,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      3959  2020-09-10 09:17   Voxel/VQuad_DefWrite_p.hlsl.GpuCache.Gbx
      3155  2020-09-03 11:52   Voxel/VQuad_DefWrite_v.hlsl.GpuCache.Gbx
      2702  2020-08-28 18:18   Voxel/VQuad_LDelta_BBoxUnion_c.hlsl.GpuCache.Gbx
-    10274  2020-09-10 09:17   Voxel/VQuad_Light_CubeIn_p.hlsl.GpuCache.Gbx
+    12841  2020-09-16 16:40   Voxel/VQuad_Light_CubeIn_p.hlsl.GpuCache.Gbx
      4438  2020-09-03 11:52   Voxel/VQuad_Light_CubeIn_v.hlsl.GpuCache.Gbx
       775  2020-08-28 18:18   Voxel/VQuad_Light_FakeWithClose_c.hlsl.GpuCache.Gbx
      2382  2020-08-28 18:18   Voxel/VQuad_Light_Remap_AfterCpt_c.hlsl.GpuCache.Gbx
@@ -1118,11 +1118,11 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      8002  2020-08-28 18:18   Voxel/VQuad_LmBlend_IndexFromQuadId_c.hlsl.GpuCache.Gbx
      1897  2020-08-28 18:18   Voxel/VQuad_LmBlend_MinLatency_c.hlsl.GpuCache.Gbx
       924  2020-08-28 18:18   Voxel/VQuad_LmBlend_ShowLatency_c.hlsl.GpuCache.Gbx
-    27838  2020-09-10 09:17   Voxel/VQuad_p.hlsl.GpuCache.Gbx
+    28357  2020-09-16 16:40   Voxel/VQuad_p.hlsl.GpuCache.Gbx
      2757  2020-08-28 18:18   Voxel/VQuad_SetLinks_QuadId_c.hlsl.GpuCache.Gbx
      1909  2020-08-28 18:18   Voxel/VQuad_SetQuadId_InVolume_c.hlsl.GpuCache.Gbx
      4480  2020-09-03 11:52   Voxel/VQuad_v.hlsl.GpuCache.Gbx
-     8924  2020-09-10 09:17   Voxel/VQuadWater_p.hlsl.GpuCache.Gbx
+     8924  2020-09-16 16:40   Voxel/VQuadWater_p.hlsl.GpuCache.Gbx
      4369  2020-09-03 11:52   Voxel/VQuadWater_v.hlsl.GpuCache.Gbx
      1338  2020-08-28 18:18   WorldDistortion/BlurAlphaUp_c.hlsl.GpuCache.Gbx
       787  2020-08-31 18:04   WorldDistortion/CombineDistortionBlocksAndWorld_p.hlsl.GpuCache.Gbx
@@ -1144,6 +1144,6 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2746  2020-08-28 18:18   WorldDistortion/SumDistortionBlocks_c.hlsl.GpuCache.Gbx
      3272  2020-08-28 18:18   WorldDistortion/WordlDistortion_PropagateRigidity_c.hlsl.GpuCache.Gbx
      3325  2020-08-28 18:18   WorldDistortion/WorldDistortion_ApplyRigidity_c.hlsl.GpuCache.Gbx
-       38  2020-09-10 13:21   SourceVersionInfo.txt
+       38  2020-09-16 18:44   SourceVersionInfo.txt
 ---------                     -------
- 15530740                     1144 files
+ 15478074                     1144 files

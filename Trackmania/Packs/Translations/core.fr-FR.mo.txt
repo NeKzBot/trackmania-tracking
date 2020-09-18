@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 08:24+0000\n"
+"PO-Revision-Date: 2020-09-11 18:28+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -8327,6 +8327,9 @@ msgstr "Voir toute la chronologie"
 msgid "Virtual Reality"
 msgstr "Réalité virtuelle"
 
+msgid "Visibility of roadside spectators"
+msgstr "Visibilité des spectateurs au bord de la route"
+
 msgid "Visible by other players"
 msgstr "Visible par les joueurs"
 
@@ -12372,6 +12375,15 @@ msgstr "Manuelle"
 
 msgid "|SpectatorCam|Replay"
 msgstr "Replay"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "Toujours"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "Jamais"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "En regardant"
 
 msgid "|Stats|Editing time"
 msgstr "Temps d'édition"

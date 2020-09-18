@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-11 09:19+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -174,13 +174,13 @@ msgstr ""
 "başardığında kupa modu sona erer."
 
 msgid "%1 Will lose %3 of points %2"
-msgstr "%1 Puanını %3 oranında kaybedecek %2"
+msgstr "%1 PUANLARINI %3 ORANINDA KAYBEDECEK %2"
 
 msgid "%1 Will lose all points %2"
-msgstr "%1 Puanının tamamını kaybedecek %2"
+msgstr "%1 PUANLARININ TAMAMINI KAYBEDECEK %2"
 
 msgid "%1 Will lose half of their points %2"
-msgstr "%1 Puanının yarısını kaybedecek %2"
+msgstr "%1 PUANLARININ YARISINI KAYBEDECEK %2"
 
 msgid "%1 is not a Stadium map"
 msgstr "%1 Stadyum haritası değil"
@@ -216,7 +216,7 @@ msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$> maça yedek olarak katıldı."
 
 msgid "%1$<%2$> wins step %3"
-msgstr "%1$<%2$> %3. adımı kazandı"
+msgstr "%1$<%2$> %3. basamağı kazandı"
 
 msgid "%1$<%2$> wins the match!"
 msgstr "%1$<%2$> maçı kazandı!"
@@ -341,9 +341,6 @@ msgstr "Burası tamam, oynadığınız için teşekkürler!"
 msgid "All events"
 msgstr "Tüm etkinlikler"
 
-msgid "All fields must be completed"
-msgstr "Tüm alanlar doldurulmalıdır"
-
 msgid "Allies"
 msgstr "Müttefikler"
 
@@ -368,11 +365,20 @@ msgstr "Bu arazi üzerinde yapılan tüm değişiklikler silinecek."
 msgid "Any unsaved modification done on this track will be lost."
 msgstr "Bu pist üzerinde yapılan kaydedilmeyen değişiklikler silinecek."
 
+msgid "Applied"
+msgstr "Uygulandı"
+
 msgid "Apply"
 msgstr "Uygula"
 
+msgid "Apply a skin"
+msgstr "Bir dış görünüm uygula"
+
 msgid "Apply skin"
 msgstr "Dış görünüm uygula"
+
+msgid "Applying skin..."
+msgstr "Dış görünüm uygulanıyor..."
 
 msgid "Arcade"
 msgstr "Arcade"
@@ -493,7 +499,7 @@ msgid "Be in the top %1"
 msgstr "İlk %1 içine gir"
 
 msgid "Best lap"
-msgstr "En iyi tur"
+msgstr "EN İYİ TUR"
 
 msgid "Best time :"
 msgstr "En iyi süre :"
@@ -678,6 +684,9 @@ msgstr "İsteği iptal et"
 msgid "Category"
 msgstr "Kategori"
 
+msgid "Challenger"
+msgstr "Meydan Okuyan"
+
 msgid "Champion mode"
 msgstr "Şampiyon modu"
 
@@ -741,14 +750,17 @@ msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
 msgid "Click on the UI modules to edit their properties"
 msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
 
-msgid "Click to see %1 results"
-msgstr "%1 sonuçlarını görmek için tıklayın"
+msgid "Click to see $<%1$> results"
+msgstr "$<%1$> sonuçlarını görmek için tıklayın"
 
 msgid "Close"
 msgstr "Kapat"
 
 msgid "Club"
 msgstr "Kulüp"
+
+msgid "Club access required to register for this competition"
+msgstr "Bu karşılaşmaya kaydolmak için kulüp erişimi gerekiyor"
 
 msgid "Club campaigns"
 msgstr "KULÜP CAMPAIGN'LERİ"
@@ -809,6 +821,9 @@ msgstr "Konsept"
 
 msgid "Confirm"
 msgstr "Onayla"
+
+msgid "Confirm skin selection"
+msgstr "Dış görünüm seçimini onayla"
 
 msgid "Confirm your choice"
 msgstr "Seçiminizi onaylayın"
@@ -909,6 +924,9 @@ msgstr "Kulüp odası kuruluyor..."
 
 msgid "Creating club..."
 msgstr "Kulüp kuruluyor..."
+
+msgid "Creation failed, information missing"
+msgstr "Oluşturulamadı, boş alanlar mevcut"
 
 msgid "Credits"
 msgstr "EMEĞİ GEÇENLER"
@@ -1033,6 +1051,9 @@ msgstr "'%1' türündeki resim silinemedi. Lütfen tekrar deneyin. (Hata %2)"
 
 msgid "Description"
 msgstr "Açıklama"
+
+msgid "Description can't be empty"
+msgstr "Açıklama boş bırakılamaz"
 
 msgid "Did you like this map?"
 msgstr "BU HARİTAYI BEĞENDİNİZ Mİ?"
@@ -1334,20 +1355,18 @@ msgid "Error while loading the event. Please try again. (Error code: %1)"
 msgstr ""
 "Etkinlik yüklenirken hata oluştu. Lütfen tekrar deneyin. (Hata kodu: %1)"
 
-msgid "Error while loading the leaderboard, please try again (Error code : %1"
-msgstr ""
-"Lider tablosu yüklenirken hata oluştu, lütfen tekrar deneyin (Hata kodu : %1)"
-
 msgid ""
-"Error while loading the leaderboard. Please try again later. (Error code: %1)"
+"Error while loading the leaderboard, please try again later. (Error code: %1)"
 msgstr ""
-"Lider tablosu yüklenirken hata oluştu. Lütfen daha sonra tekrar deneyin. "
+"Lider tablosu yüklenirken hata oluştu, lütfen daha sonra tekrar deneyin. "
 "(Hata kodu: %1)"
 
 msgid ""
-"Error while loading the match results, please try again (Error code : %1"
+"Error while loading the match results, please try again later. (Error code: "
+"%1)"
 msgstr ""
-"Maç sonuçları yüklenirken hata oluştu, lütfen tekrar deneyin (Hata kodu : %1)"
+"Maç sonuçları yüklenirken hata oluştu, lütfen daha sonra tekrar deneyin. "
+"(Hata kodu: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
@@ -1812,7 +1831,7 @@ msgid "League match divisions"
 msgstr "Lig maçı sınıfları"
 
 msgid "League ranking"
-msgstr "Lig sıralaması"
+msgstr "LİG SIRALAMASI"
 
 msgid "Learn more about the Club Edition"
 msgstr "Kulüp Sürümü hakkında daha fazla bilgi edinin"
@@ -1833,7 +1852,7 @@ msgid "Link copied!"
 msgstr "Link kopyalandı!"
 
 msgid "Live Ranking"
-msgstr "Canlı Sıralama"
+msgstr "CANLI SIRALAMA"
 
 msgid "Live ranking"
 msgstr "CANLI SIRALAMA"
@@ -1967,17 +1986,17 @@ msgstr "Harita %1/%2"
 
 msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3"
 msgstr ""
-"Harita %1/%2 - Sıralamada 1. ile %3. konum arasında kalarak puanlarınızı "
-"koruyun"
+"HARİTA %1/%2 - SIRALAMADA 1. İLE %3. KONUM ARASINDA KALARAK PUANLARINIZI "
+"KORUYUN"
 
 msgid "Map %1/%2 - Warm up"
-msgstr "Harita %1/%2 - Isınma"
+msgstr "HARİTA %1/%2 - ISINMA"
 
 msgid ""
 "Map %1/%2 - Win points by finishing the race or by scoring the best lap time."
 msgstr ""
-"Harita %1/%2 - Yarışı tamamlayarak veya en iyi tur süresini elde ederek puan "
-"kazanın"
+"HARİTA %1/%2 - YARIŞI TAMAMLAYARAK VEYA EN İYİ TUR SÜRESİNİ ELDE EDEREK PUAN "
+"KAZANIN"
 
 msgid "Map '%1' could not be uploaded. Please try again. (Error: %2)"
 msgstr "'%1' haritası karşıya yüklenemedi. Lütfen tekrar deneyin. (Hata: %2)"
@@ -2052,7 +2071,7 @@ msgid "Match over. You will be transferred back."
 msgstr "Maç sona erdi. Geri gönderiliyorsunuz."
 
 msgid "Match paused"
-msgstr "Maç duraklatıldı"
+msgstr "MAÇ DURAKLATILDI"
 
 msgid "Match results currently not available, check back later!"
 msgstr "Maç sonuçları şu an mevcut değil, daha sonra tekrar kontrol edin!"
@@ -2062,9 +2081,6 @@ msgstr "MAÇ AYARLARI"
 
 msgid "Match starting"
 msgstr "Maç başlıyor"
-
-msgid "Matches are currently unavailable, check back later!"
-msgstr "Maçlar şu an mevcut değil, daha sonra tekrar kontrol edin!"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "Eşleştirme iptal edildi : mevcut sunucu yok"
@@ -2156,6 +2172,9 @@ msgstr "NCSA MÜŞTERİ DESTEK EKİBİ"
 msgid "Name"
 msgstr "İSİM"
 
+msgid "Name can't be empty"
+msgstr "İsim boş bırakılamaz"
+
 msgid "New author time"
 msgstr "YENİ YAPIMCI SÜRESİ"
 
@@ -2175,10 +2194,10 @@ msgid "New season in %1"
 msgstr "YENİ SEZON: %1 İÇİNDE"
 
 msgid "New season in %1 day"
-msgstr "Yeni sezon %1 gün içinde"
+msgstr "YENİ SEZON: %1 GÜN İÇİNDE"
 
 msgid "New season in %1 days"
-msgstr "Yeni sezon %1 gün içinde"
+msgstr "YENİ SEZON: %1 GÜN İÇİNDE"
 
 msgid "New track"
 msgstr "YENİ PİST"
@@ -2248,6 +2267,9 @@ msgstr "Etkinlik yok"
 
 msgid "No maps in this month"
 msgstr "Bu ayda harita yok"
+
+msgid "No matches currently available, come back later!"
+msgstr "Şu an mevcut maç yok, daha sonra tekrar kontrol edin!"
 
 msgid "No monthly campaigns found."
 msgstr "Aylık campaign bulunamadı."
@@ -3225,6 +3247,9 @@ msgstr "Stil seç"
 msgid "Select the location of the starting line"
 msgstr "Başlangıç çizgisinin yerini seç"
 
+msgid "Select the skin that will be applied to your car"
+msgstr "Aracınıza uygulanacak dış görünümü seçin"
+
 msgid "Select where you want to start"
 msgstr "Başlamak istediğiniz yeri seçin"
 
@@ -3297,6 +3322,9 @@ msgstr "Altıncı (6'ya basın)"
 msgid "Skill Points Ranking"
 msgstr "Yetenek Puanı Sıralaması"
 
+msgid "Skin '%1' could not be applied. Please try again. (Error: %2)"
+msgstr "'%1' dış görünümü uygulanamadı. Lütfen tekrar deneyin. (Hata: %2)"
+
 msgid "Skin browser"
 msgstr "Dış görünüm tarayıcısı"
 
@@ -3353,6 +3381,13 @@ msgstr ""
 msgid "Start Date"
 msgstr "Başlangıç Tarihi"
 
+msgid ""
+"Start time must be at least 10 minutes after registration or qualification, "
+"please enter another time or date"
+msgstr ""
+"Başlangıç zamanı kaydolma veya elemeden en az 10 dakika sonra olmalıdır, "
+"lütfen başka bir zaman veya tarih giriniz"
+
 msgid "Starter"
 msgstr "BAŞLANGIÇ"
 
@@ -3363,7 +3398,7 @@ msgid "Stats"
 msgstr "İstatistikler"
 
 msgid "Step ranking"
-msgstr "Basamak sıralaması"
+msgstr "BASAMAK SIRALAMASI"
 
 msgid "Stop auto-finish"
 msgstr "Oto-bitişi durdur"
@@ -3606,8 +3641,9 @@ msgstr "Kulüp ismi en az %1 ve en fazla %2 karakterden oluşmalıdır"
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "KULÜP ETİKETİ EN AZ %1 VE EN FAZLA %2 KARAKTERDEN OLUŞMALIDIR"
 
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "Karşılaşmanın oluşturulması başarısız oldu (Hata kodu: %1)"
+msgid ""
+"The creation of this competition failed, please try again (Error code: %1 %2)"
+msgstr "Bu karşılaşma oluşturulamadı, lütfen tekrar deneyin (Hata kodu: %1 %2)"
 
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
@@ -4143,7 +4179,7 @@ msgid "Warmup: %1/%2"
 msgstr "Isınma: %1/%2"
 
 msgid "Watch warmup"
-msgstr "Isınmayı izle"
+msgstr "ISINMAYI İZLE"
 
 msgid "We are sending you back to the lobby."
 msgstr "Sizi lobiye geri gönderiyoruz."
@@ -4445,7 +4481,7 @@ msgid "Your search did not return any results"
 msgstr "Aramada herhangi bir sonuç bulunamadı"
 
 msgid "by"
-msgstr "tarafından"
+msgstr "TARAFINDAN"
 
 msgid "by %1"
 msgstr "%1 TARAFINDAN"
@@ -4457,7 +4493,7 @@ msgid "controller"
 msgstr "kontrol aracı"
 
 msgid "from %1"
-msgstr "%1 ile fark"
+msgstr "%1 İLE FARK"
 
 msgid "max %1 characters"
 msgstr "maks %1 karakter"
@@ -4476,9 +4512,6 @@ msgstr "BAŞLANGIÇ ERİŞİMİ"
 
 msgid "support %1: \"go %2\" in chat"
 msgstr "%1 oyuncusunu desteklemek için sohbete \"go %2\" yazın"
-
-msgid "yes"
-msgstr "evet"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|%1 maçı iptal edebilirsiniz."
@@ -4695,13 +4728,13 @@ msgid "|Champion|%1End of warmup, Semi-Final phase starting"
 msgstr "|Champion|%1Isınma bitti, yarı-final aşaması başlıyor"
 
 msgid "|Champion|Final Phase"
-msgstr "|Champion|Final aşaması"
+msgstr "|Champion|FİNAL AŞAMASI"
 
 msgid "|Champion|Opening Phase"
-msgstr "|Champion|Açılış aşaması"
+msgstr "|Champion|AÇILIŞ AŞAMASI"
 
 msgid "|Champion|Semi-Final Phase"
-msgstr "|Champion|Yarı-final aşaması"
+msgstr "|Champion|YARI-FİNAL AŞAMASI"
 
 msgid "|ClubActivity|Maps"
 msgstr "|ClubActivity|HARİTALAR"
@@ -4774,7 +4807,7 @@ msgid "|Club|Members"
 msgstr "|Club|Üyeler"
 
 msgid "|Club|Pin club"
-msgstr "|Club|Kulübü sabitle"
+msgstr "|Club|SABİTLE"
 
 msgid "|Club|Privacy"
 msgstr "|Club|GİZLİLİK"
@@ -4784,6 +4817,9 @@ msgstr "|Club|İstekler"
 
 msgid "|Club|Unfeature"
 msgstr "|Club|Öne çıkarma"
+
+msgid "|Club|Unpin club"
+msgstr "|Club|SABİTLEME"
 
 msgid "|Club|VIP"
 msgstr "|Club|VIP"
@@ -5113,7 +5149,7 @@ msgid "|League|Map %1"
 msgstr "|League|Harita %1"
 
 msgid "|League|map %1/%2"
-msgstr "|League|harita %1/%2"
+msgstr "|League|HARİTA %1/%2"
 
 msgid ""
 "|Legalese|By clicking 'Accept', you authorise for your data to be shared "

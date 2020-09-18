@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 19:49+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -336,9 +336,6 @@ msgstr "Tutto fatto, grazie per aver giocato!"
 
 msgid "All events"
 msgstr "Tutti gli eventi"
-
-msgid "All fields must be completed"
-msgstr "Tutti i campi devono essere compilati"
 
 msgid "Allies"
 msgstr "Alleati"
@@ -1317,12 +1314,6 @@ msgid "Error while loading the event. Please try again. (Error code: %1)"
 msgstr ""
 "Errore durante il caricamento dell’evento, riprovare. (Codice errore: %1)"
 
-msgid ""
-"Error while loading the leaderboard. Please try again later. (Error code: %1)"
-msgstr ""
-"Errore durante il caricamento della classifica, riprovare più tardi. (Codice "
-"errore: %1)"
-
 msgid "Error while loading trophies (code: %1)"
 msgstr "Errore durante il caricamento dei trofei (codice errore: %1)"
 
@@ -1980,9 +1971,6 @@ msgstr "Impostazioni partita"
 msgid "Match starting"
 msgstr "La partita sta per iniziare"
 
-msgid "Matches are currently unavailable, check back later!"
-msgstr "Le partite non sono attualmente disponibili, controlla più tardi"
-
 msgid "Matchmaking canceled : no server available"
 msgstr "Matchmaking cancellato: nessun server disponibile"
 
@@ -2082,9 +2070,6 @@ msgstr "Nuovo tempo record"
 
 msgid "New medal"
 msgstr "Nuova medaglia"
-
-msgid "New rank: %1"
-msgstr "Nuova posizione: %2"
 
 msgid "New records disabled"
 msgstr "Nuovi record disattivati"
@@ -3493,9 +3478,6 @@ msgstr "Il nome del club ha un minimo di %1 ed un massimo di %2 caratteri"
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Il tag del club ha un minimo di %1 ed un massimo di %2 caratteri"
 
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "La creazione del torneo è fallita. (Codice errore: %1)"
-
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
 msgstr "La decorazione sarà rimossa e dovrai convalidare la pista di nuovo."
@@ -4005,9 +3987,6 @@ msgstr "Warm-up"
 msgid "Warmup"
 msgstr "Riscaldamento"
 
-msgid "Warmup: %1/%2"
-msgstr "Warm-up"
-
 msgid "Watch warmup"
 msgstr "Guarda riscaldamento"
 
@@ -4328,9 +4307,6 @@ msgstr "accesso starter"
 
 msgid "support %1: \"go %2\" in chat"
 msgstr "supporto %1: \"go %2\" nella chat"
-
-msgid "yes"
-msgstr "sì"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "Puoi annullare %1 partite."

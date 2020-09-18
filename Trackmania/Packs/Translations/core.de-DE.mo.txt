@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 08:24+0000\n"
+"PO-Revision-Date: 2020-09-14 15:09+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -315,7 +315,7 @@ msgstr ""
 "\n"
 "Wenn Sie ein Rennen in einer guten $f00Position$fff abschließen, erhalten "
 "Sie $f00Punkte$fff, die Ihren Gesamtpunkten hinzugefügt werden.\n"
-"Server schlagen möglicherweise einige Warm-Up-Rennen vor, um sich zunächst "
+"Server schlagen möglicherweise einige Warmup-Rennen vor, um sich zunächst "
 "mit einer Strecke vertraut zu werden.\n"
 "\n"
 "Um zu gewinnen, müssen Sie zunächst das $f00Punkte-Limit$fff erreichen, um "
@@ -2905,7 +2905,7 @@ msgid "End User License Agreement"
 msgstr "Endbenutzer-Lizenzvereinbarung"
 
 msgid "End of warmup, match starting..."
-msgstr "Warm-Up beendet, Match beginnt jetzt..."
+msgstr "Warmup beendet, Match beginnt jetzt..."
 
 msgid "End race"
 msgstr "Rennen beenden"
@@ -8362,6 +8362,9 @@ msgstr "Die gesamte Zeitleiste anzeigen"
 msgid "Virtual Reality"
 msgstr "Virtuelle Realität"
 
+msgid "Visibility of roadside spectators"
+msgstr "Sichtbarkeit von Zuschauern am Straßenrand"
+
 msgid "Visible by other players"
 msgstr "Von anderen Spielern einzusehen"
 
@@ -12447,6 +12450,15 @@ msgstr "|SpectatorCam|Manuell"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Immer"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Nie"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|Beim Zuschauen"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Editor-Zeit"

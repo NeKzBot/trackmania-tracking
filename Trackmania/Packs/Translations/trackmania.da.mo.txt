@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 19:49+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -317,9 +317,6 @@ msgstr "Alle klubber"
 
 msgid "All events"
 msgstr "Alle events"
-
-msgid "All fields must be completed"
-msgstr "Alle felter skal udfyldes"
 
 msgid "Allies"
 msgstr "Allierede"
@@ -3273,9 +3270,6 @@ msgstr "Klubnavnet har et minimum på %1 og et maksimum på %2 tegn"
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Klubmærket har et minimum på %1 og et maksimum på %2 tegn"
 
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "Oprettelsen af konkurrencen mislykkedes (Fejlkode: %1)"
-
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
 msgstr ""
@@ -4001,9 +3995,6 @@ msgstr "standard-adgang"
 
 msgid "starter access"
 msgstr "gratis-adgang"
-
-msgid "yes"
-msgstr "ja"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|Du kan annullere %1 kampe"

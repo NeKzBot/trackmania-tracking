@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 19:49+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -205,6 +205,9 @@ msgstr "%1 Spieler"
 msgid "%1 players"
 msgstr "%1 Spieler"
 
+msgid "%1 points"
+msgstr "%1 Punkte"
+
 msgid "%1 replays selected"
 msgstr "%1 Replays ausgewählt"
 
@@ -241,14 +244,74 @@ msgstr "%1Bestes Rennen"
 msgid "%1Personal best"
 msgstr "%1Bestes Rennen"
 
+msgid "0 points"
+msgstr "0 Punkte"
+
 msgid "1 player"
 msgstr "1 Spieler"
+
+msgid "1 point"
+msgstr "1 Punkt"
 
 msgid "16th final"
 msgstr "Sechzehntelfinale"
 
 msgid "8th final"
 msgstr "Achtelfinale"
+
+msgid "ACCESSIBILITY SPECIALISTS"
+msgstr "ACCESSIBILITY SPECIALISTS"
+
+msgid "ACCOUNT MANAGER"
+msgstr "ACCOUNT MANAGER"
+
+msgid "AGE RATING COORDINATOR"
+msgstr "AGE RATING COORDINATOR"
+
+msgid "ANALYST"
+msgstr "ANALYST"
+
+msgid "ANALYSTS, NCSA CUSTOMER SUPPORT"
+msgstr "ANALYSTS, NCSA CUSTOMER SUPPORT"
+
+msgid "ART DIRECTOR"
+msgstr "ART DIRECTOR"
+
+msgid "ARTISTS"
+msgstr "ARTISTS"
+
+msgid "ASSISTANT MANAGER"
+msgstr "ASSISTANT MANAGER"
+
+msgid "ASSOCIATE DIRECTOR"
+msgstr "ASSOCIATE DIRECTOR"
+
+msgid "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+msgstr "ASSOCIATE DIRECTOR COMMUNITY DEVELOPMENT"
+
+msgid "ASSOCIATE DIRECTOR CRM"
+msgstr "ASSOCIATE DIRECTOR CRM"
+
+msgid "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+msgstr "ASSOCIATE DIRECTOR, COMMUNICATION, EMEA"
+
+msgid "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+msgstr "ASSOCIATE DIRECTOR, OPERATIONAL STRATEGY"
+
+msgid "ASSOCIATE LIVE COORDINATOR"
+msgstr "ASSOCIATE LIVE COORDINATOR"
+
+msgid "ASSOCIATE PC REQUIREMENTS LEAD"
+msgstr "ASSOCIATE PC REQUIREMENTS LEAD"
+
+msgid "ASSOCIATE PRODUCER"
+msgstr "ASSOCIATE PRODUCER"
+
+msgid "ASSOCIATE TECHNICAL DIRECTOR"
+msgstr "ASSOCIATE TECHNICAL DIRECTOR"
+
+msgid "ASSOCIATE UX DESIGNER "
+msgstr "ASSOCIATE UX DESIGNER "
 
 msgid "Accept"
 msgstr "Akzeptieren"
@@ -292,9 +355,6 @@ msgstr "Alles fertig, danke fürs Mitspielen!"
 msgid "All events"
 msgstr "Alle Events"
 
-msgid "All fields must be completed"
-msgstr "Alle Felder müssen ausgefüllt werden"
-
 msgid "Allies"
 msgstr "Verbündete"
 
@@ -321,11 +381,20 @@ msgstr "Alle Änderungen an diesem Gelände gehen verloren."
 msgid "Any unsaved modification done on this track will be lost."
 msgstr "Alle ungespeicherten Änderungen an dieser Strecke gehen verloren."
 
+msgid "Applied"
+msgstr "Angewendet"
+
 msgid "Apply"
 msgstr "Anwenden"
 
+msgid "Apply a skin"
+msgstr "Einen Skin anwenden"
+
 msgid "Apply skin"
 msgstr "Skin anwenden"
+
+msgid "Applying skin..."
+msgstr "Skin wird angewendet..."
 
 msgid "Arcade"
 msgstr "Arcade"
@@ -356,6 +425,13 @@ msgstr "Möchten Sie wirklich eine weitere Strecke generieren?"
 
 msgid "Are you sure you want to leave the editor?"
 msgstr "Wollen Sie den Editor wirklich verlassen?"
+
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"Wollen Sie den Server wirklich verlassen? Sie können Ihrem nächsten Match "
+"von der Event-Seite beitreten."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "Wollen Sie TrackMania wirklich beenden?"
@@ -400,6 +476,21 @@ msgstr "Durchschnittliche Rundenzeit"
 
 msgid "Average waiting time"
 msgstr "Durchschnittliche Wartezeit"
+
+msgid "BRAND DIRECTOR"
+msgstr "BRAND DIRECTOR"
+
+msgid "BRAND MANAGER"
+msgstr "BRAND MANAGER"
+
+msgid "BUSINESS ANALYST"
+msgstr "BUSINESS ANALYST"
+
+msgid "BUSINESS OPERATIONS COORDINATOR"
+msgstr "BUSINESS OPERATIONS COORDINATOR"
+
+msgid "BUSINESS OPERATIONS MANAGER"
+msgstr "BUSINESS OPERATIONS MANAGER"
 
 msgid "Back"
 msgstr "Zurück"
@@ -458,6 +549,129 @@ msgstr ""
 msgid "By %1"
 msgstr "Von %1"
 
+msgid "CHIEF CREATIVE OFFICIER"
+msgstr "CHIEF CREATIVE OFFICIER"
+
+msgid "CHINA PRODUCT MANAGER"
+msgstr "CHINA PRODUCT MANAGER"
+
+msgid "COMMUNICATION MANAGER, EMEA"
+msgstr "COMMUNICATION MANAGER, EMEA"
+
+msgid "COMMUNICATIONS DIRECTOR"
+msgstr "COMMUNICATIONS DIRECTOR"
+
+msgid "COMMUNITY"
+msgstr "COMMUNITY"
+
+msgid "COMMUNITY CONTENT DESIGNER"
+msgstr "COMMUNITY CONTENT DESIGNER"
+
+msgid "COMMUNITY CONTENT PRODUCER"
+msgstr "COMMUNITY CONTENT PRODUCER"
+
+msgid "COMMUNITY CONTENT SPECIALIST"
+msgstr "COMMUNITY CONTENT SPECIALIST"
+
+msgid "COMMUNITY CONTENT STRATEGIST"
+msgstr "COMMUNITY CONTENT STRATEGIST"
+
+msgid "COMMUNITY MANAGEMENT"
+msgstr "COMMUNITY MANAGEMENT"
+
+msgid "COMMUNITY MANAGEMENT TEAM LEAD"
+msgstr "COMMUNITY MANAGEMENT TEAM LEAD"
+
+msgid "COMMUNITY MANAGER"
+msgstr "COMMUNITY MANAGER"
+
+msgid "COMMUNITY SENTIMENT SPECIALIST"
+msgstr "COMMUNITY SENTIMENT SPECIALIST"
+
+msgid "COMMUNITY TEAM LEAD"
+msgstr "COMMUNITY TEAM LEAD"
+
+msgid "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+msgstr "COMMUNITY TEAM LIVE OPERATIONS MANAGER"
+
+msgid "COMPOSER"
+msgstr "COMPOSER"
+
+msgid "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+msgstr "CONSUMER EXPERIENCE AREA MANAGER, ASIA"
+
+msgid "CONSUMER EXPERIENCE MANAGER"
+msgstr "CONSUMER EXPERIENCE MANAGER"
+
+msgid "CONTENT DIRECTOR"
+msgstr "CONTENT DIRECTOR"
+
+msgid "CONTENT MANAGER"
+msgstr "CONTENT MANAGER"
+
+msgid "CREATIVE DIRECTOR"
+msgstr "CREATIVE DIRECTOR"
+
+msgid "CREATIVE FRONT-END ENGINEER"
+msgstr "CREATIVE FRONT-END ENGINEER"
+
+msgid "CRM DATA ANALYSTS"
+msgstr "CRM DATA ANALYSTS"
+
+msgid "CRM GRAPHIC DESIGNER"
+msgstr "CRM GRAPHIC DESIGNER"
+
+msgid "CRM INTEGRATION SPECIALISTS"
+msgstr "CRM INTEGRATION SPECIALISTS"
+
+msgid "CRM INTEGRATION TEAM LEADER "
+msgstr "CRM INTEGRATION TEAM LEADER "
+
+msgid "CRM LIFECYCLE ASSISTANT"
+msgstr "CRM LIFECYCLE ASSISTANT"
+
+msgid "CRM LIFECYCLE SPECIALIST"
+msgstr "CRM LIFECYCLE SPECIALIST"
+
+msgid "CRM MULTI CHANNEL SPECIALIST"
+msgstr "CRM MULTI CHANNEL SPECIALIST"
+
+msgid "CRM OPERATIONS MANAGER"
+msgstr "CRM OPERATIONS MANAGER"
+
+msgid "CRM OPERATIONS SPECIALIST"
+msgstr "CRM OPERATIONS SPECIALIST"
+
+msgid "CRM OPERATIONS SPECIALISTS ASSISTANT"
+msgstr "CRM OPERATIONS SPECIALISTS ASSISTANT"
+
+msgid "CRM PERFORMANCE MANAGER"
+msgstr "CRM PERFORMANCE MANAGER"
+
+msgid "CRM PROGRAM MANAGER"
+msgstr "CRM PROGRAM MANAGER"
+
+msgid "CUSTOMER EXPERIENCE MANAGER"
+msgstr "CUSTOMER EXPERIENCE MANAGER"
+
+msgid "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+msgstr "CUSTOMER SUPPORT ASSOCIATE DIRECTOR"
+
+msgid "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+msgstr "CUSTOMER SUPPORT DEVELOPMENT ASSOCIATE DIRECTOR"
+
+msgid "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+msgstr "CUSTOMER SUPPORT KNOWLEDGE TEAM"
+
+msgid "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+msgstr "CUSTOMER SUPPORT LEARNING AND DEVELOPMENT TEAM"
+
+msgid "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+msgstr "CUSTOMER SUPPORT QUALITY ASSURANCE TEAM"
+
+msgid "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+msgstr "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
+
 msgid "Campaign"
 msgstr "Kampagne"
 
@@ -489,6 +703,9 @@ msgstr "Anfrage abbrechen"
 
 msgid "Category"
 msgstr "Kategorie"
+
+msgid "Challenger"
+msgstr "Herausforderer"
 
 msgid "Champion mode"
 msgstr "Champions-Modus"
@@ -555,11 +772,17 @@ msgstr ""
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klicken Sie auf die UI-Module, um deren Eigenschaften zu bearbeiten"
 
+msgid "Click to see $<%1$> results"
+msgstr "Klicken Sie, um $<%1$> Ergebnisse zu sehen"
+
 msgid "Close"
 msgstr "Schließen"
 
 msgid "Club"
 msgstr "Club"
+
+msgid "Club access required to register for this competition"
+msgstr "Club-Zugang erforderlich, um sich für diesen Wettkampf zu registrieren"
 
 msgid "Club campaigns"
 msgstr "Club-Kampagnen"
@@ -628,11 +851,17 @@ msgstr "Konzept"
 msgid "Confirm"
 msgstr "Bestätigen"
 
+msgid "Confirm skin selection"
+msgstr "Skin-Auswahl bestätigen"
+
 msgid "Confirm your choice"
 msgstr "Bestätigen Sie Ihre Auswahl"
 
 msgid "Confirmation"
 msgstr "Bestätigung"
+
+msgid "Congratulations"
+msgstr "Glückwunsch"
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -726,6 +955,9 @@ msgstr "Clubraum wird erstellt..."
 msgid "Creating club..."
 msgstr "Club wird erstellt..."
 
+msgid "Creation failed, information missing"
+msgstr "Erstellung fehlgeschlagen, Informationen fehlen"
+
 msgid "Credits"
 msgstr "Mitwirkende"
 
@@ -747,6 +979,9 @@ msgstr "Aktueller Spieler"
 msgid "Current quarterly campaign"
 msgstr "Derzeitige vierteljährliche Kampagne"
 
+msgid "Current round starts in %1"
+msgstr "Aktuelle Runde startet in %1"
+
 msgid "Customization"
 msgstr "Anpassung"
 
@@ -755,6 +990,42 @@ msgstr "Gestalten Sie Ihr Fahrzeug mit eigenen oder Club-Skins"
 
 msgid "Cut and paste"
 msgstr "Ausschneiden und einfügen"
+
+msgid "DATA ANALYST"
+msgstr "DATA ANALYST"
+
+msgid "DEVELOPMENT AND QUALITY MANAGER"
+msgstr "DEVELOPMENT AND QUALITY MANAGER"
+
+msgid "DEVELOPMENT TESTER"
+msgstr "DEVELOPMENT TESTER"
+
+msgid "DIGITAL CONTENT PUBLISHER"
+msgstr "DIGITAL CONTENT PUBLISHER"
+
+msgid "DIRECTOR"
+msgstr "DIRECTOR"
+
+msgid "DIRECTOR MEDIA & CRM, EMEA"
+msgstr "DIRECTOR MEDIA & CRM, EMEA"
+
+msgid "DIRECTOR OF BRAND DEVELOPMENT"
+msgstr "DIRECTOR OF BRAND DEVELOPMENT"
+
+msgid "DIRECTOR OF CUSTOMER EXPERIENCE"
+msgstr "DIRECTOR OF CUSTOMER EXPERIENCE"
+
+msgid "DIRECTOR, COMMUNICATION, EMEA"
+msgstr "DIRECTOR, COMMUNICATION, EMEA"
+
+msgid "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+msgstr "DIRECTOR, COMMUNITY ENGAGEMENT, EMEA"
+
+msgid "DIRECTOR, PLAYER EXPERIENCE"
+msgstr "DIRECTOR, PLAYER EXPERIENCE"
+
+msgid "DIRECTORS"
+msgstr "DIRECTORS"
 
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "DUALSHOCK®4 Wireless Controller"
@@ -781,6 +1052,15 @@ msgid "Dead end"
 msgstr "Sackgasse"
 
 msgid ""
+"Decal 1x1: image visible on the road surface (at start, checkpoint and "
+"finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Aufdruck 1x1: Bild, welches auf der Straßenoberfläche (am Start, Checkpoint "
+"und Ziel) sichtbar ist.\n"
+"Abmessungen: %1 - Format: PNG, JPEG oder DDS (DXT5)"
+
+msgid ""
 "Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
 "Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
 msgstr ""
@@ -804,6 +1084,9 @@ msgstr ""
 
 msgid "Description"
 msgstr "Beschreibung"
+
+msgid "Description can't be empty"
+msgstr "Beschreibung darf nicht leer sein"
 
 msgid "Did you like this map?"
 msgstr "Hat Ihnen diese Strecke gefallen?"
@@ -849,6 +1132,9 @@ msgstr "Wollen Sie das Auto-Ziel beenden?"
 msgid "Do you want to validate the track now?"
 msgstr "Möchten Sie die Strecke jetzt validieren?"
 
+msgid "Do your best to qualify."
+msgstr "Geben Sie Ihr Bestes, um sich zu qualifizieren."
+
 msgid "Don't forget to save your track!"
 msgstr "Vergessen Sie nicht, Ihre Strecke zu speichern!"
 
@@ -863,6 +1149,36 @@ msgstr "Duell"
 
 msgid "Duration of one warm up"
 msgstr "Länge eines Warm-Ups"
+
+msgid "EDITORIAL TECHNOLOGY"
+msgstr "EDITORIAL TECHNOLOGY"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "EMEA CONSUMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+
+msgid "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+msgstr "EMEA CONSUMER RELATIONSHIP CENTER - PLAYER SUPPORT TEAM"
+
+msgid "EMEA CUSTOMER MANAGEMENT"
+msgstr "EMEA CUSTOMER MANAGEMENT"
+
+msgid "EMEA KNOWLEDGE TEAM"
+msgstr "EMEA KNOWLEDGE TEAM"
+
+msgid "ENGINEER, NCSA CUSTOMER SUPPORT"
+msgstr "ENGINEER, NCSA CUSTOMER SUPPORT"
+
+msgid "ENVIRONMENT ARTIST"
+msgstr "ENVIRONMENT ARTIST"
+
+msgid "EXECUTIVE ASSISTANT & HR MANAGER"
+msgstr "EXECUTIVE ASSISTANT & HR MANAGER"
+
+msgid "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+msgstr "EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS"
+
+msgid "EXTERNAL PARTNERS"
+msgstr "EXTERNAL PARTNERS"
 
 msgid ""
 "Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
@@ -941,7 +1257,7 @@ msgid "End Date"
 msgstr "Enddatum"
 
 msgid "End of warmup, match starting..."
-msgstr "Warm-Up beendet, Match wird gestartet..."
+msgstr "Warmup beendet, Match wird gestartet..."
 
 msgid "Engine disabled"
 msgstr "Motor deaktiviert"
@@ -1090,9 +1406,16 @@ msgstr ""
 "(Fehlercode: %1)"
 
 msgid ""
-"Error while loading the leaderboard. Please try again later. (Error code: %1)"
+"Error while loading the leaderboard, please try again later. (Error code: %1)"
 msgstr ""
-"Fehler beim Laden des Leaderboards. Bitte versuchen Sie es später erneut. "
+"Fehler beim Laden des Leaderboards, bitte versuchen Sie es später erneut. "
+"(Fehlercode: %1)"
+
+msgid ""
+"Error while loading the match results, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Fehler beim Laden der Matchergebnisse, bitte versuchen Sie es später erneut. "
 "(Fehlercode: %1)"
 
 msgid "Error while loading trophies (code: %1)"
@@ -1163,6 +1486,32 @@ msgstr "Beenden"
 msgid "F6 to cancel"
 msgstr "F6 zum Abbrechen"
 
+msgid "FINANCIAL PLANNING ANALYST"
+msgstr "FINANCIAL PLANNING ANALYST"
+
+msgid "FINANCIAL PLANNING SENIOR DIRECTOR"
+msgstr "FINANCIAL PLANNING SENIOR DIRECTOR"
+
+msgid "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
+
+msgid "FRONT-END ENGINEER"
+msgstr "FRONT-END ENGINEER"
+
+msgid ""
+"Failed to join server, please join next match from the Event page. Return to "
+"the main menu in"
+msgstr ""
+"Fehler beim Beitritt des Servers. Bitte treten Sie dem nächsten Match von "
+"der Event-Seite bei. Kehre zum Hauptmenü zurück in"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event "
+"page. Return to the main menu in"
+msgstr ""
+"Fehler beim Empfangen des Match-Beitrittslinks. Bitte treten Sie dem "
+"nächsten Match von der Event-Seite bei. Kehre zum Hauptmenü zurück in"
+
 msgid "Fifth (Press 5)"
 msgstr "Fünfter (5 Drücken)"
 
@@ -1189,6 +1538,42 @@ msgstr "Vollgas"
 
 msgid "Fusion with another server for more players"
 msgstr "Zusammenführung mit einem anderen Server für mehr Spieler"
+
+msgid "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "GAME ACTIVITY SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "GAME ANALYTICS RESEARCH"
+msgstr "GAME ANALYTICS RESEARCH"
+
+msgid "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+msgstr "GAME AND SERVICES ASSOCIATE OPERATIONS MANAGER"
+
+msgid "GAME AND SERVICES OPERATIONS MANAGER"
+msgstr "GAME AND SERVICES OPERATIONS MANAGER"
+
+msgid "GAME AND SERVICES OPERATIONS SPECIALISTS"
+msgstr "GAME AND SERVICES OPERATIONS SPECIALISTS"
+
+msgid "GENERAL MANAGER CRC"
+msgstr "GENERAL MANAGER CRC"
+
+msgid "GRAPHIC ARTIST"
+msgstr "GRAPHIC ARTIST"
+
+msgid "GRAPHIC DESIGNER"
+msgstr "GRAPHIC DESIGNER"
+
+msgid "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+msgstr "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+
+msgid "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+msgstr "GROUP MANAGER, MEDIA STRATEGY, EMEA"
+
+msgid "GROUP MANAGER, WEB PRODUCING, EMEA"
+msgstr "GROUP MANAGER, WEB PRODUCING, EMEA"
+
+msgid "GROUP RELEASE MANAGER"
+msgstr "GROUP RELEASE MANAGER"
 
 msgid "Game mode"
 msgstr "Spielmodus"
@@ -1226,6 +1611,12 @@ msgstr "Aufgeben %1"
 msgid "Give up Daily cup?"
 msgstr "Täglichen Cup aufgeben?"
 
+msgid "Go back to the menu to see the results."
+msgstr "Kehren Sie zum Menü zurück, um die Ergebnisse anzusehen."
+
+msgid "Go back to the menu to wait for your next match."
+msgstr "Kehren Sie zum Menü zurück, um auf Ihr nächstes Match zu warten."
+
 msgid "Go to map list"
 msgstr "Zur Streckenliste gehen"
 
@@ -1240,6 +1631,21 @@ msgstr "Goldmedaille"
 
 msgid "Green"
 msgstr "Grün"
+
+msgid "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+msgstr "HEAD OF NCSA CUSTOMER RELATIONSHIP CENTER"
+
+msgid "HEAD OF SOCIAL MEDIA EMEA"
+msgstr "HEAD OF SOCIAL MEDIA EMEA"
+
+msgid "HQ PRODUCER"
+msgstr "HQ PRODUCER"
+
+msgid "HQ PRODUCERS"
+msgstr "HQ PRODUCERS"
+
+msgid "HR SPECIALIST"
+msgstr "HR SPECIALIST"
 
 msgid "Help"
 msgstr "Hilfe"
@@ -1267,6 +1673,29 @@ msgstr "Ich bin bereit"
 
 msgid "I have read and I agree to the %1rules%2 of this event."
 msgstr "Ich habe die %1Regeln%2 des Events gelesen und stimme diesen zu."
+
+msgid "INFRASTRUCTURE TEAM MANAGER"
+msgstr "INFRASTRUCTURE TEAM MANAGER"
+
+msgid "INTERN LIVE QA"
+msgstr "INTERN LIVE QA"
+
+msgid "INTERNATIONAL PRODUCT MANAGER"
+msgstr "INTERNATIONAL PRODUCT MANAGER"
+
+msgid ""
+"Icon: image used in All Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Symbol: Bild, welches in der Liste \"Alle Clubs\" verwendet wird.\n"
+"Abmessungen: %1 - Format: PNG, JPEG oder DDS (DXT5)"
+
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page."
+msgstr ""
+"Wenn Sie nicht automatisch weitergeleitet werden, kehren Sie bitte zum "
+"Hauptmenü zurück und treten Sie Ihrem nächsten Match von der Event-Seite bei."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr ""
@@ -1298,6 +1727,42 @@ msgstr "Freunde einladen"
 msgid "It is currently not possible to vote for this server setting."
 msgstr "Es ist derzeit nicht möglich, für diese Servereinstellung abzustimmen."
 
+msgid "JUNIOR ACCOUNT MANAGER"
+msgstr "JUNIOR ACCOUNT MANAGER"
+
+msgid "JUNIOR AUTOMATION TESTER"
+msgstr "JUNIOR AUTOMATION TESTER"
+
+msgid "JUNIOR DEVELOPMENT TESTER"
+msgstr "JUNIOR DEVELOPMENT TESTER"
+
+msgid "JUNIOR FINANCIAL PLANNING ANALYST"
+msgstr "JUNIOR FINANCIAL PLANNING ANALYST"
+
+msgid "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+msgstr "JUNIOR LIVE QA AND NETWORK SPECIALIST"
+
+msgid "JUNIOR PRODUCT MANAGER"
+msgstr "JUNIOR PRODUCT MANAGER"
+
+msgid "JUNIOR PRODUCTION COORDINATOR"
+msgstr "JUNIOR PRODUCTION COORDINATOR"
+
+msgid "JUNIOR PROGRAMMER"
+msgstr "JUNIOR PROGRAMMER"
+
+msgid "JUNIOR QC NETWORKING SPECIALIST"
+msgstr "JUNIOR QC NETWORKING SPECIALIST"
+
+msgid "JUNIOR TESTER"
+msgstr "JUNIOR TESTER"
+
+msgid "JUNIOR UX DESIGNER"
+msgstr "JUNIOR UX DESIGNER"
+
+msgid "JUNIOR WEB DEVELOPER"
+msgstr "JUNIOR WEB DEVELOPER"
+
 msgid "Join"
 msgstr "Beitreten"
 
@@ -1316,8 +1781,14 @@ msgstr ""
 msgid "Joining friends"
 msgstr "Freunden beitreten"
 
+msgid "Joining in %1"
+msgstr "Beitritt in %1"
+
 msgid "Jump to map"
 msgstr "Zu Strecke springen"
+
+msgid "KNOWLEDGE SPECIALIST"
+msgstr "KNOWLEDGE SPECIALIST"
 
 msgid "KOs per round"
 msgstr "K.O.s pro Runde"
@@ -1331,6 +1802,72 @@ msgstr "L1-Taste"
 msgid "L3 button"
 msgstr "L3-Taste"
 
+msgid "LEAD CHARACTER ARTIST"
+msgstr "LEAD CHARACTER ARTIST"
+
+msgid "LEAD DESIGNER"
+msgstr "LEAD DESIGNER"
+
+msgid "LEAD ENVIRONMENT ARTIST"
+msgstr "LEAD ENVIRONMENT ARTIST"
+
+msgid "LEAD FRONT-END ENGINEER"
+msgstr "LEAD FRONT-END ENGINEER"
+
+msgid "LEAD GRAPHIC ARTIST"
+msgstr "LEAD GRAPHIC ARTIST"
+
+msgid "LEAD ONLINE ENGINEER"
+msgstr "LEAD ONLINE ENGINEER"
+
+msgid "LEAD PROGRAMMER"
+msgstr "LEAD PROGRAMMER"
+
+msgid "LEAD TECHNICAL ARTIST"
+msgstr "LEAD TECHNICAL ARTIST"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "LEAD UX SUPERVISOR"
+
+msgid "LEAD VEHICLE ARTIST"
+msgstr "LEAD VEHICLE ARTIST"
+
+msgid "LINE DESIGNER"
+msgstr "LINE DESIGNER"
+
+msgid "LINE DESIGNERS"
+msgstr "LINE DESIGNERS"
+
+msgid "LIVE COORDINATOR"
+msgstr "LIVE COORDINATOR"
+
+msgid "LIVE OPERATIONS NEWS COORDINATOR"
+msgstr "LIVE OPERATIONS NEWS COORDINATOR"
+
+msgid "LIVE PRODUCER"
+msgstr "LIVE PRODUCER"
+
+msgid "LIVE QA & NETWORK COORDINATOR"
+msgstr "LIVE QA & NETWORK COORDINATOR"
+
+msgid "LIVE REVENUES SENIOR ANALYST"
+msgstr "LIVE REVENUES SENIOR ANALYST"
+
+msgid "LIVE REVENUES STRATEGY "
+msgstr "LIVE REVENUES STRATEGY "
+
+msgid "LIVE TEAM MANAGER"
+msgstr "LIVE TEAM MANAGER"
+
+msgid "LOCALIZATION"
+msgstr "LOCALIZATION"
+
+msgid "LOCALIZATION MANAGER"
+msgstr "LOCALIZATION MANAGER"
+
+msgid "LOCALIZATION SPECIALIST"
+msgstr "LOCALIZATION SPECIALIST"
+
 msgid "Landscape"
 msgstr "Landschaft"
 
@@ -1342,6 +1879,18 @@ msgstr "Letzte Zeit"
 
 msgid "Leader"
 msgstr "Führende"
+
+msgid "Leaderboard is empty"
+msgstr "Leaderboard ist leer"
+
+msgid "Leaderboards are now closed on this campaign!"
+msgstr "Leaderboards dieser Kampagne sind jetzt geschlossen!"
+
+msgid "League match"
+msgstr "Liga-Match"
+
+msgid "League match divisions"
+msgstr "Liga-Match-Divisionen"
 
 msgid "League ranking"
 msgstr "Ligen-Rang"
@@ -1428,6 +1977,63 @@ msgstr ""
 msgid "Lol"
 msgstr "LOL"
 
+msgid "MAGIC LAB CHARACTER ARTIST"
+msgstr "MAGIC LAB CHARACTER ARTIST"
+
+msgid "MAGIC LAB PRODUCTION DIRECTOR"
+msgstr "MAGIC LAB PRODUCTION DIRECTOR"
+
+msgid "MAGIC LAB VEHICLE ARTIST"
+msgstr "MAGIC LAB VEHICLE ARTIST"
+
+msgid "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+msgstr "MANAGER PLAYER EXPERIENCE, COMMUNITY PROGRAMS"
+
+msgid "MANAGER, COMMUNITY CONTENT"
+msgstr "MANAGER, COMMUNITY CONTENT"
+
+msgid "MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "MANAGER, COMMUNITY DEVELOPMENT"
+
+msgid "MANAGER, CRM OPERATIONS"
+msgstr "MANAGER, CRM OPERATIONS"
+
+msgid "MANAGER, CRM STRATEGY LIFECYCLE"
+msgstr "MANAGER, CRM STRATEGY LIFECYCLE"
+
+msgid "MANAGER, WEB DEVELOPER, EMEA"
+msgstr "MANAGER, WEB DEVELOPER, EMEA"
+
+msgid "MANAGER, WEB PRODUCER, EMEA"
+msgstr "MANAGER, WEB PRODUCER, EMEA"
+
+msgid "MANAGERS, NCSA CUSTOMER SUPPORT"
+msgstr "MANAGERS, NCSA CUSTOMER SUPPORT"
+
+msgid "MANAGING DIRECTOR"
+msgstr "MANAGING DIRECTOR"
+
+msgid "MARKETING"
+msgstr "MARKETING"
+
+msgid "MARKETING & COMMUNICATION DIRECTOR"
+msgstr "MARKETING & COMMUNICATION DIRECTOR"
+
+msgid "MARKETING & LOYALTY DIRECTOR"
+msgstr "MARKETING & LOYALTY DIRECTOR"
+
+msgid "MARKETING & LOYALTY GROUP MANAGER"
+msgstr "MARKETING & LOYALTY GROUP MANAGER"
+
+msgid "MARKETING CAMPAIGN MANAGER"
+msgstr "MARKETING CAMPAIGN MANAGER"
+
+msgid "MEDIA MANAGER, EMEA"
+msgstr "MEDIA MANAGER, EMEA"
+
+msgid "MONETISATION DIRECTOR"
+msgstr "MONETISATION DIRECTOR"
+
 msgid "Manage server"
 msgstr "Server verwalten"
 
@@ -1442,8 +2048,8 @@ msgstr "Strecke %1/%2"
 
 msgid "Map %1/%2 - Keep your previous points by remaining between 1st and %3"
 msgstr ""
-"Strecke %1/%2 - Bleiben Sie zwischen 1. und %3., um Ihre vorherigen Punkte "
-"zu behalten"
+"Strecke %1/%2 - Bleiben Sie zwischen 1. und %3, um Ihre vorherigen Punkte zu "
+"behalten"
 
 msgid "Map %1/%2 - Warm up"
 msgstr "Strecke %1/%2 - Warmup"
@@ -1536,17 +2142,13 @@ msgid "Match paused"
 msgstr "Match pausiert"
 
 msgid "Match results currently not available, check back later!"
-msgstr ""
-"Match-Ergebnisse sind derzeit nicht verfügbar. Kommen Sie später wieder!"
+msgstr "Match-Ergebnisse derzeit nicht verfügbar, kommen Sie später wieder!"
 
 msgid "Match settings"
 msgstr "Matchsettings"
 
 msgid "Match starting"
 msgstr "Match startet"
-
-msgid "Matches are currently unavailable, check back later!"
-msgstr "Matches sind derzeit nicht verfügbar. Kommen Sie später wieder!"
 
 msgid "Matchmaking canceled : no server available"
 msgstr "Matchmaking abgebrochen : Kein Server verfügbar"
@@ -1631,8 +2233,17 @@ msgstr "Meine Strecken"
 msgid "My submitted maps"
 msgstr "Meine eingesendeten Strecken"
 
+msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+msgstr "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
+
+msgid "NCSA CUSTOMER SUPPORT TEAM"
+msgstr "NCSA CUSTOMER SUPPORT TEAM"
+
 msgid "Name"
 msgstr "Name"
+
+msgid "Name can't be empty"
+msgstr "Name darf nicht leer sein"
 
 msgid "New author time"
 msgstr "Neue Autorenzeit"
@@ -1651,6 +2262,12 @@ msgstr "Neue Rekorde deaktiviert"
 
 msgid "New season in %1"
 msgstr "Neue Saison in %1"
+
+msgid "New season in %1 day"
+msgstr "Neue Saison in %1 Tag"
+
+msgid "New season in %1 days"
+msgstr "Neue Saison in %1 Tagen"
 
 msgid "New track"
 msgstr "Neue Strecke"
@@ -1685,6 +2302,9 @@ msgstr "Nächste Strecke"
 msgid "Next map in %1..."
 msgstr "Nächste Strecke in %1..."
 
+msgid "Next match"
+msgstr "Nächstes Match"
+
 msgid "Next medal"
 msgstr "Nächste Medaille"
 
@@ -1717,6 +2337,9 @@ msgstr "Keine Events"
 
 msgid "No maps in this month"
 msgstr "Keine Strecken in diesem Monat"
+
+msgid "No matches currently available, come back later!"
+msgstr "Derzeit sind keine Matches verfügbar, kommen Sie später wieder!"
 
 msgid "No monthly campaigns found."
 msgstr "Keine monatlichen Kampagnen gefunden."
@@ -1766,8 +2389,29 @@ msgstr "Anzahl an Warm-Ups"
 msgid "Number of winners"
 msgstr "Anzahl an Gewinnern"
 
+msgid "OFFICE MANAGEMENT"
+msgstr "OFFICE MANAGEMENT"
+
 msgid "OK"
 msgstr "OK"
+
+msgid "ONLINE ENGINEER"
+msgstr "ONLINE ENGINEER"
+
+msgid "ONLINE ENGINEERS"
+msgstr "ONLINE ENGINEERS"
+
+msgid "ONLINE SERVICES LINE PRODUCER"
+msgstr "ONLINE SERVICES LINE PRODUCER"
+
+msgid "ONLINE SERVICES TEAM"
+msgstr "ONLINE SERVICES TEAM"
+
+msgid "ONLINE TECHNICAL COORDINATION MANAGER"
+msgstr "ONLINE TECHNICAL COORDINATION MANAGER"
+
+msgid "ONLINE TECHNOLOGIES MANAGER"
+msgstr "ONLINE TECHNOLOGIES MANAGER"
 
 msgid "Official rankings"
 msgstr "Offizielle Ranglisten"
@@ -1795,6 +2439,87 @@ msgstr "Orange"
 msgid "Other"
 msgstr "Andere"
 
+msgid "PC REQUIREMENTS"
+msgstr "PC REQUIREMENTS"
+
+msgid "PC REQUIREMENTS LEAD"
+msgstr "PC REQUIREMENTS LEAD"
+
+msgid "PC REQUIREMENTS PROJECT LEAD"
+msgstr "PC REQUIREMENTS PROJECT LEAD"
+
+msgid "PC REQUIREMENTS SPECIALISTS"
+msgstr "PC REQUIREMENTS SPECIALISTS"
+
+msgid "PLAYER EXPERIENCE"
+msgstr "PLAYER EXPERIENCE"
+
+msgid "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+msgstr "PLAYER EXPERIENCE ASSISTANT, COMMUNITY PROGRAMS"
+
+msgid "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+msgstr "PLAYER EXPERIENCE MANAGER, COLLABORATION TOOLS"
+
+msgid "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "PLAYER EXPERIENCE MANAGER, FRONTLINE PROGRAMS"
+
+msgid "PLAYER SUPPORT AREA MANAGER"
+msgstr "PLAYER SUPPORT AREA MANAGER"
+
+msgid "PLAYER SUPPORT OPERATIONS MANAGER"
+msgstr "PLAYER SUPPORT OPERATIONS MANAGER"
+
+msgid "PR"
+msgstr "PR"
+
+msgid "PREDICTIVE ANALYTICS RESEARCHER"
+msgstr "PREDICTIVE ANALYTICS RESEARCHER"
+
+msgid "PRESIDENT AND CEO"
+msgstr "PRESIDENT AND CEO"
+
+msgid "PRODUCER"
+msgstr "PRODUCER"
+
+msgid "PRODUCT OWNER"
+msgstr "PRODUCT OWNER"
+
+msgid "PRODUCT SPECIALIST"
+msgstr "PRODUCT SPECIALIST"
+
+msgid "PRODUCTION"
+msgstr "PRODUCTION"
+
+msgid "PRODUCTION COORDINATOR"
+msgstr "PRODUCTION COORDINATOR"
+
+msgid "PROGRAM MANAGER"
+msgstr "PROGRAM MANAGER"
+
+msgid "PROGRAM MANAGER, EMEA"
+msgstr "PROGRAM MANAGER, EMEA"
+
+msgid "PROGRAMMER"
+msgstr "PROGRAMMER"
+
+msgid "PROJECT ASSISTANT"
+msgstr "PROJECT ASSISTANT"
+
+msgid "PROJECT MANAGER"
+msgstr "PROJECT MANAGER"
+
+msgid "PROJECT MANAGERS "
+msgstr "PROJECT MANAGERS "
+
+msgid "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+msgstr "PROJECT ONLINE ACQUISITION ASSISTANT, EMEA"
+
+msgid "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+msgstr "PROJECTS DIRECTOR, EDITORIAL TECHNOLOGY"
+
+msgid "PUBLISHING DIRECTOR"
+msgstr "PUBLISHING DIRECTOR"
+
 msgid "Page Down"
 msgstr "Bild ab"
 
@@ -1812,7 +2537,7 @@ msgstr "Vergangene 14 Tage"
 
 msgid "Past round matches are currently unavailable, check back later!"
 msgstr ""
-"Vergangene Runden-Matches sind derzeit nicht verfügbar. Kommen Sie später "
+"Vergangene Runden-Matches sind derzeit nicht verfügbar, kommen Sie später "
 "wieder!"
 
 msgid "Paste"
@@ -1921,6 +2646,9 @@ msgstr "Spielerreihenfolge"
 msgid "Players per match"
 msgstr "Spieler pro Match"
 
+msgid "Players will be rewarded as follows"
+msgstr "Spieler werden wie folgt belohnt"
+
 msgid "Please reconnect the %1"
 msgstr "Bitte %1 erneut verbinden"
 
@@ -2015,19 +2743,58 @@ msgstr "Weiter zur Lobby"
 msgid "Profile"
 msgstr "Profil"
 
+msgid "QA"
+msgstr "QA"
+
+msgid "QA LEAD"
+msgstr "QA LEAD"
+
+msgid "QC ACCESSIBILITY TEAM"
+msgstr "QC ACCESSIBILITY TEAM"
+
+msgid "QC NETWORKING"
+msgstr "QC NETWORKING"
+
+msgid "QC NETWORKING EXPERT"
+msgstr "QC NETWORKING EXPERT"
+
+msgid "QC NETWORKING SPECIALIST"
+msgstr "QC NETWORKING SPECIALIST"
+
+msgid "QC NETWORKING TEAM LEAD"
+msgstr "QC NETWORKING TEAM LEAD"
+
+msgid "QUALITY"
+msgstr "QUALITY"
+
+msgid "QUALITY CONTROL MANAGER"
+msgstr "QUALITY CONTROL MANAGER"
+
 msgid "Qualification"
 msgstr "Qualifikation"
 
+msgid "Qualification ends in %1"
+msgstr "Qualifikation endet in %1"
+
+msgid "Qualification ranking is empty"
+msgstr "Qualifikationsrangliste ist leer"
+
 msgid "Qualification server %1"
 msgstr "Qualifikationsserver %1"
+
+msgid "Qualification server will be available in %1"
+msgstr "Qualifikationsserver wird in %1 verfügbar sein"
+
+msgid "Qualifier over"
+msgstr "Qualifikation vorbei"
 
 msgid "Qualifier rank: %1"
 msgstr "Qualifikationsrang: %1"
 
 msgid "Qualifiers are not available now, please try again later"
 msgstr ""
-"Qualifikationen sind derzeit nicht verfügbar. Bitte versuchen Sie es später "
-"wieder"
+"Qualifikationen sind derzeit nicht verfügbar, bitte versuchen Sie später "
+"erneut"
 
 msgid "Qualify"
 msgstr "Qualifizieren"
@@ -2050,11 +2817,26 @@ msgstr "Plugin beenden"
 msgid "Quit%1"
 msgstr "Verlassen%1"
 
+msgid "R&D ENGINEER"
+msgstr "R&D ENGINEER"
+
+msgid "R&D ENGINEERS"
+msgstr "R&D ENGINEERS"
+
 msgid "R1 button"
 msgstr "R1-Taste"
 
 msgid "R3 button"
 msgstr "R3-Taste"
+
+msgid "RELEASE MANAGEMENT"
+msgstr "RELEASE MANAGEMENT"
+
+msgid "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+msgstr "RELEASE MANAGEMENT & LOCALIZATION DIRECTOR"
+
+msgid "RELEASE MANAGER"
+msgstr "RELEASE MANAGER"
 
 msgid "Race"
 msgstr "Rennen"
@@ -2196,6 +2978,9 @@ msgstr "Streckenliste wird abgerufen..."
 msgid "Retry"
 msgstr "Wiederholen"
 
+msgid "Return to the main menu in %1"
+msgstr "Kehrt in %1 zum Hauptmenü zurück"
+
 msgid "Right click : hide/show the module"
 msgstr "Rechtsklick : Modul einblenden/ausblenden"
 
@@ -2281,6 +3066,111 @@ msgstr "Runden: "
 msgid "Rules"
 msgstr "Regeln"
 
+msgid "SALES DIRECTOR"
+msgstr "SALES DIRECTOR"
+
+msgid "SCIENTIFIC DIRECTOR "
+msgstr "SCIENTIFIC DIRECTOR "
+
+msgid "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+msgstr "SENIOR COMMUNITY ENGAGEMENT MANAGER"
+
+msgid "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+msgstr "SENIOR COMMUNITY SENTIMENT SPECIALIST"
+
+msgid "SENIOR DATABASE ADMINISTRATOR"
+msgstr "SENIOR DATABASE ADMINISTRATOR"
+
+msgid "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+msgstr "SENIOR DIRECTOR, COMMUNITY EXPERIENCE"
+
+msgid "SENIOR FRONT-END ENGINEER"
+msgstr "SENIOR FRONT-END ENGINEER"
+
+msgid "SENIOR HQ PRODUCER"
+msgstr "SENIOR HQ PRODUCER"
+
+msgid "SENIOR KNOWLEDGE SPECIALIST"
+msgstr "SENIOR KNOWLEDGE SPECIALIST"
+
+msgid "SENIOR LINE ANALYST"
+msgstr "SENIOR LINE ANALYST"
+
+msgid "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+msgstr "SENIOR MANAGER, COMMUNITY DEVELOPMENT"
+
+msgid "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+msgstr "SENIOR MANAGER, COMMUNITY MANAGEMENT"
+
+msgid "SENIOR MANUAL TESTER"
+msgstr "SENIOR MANUAL TESTER"
+
+msgid "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+msgstr "SENIOR ONLINE INFRASTRUCTURE ENGINEER"
+
+msgid "SENIOR OPERATIONAL MARKETING MANAGER"
+msgstr "SENIOR OPERATIONAL MARKETING MANAGER"
+
+msgid "SENIOR PR SPECIALIST"
+msgstr "SENIOR PR SPECIALIST"
+
+msgid "SENIOR PRODUCER"
+msgstr "SENIOR PRODUCER"
+
+msgid "SENIOR PRODUCT MANAGER"
+msgstr "SENIOR PRODUCT MANAGER"
+
+msgid "SENIOR PROGRAMMER"
+msgstr "SENIOR PROGRAMMER"
+
+msgid "SENIOR SOFTWARE ENGINEER"
+msgstr "SENIOR SOFTWARE ENGINEER"
+
+msgid "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SENIOR SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "SENIOR SYSTEM ADMINISTRATOR"
+msgstr "SENIOR SYSTEM ADMINISTRATOR"
+
+msgid "SENIOR WEB DEVELOPER"
+msgstr "SENIOR WEB DEVELOPER"
+
+msgid "SENIOR WEB PROGRAMMER"
+msgstr "SENIOR WEB PROGRAMMER"
+
+msgid "SITE ADMINISTATOR"
+msgstr "SITE ADMINISTATOR"
+
+msgid "SOUND DESIGNER"
+msgstr "SOUND DESIGNER"
+
+msgid "SPECIAL THANKS"
+msgstr "SPECIAL THANKS"
+
+msgid "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+msgstr "SPECIALISTS, NCSA CUSTOMER SUPPORT"
+
+msgid "SR MANAGER, PLAYER EXPERIENCE EMEA"
+msgstr "SR MANAGER, PLAYER EXPERIENCE EMEA"
+
+msgid "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+msgstr "SR. MANAGER, PLAYER EXPERIENCE, FRONTLINE PROGRAMS"
+
+msgid "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+msgstr "SR. PLAYER EXERIENCE MANAGER, FRONTLINE PROGRAMS"
+
+msgid "STORE FRONT SPECIALIST"
+msgstr "STORE FRONT SPECIALIST"
+
+msgid "STUDIO OPERATIONS COORDINATOR"
+msgstr "STUDIO OPERATIONS COORDINATOR"
+
+msgid "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+msgstr "SUPERVISORS, NCSA CUSTOMER SUPPORT"
+
+msgid "SYSTEM ADMINISTRATOR"
+msgstr "SYSTEM ADMINISTRATOR"
+
 msgid "Saturday"
 msgstr "Samstag"
 
@@ -2352,6 +3242,9 @@ msgstr "nach oben scrollen"
 
 msgid "Second (Press 2)"
 msgstr "Zweiter (2 drücken)"
+
+msgid "See competitors list"
+msgstr "Teilnehmerliste anzeigen"
 
 msgid "See full ranking"
 msgstr "Vollständiges Ranking ansehen"
@@ -2426,11 +3319,17 @@ msgstr "Nächste Strecke auswählen"
 msgid "Select number of players"
 msgstr "Anzahl der Spieler auswählen"
 
+msgid "Select one of this servers to join the qualification"
+msgstr "Wählen Sie einen dieser Server aus, um der Qualifikation beizutreten"
+
 msgid "Select style"
 msgstr "Stil auswählen"
 
 msgid "Select the location of the starting line"
 msgstr "Wählen Sie den Ort der Startlinie"
+
+msgid "Select the skin that will be applied to your car"
+msgstr "Wählen Sie den Skin, der auf Ihr Fahrtzeug angewendet werden soll"
 
 msgid "Select where you want to start"
 msgstr "Wählen Sie aus, wo Sie starten möchten"
@@ -2506,6 +3405,11 @@ msgstr "Sechster (6 drücken)"
 msgid "Skill Points Ranking"
 msgstr "Skillpunkte-Ranking"
 
+msgid "Skin '%1' could not be applied. Please try again. (Error: %2)"
+msgstr ""
+"Skin '%1' konnte nicht angewendet werden. Bitte versuchen Sie es erneut. "
+"(Fehler: %2)"
+
 msgid "Skin browser"
 msgstr "Skin-Browser"
 
@@ -2562,6 +3466,14 @@ msgstr ""
 
 msgid "Start Date"
 msgstr "Startdatum"
+
+msgid ""
+"Start time must be at least 10 minutes after registration or qualification, "
+"please enter another time or date"
+msgstr ""
+"Die Startzeit muss mindest 10 Minuten nach der Registrierung oder "
+"Qualifikation sein, bitte geben Sie eine andere Uhrzeit oder ein anderes "
+"Datum ein"
 
 msgid "Starter"
 msgstr "Starter"
@@ -2698,6 +3610,33 @@ msgstr "Sonntag"
 msgid "Switch"
 msgstr "Wechseln"
 
+msgid "TEAM LEAD"
+msgstr "TEAM LEAD"
+
+msgid "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+msgstr "TEAM LEADS, NCSA CUSTOMER SUPPORT"
+
+msgid "TECHNICAL ANIMATOR"
+msgstr "TECHNICAL ANIMATOR"
+
+msgid "TECHNICAL DIRECTOR"
+msgstr "TECHNICAL DIRECTOR"
+
+msgid "TECHNICAL MANAGER"
+msgstr "TECHNICAL MANAGER"
+
+msgid "TECHNICAL OPERATIONS LEAD"
+msgstr "TECHNICAL OPERATIONS LEAD"
+
+msgid "TECHNICAL SPECIALIST"
+msgstr "TECHNICAL SPECIALIST"
+
+msgid "TECHNICAL SUPPORT COORDINATOR"
+msgstr "TECHNICAL SUPPORT COORDINATOR"
+
+msgid "TESTER"
+msgstr "TESTER"
+
 msgid ""
 "THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
 "PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
@@ -2706,6 +3645,9 @@ msgstr ""
 "VIELEN DANK AN ALL DIE UNGLAUBLICHEN ALPHA-TESTER AUS DEM TEAM UND VON DEN "
 "SPIELERN AUS ALLER WELT, DIE DAS SPIEL AUF EINE BESSERE ART UND WEISE "
 "GENIEßEN WERDEN. IHR GEIST UND IHR FACHWISSEN SIND IN EINER WELTKLASSELIGA."
+
+msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
+msgstr "TRACKING & ANALYTICS SPECIALIST, EMEA"
 
 msgid ""
 "TYPE: Free for all\n"
@@ -2751,6 +3693,9 @@ msgstr "Strecke testen"
 msgid "Test your maps"
 msgstr "Ihre Strecken testen"
 
+msgid "Thank you for playing."
+msgstr "Danke fürs Spielen."
+
 msgid "The %1 started, GL HF"
 msgstr "Das %1 hat begonnen, GL HF"
 
@@ -2790,8 +3735,11 @@ msgstr "Der Club-Name muss aus mindestens %1 und maximal %2 Zeichen bestehen"
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Der Club-Tag muss aus mindestens %1 und maximal %2 Zeichen bestehen"
 
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "Die Erstellung dieses Wettbewerbs ist fehlgeschlagen (Fehlercode: %1)"
+msgid ""
+"The creation of this competition failed, please try again (Error code: %1 %2)"
+msgstr ""
+"Die Erstellung dieses Wettkampf ist fehlgeschlagen, bitte versuchen Sie es "
+"erneut (Fehlercode: %1 %2)"
 
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
@@ -2811,7 +3759,7 @@ msgid "The headline has a maximum of %1 characters"
 msgstr "Die Überschrift darf höchstens %1 Zeichen lang sein"
 
 msgid "The leaderboard is now closed on this day!"
-msgstr "Die Rangliste ist heute geschlossen!"
+msgstr "Das Leaderboard ist jetzt geschlossen!"
 
 msgid "The map %1 is already used, please select an another map"
 msgstr ""
@@ -2829,6 +3777,10 @@ msgid ""
 msgstr ""
 "Die Strecke '%1' ist nicht spielbar. Bitte Strecke validieren und Schatten "
 "berechnen."
+
+msgid "The match is over, thank you for playing. You can leave now."
+msgstr ""
+"Das Match ist vorbei, danke für die Teilnahme. Sie können jetzt verlassen."
 
 msgid "The match started, GL HF"
 msgstr "Das Match hat begonnen, GL HF"
@@ -2905,7 +3857,7 @@ msgid ""
 "There was an error while gathering the leaderboard, please try again later. "
 "(Error code: %1)"
 msgstr ""
-"Beim Empfangen des Leaderboards trat ein Fehler auf. Bitte versuchen Sie es "
+"Beim Empfangen des Leaderboards trat ein Fehler auf, bitte versuchen Sie es "
 "später erneut. (Fehlercode: %1)"
 
 msgid ""
@@ -2914,6 +3866,13 @@ msgid ""
 msgstr ""
 "Beim Empfangen des Leaderboards trat ein Fehler auf. Bitte versuchen Sie es "
 "später erneut. (Fehler: Aufgabe nicht länger verfügbar)"
+
+msgid ""
+"There was an error while gathering the macth results, please try again "
+"later. (Error code: %1)"
+msgstr ""
+"Beim Laden der Match-Ergebnisse ist ein Fehler aufgetreten, bitte versuchen "
+"Sie es später erneut. (Fehlercode: %1)"
 
 msgid ""
 "There was an error while gathering the match results, please try again "
@@ -2951,6 +3910,9 @@ msgid ""
 msgstr ""
 "Dieser Block hat einen anpassbaren Skin. Drücken Sie %1, um ein gewünschtes "
 "Bild auszuwählen."
+
+msgid "This competition has ended"
+msgstr "Dieser Wettbewerb ist beendet"
 
 msgid "This is a dedicated server hosted by a player. It might be offline."
 msgstr ""
@@ -3060,6 +4022,51 @@ msgstr "Versuchen Sie, regelmäßig Checkpoints zu platzieren"
 msgid "Tuesday"
 msgstr "Dienstag"
 
+msgid "UBISOFT CLUB LINE PRODUCER"
+msgstr "UBISOFT CLUB LINE PRODUCER"
+
+msgid "UI DESIGNER"
+msgstr "UI DESIGNER"
+
+msgid "UI DESIGNER "
+msgstr "UI DESIGNER "
+
+msgid "UI PROGRAMMER"
+msgstr "UI PROGRAMMER"
+
+msgid "UI/UX DESIGN TEAM LEAD"
+msgstr "UI/UX DESIGN TEAM LEAD"
+
+msgid "UOR ASSOCIATE TEAM LEAD"
+msgstr "UOR ASSOCIATE TEAM LEAD"
+
+msgid "UOR PLATFORM OWNERS"
+msgstr "UOR PLATFORM OWNERS"
+
+msgid "UOR TEAM"
+msgstr "UOR TEAM"
+
+msgid "UOR TEAM LEAD"
+msgstr "UOR TEAM LEAD"
+
+msgid "UPLAY TEAM"
+msgstr "UPLAY TEAM"
+
+msgid "UX DESIGNER"
+msgstr "UX DESIGNER"
+
+msgid "UX DESIGNER "
+msgstr "UX DESIGNER "
+
+msgid "UX REQUIREMENTS"
+msgstr "UX REQUIREMENTS"
+
+msgid "UX REQUIREMENTS LEAD"
+msgstr "UX REQUIREMENTS LEAD"
+
+msgid "UX REQUIREMENTS SPECIALISTS"
+msgstr "UX REQUIREMENTS SPECIALISTS"
+
 msgid "Unapply"
 msgstr "Abwählen"
 
@@ -3087,6 +4094,9 @@ msgstr "Strecke hochladen"
 
 msgid "Upload a skin"
 msgstr "Skin hochladen"
+
+msgid "Upload image"
+msgstr "Bild hochladen"
 
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Hochladen des Logos fehlgeschlagen (Fehlercode: %1)"
@@ -3124,8 +4134,32 @@ msgstr "Gleichstand verwenden"
 msgid "Use your dedicated server"
 msgstr "Dedizierten Server verwenden"
 
+msgid "VEHICLE ARTIST"
+msgstr "VEHICLE ARTIST"
+
+msgid "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+msgstr "VICE PRESIDENT, AUDIENCE & CUSTOMER MANAGEMENT, EMEA"
+
+msgid "VICE PRESIDENT, PLAYER EXPERIENCE"
+msgstr "VICE PRESIDENT, PLAYER EXPERIENCE"
+
 msgid "VIPs from club '%1'"
 msgstr "VIPs vom Club '%1'"
+
+msgid "VP EDITORIAL"
+msgstr "VP EDITORIAL"
+
+msgid "VP EDITORIAL TECHNOLOGY"
+msgstr "VP EDITORIAL TECHNOLOGY"
+
+msgid "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+msgstr "VP, FINANCIAL PLANNING, STUDIO OPERATIONS & QC"
+
+msgid "VP, ONLINE SERVICES"
+msgstr "VP, ONLINE SERVICES"
+
+msgid "VP, PRODUCTION MANAGER"
+msgstr "VP, PRODUCTION MANAGER"
 
 msgid "Validate"
 msgstr "Validieren"
@@ -3194,6 +4228,45 @@ msgstr ""
 msgid "Vs race record"
 msgstr "vs. Streckenrekord"
 
+msgid "WEB CONTENT SPECIALIST"
+msgstr "WEB CONTENT SPECIALIST"
+
+msgid "WEB CONTENT SPECIALIST ASSISTANT"
+msgstr "WEB CONTENT SPECIALIST ASSISTANT"
+
+msgid "WEB DEVELOPER"
+msgstr "WEB DEVELOPER"
+
+msgid "WEB DEVELOPER ASSISTANT, EMEA"
+msgstr "WEB DEVELOPER ASSISTANT, EMEA"
+
+msgid "WEB DEVELOPER, EMEA"
+msgstr "WEB DEVELOPER, EMEA"
+
+msgid "WEB PRODUCER ASSISTANT, EMEA"
+msgstr "WEB PRODUCER ASSISTANT, EMEA"
+
+msgid "WEB PRODUCER, EMEA"
+msgstr "WEB PRODUCER, EMEA"
+
+msgid "WEB PROGRAMMER"
+msgstr "WEB PROGRAMMER"
+
+msgid "WEB PROJECT MANAGER, EMEA"
+msgstr "WEB PROJECT MANAGER, EMEA"
+
+msgid "WEB SERVICES DIRECTOR"
+msgstr "WEB SERVICES DIRECTOR"
+
+msgid "WEB SERVICES TEAM"
+msgstr "WEB SERVICES TEAM"
+
+msgid "WEB UI DESIGNER"
+msgstr "WEB UI DESIGNER"
+
+msgid "Wait for next match"
+msgstr "Auf nächstes Match warten"
+
 msgid "Waiting for other players."
 msgstr "Warte auf andere Spieler."
 
@@ -3209,14 +4282,20 @@ msgstr "Warte auf Ihr Match"
 msgid "Waiting for your match to start"
 msgstr "Warte auf den Start ihres Matches"
 
+msgid "Waiting for your match, this may take up to 3 minutes."
+msgstr "Warte auf Match, das könnte bis zu 3 Minuten dauern."
+
+msgid "Waiting on all matches currently in progress"
+msgstr "Warte auf alle derzeit laufenden Matches"
+
 msgid "Warm up"
 msgstr "Warm-Up"
 
 msgid "Warmup"
-msgstr "Warm-Up"
+msgstr "Warmup"
 
 msgid "Warmup: %1/%2"
-msgstr "Warm-Up: %1/%2"
+msgstr "Warmup: %1/%2"
 
 msgid "Watch warmup"
 msgstr "Warmup ansehen"
@@ -3268,6 +4347,9 @@ msgstr ""
 "Auf der rechten Seite des Bildschirms können Sie Ihren globalen Rang unter "
 "allen Servern sehen. Viel Glück!"
 
+msgid "Welcome to the Open Grand League"
+msgstr "Willkommen zur Open Grand League"
+
 msgid "Welcome to the club!"
 msgstr "Willkommen im Club!"
 
@@ -3318,6 +4400,31 @@ msgstr "Gelb"
 msgid "Yes"
 msgstr "Ja"
 
+msgid ""
+"You are about to participate in the $<$7FAOpen Grand League$>.\n"
+"\n"
+"The placement match that will begin shortly will allow you to race on all of "
+"the 6 TMGL maps from last week.\n"
+"\n"
+"You will have %1 minutes per map to go through as many checkpoints as you "
+"can.\n"
+"\n"
+"After the placement match, you will be placed in a division ($<$DA6bronze$>, "
+"$<$CCCsilver$>, $<$CB4gold$> or $<$FE0challenger$>) to compete in a league "
+"match to earn points for the $<$7FAOpen Grand League$>."
+msgstr ""
+"Sie sind dabei, an der $<$7FAOpen Grand League$> teilzunehmen.\n"
+"\n"
+"Das Platzierungsspiel, das in Kürze beginnt, wird es Ihnen ermöglichen, auf "
+"allen 6 TMGL-Karten der letzten Woche zu fahren.\n"
+"\n"
+"Pro Map haben Sie %1 Minuten Zeit, um so viele Checkpoints wie möglich zu "
+"passieren.\n"
+"\n"
+"Nach dem Platzierungsspiel werden Sie in einer Division ($<$DA6bronze$>, $<"
+"$CCCsilver$>, $<$CB4gold$> oder $<$FE0challenger$>) platziert, um an einem "
+"Ligaspiel teilzunehmen und Punkte für die Liga zu sammeln."
+
 msgid "You are being transferred as a substitute."
 msgstr "Sie werden als Ersatz weitergeleitet."
 
@@ -3336,6 +4443,9 @@ msgstr "Die Verbindung zu den Trackmania-Servern wurde getrennt."
 msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Sie sind nicht mit den TrackMania-Servern verbunden. (Fehlercode: %1)"
 
+msgid "You are eliminated"
+msgstr "Sie sind eliminiert"
+
 msgid "You are in zone: %1."
 msgstr "Sie sind in der Zone: %1."
 
@@ -3347,6 +4457,12 @@ msgstr "Sie haben sich noch nicht für ein Event angemeldet"
 
 msgid "You are not subscribed to any club"
 msgstr "Sie haben sich bei keinem Club eingetragen"
+
+msgid "You are qualified"
+msgstr "Sie sind qualifiziert"
+
+msgid "You are registered for this event."
+msgstr "Sie sind für dieses Event registriert."
 
 msgid "You are suspended"
 msgstr "Sie müssen aussetzen"
@@ -3517,6 +4633,12 @@ msgstr "Sie werden bald zu einem Matchserver umgeleitet."
 msgid "Your map in less than %1 minutes"
 msgstr "Deine Strecke in weniger als %1 Minute(n)"
 
+msgid "Your match is ready"
+msgstr "Ihr Match ist bereit"
+
+msgid "Your next match is ready."
+msgstr "Ihr nächstes Match ist bereit."
+
 msgid "Your search did not return any results"
 msgstr "Ihre Suche ergab keine Treffer"
 
@@ -3552,9 +4674,6 @@ msgstr "Starter-Zugang"
 
 msgid "support %1: \"go %2\" in chat"
 msgstr "%1 unterstützen: \"go %2\" im Chat"
-
-msgid "yes"
-msgstr "ja"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "|%1 is the number of matches|Sie können %1 Match/es abbrechen."
@@ -3832,7 +4951,7 @@ msgid "|Club|Description"
 msgstr "|Club|Beschreibung"
 
 msgid "|Club|Feature"
-msgstr "|Club|Ausstellen"
+msgstr "|Club|Hervorheben"
 
 msgid "|Club|Global VIP"
 msgstr "|Club|Globaler VIP"
@@ -3861,6 +4980,9 @@ msgstr "|Club|Anfragen"
 msgid "|Club|Unfeature"
 msgstr "|Club|Zurückziehen"
 
+msgid "|Club|Unpin club"
+msgstr "|Club|Club lösen"
+
 msgid "|Club|VIP"
 msgstr "|Club|VIP"
 
@@ -3869,6 +4991,21 @@ msgstr "|Club|Anfrage"
 
 msgid "|Club|requests"
 msgstr "|Club|Anfragen"
+
+msgid "|Competition|Entry"
+msgstr "|Competition|Eingang"
+
+msgid "|Competition|Infos"
+msgstr "|Competition|Infos"
+
+msgid "|Competition|Map Pool"
+msgstr "|Competition|Streckenauswahl"
+
+msgid "|Competition|Matches"
+msgstr "|Competition|Matches"
+
+msgid "|Competition|Rounds"
+msgstr "|Competition|Runden"
 
 msgid "|DataType|Campaign"
 msgstr "|DataType|Kampagne"
@@ -3972,6 +5109,9 @@ msgstr "|ImageType|Aufkleber"
 msgid "|ImageType|Decal sponsor"
 msgstr "|ImageType|Sponsorenaufkleber"
 
+msgid "|ImageType|Icon"
+msgstr "|Competition|Symbol"
+
 msgid "|ImageType|Logo"
 msgstr "|ImageType|Logo"
 
@@ -3992,6 +5132,18 @@ msgstr "|ImageType|Vertikal"
 
 msgid "|Image|Background"
 msgstr "|Image|Hintergrund"
+
+msgid "|Image|Decal"
+msgstr "|Image|Aufdruck"
+
+msgid "|Image|Icon"
+msgstr "|Image|Symbol"
+
+msgid "|Image|Logo"
+msgstr "|Image|Logo"
+
+msgid "|Image|Screen"
+msgstr "|Image|Bildschirm"
 
 msgid "|Image|Vertical"
 msgstr "|Image|Vertikal"
@@ -4351,8 +5503,14 @@ msgstr "|Map|Neu"
 msgid "|Match|%1Draw"
 msgstr "|Match|%1Unentschieden"
 
+msgid "|Match|Completed"
+msgstr "|Match|Fertig"
+
 msgid "|Match|Draw"
 msgstr "|Match|Unentschieden"
+
+msgid "|Match|In Progress"
+msgstr "|Match|Am laufen"
 
 msgid "|Medal|Finished"
 msgstr "|Medal|Abgeschlossen"
@@ -4436,7 +5594,7 @@ msgid "|Personal best|PB"
 msgstr "|Personal best|PB"
 
 msgid "|Points|pts"
-msgstr "|Point|Pkte"
+msgstr "|Point|Pkt."
 
 msgid "|Point|pt"
 msgstr "|Point|Pkt"

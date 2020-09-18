@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 19:49+0000\n"
+"PO-Revision-Date: 2020-09-17 08:44+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -320,9 +320,6 @@ msgstr "Todos los clubs"
 
 msgid "All events"
 msgstr "Todos los eventos"
-
-msgid "All fields must be completed"
-msgstr "Todos los campos son obligatorios"
 
 msgid "Allies"
 msgstr "Aliados"
@@ -3272,18 +3269,12 @@ msgstr "El cuerpo tiene un máximo de %1 caracteres"
 msgid "The campaign name must not exceed %1 characters"
 msgstr "El nombre de la campaña no debe exceder %1 caracteres"
 
-msgid "The club description must be shorter than %1 characters"
-msgstr "La descripción del club debe tener entre %1 y %2 caracteres"
-
 msgid "The club name has a minimum of %1 and a maximum of %2 characters"
 msgstr "El nombre del club tiene un mínimo de %1 caracteres y un máximo de %2"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr ""
 "La insignia del club tiene un mínimo de %1 caracteres y un máximo de %2"
-
-msgid "The creation of the competition failed (Error code: %1)"
-msgstr "La creación de la competición falló (Código de error: %1)"
 
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
@@ -4022,9 +4013,6 @@ msgstr "acceso estándar"
 
 msgid "starter access"
 msgstr "acceso inicial"
-
-msgid "yes"
-msgstr "si"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "Puedes cancelar %1 emparejamientos."
