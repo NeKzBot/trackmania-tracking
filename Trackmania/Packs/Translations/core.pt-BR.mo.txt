@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 21:03+0000\n"
+"PO-Revision-Date: 2020-09-23 03:15+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -839,6 +839,9 @@ msgstr "Alt + clique na Linha do Tempo"
 
 msgid "Always"
 msgstr "Sempre"
+
+msgid "Always display records"
+msgstr "Sempre exibir recordes"
 
 msgid "Ambiance"
 msgstr "Ambiance"
@@ -2276,6 +2279,9 @@ msgstr "Buzina padrão"
 
 msgid "Default image"
 msgstr "Imagem padrão"
+
+msgid "Default opponents visibility"
+msgstr "Visibilidade de oponentes padrão"
 
 msgid "Default sound"
 msgstr "Som padrão"
@@ -3836,7 +3842,7 @@ msgid "Item Mode"
 msgstr "Modo Item"
 
 msgid "Item Mode [F3]"
-msgstr "Modo Item"
+msgstr "Modo Item [F3]"
 
 msgid "Item already loaded in this store."
 msgstr "Item já carregado nesta loja."
@@ -4142,7 +4148,7 @@ msgid "Macroblock Mode"
 msgstr "Modo Macrobloco"
 
 msgid "Macroblock Mode [F4]"
-msgstr "Modo Macrobloco"
+msgstr "Modo Macrobloco [F4]"
 
 msgid "Macroblock deleted"
 msgstr "Macrobloco excluído"
@@ -6695,6 +6701,9 @@ msgstr "Assistir"
 
 msgid "Spectator"
 msgstr "Espectador"
+
+msgid "Spectators placement computed"
+msgstr "Posicionamento de espectadores calculado"
 
 msgid "Speed"
 msgstr "Velocidade"
@@ -11855,6 +11864,9 @@ msgstr "|PlayerStateComponent|Lista de Armas"
 
 msgid "|PlayerVisibility|Hidden"
 msgstr "|PlayerVisibility|Escondida"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|Antiga"
 
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Opaco"

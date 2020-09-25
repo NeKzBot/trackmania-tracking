@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-17 08:44+0000\n"
+"PO-Revision-Date: 2020-09-25 11:39+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -196,6 +196,9 @@ msgstr "플레이어 %1"
 msgid "%1 players"
 msgstr "플레이어 %1명"
 
+msgid "%1 points"
+msgstr "%1 포인트"
+
 msgid "%1 replays selected"
 msgstr "리플레이 %1개 선택됨"
 
@@ -232,8 +235,14 @@ msgstr "%1최고의 레이스"
 msgid "%1Personal best"
 msgstr "%1개인 최고기록"
 
+msgid "0 points"
+msgstr "0 포인트"
+
 msgid "1 player"
 msgstr "플레이어 1명"
+
+msgid "1 point"
+msgstr "1 포인트"
 
 msgid "16th final"
 msgstr "16번째 결승"
@@ -1135,6 +1144,13 @@ msgid "EXTERNAL PARTNERS"
 msgstr "외부 협력업체"
 
 msgid ""
+"Each player is being placed in a division after finishing their placement "
+"match. You will discover your division when joining your league match."
+msgstr ""
+"각 플레이어는 순위 경기를 마친 후 디비전에 배치됩니다. 리그 매치에 참여하면 "
+"자신의 디비전을 알게 됩니다."
+
+msgid ""
 "Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
 "%1 right after%2 and respresent your country."
 msgstr ""
@@ -1430,12 +1446,22 @@ msgstr "FINANCIAL PLANNING, STUDIOS OPERATIONS & QC"
 msgid "FRONT-END ENGINEER"
 msgstr "FRONT-END ENGINEER"
 
+msgid "Failed to join server, please join next match from the Event page"
+msgstr ""
+"서버에 참가하지 못했습니다. 이벤트 페이지를 통해 다음 매치에 참가하십시오."
+
 msgid ""
 "Failed to join server, please join next match from the Event page. Return to "
 "the main menu in"
 msgstr ""
 "서버에 참가할 수 없습니다. 이벤트 페이지를 통해 다음 경기에 참가하세요. 시간"
 "이 경과하면 메인 메뉴로 이동합니다"
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event page"
+msgstr ""
+"매치 참여 링크를 가져오지 못했습니다. 이벤트 페이지를 통해 다음 경기에 참가하"
+"십시오."
 
 msgid ""
 "Failed to obtain match join link, please join next match from the Event "
@@ -1624,6 +1650,13 @@ msgstr ""
 
 msgid ""
 "If you are not redirected, please return to the main menu and join next "
+"match from the Event page"
+msgstr ""
+"만약 자동으로 이동하지 않으면 메인 메뉴로 나가서 이벤트 페이지를 통해 다음 매"
+"치에 참가하십시오."
+
+msgid ""
+"If you are not redirected, please return to the main menu and join next "
 "match from the Event page."
 msgstr ""
 "만약 자동으로 이동하지 않으면 메인 메뉴로 나가서 이벤트 페이지를 통해 다음 경"
@@ -1707,6 +1740,9 @@ msgstr "공개 클럽 활동에 참여보십시오. 캠페인과 온라인 룸"
 
 msgid "Joining friends"
 msgstr "친구와 합류하는 중"
+
+msgid "Joining in %1"
+msgstr "%1 후에 참여"
 
 msgid "Jump to map"
 msgstr "맵으로 점프"
@@ -1807,6 +1843,9 @@ msgstr "선두"
 msgid "Leaderboard is empty"
 msgstr "리더보드가 비어있습니다"
 
+msgid "Leaderboards are now closed on this campaign!"
+msgstr "이 캠페인의 순위표는 지금 폐쇄됩니다!"
+
 msgid "League match"
 msgstr "리그 경기"
 
@@ -1866,6 +1905,9 @@ msgstr "캠페인 불러오는 중..."
 
 msgid "Loading records"
 msgstr "기록 불러오는 중"
+
+msgid "Loading results..."
+msgstr "결과 로딩 중..."
 
 msgid "Loading room informations..."
 msgstr "룸 정보 불러오는 중..."
@@ -2486,6 +2528,9 @@ msgstr ""
 msgid "Placement match"
 msgstr "순위 매치"
 
+msgid "Placement match finished"
+msgstr "순위 매치가 종료되었습니다"
+
 msgid "Platform"
 msgstr "플랫폼"
 
@@ -2552,6 +2597,9 @@ msgstr "플레이어 순서"
 
 msgid "Players per match"
 msgstr "경기 당 플레이어 수"
+
+msgid "Players will be rewarded as follows"
+msgstr "플레이어는 다음과 같은 보상을 받습니다"
 
 msgid "Please reconnect the %1"
 msgstr "%1와 다시 연결하십시오."
@@ -2876,6 +2924,9 @@ msgstr "맵 목록을 불러오는 중..."
 
 msgid "Retry"
 msgstr "재시도"
+
+msgid "Return to the main menu in %1"
+msgstr "%1 후에 메인 메뉴로 이동"
 
 msgid "Right click : hide/show the module"
 msgstr "우클릭: 모듈을 숨기거나 표시합니다"
@@ -4101,6 +4152,9 @@ msgstr "매치 시작을 기다리는 중"
 msgid "Waiting for your match, this may take up to 3 minutes."
 msgstr "다음 경기를 기다리는 중. 최대 3분이 소요됩니다."
 
+msgid "Waiting for your match, this may take up to 3 minutes..."
+msgstr "경기를 기다리는 중입니다. 최대 3분까지 걸릴 수 있습니다..."
+
 msgid "Waiting on all matches currently in progress"
 msgstr "진행 중인 모든 경기가 끝날 때까지 기다리는 중"
 
@@ -4161,6 +4215,9 @@ msgstr ""
 "은 트로피를 획득할 수 있습니다. \n"
 "화면 오른쪽에서 모든 서버에 걸친 전체 랭킹을 볼 수 있습니다. 행운을 빕니다!"
 
+msgid "Welcome to the Open Grand League"
+msgstr "오픈 그랜드 리그에 오신 것을 환영합니다"
+
 msgid "Welcome to the club!"
 msgstr "클럽에 오신 것을 환영합니다!"
 
@@ -4209,6 +4266,31 @@ msgstr "노란색"
 msgid "Yes"
 msgstr "예"
 
+msgid ""
+"You are about to participate in the $<$7FAOpen Grand League$>.\n"
+"\n"
+"The placement match that will begin shortly will allow you to race on all of "
+"the 6 TMGL maps from last week.\n"
+"\n"
+"You will have %1 minutes per map to go through as many checkpoints as you "
+"can.\n"
+"\n"
+"After the placement match, you will be placed in a division ($<$DA6bronze$>, "
+"$<$CCCsilver$>, $<$CB4gold$> or $<$FE0challenger$>) to compete in a league "
+"match to earn points for the $<$7FAOpen Grand League$>."
+msgstr ""
+"$<$7FAOpen Grand League$>에 참가하려고 하고 계십니다.\n"
+" \n"
+"곧 시작될 예정인 순위 매치에서는 지난 주의 6개 TMGL 맵 모두에서 레이스를 펼"
+"칠 수 있습니다. \n"
+" \n"
+"각 맵마다 달리며 최대한 많은 체크포인트를 통과하도록 %1분의 시간이 주어집니"
+"다. \n"
+" \n"
+"순위 매치가 끝나면 디비전($<$DA6bronze$>, $<$CCCsilver$>, $<$CB4gold$> 또는 "
+"$<$FE0challenger$>)에 배치되어 $<$7FAOpen Grand League$>를 위한 포인트를 획득"
+"하기 위해 리그 매치에서 경쟁하게 됩니다."
+
 msgid "You are being transferred as a substitute."
 msgstr "교체 선수로 이동 중입니다."
 
@@ -4229,6 +4311,9 @@ msgstr "Trackmania 서버와의 연결이 끊어졌습니다. (오류 코드: %1
 
 msgid "You are eliminated"
 msgstr "탈락하셨습니다"
+
+msgid "You are in the $<%1%2$> division"
+msgstr "플레이어는 $<%1%2$> 디비전에 속해 있습니다"
 
 msgid "You are in zone: %1."
 msgstr "현재 구역: %1"
@@ -4294,6 +4379,9 @@ msgstr "진행 중인 이벤트가 없습니다"
 
 msgid "You don't have any server accounts registered."
 msgstr "등록된 서버 계정을 보유하고 있지 않습니다."
+
+msgid "You finished $<$7FA%1$> on your placement match"
+msgstr "순위 매치를 $<$7FA%1$>(으)로 마쳤습니다"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -4398,6 +4486,9 @@ msgstr "매치 서버로 곧 이동합니다."
 
 msgid "Your map in less than %1 minutes"
 msgstr "지도 검토까지 %1 분 이하"
+
+msgid "Your match is ready"
+msgstr "매치가 준비되었습니다."
 
 msgid "Your next match is ready."
 msgstr "다음 경기가 준비되었습니다."

@@ -3,22 +3,22 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
 ---------  ---------- -----   ----
       807  2020-08-28 18:10   CopyTextureFloatToInt_c.hlsl.GpuCache.Gbx
       807  2020-08-28 18:10   CopyTextureIntToFloat_c.hlsl.GpuCache.Gbx
-      666  2020-09-10 09:10   Bench/Anisotropy_p.hlsl.GpuCache.Gbx
+      663  2020-09-24 13:35   Bench/Anisotropy_p.hlsl.GpuCache.Gbx
      1799  2020-08-28 18:10   Bench/Anisotropy_v.hlsl.GpuCache.Gbx
-      538  2020-09-10 09:10   Bench/Geometry_p.hlsl.GpuCache.Gbx
+      535  2020-09-24 13:35   Bench/Geometry_p.hlsl.GpuCache.Gbx
       970  2020-08-31 18:01   Bench/Geometry_v.hlsl.GpuCache.Gbx
-      596  2020-09-10 09:10   Bench/OutputBandwidth_p.hlsl.GpuCache.Gbx
+      596  2020-09-24 13:35   Bench/OutputBandwidth_p.hlsl.GpuCache.Gbx
      1730  2020-08-28 18:10   Bench/OutputBandwidth_v.hlsl.GpuCache.Gbx
-      839  2020-09-10 09:10   Bench/PixelArithmetic_p.hlsl.GpuCache.Gbx
+      839  2020-09-24 13:35   Bench/PixelArithmetic_p.hlsl.GpuCache.Gbx
      2607  2020-09-03 11:50   Clouds/Clouds_v.hlsl.GpuCache.Gbx
-     3383  2020-09-10 09:10   Clouds/CloudsEdgeLight_p.hlsl.GpuCache.Gbx
-     3632  2020-09-10 09:10   Clouds/CloudsGodLight_p.hlsl.GpuCache.Gbx
-     3644  2020-09-10 09:10   Clouds/CloudsGodMask_p.hlsl.GpuCache.Gbx
-     8063  2020-09-10 09:10   Clouds/CloudsT3b_p.hlsl.GpuCache.Gbx
+     3344  2020-09-24 13:35   Clouds/CloudsEdgeLight_p.hlsl.GpuCache.Gbx
+     3608  2020-09-24 13:35   Clouds/CloudsGodLight_p.hlsl.GpuCache.Gbx
+     3623  2020-09-24 13:35   Clouds/CloudsGodMask_p.hlsl.GpuCache.Gbx
+     9520  2020-09-24 13:35   Clouds/CloudsT3b_p.hlsl.GpuCache.Gbx
      4581  2020-09-03 11:50   Clouds/CloudsT3b_v.hlsl.GpuCache.Gbx
-     1369  2020-09-10 09:10   Clouds/CloudsTech3_Opacity_p.hlsl.GpuCache.Gbx
+     1379  2020-09-24 13:35   Clouds/CloudsTech3_Opacity_p.hlsl.GpuCache.Gbx
      3635  2020-09-03 11:50   Clouds/CloudsTech3_Opacity_v.hlsl.GpuCache.Gbx
-     3747  2020-09-10 09:10   Clouds/CloudsTech3_p.hlsl.GpuCache.Gbx
+     3753  2020-09-24 13:35   Clouds/CloudsTech3_p.hlsl.GpuCache.Gbx
      4030  2020-09-03 11:50   Clouds/CloudsTech3_v.hlsl.GpuCache.Gbx
      7174  2020-08-28 18:18   Clouds/Media/Text/PHLSL/CloudsT3b.PHlsl.Txt.GpuCache.Gbx
      1416  2020-08-28 18:18   Clouds/Media/Text/PHLSL/CloudsTech3_Opacity.PHlsl.Txt.GpuCache.Gbx
@@ -26,17 +26,17 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      4678  2020-08-28 18:18   Clouds/Media/Text/VHLSL/CloudsT3b.VHlsl.Txt.GpuCache.Gbx
      3721  2020-08-28 18:18   Clouds/Media/Text/VHLSL/CloudsTech3_Opacity.VHlsl.Txt.GpuCache.Gbx
      4115  2020-08-28 18:18   Clouds/Media/Text/VHLSL/CloudsTech3PC3.VHlsl.Txt.GpuCache.Gbx
-      970  2020-09-10 09:10   Editor/DebugOcclusion_p.hlsl.GpuCache.Gbx
+      967  2020-09-24 13:35   Editor/DebugOcclusion_p.hlsl.GpuCache.Gbx
       954  2020-08-28 18:10   Editor/DebugOcclusion_v.hlsl.GpuCache.Gbx
-      538  2020-09-10 09:10   Editor/PointsInSphere_p.hlsl.GpuCache.Gbx
+      535  2020-09-24 13:35   Editor/PointsInSphere_p.hlsl.GpuCache.Gbx
      2484  2020-08-28 18:10   Editor/PointsInSphere_v.hlsl.GpuCache.Gbx
      4671  2020-08-28 18:10   Effects/FXAA_p.hlsl.GpuCache.Gbx
      1724  2020-08-28 18:10   Effects/FXAA_v.hlsl.GpuCache.Gbx
-     3240  2020-09-10 09:10   Effects/MotionBlur2d_p.hlsl.GpuCache.Gbx
-     4378  2020-09-10 09:11   Effects/OccZCmp_p.hlsl.GpuCache.Gbx
+     3226  2020-09-24 13:35   Effects/MotionBlur2d_p.hlsl.GpuCache.Gbx
+     4348  2020-09-24 13:35   Effects/OccZCmp_p.hlsl.GpuCache.Gbx
      2206  2020-08-28 18:10   Effects/OccZCmp_v.hlsl.GpuCache.Gbx
-     3388  2020-09-10 09:10   Effects/SSAA_Accum_p.hlsl.GpuCache.Gbx
-      838  2020-09-10 09:10   Effects/SSAA_SetMult_p.hlsl.GpuCache.Gbx
+     3342  2020-09-24 13:35   Effects/SSAA_Accum_p.hlsl.GpuCache.Gbx
+      839  2020-09-24 13:35   Effects/SSAA_SetMult_p.hlsl.GpuCache.Gbx
      2589  2020-09-03 11:50   Effects/Fog/ComputeFogSpaceInfo_c.hlsl.GpuCache.Gbx
      4651  2020-08-28 18:10   Effects/Fog/FogInC_Compute_c.hlsl.GpuCache.Gbx
       689  2020-08-28 18:10   Effects/Fog/FogInC_Copy_c.hlsl.GpuCache.Gbx
@@ -44,106 +44,106 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
       470  2020-08-28 18:10   Effects/Fog/FogSpaceInfoRender_p.hlsl.GpuCache.Gbx
      4213  2020-09-03 11:50   Effects/Fog/FogSpaceInfoRender_v.hlsl.GpuCache.Gbx
      2914  2020-09-03 11:50   Effects/Fog/UpdateFog_c.hlsl.GpuCache.Gbx
-     2210  2020-09-10 09:17   Effects/Media/Text/3DVolumetricFog_ComputeInScatteringAndDensity_cs.hlsl.GpuCache.Gbx
-      998  2020-09-10 09:17   Effects/Media/Text/3DVolumetricFog_RayMarching_cs.hlsl.GpuCache.Gbx
-     2667  2020-09-10 09:17   Effects/Media/Text/Energy/EnergyAnalytic_ps.hlsl.GpuCache.Gbx
-     2236  2020-09-10 09:17   Effects/Media/Text/Energy/EnergyAnalytic_vs.hlsl.GpuCache.Gbx
-      993  2020-09-10 09:17   Effects/Media/Text/PHlsl/2dFlareAdd_Hdr.PHlsl.Txt.GpuCache.Gbx
-     2869  2020-09-10 09:17   Effects/Media/Text/PHlsl/2dLensDirtAdd.PHlsl.Txt.GpuCache.Gbx
-     2971  2020-09-10 09:17   Effects/Media/Text/PHlsl/3DVolumetricFog.PHlsl.Txt.GpuCache.Gbx
-     3160  2020-09-10 09:17   Effects/Media/Text/PHlsl/ColorsPC3.PHlsl.Txt.GpuCache.Gbx
-     1285  2020-09-10 09:17   Effects/Media/Text/PHlsl/DownSize2x2AvgInLdr.PHlsl.txt.GpuCache.Gbx
-     1545  2020-09-10 09:17   Effects/Media/Text/PHlsl/DownSize3x3AvgInLdr.PHlsl.txt.GpuCache.Gbx
+     2205  2020-09-24 13:42   Effects/Media/Text/3DVolumetricFog_ComputeInScatteringAndDensity_cs.hlsl.GpuCache.Gbx
+      998  2020-09-24 13:42   Effects/Media/Text/3DVolumetricFog_RayMarching_cs.hlsl.GpuCache.Gbx
+     2660  2020-09-24 13:42   Effects/Media/Text/Energy/EnergyAnalytic_ps.hlsl.GpuCache.Gbx
+     2231  2020-09-24 13:42   Effects/Media/Text/Energy/EnergyAnalytic_vs.hlsl.GpuCache.Gbx
+      997  2020-09-24 13:42   Effects/Media/Text/PHlsl/2dFlareAdd_Hdr.PHlsl.Txt.GpuCache.Gbx
+     2858  2020-09-24 13:42   Effects/Media/Text/PHlsl/2dLensDirtAdd.PHlsl.Txt.GpuCache.Gbx
+     2954  2020-09-24 13:42   Effects/Media/Text/PHlsl/3DVolumetricFog.PHlsl.Txt.GpuCache.Gbx
+     3140  2020-09-24 13:42   Effects/Media/Text/PHlsl/ColorsPC3.PHlsl.Txt.GpuCache.Gbx
+     1281  2020-09-24 13:42   Effects/Media/Text/PHlsl/DownSize2x2AvgInLdr.PHlsl.txt.GpuCache.Gbx
+     1540  2020-09-24 13:42   Effects/Media/Text/PHlsl/DownSize3x3AvgInLdr.PHlsl.txt.GpuCache.Gbx
      1949  2020-08-28 18:18   Effects/Media/Text/PHlsl/Fx_DebugBitmap.PHlsl.Txt.GpuCache.Gbx
      6332  2020-08-28 18:18   Effects/Media/Text/PHlsl/FXAA.PHlsl.txt.GpuCache.Gbx
-     2701  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloom_EdShowBlow.PHlsl.Txt.GpuCache.Gbx
-     2752  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloom_Final.PHlsl.Txt.GpuCache.Gbx
-     2676  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloom_StreaksSelectSrc.PHlsl.Txt.GpuCache.Gbx
-     2765  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloom_StreaksWorkDir.PHlsl.Txt.GpuCache.Gbx
-     3289  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloomSelectFilterDown2.PHlsl.Txt.GpuCache.Gbx
-     4009  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxBloomSelectFilterDown4.PHlsl.Txt.GpuCache.Gbx
-     2812  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxColorGrading.PHlsl.Txt.GpuCache.Gbx
-     2004  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxDistorAtDepth.PHlsl.Txt.GpuCache.Gbx
-      946  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxDistorGetDepthIntens.PHlsl.Txt.GpuCache.Gbx
-     1031  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxDistorImageSpace.PHlsl.Txt.GpuCache.Gbx
-     1453  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxEdgeBlender_Detect.PHlsl.Txt.GpuCache.Gbx
-     1528  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxEdgeBlender_Gutter.PHlsl.Txt.GpuCache.Gbx
-     1182  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxHorizonBlur.PHlsl.Txt.GpuCache.Gbx
-     4293  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxSSAA_Accum.PHlsl.Txt.GpuCache.Gbx
-     2653  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxSSAA_SetMult.PHlsl.Txt.GpuCache.Gbx
-     2645  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxStereo_DebugBlend.PHlsl.txt.GpuCache.Gbx
-      823  2020-09-10 09:17   Effects/Media/Text/PHlsl/FxStereo_Interlaced.PHlsl.txt.GpuCache.Gbx
-      720  2020-09-10 09:17   Effects/Media/Text/PHlsl/GrassMarkFenceIntens.PHlsl.Txt.GpuCache.Gbx
-     3634  2020-09-10 09:17   Effects/Media/Text/PHlsl/LightTrail PC3.PHlsl.Txt.GpuCache.Gbx
+     2684  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloom_EdShowBlow.PHlsl.Txt.GpuCache.Gbx
+     2743  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloom_Final.PHlsl.Txt.GpuCache.Gbx
+     2661  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloom_StreaksSelectSrc.PHlsl.Txt.GpuCache.Gbx
+     2745  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloom_StreaksWorkDir.PHlsl.Txt.GpuCache.Gbx
+     3251  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloomSelectFilterDown2.PHlsl.Txt.GpuCache.Gbx
+     3966  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxBloomSelectFilterDown4.PHlsl.Txt.GpuCache.Gbx
+     2804  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxColorGrading.PHlsl.Txt.GpuCache.Gbx
+     2005  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxDistorAtDepth.PHlsl.Txt.GpuCache.Gbx
+      945  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxDistorGetDepthIntens.PHlsl.Txt.GpuCache.Gbx
+     1028  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxDistorImageSpace.PHlsl.Txt.GpuCache.Gbx
+     1452  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxEdgeBlender_Detect.PHlsl.Txt.GpuCache.Gbx
+     1529  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxEdgeBlender_Gutter.PHlsl.Txt.GpuCache.Gbx
+     1179  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxHorizonBlur.PHlsl.Txt.GpuCache.Gbx
+     4311  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxSSAA_Accum.PHlsl.Txt.GpuCache.Gbx
+     2637  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxSSAA_SetMult.PHlsl.Txt.GpuCache.Gbx
+     2641  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxStereo_DebugBlend.PHlsl.txt.GpuCache.Gbx
+      825  2020-09-24 13:42   Effects/Media/Text/PHlsl/FxStereo_Interlaced.PHlsl.txt.GpuCache.Gbx
+      717  2020-09-24 13:42   Effects/Media/Text/PHlsl/GrassMarkFenceIntens.PHlsl.Txt.GpuCache.Gbx
+     3632  2020-09-24 13:42   Effects/Media/Text/PHlsl/LightTrail PC3.PHlsl.Txt.GpuCache.Gbx
      3267  2020-08-28 18:18   Effects/Media/Text/PHlsl/MotionB_Tech3.PHlsl.Txt.GpuCache.Gbx
-     2782  2020-09-10 09:17   Effects/Media/Text/PHlsl/RasterDistor2d.PHlsl.Txt.GpuCache.Gbx
-      736  2020-09-10 09:17   Effects/Media/Text/PHlsl/ShadowCaster.PHlsl.Txt.GpuCache.Gbx
-     4728  2020-09-10 09:17   Effects/Media/Text/PHlsl/SmGoalOffZone_Perlin3d.PHlsl.Txt.GpuCache.Gbx
-     5916  2020-09-10 09:17   Effects/Media/Text/PHlsl/SmOffZone_Perlin3d.PHlsl.Txt.GpuCache.Gbx
-     5282  2020-09-10 09:17   Effects/Media/Text/PHlsl/SmVortexParticle.PHlsl.Txt.GpuCache.Gbx
-     3139  2020-09-10 09:17   Effects/Media/Text/PHlsl/Stem.PHlsl.Txt.GpuCache.Gbx
-     2821  2020-09-10 09:17   Effects/Media/Text/PHlsl/StereoAnaglyphFullColorPC3.PHlsl.Txt.GpuCache.Gbx
-     2962  2020-09-10 09:17   Effects/Media/Text/PHlsl/StereoAnaglyphHalfColorPC3.PHlsl.Txt.GpuCache.Gbx
-     2818  2020-09-10 09:17   Effects/Media/Text/PHlsl/StereoAnaglyphLinear.PHlsl.Txt.GpuCache.Gbx
-     1420  2020-09-10 09:17   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Analytic_cs.hlsl.GpuCache.Gbx
-     2149  2020-09-10 09:17   Effects/Media/Text/SignedDistanceField/SignedDistanceField_BruteForce_cs.hlsl.GpuCache.Gbx
-      500  2020-09-10 09:17   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Render_ps.hlsl.GpuCache.Gbx
-     1846  2020-09-10 09:17   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Render_vs.hlsl.GpuCache.Gbx
-      748  2020-09-10 09:17   Effects/Media/Text/VHLSL/2dFlareAdd_Hdr.VHlsl.Txt.GpuCache.Gbx
-      752  2020-09-10 09:17   Effects/Media/Text/VHLSL/2dLensDirtAdd.VHlsl.Txt.GpuCache.Gbx
-      919  2020-09-10 09:17   Effects/Media/Text/VHLSL/DownSizeAvgInLdr.VHlsl.Txt.GpuCache.Gbx
+     2773  2020-09-24 13:42   Effects/Media/Text/PHlsl/RasterDistor2d.PHlsl.Txt.GpuCache.Gbx
+      736  2020-09-24 13:42   Effects/Media/Text/PHlsl/ShadowCaster.PHlsl.Txt.GpuCache.Gbx
+     4678  2020-09-24 13:42   Effects/Media/Text/PHlsl/SmGoalOffZone_Perlin3d.PHlsl.Txt.GpuCache.Gbx
+     5884  2020-09-24 13:42   Effects/Media/Text/PHlsl/SmOffZone_Perlin3d.PHlsl.Txt.GpuCache.Gbx
+     5180  2020-09-24 13:42   Effects/Media/Text/PHlsl/SmVortexParticle.PHlsl.Txt.GpuCache.Gbx
+     3119  2020-09-24 13:42   Effects/Media/Text/PHlsl/Stem.PHlsl.Txt.GpuCache.Gbx
+     2814  2020-09-24 13:42   Effects/Media/Text/PHlsl/StereoAnaglyphFullColorPC3.PHlsl.Txt.GpuCache.Gbx
+     2958  2020-09-24 13:42   Effects/Media/Text/PHlsl/StereoAnaglyphHalfColorPC3.PHlsl.Txt.GpuCache.Gbx
+     2816  2020-09-24 13:42   Effects/Media/Text/PHlsl/StereoAnaglyphLinear.PHlsl.Txt.GpuCache.Gbx
+     1420  2020-09-24 13:42   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Analytic_cs.hlsl.GpuCache.Gbx
+     2149  2020-09-24 13:42   Effects/Media/Text/SignedDistanceField/SignedDistanceField_BruteForce_cs.hlsl.GpuCache.Gbx
+      500  2020-09-24 13:42   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Render_ps.hlsl.GpuCache.Gbx
+     1848  2020-09-24 13:42   Effects/Media/Text/SignedDistanceField/SignedDistanceField_Render_vs.hlsl.GpuCache.Gbx
+      752  2020-09-24 13:42   Effects/Media/Text/VHLSL/2dFlareAdd_Hdr.VHlsl.Txt.GpuCache.Gbx
+      752  2020-09-24 13:42   Effects/Media/Text/VHLSL/2dLensDirtAdd.VHlsl.Txt.GpuCache.Gbx
+      915  2020-09-24 13:42   Effects/Media/Text/VHLSL/DownSizeAvgInLdr.VHlsl.Txt.GpuCache.Gbx
       936  2020-08-28 18:18   Effects/Media/Text/VHLSL/Fx_DebugBitmap.VHlsl.Txt.GpuCache.Gbx
      1778  2020-08-28 18:18   Effects/Media/Text/VHLSL/FXAA.VHlsl.Txt.GpuCache.Gbx
-      641  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxColorGrading.VHlsl.Txt.GpuCache.Gbx
-     1122  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxDistorAtDepth.VHlsl.Txt.GpuCache.Gbx
-      846  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxDistorGetDepthIntens.VHlsl.Txt.GpuCache.Gbx
-      846  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxDistorImageSpace.VHlsl.Txt.GpuCache.Gbx
-      891  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxEdgeBlender_Detect.VHlsl.Txt.GpuCache.Gbx
-      846  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxHorizonBlur.VHlsl.Txt.GpuCache.Gbx
-      637  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxStereo_DebugBlend.VHlsl.txt.GpuCache.Gbx
-      874  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxStereo_Interlaced.VHlsl.txt.GpuCache.Gbx
-      640  2020-09-10 09:17   Effects/Media/Text/VHLSL/FxTM_RasterTc.VHlsl.Txt.GpuCache.Gbx
-      846  2020-09-10 09:17   Effects/Media/Text/VHLSL/GrassMarkFenceIntens.VHlsl.Txt.GpuCache.Gbx
-     2806  2020-09-10 09:17   Effects/Media/Text/VHLSL/LightTrail PC3.VHlsl.Txt.GpuCache.Gbx
-      946  2020-09-10 09:17   Effects/Media/Text/VHLSL/Projector1.VHlsl.Txt.GpuCache.Gbx
-      641  2020-09-10 09:17   Effects/Media/Text/VHLSL/RasterDistor2d.VHlsl.Txt.GpuCache.Gbx
-      765  2020-09-10 09:17   Effects/Media/Text/VHLSL/ShadowCaster.VHlsl.Txt.GpuCache.Gbx
-     1973  2020-09-10 09:17   Effects/Media/Text/VHLSL/SmGoalOffZone_Perlin3d.VHlsl.Txt.GpuCache.Gbx
-     2732  2020-09-10 09:17   Effects/Media/Text/VHLSL/SmOffZone_Perlin3d.VHlsl.Txt.GpuCache.Gbx
-     6382  2020-09-10 09:17   Effects/Media/Text/VHLSL/SmVortexParticle.VHlsl.Txt.GpuCache.Gbx
-     2216  2020-09-10 09:17   Effects/Media/Text/VHLSL/Stem.VHlsl.Txt.GpuCache.Gbx
-    39789  2020-09-10 09:11   Effects/Particles/MgrParticleRender_p.hlsl.GpuCache.Gbx
-    60768  2020-09-03 11:50   Effects/Particles/MgrParticleRender_v.hlsl.GpuCache.Gbx
-     8730  2020-09-16 16:39   Effects/Particles/MgrParticleRenderOpaques_p.hlsl.GpuCache.Gbx
+      641  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxColorGrading.VHlsl.Txt.GpuCache.Gbx
+     1122  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxDistorAtDepth.VHlsl.Txt.GpuCache.Gbx
+      843  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxDistorGetDepthIntens.VHlsl.Txt.GpuCache.Gbx
+      843  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxDistorImageSpace.VHlsl.Txt.GpuCache.Gbx
+      889  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxEdgeBlender_Detect.VHlsl.Txt.GpuCache.Gbx
+      843  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxHorizonBlur.VHlsl.Txt.GpuCache.Gbx
+      644  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxStereo_DebugBlend.VHlsl.txt.GpuCache.Gbx
+      874  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxStereo_Interlaced.VHlsl.txt.GpuCache.Gbx
+      637  2020-09-24 13:42   Effects/Media/Text/VHLSL/FxTM_RasterTc.VHlsl.Txt.GpuCache.Gbx
+      843  2020-09-24 13:42   Effects/Media/Text/VHLSL/GrassMarkFenceIntens.VHlsl.Txt.GpuCache.Gbx
+     2806  2020-09-24 13:42   Effects/Media/Text/VHLSL/LightTrail PC3.VHlsl.Txt.GpuCache.Gbx
+      946  2020-09-24 13:42   Effects/Media/Text/VHLSL/Projector1.VHlsl.Txt.GpuCache.Gbx
+      634  2020-09-24 13:42   Effects/Media/Text/VHLSL/RasterDistor2d.VHlsl.Txt.GpuCache.Gbx
+      762  2020-09-24 13:42   Effects/Media/Text/VHLSL/ShadowCaster.VHlsl.Txt.GpuCache.Gbx
+     1969  2020-09-24 13:42   Effects/Media/Text/VHLSL/SmGoalOffZone_Perlin3d.VHlsl.Txt.GpuCache.Gbx
+     2732  2020-09-24 13:42   Effects/Media/Text/VHLSL/SmOffZone_Perlin3d.VHlsl.Txt.GpuCache.Gbx
+     5428  2020-09-24 13:42   Effects/Media/Text/VHLSL/SmVortexParticle.VHlsl.Txt.GpuCache.Gbx
+     2216  2020-09-24 13:42   Effects/Media/Text/VHLSL/Stem.VHlsl.Txt.GpuCache.Gbx
+    34975  2020-09-24 13:35   Effects/Particles/MgrParticleRender_p.hlsl.GpuCache.Gbx
+    49786  2020-09-24 13:35   Effects/Particles/MgrParticleRender_v.hlsl.GpuCache.Gbx
+     8709  2020-09-24 13:35   Effects/Particles/MgrParticleRenderOpaques_p.hlsl.GpuCache.Gbx
      3413  2020-09-03 11:50   Effects/Particles/MgrParticleRenderOpaques_v.hlsl.GpuCache.Gbx
-     3382  2020-09-10 09:11   Effects/Particles/MgrParticleRenderStatic_p.hlsl.GpuCache.Gbx
+     3336  2020-09-24 13:35   Effects/Particles/MgrParticleRenderStatic_p.hlsl.GpuCache.Gbx
      3673  2020-08-28 18:10   Effects/Particles/MgrParticleRenderStatic_v.hlsl.GpuCache.Gbx
-      818  2020-09-10 09:11   Effects/Particles/MgrParticleRenderStaticFakeOcc_p.hlsl.GpuCache.Gbx
+      815  2020-09-24 13:35   Effects/Particles/MgrParticleRenderStaticFakeOcc_p.hlsl.GpuCache.Gbx
      2421  2020-08-28 18:10   Effects/Particles/MgrParticleRenderStaticFakeOcc_v.hlsl.GpuCache.Gbx
-    14755  2020-09-10 09:11   Effects/Particles/MgrParticleShadow_p.hlsl.GpuCache.Gbx
+    15473  2020-09-24 13:35   Effects/Particles/MgrParticleShadow_p.hlsl.GpuCache.Gbx
       604  2020-08-28 18:11   Effects/Particles/MgrParticleShadow_v.hlsl.GpuCache.Gbx
-      702  2020-09-10 09:11   Effects/Particles/MgrParticleShowStates_p.hlsl.GpuCache.Gbx
+      699  2020-09-24 13:35   Effects/Particles/MgrParticleShowStates_p.hlsl.GpuCache.Gbx
       690  2020-08-28 18:11   Effects/Particles/MgrParticleShowStates_v.hlsl.GpuCache.Gbx
-     3240  2020-09-10 09:11   Effects/Particles/MgrParticleSpawn_p.hlsl.GpuCache.Gbx
+     3240  2020-09-24 13:35   Effects/Particles/MgrParticleSpawn_p.hlsl.GpuCache.Gbx
       604  2020-08-28 18:11   Effects/Particles/MgrParticleSpawn_v.hlsl.GpuCache.Gbx
-      870  2020-09-10 09:11   Effects/Particles/MgrParticleSpawnPoints_p.hlsl.GpuCache.Gbx
+      870  2020-09-24 13:35   Effects/Particles/MgrParticleSpawnPoints_p.hlsl.GpuCache.Gbx
       760  2020-08-28 18:11   Effects/Particles/MgrParticleSpawnPoints_v.hlsl.GpuCache.Gbx
-    21142  2020-09-03 11:50   Effects/Particles/MgrParticleUpdate_c.hlsl.GpuCache.Gbx
-     7788  2020-09-10 09:11   Effects/Particles/MgrParticleUpdate_p.hlsl.GpuCache.Gbx
+    17635  2020-09-24 13:36   Effects/Particles/MgrParticleUpdate_c.hlsl.GpuCache.Gbx
+     7790  2020-09-24 13:36   Effects/Particles/MgrParticleUpdate_p.hlsl.GpuCache.Gbx
       604  2020-08-28 18:11   Effects/Particles/MgrParticleUpdate_v.hlsl.GpuCache.Gbx
-     2637  2020-08-28 18:11   Effects/Particles/Particles_ComputeBBox_c.hlsl.GpuCache.Gbx
-     1075  2020-08-28 18:11   Effects/Particles/Particles_ComputeDepth_c.hlsl.GpuCache.Gbx
+     2637  2020-09-24 13:36   Effects/Particles/Particles_ComputeBBox_c.hlsl.GpuCache.Gbx
+     1075  2020-09-24 13:36   Effects/Particles/Particles_ComputeDepth_c.hlsl.GpuCache.Gbx
       605  2020-08-28 18:11   Effects/Particles/Particles_InitBBoxes_c.hlsl.GpuCache.Gbx
-     1859  2020-09-03 11:50   Effects/Particles/ParticlesToFog_c.hlsl.GpuCache.Gbx
-     2134  2020-09-10 09:11   Effects/Particles/WaterSplash_SpawnParticles_p.hlsl.GpuCache.Gbx
+     1859  2020-09-24 13:36   Effects/Particles/ParticlesToFog_c.hlsl.GpuCache.Gbx
+     2132  2020-09-24 13:36   Effects/Particles/WaterSplash_SpawnParticles_p.hlsl.GpuCache.Gbx
      1588  2020-08-28 18:11   Effects/Particles/WaterSplash_SpawnParticles_v.hlsl.GpuCache.Gbx
      1101  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticlePropagation_p.hlsl.GpuCache.Gbx
      1224  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticlePropagation_v.hlsl.GpuCache.Gbx
-     4198  2020-09-10 09:11   Effects/Particles/SelfShadow/ParticlesShadowOnOpaque_p.hlsl.GpuCache.Gbx
+     4158  2020-09-24 13:36   Effects/Particles/SelfShadow/ParticlesShadowOnOpaque_p.hlsl.GpuCache.Gbx
      1635  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticlesShadowOnOpaque_v.hlsl.GpuCache.Gbx
      1839  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticleVoxelization_g.hlsl.GpuCache.Gbx
       988  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticleVoxelization_p.hlsl.GpuCache.Gbx
-     2095  2020-08-28 18:11   Effects/Particles/SelfShadow/ParticleVoxelization_v.hlsl.GpuCache.Gbx
+     2096  2020-09-24 13:36   Effects/Particles/SelfShadow/ParticleVoxelization_v.hlsl.GpuCache.Gbx
      1396  2020-08-28 18:11   Effects/Particles/SignedDistanceField/SignedDistanceField_Analytic_cs.hlsl.GpuCache.Gbx
      2129  2020-08-28 18:11   Effects/Particles/SignedDistanceField/SignedDistanceField_BruteForce_cs.hlsl.GpuCache.Gbx
       500  2020-08-28 18:11   Effects/Particles/SignedDistanceField/SignedDistanceField_Render_ps.hlsl.GpuCache.Gbx
@@ -152,45 +152,45 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1503  2020-08-28 18:11   Effects/Particles/VortexSimulation/VortexDebugRender_vs.hlsl.GpuCache.Gbx
      1602  2020-08-28 18:11   Effects/Particles/VortexSimulation/VortexSpawn_c.hlsl.GpuCache.Gbx
      2982  2020-08-28 18:11   Effects/Particles/VortexSimulation/VortexUpdate_c.hlsl.GpuCache.Gbx
-     3131  2020-09-10 09:11   Effects/PostFx/BlurWeighted_p.hlsl.GpuCache.Gbx
-     2524  2020-09-10 09:11   Effects/PostFx/DebugBitmap_p.hlsl.GpuCache.Gbx
-     2978  2020-09-10 09:11   Effects/PostFx/DoF_T3_BlurAtDepth_p.hlsl.GpuCache.Gbx
-     4703  2020-09-10 09:11   Effects/PostFx/FXAA_p.hlsl.GpuCache.Gbx
+     3107  2020-09-24 13:36   Effects/PostFx/BlurWeighted_p.hlsl.GpuCache.Gbx
+     2524  2020-09-24 13:36   Effects/PostFx/DebugBitmap_p.hlsl.GpuCache.Gbx
+     2955  2020-09-24 13:36   Effects/PostFx/DoF_T3_BlurAtDepth_p.hlsl.GpuCache.Gbx
+     4678  2020-09-24 13:36   Effects/PostFx/FXAA_p.hlsl.GpuCache.Gbx
       671  2020-08-28 18:11   Effects/PostFx/TM_DebugCurve_v.hlsl.GpuCache.Gbx
-      885  2020-09-10 09:11   Effects/PostFx/TM_DebugLumiSat_p.hlsl.GpuCache.Gbx
-      606  2020-09-10 09:11   Effects/PostFx/TM_GenHistogram_p.hlsl.GpuCache.Gbx
+      889  2020-09-24 13:36   Effects/PostFx/TM_DebugLumiSat_p.hlsl.GpuCache.Gbx
+      606  2020-09-24 13:36   Effects/PostFx/TM_GenHistogram_p.hlsl.GpuCache.Gbx
      1176  2020-08-28 18:11   Effects/PostFx/TM_GenHistogram_v.hlsl.GpuCache.Gbx
-     1252  2020-09-10 09:11   Effects/PostFx/TM_GetAvgLumiCurr_p.hlsl.GpuCache.Gbx
-     1295  2020-09-10 09:11   Effects/PostFx/TM_GetAvgLumiCurr_VeryFast_p.hlsl.GpuCache.Gbx
-      537  2020-09-10 09:11   Effects/PostFx/TM_GetHistogramMax_p.hlsl.GpuCache.Gbx
+     1256  2020-09-24 13:36   Effects/PostFx/TM_GetAvgLumiCurr_p.hlsl.GpuCache.Gbx
+     1299  2020-09-24 13:36   Effects/PostFx/TM_GetAvgLumiCurr_VeryFast_p.hlsl.GpuCache.Gbx
+      534  2020-09-24 13:36   Effects/PostFx/TM_GetHistogramMax_p.hlsl.GpuCache.Gbx
       731  2020-08-28 18:11   Effects/PostFx/TM_GetHistogramMax_v.hlsl.GpuCache.Gbx
-     3166  2020-09-10 09:11   Effects/PostFx/TM_GetLdrALogFromCopyFirst_p.hlsl.GpuCache.Gbx
-     2942  2020-09-10 09:11   Effects/PostFx/TM_GetLog2LumiDown1_p.hlsl.GpuCache.Gbx
+     3143  2020-09-24 13:36   Effects/PostFx/TM_GetLdrALogFromCopyFirst_p.hlsl.GpuCache.Gbx
+     2926  2020-09-24 13:36   Effects/PostFx/TM_GetLog2LumiDown1_p.hlsl.GpuCache.Gbx
       635  2020-08-28 18:11   Effects/PostFx/TM_GetLog2LumiDown1_v.hlsl.GpuCache.Gbx
-      744  2020-09-10 09:11   Effects/PostFx/TM_GetLumi_p.hlsl.GpuCache.Gbx
-      537  2020-09-10 09:11   Effects/PostFx/TM_GetLumiMinMax_p.hlsl.GpuCache.Gbx
+      746  2020-09-24 13:36   Effects/PostFx/TM_GetLumi_p.hlsl.GpuCache.Gbx
+      534  2020-09-24 13:36   Effects/PostFx/TM_GetLumiMinMax_p.hlsl.GpuCache.Gbx
       731  2020-08-28 18:11   Effects/PostFx/TM_GetLumiMinMax_v.hlsl.GpuCache.Gbx
-      837  2020-09-10 09:11   Effects/PostFx/TM_GetLumiScaled_p.hlsl.GpuCache.Gbx
-     4259  2020-09-10 09:11   Effects/PostFx/TM_GlobalFilmCurve_p.hlsl.GpuCache.Gbx
-      868  2020-09-10 09:11   Effects/PostFx/TM_GlobalOp_p.hlsl.GpuCache.Gbx
-      981  2020-09-10 09:11   Effects/PostFx/TM_GlobalOpAutoExp_p.hlsl.GpuCache.Gbx
-      726  2020-09-10 09:11   Effects/PostFx/TM_HistogramSat_p.hlsl.GpuCache.Gbx
-     1070  2020-09-10 09:11   Effects/PostFx/TM_LocalOp_p.hlsl.GpuCache.Gbx
-     2141  2020-09-10 09:11   Effects/PostFx/TM_LocalOpSat_p.hlsl.GpuCache.Gbx
-      735  2020-09-10 09:11   Effects/PostFx/TM_LumiScaledSat2X_p.hlsl.GpuCache.Gbx
-      851  2020-09-10 09:11   Effects/PostFx/TM_LumiScaledSat4X_p.hlsl.GpuCache.Gbx
-     2508  2020-09-10 09:11   Effects/PostFx/TM_ShowHistogram_p.hlsl.GpuCache.Gbx
-     1095  2020-09-10 09:11   Effects/PostFx/TM_ToneMapWithHistogramSat_p.hlsl.GpuCache.Gbx
+      839  2020-09-24 13:36   Effects/PostFx/TM_GetLumiScaled_p.hlsl.GpuCache.Gbx
+     4264  2020-09-24 13:36   Effects/PostFx/TM_GlobalFilmCurve_p.hlsl.GpuCache.Gbx
+      865  2020-09-24 13:36   Effects/PostFx/TM_GlobalOp_p.hlsl.GpuCache.Gbx
+      980  2020-09-24 13:36   Effects/PostFx/TM_GlobalOpAutoExp_p.hlsl.GpuCache.Gbx
+      730  2020-09-24 13:36   Effects/PostFx/TM_HistogramSat_p.hlsl.GpuCache.Gbx
+     1077  2020-09-24 13:36   Effects/PostFx/TM_LocalOp_p.hlsl.GpuCache.Gbx
+     2144  2020-09-24 13:36   Effects/PostFx/TM_LocalOpSat_p.hlsl.GpuCache.Gbx
+      739  2020-09-24 13:36   Effects/PostFx/TM_LumiScaledSat2X_p.hlsl.GpuCache.Gbx
+      853  2020-09-24 13:36   Effects/PostFx/TM_LumiScaledSat4X_p.hlsl.GpuCache.Gbx
+     2506  2020-09-24 13:36   Effects/PostFx/TM_ShowHistogram_p.hlsl.GpuCache.Gbx
+     1099  2020-09-24 13:36   Effects/PostFx/TM_ToneMapWithHistogramSat_p.hlsl.GpuCache.Gbx
       647  2020-08-28 18:11   Effects/SortLib/InitSortArgs_c.hlsl.GpuCache.Gbx
      1233  2020-08-28 18:11   Effects/SortLib/Sort_c.hlsl.GpuCache.Gbx
      1147  2020-08-28 18:11   Effects/SortLib/SortInner_c.hlsl.GpuCache.Gbx
       911  2020-08-28 18:11   Effects/SortLib/SortStep_c.hlsl.GpuCache.Gbx
-    47582  2020-09-10 09:11   Effects/TemporalAA/TemporalAA_p.hlsl.GpuCache.Gbx
-     1886  2020-09-10 09:11   Engines/BilateralBlur_p.hlsl.GpuCache.Gbx
-     1115  2020-09-10 09:11   Engines/BlendDebugText_p.hlsl.GpuCache.Gbx
-     3854  2020-09-10 09:11   Engines/BlurHV_DepthMask_p.hlsl.GpuCache.Gbx
-     5577  2020-09-10 09:11   Engines/BlurHV_DepthTest_p.hlsl.GpuCache.Gbx
-     3572  2020-09-10 09:11   Engines/BlurHV_p.hlsl.GpuCache.Gbx
+    48796  2020-09-24 13:36   Effects/TemporalAA/TemporalAA_p.hlsl.GpuCache.Gbx
+     1886  2020-09-24 13:36   Engines/BilateralBlur_p.hlsl.GpuCache.Gbx
+     1115  2020-09-24 13:36   Engines/BlendDebugText_p.hlsl.GpuCache.Gbx
+     3824  2020-09-24 13:36   Engines/BlurHV_DepthMask_p.hlsl.GpuCache.Gbx
+     5616  2020-09-24 13:36   Engines/BlurHV_DepthTest_p.hlsl.GpuCache.Gbx
+     3519  2020-09-24 13:36   Engines/BlurHV_p.hlsl.GpuCache.Gbx
      1193  2020-08-28 18:11   Engines/Buffer_Add_c.hlsl.GpuCache.Gbx
       950  2020-08-28 18:11   Engines/Buffer_IndexedCopy_c.hlsl.GpuCache.Gbx
       767  2020-08-28 18:11   Engines/Buffer_ScatteredCopy_c.hlsl.GpuCache.Gbx
@@ -200,24 +200,24 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1084  2020-08-28 18:11   Engines/Cube_CopyAndMirrorDiag_c.hlsl.GpuCache.Gbx
       943  2020-08-28 18:11   Engines/Cube_Down2x2_c.hlsl.GpuCache.Gbx
       962  2020-08-28 18:11   Engines/Cube_MulBounceFactor_c.hlsl.GpuCache.Gbx
-     1960  2020-09-10 09:11   Engines/CubeFilterDown4x4_Cube3x2_p.hlsl.GpuCache.Gbx
+     1958  2020-09-24 13:36   Engines/CubeFilterDown4x4_Cube3x2_p.hlsl.GpuCache.Gbx
       699  2020-08-28 18:11   Engines/CubeFilterDown4x4_Cube3x2_v.hlsl.GpuCache.Gbx
       673  2020-08-28 18:11   Engines/CubeMap_EyeInWorld_GradientV_p.hlsl.GpuCache.Gbx
-     3108  2020-09-10 09:11   Engines/CubeMap_EyeInWorld_HdrAlpha2_p.hlsl.GpuCache.Gbx
+     3078  2020-09-24 13:36   Engines/CubeMap_EyeInWorld_HdrAlpha2_p.hlsl.GpuCache.Gbx
       604  2020-08-28 18:11   Engines/CubeMap_EyeInWorld_p.hlsl.GpuCache.Gbx
      1998  2020-08-28 18:11   Engines/CubeMap_EyeInWorld_v.hlsl.GpuCache.Gbx
      1472  2020-08-28 18:11   Engines/Debug_EnvMap_p.hlsl.GpuCache.Gbx
      2085  2020-08-28 18:11   Engines/Debug_EnvMap_v.hlsl.GpuCache.Gbx
-     2789  2020-09-10 09:11   Engines/DebugMapper_p.hlsl.GpuCache.Gbx
+     2790  2020-09-24 13:36   Engines/DebugMapper_p.hlsl.GpuCache.Gbx
      3959  2020-09-03 11:50   Engines/DebugMapper_v.hlsl.GpuCache.Gbx
       854  2020-08-28 18:11   Engines/DefaultSprites_v.hlsl.GpuCache.Gbx
-     2267  2020-09-10 09:11   Engines/DepthDown2x2_Max_p.hlsl.GpuCache.Gbx
-     1190  2020-09-10 09:11   Engines/DepthDown2x2_MinMax_p.hlsl.GpuCache.Gbx
-     1406  2020-09-10 09:11   Engines/DepthDown2x2_Range_p.hlsl.GpuCache.Gbx
-     1771  2020-09-10 09:11   Engines/DepthDown3x3_Max_p.hlsl.GpuCache.Gbx
-     1344  2020-09-10 09:11   Engines/DepthUp_p.hlsl.GpuCache.Gbx
+     2209  2020-09-24 13:36   Engines/DepthDown2x2_Max_p.hlsl.GpuCache.Gbx
+     1206  2020-09-24 13:36   Engines/DepthDown2x2_MinMax_p.hlsl.GpuCache.Gbx
+     1382  2020-09-24 13:36   Engines/DepthDown2x2_Range_p.hlsl.GpuCache.Gbx
+     1786  2020-09-24 13:36   Engines/DepthDown3x3_Max_p.hlsl.GpuCache.Gbx
+     1344  2020-09-24 13:36   Engines/DepthUp_p.hlsl.GpuCache.Gbx
       944  2020-08-28 18:11   Engines/EditBitmap_CubeUnfolded_v.hlsl.GpuCache.Gbx
-    15678  2020-09-10 09:11   Engines/EditBitmap_p.hlsl.GpuCache.Gbx
+    17607  2020-09-24 13:36   Engines/EditBitmap_p.hlsl.GpuCache.Gbx
      1168  2020-08-28 18:11   Engines/EditBitmap_v.hlsl.GpuCache.Gbx
      1475  2020-08-31 18:01   Engines/Encode_BC4_Mip_p.hlsl.GpuCache.Gbx
      1645  2020-08-31 18:01   Engines/Encode_BC4_p.hlsl.GpuCache.Gbx
@@ -226,24 +226,28 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1119  2020-08-31 18:01   Engines/EquiRectFromCube_p.hlsl.GpuCache.Gbx
      1210  2020-08-31 18:01   Engines/EquiRectFromCubeFace_p.hlsl.GpuCache.Gbx
       554  2020-08-28 18:11   Engines/FillColor_DrawFreq_p.hlsl.GpuCache.Gbx
-      773  2020-09-10 09:11   Engines/FillConst_AutoExpScaled_p.hlsl.GpuCache.Gbx
-      615  2020-09-10 09:11   Engines/FillConst_p.hlsl.GpuCache.Gbx
-      660  2020-09-10 09:11   Engines/FillDepthMask_p.hlsl.GpuCache.Gbx
+      773  2020-09-24 13:36   Engines/FillConst_AutoExpScaled_p.hlsl.GpuCache.Gbx
+      615  2020-09-24 13:36   Engines/FillConst_p.hlsl.GpuCache.Gbx
+      660  2020-09-24 13:36   Engines/FillDepthMask_p.hlsl.GpuCache.Gbx
       722  2020-08-28 18:11   Engines/FillDepthMask_v.hlsl.GpuCache.Gbx
       803  2020-08-28 18:11   Engines/FillTc_v.hlsl.GpuCache.Gbx
-      629  2020-09-10 09:11   Engines/FillTexture_p.hlsl.GpuCache.Gbx
-      652  2020-09-10 09:11   Engines/FillTextureAlpha_p.hlsl.GpuCache.Gbx
-     2641  2020-09-10 09:11   Engines/FilterDown2x2_p.hlsl.GpuCache.Gbx
-     1006  2020-09-10 09:11   Engines/FilterDown4x4_p.hlsl.GpuCache.Gbx
+      626  2020-09-24 13:36   Engines/FillTexture_p.hlsl.GpuCache.Gbx
+      649  2020-09-24 13:36   Engines/FillTextureAlpha_p.hlsl.GpuCache.Gbx
+     2619  2020-09-24 13:36   Engines/FilterDown2x2_p.hlsl.GpuCache.Gbx
+     1006  2020-09-24 13:36   Engines/FilterDown4x4_p.hlsl.GpuCache.Gbx
       940  2020-08-28 18:11   Engines/FullTriangle_Batch_g.hlsl.GpuCache.Gbx
       667  2020-08-28 18:11   Engines/FullTriangle_Batch_v.hlsl.GpuCache.Gbx
      1873  2020-08-28 18:11   Engines/FullTriangle_TexCoord_v.hlsl.GpuCache.Gbx
      1797  2020-08-28 18:11   Engines/FullTriangle_v.hlsl.GpuCache.Gbx
-     2003  2020-09-10 09:11   Engines/Geom2d_GetTexture_LmEncode_p.hlsl.GpuCache.Gbx
+     2002  2020-09-24 13:36   Engines/Geom2d_GetTexture_LmEncode_p.hlsl.GpuCache.Gbx
       569  2020-08-28 18:11   Engines/Geom2d_GetTexture_p.hlsl.GpuCache.Gbx
       720  2020-08-28 18:11   Engines/Geom2d_GetTexture_v.hlsl.GpuCache.Gbx
-     1304  2020-09-10 09:11   Engines/GeomToReflectCubeDist_p.hlsl.GpuCache.Gbx
-      738  2020-09-10 09:11   Engines/GeomToReflectCubeMap_p.hlsl.GpuCache.Gbx
+     2900  2020-09-24 13:36   Engines/GeomToFaceNormal_Alpha01_p.hlsl.GpuCache.Gbx
+     2198  2020-09-24 13:36   Engines/GeomToFaceNormal_Alpha01_v.hlsl.GpuCache.Gbx
+     1299  2020-09-24 13:36   Engines/GeomToReflectCubeDist_p.hlsl.GpuCache.Gbx
+     2099  2020-09-24 13:36   Engines/GeomToReflectCubeDist_v.hlsl.GpuCache.Gbx
+      738  2020-09-24 13:36   Engines/GeomToReflectCubeMap_p.hlsl.GpuCache.Gbx
+     2012  2020-09-24 13:36   Engines/GeomToReflectCubeMap_v.hlsl.GpuCache.Gbx
      1119  2020-08-28 18:11   Engines/IndexedInst_SetDrawArgs_LOD_SGs_c.hlsl.GpuCache.Gbx
      1317  2020-08-28 18:11   Engines/Instances_AddCount_ToN_c.hlsl.GpuCache.Gbx
      3030  2020-08-28 18:11   Engines/Instances_AddCounts_c.hlsl.GpuCache.Gbx
@@ -260,19 +264,19 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
       915  2020-08-28 18:11   Engines/MeshOcclusionProj_p.hlsl.GpuCache.Gbx
       856  2020-08-28 18:11   Engines/MeshOcclusionSelf_AccumNormalize_c.hlsl.GpuCache.Gbx
      1150  2020-08-28 18:11   Engines/MeshOcclusionSelf_AccumPerTri_c.hlsl.GpuCache.Gbx
-     1139  2020-09-10 09:11   Engines/MeshOcclusionSelf_p.hlsl.GpuCache.Gbx
+     1139  2020-09-24 13:36   Engines/MeshOcclusionSelf_p.hlsl.GpuCache.Gbx
      1194  2020-08-28 18:11   Engines/MeshOcclusionSelf_v.hlsl.GpuCache.Gbx
-     5615  2020-09-10 09:11   Engines/Pbr_FastFilterEnvMap_GGX_c.hlsl.GpuCache.Gbx
+     5595  2020-09-24 13:36   Engines/Pbr_FastFilterEnvMap_GGX_c.hlsl.GpuCache.Gbx
      1027  2020-08-28 18:11   Engines/Pbr_FastFilterEnvMap_MirrorDiagXZ_c.hlsl.GpuCache.Gbx
-     1569  2020-09-10 09:11   Engines/Pbr_IntegrateBRDF_GGX_c.hlsl.GpuCache.Gbx
-     4699  2020-09-10 09:11   Engines/Pbr_PreFilterEnvMap_GGX_c.hlsl.GpuCache.Gbx
+     1569  2020-09-24 13:36   Engines/Pbr_IntegrateBRDF_GGX_c.hlsl.GpuCache.Gbx
+     4650  2020-09-24 13:36   Engines/Pbr_PreFilterEnvMap_GGX_c.hlsl.GpuCache.Gbx
      1722  2020-08-28 18:11   Engines/Pbr_RoughnessFilterNormalInMips_c.hlsl.GpuCache.Gbx
-      776  2020-09-10 09:11   Engines/Pbr_Spec_to_Roughness_c.hlsl.GpuCache.Gbx
-     2258  2020-09-10 09:11   Engines/PixelBlendHdrMaps_p.hlsl.GpuCache.Gbx
-     2159  2020-09-10 09:11   Engines/PixelBlendHdrMapsYCbCr_Array_p.hlsl.GpuCache.Gbx
-     2027  2020-09-10 09:11   Engines/PixelBlendHdrMapsYCbCr_p.hlsl.GpuCache.Gbx
+      776  2020-09-24 13:36   Engines/Pbr_Spec_to_Roughness_c.hlsl.GpuCache.Gbx
+     2284  2020-09-24 13:36   Engines/PixelBlendHdrMaps_p.hlsl.GpuCache.Gbx
+     2156  2020-09-24 13:36   Engines/PixelBlendHdrMapsYCbCr_Array_p.hlsl.GpuCache.Gbx
+     2025  2020-09-24 13:36   Engines/PixelBlendHdrMapsYCbCr_p.hlsl.GpuCache.Gbx
       624  2020-08-28 18:11   Engines/PixelConst_p.hlsl.GpuCache.Gbx
-     2710  2020-09-10 09:11   Engines/PixelConst_ShaderFreq_Alpha01_p.hlsl.GpuCache.Gbx
+     2685  2020-09-24 13:36   Engines/PixelConst_ShaderFreq_Alpha01_p.hlsl.GpuCache.Gbx
       637  2020-08-28 18:11   Engines/PixelConst_ShaderFreq_p.hlsl.GpuCache.Gbx
      1263  2020-08-28 18:11   Engines/PixelCountInBuckets_c.hlsl.GpuCache.Gbx
      1910  2020-08-28 18:11   Engines/PixelGetBoundPos_c.hlsl.GpuCache.Gbx
@@ -283,256 +287,256 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2622  2020-08-28 18:11   Engines/PixelMinOrMax_Down4x4_p.hlsl.GpuCache.Gbx
      1001  2020-08-28 18:11   Engines/PixelMinOrMax_Down4x4_v.hlsl.GpuCache.Gbx
       646  2020-08-28 18:11   Engines/PixelMulTextures_p.hlsl.GpuCache.Gbx
-     1049  2020-09-10 09:11   Engines/PixelSpread_8Taps_Alpha01_p.hlsl.GpuCache.Gbx
-     1677  2020-09-10 09:11   Engines/PixelSpread_8Taps_In0_p.hlsl.GpuCache.Gbx
-     1823  2020-09-10 09:11   Engines/PixelSpread_8Taps_p.hlsl.GpuCache.Gbx
+     1049  2020-09-24 13:36   Engines/PixelSpread_8Taps_Alpha01_p.hlsl.GpuCache.Gbx
+     1677  2020-09-24 13:36   Engines/PixelSpread_8Taps_In0_p.hlsl.GpuCache.Gbx
+     1836  2020-09-24 13:36   Engines/PixelSpread_8Taps_p.hlsl.GpuCache.Gbx
      1645  2020-08-28 18:11   Engines/ProjectCubeFlat3x2_SH2_Norm4_c.hlsl.GpuCache.Gbx
      1603  2020-08-28 18:11   Engines/ProjectCubeFlat3x2_SH3_Rgb_c.hlsl.GpuCache.Gbx
      1988  2020-08-28 18:11   Engines/RasterBink_YCrCb_RGB_v.hlsl.GpuCache.Gbx
-     1428  2020-09-10 09:11   Engines/RasterBink_YCrCb_RGBA_p.hlsl.GpuCache.Gbx
-     1944  2020-09-10 09:11   Engines/RasterBitmap_p.hlsl.GpuCache.Gbx
-      836  2020-09-10 09:11   Engines/RasterBitmapAlpha_p.hlsl.GpuCache.Gbx
-      627  2020-09-10 09:11   Engines/RasterBitmapBlend_p.hlsl.GpuCache.Gbx
-      724  2020-09-10 09:11   Engines/RasterBitmapBlend_RGB_A_p.hlsl.GpuCache.Gbx
-      785  2020-09-10 09:11   Engines/RasterBitmapBlendRGB_p.hlsl.GpuCache.Gbx
-      763  2020-09-10 09:11   Engines/RasterBitmapBlendRGBA_p.hlsl.GpuCache.Gbx
-      960  2020-09-10 09:11   Engines/RasterBitmapCompareRGB_p.hlsl.GpuCache.Gbx
-      606  2020-09-10 09:11   Engines/RasterConst_p.hlsl.GpuCache.Gbx
-      623  2020-09-10 09:11   Engines/RasterConstPreMod_p.hlsl.GpuCache.Gbx
+     1424  2020-09-24 13:36   Engines/RasterBink_YCrCb_RGBA_p.hlsl.GpuCache.Gbx
+     1968  2020-09-24 13:36   Engines/RasterBitmap_p.hlsl.GpuCache.Gbx
+      841  2020-09-24 13:36   Engines/RasterBitmapAlpha_p.hlsl.GpuCache.Gbx
+      624  2020-09-24 13:36   Engines/RasterBitmapBlend_p.hlsl.GpuCache.Gbx
+      723  2020-09-24 13:36   Engines/RasterBitmapBlend_RGB_A_p.hlsl.GpuCache.Gbx
+      782  2020-09-24 13:36   Engines/RasterBitmapBlendRGB_p.hlsl.GpuCache.Gbx
+      760  2020-09-24 13:36   Engines/RasterBitmapBlendRGBA_p.hlsl.GpuCache.Gbx
+      957  2020-09-24 13:36   Engines/RasterBitmapCompareRGB_p.hlsl.GpuCache.Gbx
+      606  2020-09-24 13:36   Engines/RasterConst_p.hlsl.GpuCache.Gbx
+      623  2020-09-24 13:36   Engines/RasterConstPreMod_p.hlsl.GpuCache.Gbx
      3617  2020-08-28 18:11   Engines/Texture_AnimUV_v.hlsl.GpuCache.Gbx
      1760  2020-08-28 18:11   Engines/TextureModConst_v.hlsl.GpuCache.Gbx
-      713  2020-09-10 09:11   Engines/TextureModCV_FullYCropX_p.hlsl.GpuCache.Gbx
+      715  2020-09-24 13:36   Engines/TextureModCV_FullYCropX_p.hlsl.GpuCache.Gbx
      1052  2020-08-28 18:11   Engines/TextureModCV_FullYCropX_v.hlsl.GpuCache.Gbx
-     4526  2020-09-10 09:11   Engines/TextureModCV_p.hlsl.GpuCache.Gbx
+     4544  2020-09-24 13:36   Engines/TextureModCV_p.hlsl.GpuCache.Gbx
      3787  2020-08-28 18:11   Engines/TextureModCV_v.hlsl.GpuCache.Gbx
-      538  2020-09-10 09:11   Engines/vColor0_Copy_p.hlsl.GpuCache.Gbx
+      535  2020-09-24 13:36   Engines/vColor0_Copy_p.hlsl.GpuCache.Gbx
      2925  2020-08-28 18:11   Engines/vColor0_Copy_v.hlsl.GpuCache.Gbx
-      583  2020-09-10 09:11   Engines/vColor0_PreMod_p.hlsl.GpuCache.Gbx
+      580  2020-09-24 13:36   Engines/vColor0_PreMod_p.hlsl.GpuCache.Gbx
      2799  2020-09-03 18:05   Engines/ZOnly_Alpha01_InstStatic_v.hlsl.GpuCache.Gbx
-     2532  2020-09-10 09:11   Engines/ZOnly_Alpha01_p.hlsl.GpuCache.Gbx
+     2506  2020-09-24 13:36   Engines/ZOnly_Alpha01_p.hlsl.GpuCache.Gbx
      2306  2020-08-28 18:11   Engines/ZOnly_Alpha01_v.hlsl.GpuCache.Gbx
      2730  2020-09-03 18:05   Engines/ZOnly_InstancingStatic_v.hlsl.GpuCache.Gbx
       362  2020-08-28 18:11   Engines/ZOnly_p.hlsl.GpuCache.Gbx
      2863  2020-09-04 18:16   Engines/ZOnly_v.hlsl.GpuCache.Gbx
      1047  2020-08-28 18:11   Engines/ZOnlyParaboloid_v.hlsl.GpuCache.Gbx
-      799  2020-09-10 09:17   Engines/Media/Text/CopyRawTexture2D_cs.hlsl.GpuCache.Gbx
-      888  2020-09-10 09:17   Engines/Media/Text/CutOff_vs.hlsl.GpuCache.Gbx
-     1956  2020-09-10 09:17   Engines/Media/Text/ForwardTileCull_cs.hlsl.GpuCache.Gbx
-     1090  2020-09-10 09:17   Engines/Media/Text/RasterBlendCubes_gs.hlsl.GpuCache.Gbx
-     1032  2020-09-10 09:17   Engines/Media/Text/RasterBlendCubes_ps.hlsl.GpuCache.Gbx
-      541  2020-09-10 09:17   Engines/Media/Text/RasterBlendCubes_vs.hlsl.GpuCache.Gbx
-     1035  2020-09-10 09:17   Engines/Media/Text/Debug/TexelPerMeter_ps.hlsl.GpuCache.Gbx
-     1121  2020-09-10 09:17   Engines/Media/Text/Debug/TexelPerMeter_vs.hlsl.GpuCache.Gbx
-      826  2020-09-10 09:17   Engines/Media/Text/PHLSL/BlendBitmap2.PHlsl.Txt.GpuCache.Gbx
-     1097  2020-09-10 09:17   Engines/Media/Text/PHLSL/ColorDepthAlphaDown2x2_Min.PHlsl.Txt.GpuCache.Gbx
-      812  2020-09-10 09:17   Engines/Media/Text/PHLSL/CopyColor0_ToneMapT3.PHlsl.Txt.GpuCache.Gbx
-      672  2020-09-10 09:17   Engines/Media/Text/PHLSL/CubeMapFromInterp_ps.hlsl.GpuCache.Gbx
-      962  2020-09-10 09:17   Engines/Media/Text/PHLSL/CubeToSphereHdrA2.PHlsl.Txt.GpuCache.Gbx
-     1075  2020-09-10 09:17   Engines/Media/Text/PHLSL/CutOff.PHlsl.Txt.GpuCache.Gbx
+      799  2020-09-24 13:42   Engines/Media/Text/CopyRawTexture2D_cs.hlsl.GpuCache.Gbx
+      889  2020-09-24 13:42   Engines/Media/Text/CutOff_vs.hlsl.GpuCache.Gbx
+     1954  2020-09-24 13:42   Engines/Media/Text/ForwardTileCull_cs.hlsl.GpuCache.Gbx
+     1090  2020-09-24 13:42   Engines/Media/Text/RasterBlendCubes_gs.hlsl.GpuCache.Gbx
+     1036  2020-09-24 13:42   Engines/Media/Text/RasterBlendCubes_ps.hlsl.GpuCache.Gbx
+      541  2020-09-24 13:42   Engines/Media/Text/RasterBlendCubes_vs.hlsl.GpuCache.Gbx
+     1035  2020-09-24 13:42   Engines/Media/Text/Debug/TexelPerMeter_ps.hlsl.GpuCache.Gbx
+     1116  2020-09-24 13:42   Engines/Media/Text/Debug/TexelPerMeter_vs.hlsl.GpuCache.Gbx
+      828  2020-09-24 13:42   Engines/Media/Text/PHLSL/BlendBitmap2.PHlsl.Txt.GpuCache.Gbx
+     1099  2020-09-24 13:42   Engines/Media/Text/PHLSL/ColorDepthAlphaDown2x2_Min.PHlsl.Txt.GpuCache.Gbx
+      812  2020-09-24 13:42   Engines/Media/Text/PHLSL/CopyColor0_ToneMapT3.PHlsl.Txt.GpuCache.Gbx
+      669  2020-09-24 13:42   Engines/Media/Text/PHLSL/CubeMapFromInterp_ps.hlsl.GpuCache.Gbx
+      959  2020-09-24 13:42   Engines/Media/Text/PHLSL/CubeToSphereHdrA2.PHlsl.Txt.GpuCache.Gbx
+     1079  2020-09-24 13:42   Engines/Media/Text/PHLSL/CutOff.PHlsl.Txt.GpuCache.Gbx
      3095  2020-08-28 18:18   Engines/Media/Text/PHLSL/DebugTexture.PHlsl.Txt.GpuCache.Gbx
-     1102  2020-09-10 09:17   Engines/Media/Text/PHLSL/ForwardTileCull_DbgDraw.PHlsl.Txt.GpuCache.Gbx
-     1033  2020-09-10 09:17   Engines/Media/Text/PHLSL/FrustumCluster_Dbg_ps.hlsl.GpuCache.Gbx
-     3429  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToDepth_Alpha01.PHlsl.Txt.GpuCache.Gbx
-     3088  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToEyeLengthBias_Alpha01.PHlsl.Txt.GpuCache.Gbx
+     1102  2020-09-24 13:42   Engines/Media/Text/PHLSL/ForwardTileCull_DbgDraw.PHlsl.Txt.GpuCache.Gbx
+     1033  2020-09-24 13:42   Engines/Media/Text/PHLSL/FrustumCluster_Dbg_ps.hlsl.GpuCache.Gbx
+     3389  2020-09-24 13:42   Engines/Media/Text/PHLSL/GeomToDepth_Alpha01.PHlsl.Txt.GpuCache.Gbx
+     3069  2020-09-24 13:42   Engines/Media/Text/PHLSL/GeomToEyeLengthBias_Alpha01.PHlsl.Txt.GpuCache.Gbx
      2969  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToFaceNormal_Alpha01.PHlsl.Txt.GpuCache.Gbx
-     2920  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToMotion_Alpha01.PHlsl.Txt.GpuCache.Gbx
+     2899  2020-09-24 13:42   Engines/Media/Text/PHLSL/GeomToMotion_Alpha01.PHlsl.Txt.GpuCache.Gbx
      1314  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToReflectCubeDist.PHlsl.Txt.GpuCache.Gbx
       778  2020-09-10 09:17   Engines/Media/Text/PHLSL/GeomToReflectCubeMap.PHlsl.Txt.GpuCache.Gbx
-     3762  2020-09-10 09:17   Engines/Media/Text/PHLSL/MeshPaintLayer.PHlsl.Txt.GpuCache.Gbx
-     2753  2020-09-10 09:17   Engines/Media/Text/PHLSL/MeshPaintOcclusion.PHlsl.Txt.GpuCache.Gbx
-     3488  2020-09-10 09:17   Engines/Media/Text/PHLSL/MeshPaintSticker.PHlsl.Txt.GpuCache.Gbx
-      531  2020-09-10 09:17   Engines/Media/Text/PHLSL/MeshPaintStickerMask.PHlsl.Txt.GpuCache.Gbx
-     2687  2020-09-10 09:17   Engines/Media/Text/PHLSL/MiniMapFogDisc.PHlsl.Txt.GpuCache.Gbx
-      602  2020-09-10 09:17   Engines/Media/Text/PHLSL/MiniMapFogGeom.PHlsl.Txt.GpuCache.Gbx
-      976  2020-09-10 09:17   Engines/Media/Text/PHLSL/RasterGetZ01FromZBuffer.PHlsl.Txt.GpuCache.Gbx
-     3297  2020-09-10 09:17   Engines/Media/Text/PHLSL/RasterGutterDepthMax.PHlsl.Txt.GpuCache.Gbx
-     1836  2020-09-10 09:17   Engines/Media/Text/PHLSL/RasterMsaaResolveHdr_ps.hlsl.GpuCache.Gbx
-     3121  2020-09-10 09:17   Engines/Media/Text/PHLSL/RasterSphereProjInv.PHlsl.Txt.GpuCache.Gbx
-     2990  2020-09-10 09:17   Engines/Media/Text/PHLSL/RasterTestSphereProj.PHlsl.Txt.GpuCache.Gbx
-     1011  2020-09-10 09:17   Engines/Media/Text/PHLSL/ShadowDepthAsRed.PHlsl.Txt.GpuCache.Gbx
-     1092  2020-09-10 09:17   Engines/Media/Text/PHLSL/ShadowDepthAsRed_Alpha.PHlsl.Txt.GpuCache.Gbx
-     1045  2020-09-10 09:17   Engines/Media/Text/PHLSL/ShadowDepthPeel_Alpha01.PHlsl.txt.GpuCache.Gbx
-      988  2020-09-10 09:17   Engines/Media/Text/PHLSL/ShadowSmoothDepth.PHlsl.Txt.GpuCache.Gbx
-     1039  2020-09-10 09:17   Engines/Media/Text/PHLSL/SpecularInHemi.PHlsl.Txt.GpuCache.Gbx
-      604  2020-09-10 09:17   Engines/Media/Text/PHLSL/WaterSplash_DebugEdges.PHlsl.Txt.GpuCache.Gbx
-     1624  2020-09-10 09:17   Engines/Media/Text/PHLSL/WaterSplash_IntersectTriangles.PHlsl.Txt.GpuCache.Gbx
-     1019  2020-09-10 09:17   Engines/Media/Text/PHLSL/WaterSplash_TransformVertices.PHlsl.Txt.GpuCache.Gbx
-      888  2020-09-10 09:17   Engines/Media/Text/VHLSL/BlendBitmap2.VHlsl.Txt.GpuCache.Gbx
-      689  2020-09-10 09:17   Engines/Media/Text/VHLSL/ColorDepthAlphaDown2x2_Min.VHlsl.Txt.GpuCache.Gbx
-      948  2020-09-10 09:17   Engines/Media/Text/VHLSL/CopyEmissiveDiffuseA.VHlsl.Txt.GpuCache.Gbx
-      985  2020-09-10 09:17   Engines/Media/Text/VHLSL/CubeMapFromNormal_vs.hlsl.GpuCache.Gbx
-      856  2020-09-10 09:17   Engines/Media/Text/VHLSL/CubeToSphereHdrA2.VHlsl.Txt.GpuCache.Gbx
+     3782  2020-09-24 13:42   Engines/Media/Text/PHLSL/MeshPaintLayer.PHlsl.Txt.GpuCache.Gbx
+     2740  2020-09-24 13:42   Engines/Media/Text/PHLSL/MeshPaintOcclusion.PHlsl.Txt.GpuCache.Gbx
+     3454  2020-09-24 13:42   Engines/Media/Text/PHLSL/MeshPaintSticker.PHlsl.Txt.GpuCache.Gbx
+      531  2020-09-24 13:42   Engines/Media/Text/PHLSL/MeshPaintStickerMask.PHlsl.Txt.GpuCache.Gbx
+     2658  2020-09-24 13:42   Engines/Media/Text/PHLSL/MiniMapFogDisc.PHlsl.Txt.GpuCache.Gbx
+      599  2020-09-24 13:42   Engines/Media/Text/PHLSL/MiniMapFogGeom.PHlsl.Txt.GpuCache.Gbx
+      976  2020-09-24 13:42   Engines/Media/Text/PHLSL/RasterGetZ01FromZBuffer.PHlsl.Txt.GpuCache.Gbx
+     3272  2020-09-24 13:42   Engines/Media/Text/PHLSL/RasterGutterDepthMax.PHlsl.Txt.GpuCache.Gbx
+     1837  2020-09-24 13:42   Engines/Media/Text/PHLSL/RasterMsaaResolveHdr_ps.hlsl.GpuCache.Gbx
+     3096  2020-09-24 13:42   Engines/Media/Text/PHLSL/RasterSphereProjInv.PHlsl.Txt.GpuCache.Gbx
+     2969  2020-09-24 13:42   Engines/Media/Text/PHLSL/RasterTestSphereProj.PHlsl.Txt.GpuCache.Gbx
+     1013  2020-09-24 13:42   Engines/Media/Text/PHLSL/ShadowDepthAsRed.PHlsl.Txt.GpuCache.Gbx
+     1096  2020-09-24 13:42   Engines/Media/Text/PHLSL/ShadowDepthAsRed_Alpha.PHlsl.Txt.GpuCache.Gbx
+     1042  2020-09-24 13:42   Engines/Media/Text/PHLSL/ShadowDepthPeel_Alpha01.PHlsl.txt.GpuCache.Gbx
+      992  2020-09-24 13:42   Engines/Media/Text/PHLSL/ShadowSmoothDepth.PHlsl.Txt.GpuCache.Gbx
+     1041  2020-09-24 13:42   Engines/Media/Text/PHLSL/SpecularInHemi.PHlsl.Txt.GpuCache.Gbx
+      601  2020-09-24 13:42   Engines/Media/Text/PHLSL/WaterSplash_DebugEdges.PHlsl.Txt.GpuCache.Gbx
+     1624  2020-09-24 13:42   Engines/Media/Text/PHLSL/WaterSplash_IntersectTriangles.PHlsl.Txt.GpuCache.Gbx
+     1019  2020-09-24 13:42   Engines/Media/Text/PHLSL/WaterSplash_TransformVertices.PHlsl.Txt.GpuCache.Gbx
+      889  2020-09-24 13:42   Engines/Media/Text/VHLSL/BlendBitmap2.VHlsl.Txt.GpuCache.Gbx
+      682  2020-09-24 13:42   Engines/Media/Text/VHLSL/ColorDepthAlphaDown2x2_Min.VHlsl.Txt.GpuCache.Gbx
+      944  2020-09-24 13:42   Engines/Media/Text/VHLSL/CopyEmissiveDiffuseA.VHlsl.Txt.GpuCache.Gbx
+      976  2020-09-24 13:42   Engines/Media/Text/VHLSL/CubeMapFromNormal_vs.hlsl.GpuCache.Gbx
+      845  2020-09-24 13:42   Engines/Media/Text/VHLSL/CubeToSphereHdrA2.VHlsl.Txt.GpuCache.Gbx
       927  2020-08-28 18:18   Engines/Media/Text/VHLSL/DebugTexture.VHlsl.Txt.GpuCache.Gbx
-     1011  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToDepth_Alpha01.VHlsl.Txt.GpuCache.Gbx
-     2223  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToEyeLengthBias_Alpha01.VHlsl.Txt.GpuCache.Gbx
+     1008  2020-09-24 13:42   Engines/Media/Text/VHLSL/GeomToDepth_Alpha01.VHlsl.Txt.GpuCache.Gbx
+     2228  2020-09-24 13:42   Engines/Media/Text/VHLSL/GeomToEyeLengthBias_Alpha01.VHlsl.Txt.GpuCache.Gbx
      2248  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToFaceNormal_Alpha01.VHlsl.Txt.GpuCache.Gbx
-     1150  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToMotion_Alpha01.VHlsl.Txt.GpuCache.Gbx
+     1160  2020-09-24 13:42   Engines/Media/Text/VHLSL/GeomToMotion_Alpha01.VHlsl.Txt.GpuCache.Gbx
      2126  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToReflectCubeDist.VHlsl.Txt.GpuCache.Gbx
      2046  2020-09-10 09:17   Engines/Media/Text/VHLSL/GeomToReflectCubeMap.VHlsl.Txt.GpuCache.Gbx
-      703  2020-09-10 09:17   Engines/Media/Text/VHLSL/LensFlareOccQuery.VHlsl.Txt.GpuCache.Gbx
-     2081  2020-09-10 09:17   Engines/Media/Text/VHLSL/LightVtxColor_sRGB_vs.hlsl.GpuCache.Gbx
-     2028  2020-09-10 09:17   Engines/Media/Text/VHLSL/LineWithZBias.VHlsl.Txt.GpuCache.Gbx
-     2187  2020-09-10 09:17   Engines/Media/Text/VHLSL/MeshPaintSticker.VHlsl.Txt.GpuCache.Gbx
-     1920  2020-09-10 09:17   Engines/Media/Text/VHLSL/MeshPaintStickerMask.VHlsl.Txt.GpuCache.Gbx
-      704  2020-09-10 09:17   Engines/Media/Text/VHLSL/MiniMapFogGeom.VHlsl.Txt.GpuCache.Gbx
-      676  2020-09-10 09:17   Engines/Media/Text/VHLSL/RasterGetZ01FromZBuffer.VHlsl.Txt.GpuCache.Gbx
-     1778  2020-09-10 09:17   Engines/Media/Text/VHLSL/RasterGutter_8Taps.VHlsl.Txt.GpuCache.Gbx
-      676  2020-09-10 09:17   Engines/Media/Text/VHLSL/RasterSphereProjInv.VHlsl.Txt.GpuCache.Gbx
-      676  2020-09-10 09:17   Engines/Media/Text/VHLSL/RasterTestSphereProj.VHlsl.Txt.GpuCache.Gbx
-      637  2020-09-10 09:17   Engines/Media/Text/VHLSL/RasterZOnly.VHlsl.Txt.GpuCache.Gbx
-     1116  2020-09-10 09:17   Engines/Media/Text/VHLSL/ShadowDepthPeel_Alpha01.VHlsl.Txt.GpuCache.Gbx
-      955  2020-09-10 09:17   Engines/Media/Text/VHLSL/SpecularInHemi_LinearHdr.VHlsl.Txt.GpuCache.Gbx
-      957  2020-09-10 09:17   Engines/Media/Text/VHLSL/SpecularInHemi_sRGB.VHlsl.Txt.GpuCache.Gbx
-     1021  2020-09-10 09:17   Engines/Media/Text/VHLSL/WaterSplash_DebugEdges.VHlsl.Txt.GpuCache.Gbx
+      703  2020-09-24 13:42   Engines/Media/Text/VHLSL/LensFlareOccQuery.VHlsl.Txt.GpuCache.Gbx
+     2068  2020-09-24 13:42   Engines/Media/Text/VHLSL/LightVtxColor_sRGB_vs.hlsl.GpuCache.Gbx
+     2024  2020-09-24 13:42   Engines/Media/Text/VHLSL/LineWithZBias.VHlsl.Txt.GpuCache.Gbx
+     2187  2020-09-24 13:42   Engines/Media/Text/VHLSL/MeshPaintSticker.VHlsl.Txt.GpuCache.Gbx
+     1916  2020-09-24 13:42   Engines/Media/Text/VHLSL/MeshPaintStickerMask.VHlsl.Txt.GpuCache.Gbx
+      701  2020-09-24 13:42   Engines/Media/Text/VHLSL/MiniMapFogGeom.VHlsl.Txt.GpuCache.Gbx
+      669  2020-09-24 13:42   Engines/Media/Text/VHLSL/RasterGetZ01FromZBuffer.VHlsl.Txt.GpuCache.Gbx
+     1784  2020-09-24 13:42   Engines/Media/Text/VHLSL/RasterGutter_8Taps.VHlsl.Txt.GpuCache.Gbx
+      676  2020-09-24 13:42   Engines/Media/Text/VHLSL/RasterSphereProjInv.VHlsl.Txt.GpuCache.Gbx
+      669  2020-09-24 13:42   Engines/Media/Text/VHLSL/RasterTestSphereProj.VHlsl.Txt.GpuCache.Gbx
+      637  2020-09-24 13:42   Engines/Media/Text/VHLSL/RasterZOnly.VHlsl.Txt.GpuCache.Gbx
+     1108  2020-09-24 13:42   Engines/Media/Text/VHLSL/ShadowDepthPeel_Alpha01.VHlsl.Txt.GpuCache.Gbx
+      955  2020-09-24 13:42   Engines/Media/Text/VHLSL/SpecularInHemi_LinearHdr.VHlsl.Txt.GpuCache.Gbx
+      957  2020-09-24 13:42   Engines/Media/Text/VHLSL/SpecularInHemi_sRGB.VHlsl.Txt.GpuCache.Gbx
+     1018  2020-09-24 13:42   Engines/Media/Text/VHLSL/WaterSplash_DebugEdges.VHlsl.Txt.GpuCache.Gbx
       648  2020-08-28 18:11   Engines/NormalMapBaking/ComputeGrid3D_Allocate_c.hlsl.GpuCache.Gbx
      4064  2020-08-28 18:11   Engines/NormalMapBaking/ComputeGrid3D_FillGrid_c.hlsl.GpuCache.Gbx
       466  2020-08-28 18:11   Engines/NormalMapBaking/Grid3D_DebugRender_p.hlsl.GpuCache.Gbx
      1673  2020-08-28 18:11   Engines/NormalMapBaking/Grid3D_DebugRender_v.hlsl.GpuCache.Gbx
-     5434  2020-09-10 09:11   Engines/NormalMapBaking/Grid3D_DebugTraversal_p.hlsl.GpuCache.Gbx
+     5409  2020-09-24 13:36   Engines/NormalMapBaking/Grid3D_DebugTraversal_p.hlsl.GpuCache.Gbx
      3254  2020-08-28 18:11   Engines/NormalMapBaking/NormalMapBaker_p.hlsl.GpuCache.Gbx
      1022  2020-08-28 18:11   Engines/NormalMapBaking/NormalMapBaker_v.hlsl.GpuCache.Gbx
      1179  2020-08-28 18:11   Engines/NormalMapBaking/NormalMapDownSize4x4_c.hlsl.GpuCache.Gbx
       960  2020-08-28 18:11   Engines/NormalMapBaking/NormalMapGutter_p.hlsl.GpuCache.Gbx
-     2235  2020-09-10 09:17   Garage/Media/Text/PHLSL/Garage TDiff GroundReflect PC3.PHlsl.Txt.GpuCache.Gbx
-     1085  2020-09-10 09:17   Garage/Media/Text/PHLSL/Garage TDiff.PHlsl.Txt.GpuCache.Gbx
-      964  2020-09-10 09:17   Garage/Media/Text/PHLSL/Garage TSelfI.PHlsl.Txt.GpuCache.Gbx
-     2663  2020-09-10 09:17   Garage/Media/Text/VHLSL/Garage TDiff GroundReflect PC3.VHlsl.Txt.GpuCache.Gbx
-     1166  2020-09-10 09:17   Garage/Media/Text/VHLSL/Garage TDiff.VHlsl.Txt.GpuCache.Gbx
-      940  2020-09-10 09:17   Garage/Media/Text/VHLSL/Garage TSelfI.VHlsl.Txt.GpuCache.Gbx
-     1303  2020-08-28 18:11   Lightmap/DebugProbeGrid_Interp_p.hlsl.GpuCache.Gbx
-     2135  2020-08-28 18:11   Lightmap/DebugProbeGrid_Interp_v.hlsl.GpuCache.Gbx
+     2242  2020-09-24 13:42   Garage/Media/Text/PHLSL/Garage TDiff GroundReflect PC3.PHlsl.Txt.GpuCache.Gbx
+     1091  2020-09-24 13:42   Garage/Media/Text/PHLSL/Garage TDiff.PHlsl.Txt.GpuCache.Gbx
+      968  2020-09-24 13:42   Garage/Media/Text/PHLSL/Garage TSelfI.PHlsl.Txt.GpuCache.Gbx
+     2661  2020-09-24 13:42   Garage/Media/Text/VHLSL/Garage TDiff GroundReflect PC3.VHlsl.Txt.GpuCache.Gbx
+     1164  2020-09-24 13:42   Garage/Media/Text/VHLSL/Garage TDiff.VHlsl.Txt.GpuCache.Gbx
+      936  2020-09-24 13:42   Garage/Media/Text/VHLSL/Garage TSelfI.VHlsl.Txt.GpuCache.Gbx
+     1280  2020-09-24 13:36   Lightmap/DebugProbeGrid_Interp_p.hlsl.GpuCache.Gbx
+     2121  2020-09-24 13:36   Lightmap/DebugProbeGrid_Interp_v.hlsl.GpuCache.Gbx
       488  2020-08-28 18:11   Lightmap/DebugProbeGrid_LightIds_p.hlsl.GpuCache.Gbx
      2837  2020-09-03 11:50   Lightmap/DebugProbeGrid_LightIds_v.hlsl.GpuCache.Gbx
       583  2020-08-28 18:11   Lightmap/DebugProbeGrid_p.hlsl.GpuCache.Gbx
       488  2020-08-28 18:11   Lightmap/DebugProbeGrid_SafetyOffset_p.hlsl.GpuCache.Gbx
      2389  2020-09-03 11:50   Lightmap/DebugProbeGrid_SafetyOffset_v.hlsl.GpuCache.Gbx
      2785  2020-08-28 18:11   Lightmap/DebugProbeGrid_v.hlsl.GpuCache.Gbx
-     3306  2020-09-10 09:11   Lightmap/DynaBox_AddLight_c.hlsl.GpuCache.Gbx
+     3306  2020-09-24 13:36   Lightmap/DynaBox_AddLight_c.hlsl.GpuCache.Gbx
      1417  2020-08-28 18:11   Lightmap/DynaBox_ILightDir_AddToAccum_c.hlsl.GpuCache.Gbx
      4122  2020-08-28 18:11   Lightmap/DynaBox_ILightDir_SetFromPeel_c.hlsl.GpuCache.Gbx
-     1240  2020-09-10 09:11   Lightmap/DynaBox_LightAccumMulDiffuse_c.hlsl.GpuCache.Gbx
-      904  2020-09-10 09:11   Lightmap/DynaBox_PeelZDiffuse_p.hlsl.GpuCache.Gbx
+     1240  2020-09-24 13:36   Lightmap/DynaBox_LightAccumMulDiffuse_c.hlsl.GpuCache.Gbx
+      904  2020-09-24 13:36   Lightmap/DynaBox_PeelZDiffuse_p.hlsl.GpuCache.Gbx
      3060  2020-09-03 11:50   Lightmap/DynaBox_PeelZDiffuse_v.hlsl.GpuCache.Gbx
      1751  2020-08-28 18:11   Lightmap/DynaBox_SetDiffuse_c.hlsl.GpuCache.Gbx
      7438  2020-08-28 18:11   Lightmap/DynaBox_SetLightAmb_FromHandle_c.hlsl.GpuCache.Gbx
      1878  2020-08-28 18:11   Lightmap/GeomILightIn0_Inst_v.hlsl.GpuCache.Gbx
-     3647  2020-09-10 09:11   Lightmap/GeomILightIn0_p.hlsl.GpuCache.Gbx
-    11795  2020-09-10 09:11   Lightmap/LightFromMapT3_p.hlsl.GpuCache.Gbx
+     3642  2020-09-24 13:36   Lightmap/GeomILightIn0_p.hlsl.GpuCache.Gbx
+    11765  2020-09-24 13:36   Lightmap/LightFromMapT3_p.hlsl.GpuCache.Gbx
      3274  2020-09-03 11:50   Lightmap/LightFromMapT3_v.hlsl.GpuCache.Gbx
-     1222  2020-09-10 09:11   Lightmap/LmBlendWaterFog_Inst_p.hlsl.GpuCache.Gbx
+     1224  2020-09-24 13:36   Lightmap/LmBlendWaterFog_Inst_p.hlsl.GpuCache.Gbx
      1411  2020-08-28 18:11   Lightmap/LmBlendWaterFog_Inst_v.hlsl.GpuCache.Gbx
      2376  2020-08-28 18:11   Lightmap/LmCompress_HBasis_YCbCr4_c.hlsl.GpuCache.Gbx
-      663  2020-09-10 09:11   Lightmap/LmCoverage_Inst_p.hlsl.GpuCache.Gbx
+      663  2020-09-24 13:36   Lightmap/LmCoverage_Inst_p.hlsl.GpuCache.Gbx
      1190  2020-08-28 18:11   Lightmap/LmCoverage_Inst_v.hlsl.GpuCache.Gbx
       887  2020-08-28 18:11   Lightmap/LmDblSidedAddTrans_Inst_p.hlsl.GpuCache.Gbx
      1219  2020-08-28 18:11   Lightmap/LmDblSidedAddTrans_Inst_v.hlsl.GpuCache.Gbx
       980  2020-08-28 18:11   Lightmap/LmILightDir_AddAmbient_c.hlsl.GpuCache.Gbx
-     1369  2020-09-10 09:11   Lightmap/LmILightDir_Set_p.hlsl.GpuCache.Gbx
+     1377  2020-09-24 13:36   Lightmap/LmILightDir_Set_p.hlsl.GpuCache.Gbx
      2655  2020-08-28 18:11   Lightmap/LmLBump_Inst_v.hlsl.GpuCache.Gbx
-      914  2020-09-10 09:11   Lightmap/LmLBumpAmbient_Inst_p.hlsl.GpuCache.Gbx
-     7846  2020-09-10 09:11   Lightmap/LmLBumpDirect_Inst_p.hlsl.GpuCache.Gbx
-     1743  2020-09-10 09:11   Lightmap/LmLBumpILighting_Inst_p.hlsl.GpuCache.Gbx
+      914  2020-09-24 13:36   Lightmap/LmLBumpAmbient_Inst_p.hlsl.GpuCache.Gbx
+     7817  2020-09-24 13:36   Lightmap/LmLBumpDirect_Inst_p.hlsl.GpuCache.Gbx
+     1735  2020-09-24 13:36   Lightmap/LmLBumpILighting_Inst_p.hlsl.GpuCache.Gbx
      2041  2020-08-28 18:11   Lightmap/LmLBumpILighting_Inst_v.hlsl.GpuCache.Gbx
-     2044  2020-09-10 09:11   Lightmap/LmLBumpLDir_Inst_p.hlsl.GpuCache.Gbx
-     2506  2020-09-10 09:11   Lightmap/LmLBumpProj_Inst_p.hlsl.GpuCache.Gbx
-     3346  2020-09-10 09:11   Lightmap/LmLHBasisDirect_Inst_p.hlsl.GpuCache.Gbx
-     1713  2020-09-10 09:11   Lightmap/LmLHBasisILighting_Inst_p.hlsl.GpuCache.Gbx
-     1217  2020-09-10 09:11   Lightmap/LmLightAddDir_p.hlsl.GpuCache.Gbx
-     2661  2020-09-10 09:11   Lightmap/LmLightSumBumpAvg_p.hlsl.GpuCache.Gbx
-     2510  2020-09-10 09:11   Lightmap/LmLightSumCopy_p.hlsl.GpuCache.Gbx
-     4757  2020-09-10 09:11   Lightmap/LmLIndex_Inst_p.hlsl.GpuCache.Gbx
+     2040  2020-09-24 13:36   Lightmap/LmLBumpLDir_Inst_p.hlsl.GpuCache.Gbx
+     2504  2020-09-24 13:36   Lightmap/LmLBumpProj_Inst_p.hlsl.GpuCache.Gbx
+     3344  2020-09-24 13:36   Lightmap/LmLHBasisDirect_Inst_p.hlsl.GpuCache.Gbx
+     1713  2020-09-24 13:36   Lightmap/LmLHBasisILighting_Inst_p.hlsl.GpuCache.Gbx
+     1217  2020-09-24 13:36   Lightmap/LmLightAddDir_p.hlsl.GpuCache.Gbx
+     2634  2020-09-24 13:36   Lightmap/LmLightSumBumpAvg_p.hlsl.GpuCache.Gbx
+     2494  2020-09-24 13:36   Lightmap/LmLightSumCopy_p.hlsl.GpuCache.Gbx
+     4754  2020-09-24 13:36   Lightmap/LmLIndex_Inst_p.hlsl.GpuCache.Gbx
      2872  2020-08-28 18:11   Lightmap/LmLIndex_Sort_c.hlsl.GpuCache.Gbx
      1584  2020-08-28 18:11   Lightmap/LmRasterPosNrm_Inst_v.hlsl.GpuCache.Gbx
-     2876  2020-09-10 09:11   Lightmap/LmSpriteSS_LightAtt_p.hlsl.GpuCache.Gbx
+     2874  2020-09-24 13:36   Lightmap/LmSpriteSS_LightAtt_p.hlsl.GpuCache.Gbx
      2030  2020-08-28 18:11   Lightmap/LmSpriteSS_ResolveAndProjSH_p.hlsl.GpuCache.Gbx
       954  2020-08-28 18:11   Lightmap/LmSSGid_MergeId_p.hlsl.GpuCache.Gbx
       474  2020-08-28 18:11   Lightmap/LmSSGid_SetId_Inst_p.hlsl.GpuCache.Gbx
      2590  2020-08-28 18:11   Lightmap/LmSSGid_UpSampleY_p.hlsl.GpuCache.Gbx
-     1685  2020-09-10 09:11   Lightmap/LmSSNormOrGutterWithA_p.hlsl.GpuCache.Gbx
-     1389  2020-09-10 09:11   Lightmap/LmSSNormWithA_p.hlsl.GpuCache.Gbx
-     1155  2020-09-10 09:11   Lightmap/LmSSResolve_LBump_p.hlsl.GpuCache.Gbx
-     1066  2020-09-10 09:11   Lightmap/LmSSResolve_Light_p.hlsl.GpuCache.Gbx
-     2249  2020-09-10 09:11   Lightmap/LmSSResolve_Spread_ListMerge_p.hlsl.GpuCache.Gbx
-      937  2020-09-10 09:11   Lightmap/LmSSResolve_SpreadReplicate_p.hlsl.GpuCache.Gbx
+     1685  2020-09-24 13:36   Lightmap/LmSSNormOrGutterWithA_p.hlsl.GpuCache.Gbx
+     1411  2020-09-24 13:36   Lightmap/LmSSNormWithA_p.hlsl.GpuCache.Gbx
+     1155  2020-09-24 13:36   Lightmap/LmSSResolve_LBump_p.hlsl.GpuCache.Gbx
+     1066  2020-09-24 13:36   Lightmap/LmSSResolve_Light_p.hlsl.GpuCache.Gbx
+     2249  2020-09-24 13:36   Lightmap/LmSSResolve_Spread_ListMerge_p.hlsl.GpuCache.Gbx
+      937  2020-09-24 13:36   Lightmap/LmSSResolve_SpreadReplicate_p.hlsl.GpuCache.Gbx
      2762  2020-08-28 18:11   Lightmap/PeelZDiffuse_Inst_v.hlsl.GpuCache.Gbx
-     1220  2020-09-10 09:11   Lightmap/PeelZDiffuse_p.hlsl.GpuCache.Gbx
+     1219  2020-09-24 13:36   Lightmap/PeelZDiffuse_p.hlsl.GpuCache.Gbx
       863  2020-08-28 18:11   Lightmap/PixelCopyToTextureArray_c.hlsl.GpuCache.Gbx
-     1109  2020-09-10 09:11   Lightmap/ProbeGrid_AddSkyVisibility_p.hlsl.GpuCache.Gbx
-    19751  2020-09-10 09:11   Lightmap/ProbeGrid_LightAcc_p.hlsl.GpuCache.Gbx
+     1105  2020-09-24 13:36   Lightmap/ProbeGrid_AddSkyVisibility_p.hlsl.GpuCache.Gbx
+    19748  2020-09-24 13:36   Lightmap/ProbeGrid_LightAcc_p.hlsl.GpuCache.Gbx
      3862  2020-08-28 18:11   Lightmap/ProbeGrid_LightListSample_QuatTrans_c.hlsl.GpuCache.Gbx
-     8784  2020-09-10 09:11   Lightmap/ProbeGrid_LightWeightMax_p.hlsl.GpuCache.Gbx
+     8781  2020-09-24 13:36   Lightmap/ProbeGrid_LightWeightMax_p.hlsl.GpuCache.Gbx
      1671  2020-08-28 18:11   Lightmap/ProbeGrid_ListMerge_c.hlsl.GpuCache.Gbx
      1470  2020-08-28 18:11   Lightmap/ProbeGrid_Sample_c.hlsl.GpuCache.Gbx
      2314  2020-08-28 18:11   Lightmap/ProbeGrid_Sample_CbTrans_c.hlsl.GpuCache.Gbx
-     1257  2020-09-10 09:11   Lightmap/ProbeGrid_SetILightDir_p.hlsl.GpuCache.Gbx
-     1256  2020-09-10 09:11   Lightmap/ProbeGrid_SetIsValid_p.hlsl.GpuCache.Gbx
+     1257  2020-09-24 13:36   Lightmap/ProbeGrid_SetILightDir_p.hlsl.GpuCache.Gbx
+     1256  2020-09-24 13:36   Lightmap/ProbeGrid_SetIsValid_p.hlsl.GpuCache.Gbx
      1756  2020-08-28 18:11   Lightmap/ProbeGridDyna_Sample_CbTrans_c.hlsl.GpuCache.Gbx
      1513  2020-08-28 18:11   Lightmap/ProgeGrid_List_Sort_c.hlsl.GpuCache.Gbx
-      819  2020-09-10 09:11   Lightmap/SetWaterId_Inst_p.hlsl.GpuCache.Gbx
+      819  2020-09-24 13:36   Lightmap/SetWaterId_Inst_p.hlsl.GpuCache.Gbx
      1361  2020-08-28 18:11   Lightmap/SetWaterId_Inst_v.hlsl.GpuCache.Gbx
-     2876  2020-09-10 09:11   Lightmap/ShowProgressBumpAvgNorm_p.hlsl.GpuCache.Gbx
+     2850  2020-09-24 13:36   Lightmap/ShowProgressBumpAvgNorm_p.hlsl.GpuCache.Gbx
      1549  2020-08-28 18:11   Lightmap/ZOnlyParaboloid_Inst_v.hlsl.GpuCache.Gbx
-     1694  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/PeelDepthDiffuseT3 PC3.PHlsl.Txt.GpuCache.Gbx
-     1767  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/SpriteAddILight PC3.PHlsl.Txt.GpuCache.Gbx
-     4101  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/SpriteAddLight PC3.PHlsl.Txt.GpuCache.Gbx
-      664  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/SpriteSetAmbient.PHlsl.Txt.GpuCache.Gbx
-     1621  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/SpriteSetILightDir PC3.PHlsl.Txt.GpuCache.Gbx
-     1450  2020-09-10 09:17   Lightmap/Media/Text/PHLSL/SpriteSetILightTrans.PHlsl.Txt.GpuCache.Gbx
-     2251  2020-09-10 09:17   Lightmap/Media/Text/VHLSL/PeelDepthDiffuseT3 PC3.VHlsl.Txt.GpuCache.Gbx
-      730  2020-09-10 09:17   Lightmap/Media/Text/VHLSL/Sprite PC3.VHlsl.Txt.GpuCache.Gbx
-      661  2020-09-10 09:17   Lightmap/Media/Text/VHLSL/SpriteSetAmbient.VHlsl.Txt.GpuCache.Gbx
-     3256  2020-09-10 09:11   Menu/BlendTextureSuperSample_p.hlsl.GpuCache.Gbx
+     1691  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/PeelDepthDiffuseT3 PC3.PHlsl.Txt.GpuCache.Gbx
+     1736  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/SpriteAddILight PC3.PHlsl.Txt.GpuCache.Gbx
+     4089  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/SpriteAddLight PC3.PHlsl.Txt.GpuCache.Gbx
+      664  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/SpriteSetAmbient.PHlsl.Txt.GpuCache.Gbx
+     1626  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/SpriteSetILightDir PC3.PHlsl.Txt.GpuCache.Gbx
+     1446  2020-09-24 13:42   Lightmap/Media/Text/PHLSL/SpriteSetILightTrans.PHlsl.Txt.GpuCache.Gbx
+     2238  2020-09-24 13:42   Lightmap/Media/Text/VHLSL/PeelDepthDiffuseT3 PC3.VHlsl.Txt.GpuCache.Gbx
+      727  2020-09-24 13:42   Lightmap/Media/Text/VHLSL/Sprite PC3.VHlsl.Txt.GpuCache.Gbx
+      653  2020-09-24 13:42   Lightmap/Media/Text/VHLSL/SpriteSetAmbient.VHlsl.Txt.GpuCache.Gbx
+     3237  2020-09-24 13:36   Menu/BlendTextureSuperSample_p.hlsl.GpuCache.Gbx
      1152  2020-08-28 18:11   Menu/BlendTextureSuperSample_v.hlsl.GpuCache.Gbx
-     2997  2020-09-10 09:18   Menu/Media/Text/PHLSL/BackgroundLayerBlurPC3.PHlsl.Txt.GpuCache.Gbx
-     2899  2020-09-10 09:18   Menu/Media/Text/PHLSL/BackgroundLayerHueShift.PHlsl.Txt.GpuCache.Gbx
-     2828  2020-09-10 09:18   Menu/Media/Text/PHLSL/BackgroundLayerPC3.PHlsl.Txt.GpuCache.Gbx
-     2910  2020-09-10 09:18   Menu/Media/Text/PHLSL/BlendTextureAndBorderMask.PHlsl.Txt.GpuCache.Gbx
-     3108  2020-09-10 09:18   Menu/Media/Text/PHLSL/ShowMiniMap.PHlsl.Txt.GpuCache.Gbx
-      921  2020-09-10 09:18   Menu/Media/Text/VHLSL/BackgroundLayerBlurPC3.VHlsl.Txt.GpuCache.Gbx
-     1078  2020-09-10 09:18   Menu/Media/Text/VHLSL/BackgroundLayerHueShift.VHlsl.Txt.GpuCache.Gbx
-      890  2020-09-10 09:18   Menu/Media/Text/VHLSL/BackgroundLayerPC3.VHlsl.Txt.GpuCache.Gbx
-      887  2020-09-10 09:18   Menu/Media/Text/VHLSL/BlendTextureAndBorderMask.VHlsl.Txt.GpuCache.Gbx
-      861  2020-09-10 09:18   Menu/Media/Text/VHLSL/ShowMiniMap.VHlsl.Txt.GpuCache.Gbx
-     2015  2020-09-10 09:11   Noise/FillNoiseVolume_c.hlsl.GpuCache.Gbx
-     1190  2020-09-10 09:11   Painter/BlendLayer_p.hlsl.GpuCache.Gbx
-      781  2020-09-10 09:11   Painter/BlendLayer_TextureOp_p.hlsl.GpuCache.Gbx
+     2981  2020-09-24 13:43   Menu/Media/Text/PHLSL/BackgroundLayerBlurPC3.PHlsl.Txt.GpuCache.Gbx
+     2872  2020-09-24 13:43   Menu/Media/Text/PHLSL/BackgroundLayerHueShift.PHlsl.Txt.GpuCache.Gbx
+     2809  2020-09-24 13:43   Menu/Media/Text/PHLSL/BackgroundLayerPC3.PHlsl.Txt.GpuCache.Gbx
+     2890  2020-09-24 13:43   Menu/Media/Text/PHLSL/BlendTextureAndBorderMask.PHlsl.Txt.GpuCache.Gbx
+     3089  2020-09-24 13:43   Menu/Media/Text/PHLSL/ShowMiniMap.PHlsl.Txt.GpuCache.Gbx
+      924  2020-09-24 13:43   Menu/Media/Text/VHLSL/BackgroundLayerBlurPC3.VHlsl.Txt.GpuCache.Gbx
+     1078  2020-09-24 13:43   Menu/Media/Text/VHLSL/BackgroundLayerHueShift.VHlsl.Txt.GpuCache.Gbx
+      891  2020-09-24 13:43   Menu/Media/Text/VHLSL/BackgroundLayerPC3.VHlsl.Txt.GpuCache.Gbx
+      887  2020-09-24 13:43   Menu/Media/Text/VHLSL/BlendTextureAndBorderMask.VHlsl.Txt.GpuCache.Gbx
+      858  2020-09-24 13:43   Menu/Media/Text/VHLSL/ShowMiniMap.VHlsl.Txt.GpuCache.Gbx
+     2015  2020-09-24 13:36   Noise/FillNoiseVolume_c.hlsl.GpuCache.Gbx
+     1186  2020-09-24 13:36   Painter/BlendLayer_p.hlsl.GpuCache.Gbx
+      778  2020-09-24 13:36   Painter/BlendLayer_TextureOp_p.hlsl.GpuCache.Gbx
       803  2020-08-28 18:11   Painter/BlendLayer_v.hlsl.GpuCache.Gbx
-     1763  2020-09-10 09:11   Painter/BlendLayerStencil_p.hlsl.GpuCache.Gbx
+     1764  2020-09-24 13:36   Painter/BlendLayerStencil_p.hlsl.GpuCache.Gbx
       540  2020-08-28 18:11   Painter/FillSvg_p.hlsl.GpuCache.Gbx
      1940  2020-08-28 18:11   Painter/FillSvg_v.hlsl.GpuCache.Gbx
-      707  2020-09-10 09:11   Painter/ModulateLayer_p.hlsl.GpuCache.Gbx
+      706  2020-09-24 13:36   Painter/ModulateLayer_p.hlsl.GpuCache.Gbx
       803  2020-08-28 18:11   Painter/ModulateLayer_v.hlsl.GpuCache.Gbx
-      732  2020-09-10 09:11   Painter/ModulateSvg_p.hlsl.GpuCache.Gbx
-     2350  2020-09-10 09:11   Painter/PaintWithAlpha_p.hlsl.GpuCache.Gbx
+      726  2020-09-24 13:36   Painter/ModulateSvg_p.hlsl.GpuCache.Gbx
+     2348  2020-09-24 13:36   Painter/PaintWithAlpha_p.hlsl.GpuCache.Gbx
      1236  2020-08-28 18:11   Painter/PaintWithAlpha_v.hlsl.GpuCache.Gbx
-      926  2020-09-10 09:11   Painter/PreviewMask_p.hlsl.GpuCache.Gbx
-      753  2020-09-10 09:11   Painter/RasterAlphaMask_p.hlsl.GpuCache.Gbx
-      758  2020-09-10 09:11   Painter/RasterRgbMask_p.hlsl.GpuCache.Gbx
+      923  2020-09-24 13:36   Painter/PreviewMask_p.hlsl.GpuCache.Gbx
+      752  2020-09-24 13:36   Painter/RasterAlphaMask_p.hlsl.GpuCache.Gbx
+      757  2020-09-24 13:36   Painter/RasterRgbMask_p.hlsl.GpuCache.Gbx
      1006  2020-08-28 18:11   Painter/ShadingImage_p.hlsl.GpuCache.Gbx
       740  2020-08-28 18:11   Painter/ShadingImage_v.hlsl.GpuCache.Gbx
      1038  2020-08-28 18:11   ShadowCache/UpdateShadowIndex_c.hlsl.GpuCache.Gbx
-     1285  2020-09-10 09:17   ShootMania/Media/Text/PHLSL/AttractorBeamPC3.PHlsl.Txt.GpuCache.Gbx
-     1094  2020-09-10 09:17   ShootMania/Media/Text/PHLSL/AttractorCylinder.PHlsl.Txt.GpuCache.Gbx
-      863  2020-09-10 09:17   ShootMania/Media/Text/PHLSL/CrossHairHueShift.PHlsl.Txt.GpuCache.Gbx
-     1091  2020-09-10 09:17   ShootMania/Media/Text/PHLSL/Propeller.PHlsl.Txt.GpuCache.Gbx
-     1179  2020-09-10 09:17   ShootMania/Media/Text/VHLSL/AttractorBeamPC3.VHlsl.Txt.GpuCache.Gbx
-     1127  2020-09-10 09:17   ShootMania/Media/Text/VHLSL/AttractorCylinder.VHlsl.Txt.GpuCache.Gbx
-      939  2020-09-10 09:17   ShootMania/Media/Text/VHLSL/CrossHairHueShift.VHlsl.Txt.GpuCache.Gbx
-     2614  2020-09-10 09:17   ShootMania/Media/Text/VHLSL/Propeller.VHlsl.Txt.GpuCache.Gbx
-      971  2020-09-10 09:17   Sky/Media/Text/PHlsl/SkyDay.PHlsl.Txt.GpuCache.Gbx
-      972  2020-09-10 09:17   Sky/Media/Text/VHLSL/SkyDayPC2.VHlsl.Txt.GpuCache.Gbx
-     5610  2020-09-10 09:11   Tech3/Block_DecalGeom_TOp_PxzDNS_X2_p.hlsl.GpuCache.Gbx
+     1285  2020-09-24 13:42   ShootMania/Media/Text/PHLSL/AttractorBeamPC3.PHlsl.Txt.GpuCache.Gbx
+     1088  2020-09-24 13:42   ShootMania/Media/Text/PHLSL/AttractorCylinder.PHlsl.Txt.GpuCache.Gbx
+      863  2020-09-24 13:42   ShootMania/Media/Text/PHLSL/CrossHairHueShift.PHlsl.Txt.GpuCache.Gbx
+     1088  2020-09-24 13:42   ShootMania/Media/Text/PHLSL/Propeller.PHlsl.Txt.GpuCache.Gbx
+     1179  2020-09-24 13:42   ShootMania/Media/Text/VHLSL/AttractorBeamPC3.VHlsl.Txt.GpuCache.Gbx
+     1131  2020-09-24 13:42   ShootMania/Media/Text/VHLSL/AttractorCylinder.VHlsl.Txt.GpuCache.Gbx
+      939  2020-09-24 13:42   ShootMania/Media/Text/VHLSL/CrossHairHueShift.VHlsl.Txt.GpuCache.Gbx
+     2614  2020-09-24 13:42   ShootMania/Media/Text/VHLSL/Propeller.VHlsl.Txt.GpuCache.Gbx
+      978  2020-09-24 13:42   Sky/Media/Text/PHlsl/SkyDay.PHlsl.Txt.GpuCache.Gbx
+      972  2020-09-24 13:42   Sky/Media/Text/VHLSL/SkyDayPC2.VHlsl.Txt.GpuCache.Gbx
+     5457  2020-09-24 13:36   Tech3/Block_DecalGeom_TOp_PxzDNS_X2_p.hlsl.GpuCache.Gbx
      3879  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PxzDNS_X2_v.hlsl.GpuCache.Gbx
      3943  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PxzDSN_X2_v.hlsl.GpuCache.Gbx
-     4988  2020-09-10 09:11   Tech3/Block_DecalGeom_TOp_PyDNS_X2H2_p.hlsl.GpuCache.Gbx
+     5059  2020-09-24 13:36   Tech3/Block_DecalGeom_TOp_PyDNS_X2H2_p.hlsl.GpuCache.Gbx
      3929  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PyDNS_X2H2_v.hlsl.GpuCache.Gbx
-     8096  2020-09-10 11:17   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_p.hlsl.GpuCache.Gbx
+     8030  2020-09-24 13:36   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_p.hlsl.GpuCache.Gbx
      3378  2020-09-03 11:50   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_v.hlsl.GpuCache.Gbx
-    57914  2020-09-16 16:39   Tech3/Block_DefReadP1_COut_CIn_p.hlsl.GpuCache.Gbx
-   156860  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_DispIn_p.hlsl.GpuCache.Gbx
-   351410  2020-09-10 09:11   Tech3/Block_DefReadP1_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
+    62786  2020-09-24 13:36   Tech3/Block_DefReadP1_COut_CIn_p.hlsl.GpuCache.Gbx
+   231051  2020-09-24 13:36   Tech3/Block_DefReadP1_COut_DispIn_p.hlsl.GpuCache.Gbx
+   317840  2020-09-24 13:36   Tech3/Block_DefReadP1_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
      8496  2020-09-03 11:50   Tech3/Block_DefReadP1_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
-    79142  2020-09-16 16:39   Tech3/Block_DefReadP1_COut_p.hlsl.GpuCache.Gbx
+    78675  2020-09-24 13:36   Tech3/Block_DefReadP1_COut_p.hlsl.GpuCache.Gbx
      9106  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPxz_v.hlsl.GpuCache.Gbx
      9211  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPy_v.hlsl.GpuCache.Gbx
      6685  2020-09-03 11:50   Tech3/Block_DefReadP1_LM0_TgtPyPxz_v.hlsl.GpuCache.Gbx
@@ -546,283 +550,283 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      8728  2020-09-03 11:50   Tech3/Block_DefReadP1_LM2_TgtFixed_COut_v.hlsl.GpuCache.Gbx
      8672  2020-09-03 11:50   Tech3/Block_DefReadP1_LM2_TgtFixed_SI_COut_v.hlsl.GpuCache.Gbx
      8618  2020-09-03 11:50   Tech3/Block_DefReadP1_LM2_TgtFixed_v.hlsl.GpuCache.Gbx
-    72339  2020-09-10 09:11   Tech3/Block_DefReadP1_p.hlsl.GpuCache.Gbx
-    55541  2020-09-10 11:17   Tech3/Block_DefReadP1_PyPxz_p.hlsl.GpuCache.Gbx
-    63839  2020-09-16 16:40   Tech3/Block_DefReadP1_SI_COut_p.hlsl.GpuCache.Gbx
-    61791  2020-09-10 09:12   Tech3/Block_DefReadP1_SI_p.hlsl.GpuCache.Gbx
-    58107  2020-09-10 09:12   Tech3/Block_Ice_p.hlsl.GpuCache.Gbx
+    68027  2020-09-24 13:36   Tech3/Block_DefReadP1_p.hlsl.GpuCache.Gbx
+    55021  2020-09-24 13:36   Tech3/Block_DefReadP1_PyPxz_p.hlsl.GpuCache.Gbx
+    73402  2020-09-24 13:37   Tech3/Block_DefReadP1_SI_COut_p.hlsl.GpuCache.Gbx
+    65039  2020-09-24 13:37   Tech3/Block_DefReadP1_SI_p.hlsl.GpuCache.Gbx
+    55645  2020-09-24 13:37   Tech3/Block_Ice_p.hlsl.GpuCache.Gbx
      4099  2020-09-03 11:50   Tech3/Block_Ice_v.hlsl.GpuCache.Gbx
-     4397  2020-09-10 09:12   Tech3/Block_LQ_p.hlsl.GpuCache.Gbx
+     4371  2020-09-24 13:37   Tech3/Block_LQ_p.hlsl.GpuCache.Gbx
      2392  2020-09-03 11:50   Tech3/Block_LQ_v.hlsl.GpuCache.Gbx
-      773  2020-09-10 09:12   Tech3/Block_PeelDepthDiffuse_Black_p.hlsl.GpuCache.Gbx
+      768  2020-09-24 13:37   Tech3/Block_PeelDepthDiffuse_Black_p.hlsl.GpuCache.Gbx
      2721  2020-09-03 11:50   Tech3/Block_PeelDepthDiffuse_Black_v.hlsl.GpuCache.Gbx
-     3055  2020-09-10 09:12   Tech3/Block_PoleEmblem_PeelDiff_p.hlsl.GpuCache.Gbx
+     3043  2020-09-24 13:37   Tech3/Block_PoleEmblem_PeelDiff_p.hlsl.GpuCache.Gbx
      1341  2020-09-03 11:50   Tech3/Block_PoleEmblem_PeelDiff_v.hlsl.GpuCache.Gbx
-     5178  2020-09-10 09:12   Tech3/Block_PTDSN_DefWrite_p.hlsl.GpuCache.Gbx
+     5157  2020-09-24 13:37   Tech3/Block_PTDSN_DefWrite_p.hlsl.GpuCache.Gbx
      5538  2020-09-03 11:50   Tech3/Block_PTDSN_DefWrite_v.hlsl.GpuCache.Gbx
-    79219  2020-09-10 09:12   Tech3/Block_PTDSN_p.hlsl.GpuCache.Gbx
+    78729  2020-09-24 13:37   Tech3/Block_PTDSN_p.hlsl.GpuCache.Gbx
     13597  2020-09-03 11:50   Tech3/Block_PTDSN_v.hlsl.GpuCache.Gbx
-    10380  2020-09-10 09:12   Tech3/Block_PTDSN_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
+    11747  2020-09-24 13:37   Tech3/Block_PTDSN_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
      7758  2020-09-03 11:50   Tech3/Block_PTDSN_X2H2_DefWrite_v.hlsl.GpuCache.Gbx
-   177652  2020-09-10 09:12   Tech3/Block_PTDSN_X2H2_p.hlsl.GpuCache.Gbx
+   169058  2020-09-24 13:37   Tech3/Block_PTDSN_X2H2_p.hlsl.GpuCache.Gbx
     13570  2020-09-03 11:50   Tech3/Block_PTDSN_X2H2_v.hlsl.GpuCache.Gbx
-     7615  2020-09-10 09:12   Tech3/Block_PxzDSN_DefWrite_p.hlsl.GpuCache.Gbx
+     7589  2020-09-24 13:37   Tech3/Block_PxzDSN_DefWrite_p.hlsl.GpuCache.Gbx
      4963  2020-09-03 11:50   Tech3/Block_PxzDSN_DefWrite_v.hlsl.GpuCache.Gbx
-   157982  2020-09-10 09:12   Tech3/Block_PxzDSN_p.hlsl.GpuCache.Gbx
-     5424  2020-09-10 09:12   Tech3/Block_PxzDSN_PeelDiff_p.hlsl.GpuCache.Gbx
+   159146  2020-09-24 13:37   Tech3/Block_PxzDSN_p.hlsl.GpuCache.Gbx
+     5351  2020-09-24 13:37   Tech3/Block_PxzDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1414  2020-09-03 11:50   Tech3/Block_PxzDSN_PeelDiff_v.hlsl.GpuCache.Gbx
     12309  2020-09-03 11:50   Tech3/Block_PxzDSN_v.hlsl.GpuCache.Gbx
-    10429  2020-09-10 09:12   Tech3/Block_PxzTDSN_DefWrite_p.hlsl.GpuCache.Gbx
+     8384  2020-09-24 13:37   Tech3/Block_PxzTDSN_DefWrite_p.hlsl.GpuCache.Gbx
      6131  2020-09-03 11:50   Tech3/Block_PxzTDSN_DefWrite_v.hlsl.GpuCache.Gbx
-   155955  2020-09-10 09:12   Tech3/Block_PxzTDSN_p.hlsl.GpuCache.Gbx
-     5746  2020-09-10 09:12   Tech3/Block_PxzTDSN_PeelDiff_p.hlsl.GpuCache.Gbx
+   152827  2020-09-24 13:37   Tech3/Block_PxzTDSN_p.hlsl.GpuCache.Gbx
+     5622  2020-09-24 13:37   Tech3/Block_PxzTDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1473  2020-09-03 11:50   Tech3/Block_PxzTDSN_PeelDiff_v.hlsl.GpuCache.Gbx
     18674  2020-09-03 11:50   Tech3/Block_PxzTDSN_v.hlsl.GpuCache.Gbx
-     6808  2020-09-10 09:12   Tech3/Block_Py0DSNX2_Py1DSNX2_DefWrite_p.hlsl.GpuCache.Gbx
+     6815  2020-09-24 13:37   Tech3/Block_Py0DSNX2_Py1DSNX2_DefWrite_p.hlsl.GpuCache.Gbx
      4816  2020-09-03 11:50   Tech3/Block_Py0DSNX2_Py1DSNX2_DefWrite_v.hlsl.GpuCache.Gbx
-   119382  2020-09-10 09:12   Tech3/Block_Py0DSNX2_Py1DSNX2_p.hlsl.GpuCache.Gbx
-     5798  2020-09-10 09:12   Tech3/Block_Py0DSNX2_Py1DSNX2_PeelDiffuse_p.hlsl.GpuCache.Gbx
+   125361  2020-09-24 13:37   Tech3/Block_Py0DSNX2_Py1DSNX2_p.hlsl.GpuCache.Gbx
+     4875  2020-09-24 13:37   Tech3/Block_Py0DSNX2_Py1DSNX2_PeelDiffuse_p.hlsl.GpuCache.Gbx
      3318  2020-09-03 11:50   Tech3/Block_Py0DSNX2_Py1DSNX2_PeelDiffuse_v.hlsl.GpuCache.Gbx
     14279  2020-09-03 11:50   Tech3/Block_Py0DSNX2_Py1DSNX2_v.hlsl.GpuCache.Gbx
      5296  2020-09-03 11:50   Tech3/Block_PyDSN_DefWrite_v.hlsl.GpuCache.Gbx
      1494  2020-09-03 11:50   Tech3/Block_PyDSN_PeelDiff_v.hlsl.GpuCache.Gbx
     13037  2020-09-03 11:50   Tech3/Block_PyDSN_v.hlsl.GpuCache.Gbx
-     7039  2020-09-10 09:12   Tech3/Block_PyDSNX2_DefWrite_p.hlsl.GpuCache.Gbx
+     7029  2020-09-24 13:37   Tech3/Block_PyDSNX2_DefWrite_p.hlsl.GpuCache.Gbx
      5758  2020-09-03 11:50   Tech3/Block_PyDSNX2_DefWrite_v.hlsl.GpuCache.Gbx
-   269742  2020-09-10 09:12   Tech3/Block_PyDSNX2_p.hlsl.GpuCache.Gbx
-     4580  2020-09-10 09:12   Tech3/Block_PyDSNX2_PeelDiff_p.hlsl.GpuCache.Gbx
+   268387  2020-09-24 13:37   Tech3/Block_PyDSNX2_p.hlsl.GpuCache.Gbx
+     4545  2020-09-24 13:37   Tech3/Block_PyDSNX2_PeelDiff_p.hlsl.GpuCache.Gbx
      1907  2020-09-03 11:50   Tech3/Block_PyDSNX2_PeelDiff_v.hlsl.GpuCache.Gbx
     12359  2020-09-03 11:50   Tech3/Block_PyDSNX2_v.hlsl.GpuCache.Gbx
-    82700  2020-09-10 11:17   Tech3/Block_PyPxz_Blend2_p.hlsl.GpuCache.Gbx
+    87301  2020-09-24 13:37   Tech3/Block_PyPxz_Blend2_p.hlsl.GpuCache.Gbx
      4019  2020-09-03 11:51   Tech3/Block_PyPxz_Blend2_v.hlsl.GpuCache.Gbx
-    71717  2020-09-16 16:40   Tech3/Block_PyPxz_ids_DefWrite_p.hlsl.GpuCache.Gbx
-    28274  2020-09-16 16:40   Tech3/Block_PyPxz_ids_DefWrite_v.hlsl.GpuCache.Gbx
-   472356  2020-09-16 16:40   Tech3/Block_PyPxz_ids_p.hlsl.GpuCache.Gbx
-    18961  2020-09-16 16:40   Tech3/Block_PyPxz_ids_PeelDiff_p.hlsl.GpuCache.Gbx
-    13894  2020-09-16 16:40   Tech3/Block_PyPxz_ids_PeelDiff_v.hlsl.GpuCache.Gbx
-    38866  2020-09-16 16:40   Tech3/Block_PyPxz_ids_v.hlsl.GpuCache.Gbx
-    41413  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_DefWrite_Hue_p.hlsl.GpuCache.Gbx
-    39821  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
+    71766  2020-09-24 13:37   Tech3/Block_PyPxz_ids_DefWrite_p.hlsl.GpuCache.Gbx
+    28159  2020-09-24 13:38   Tech3/Block_PyPxz_ids_DefWrite_v.hlsl.GpuCache.Gbx
+   453834  2020-09-24 13:38   Tech3/Block_PyPxz_ids_p.hlsl.GpuCache.Gbx
+    16453  2020-09-24 13:38   Tech3/Block_PyPxz_ids_PeelDiff_p.hlsl.GpuCache.Gbx
+    13459  2020-09-24 13:38   Tech3/Block_PyPxz_ids_PeelDiff_v.hlsl.GpuCache.Gbx
+    36336  2020-09-24 13:38   Tech3/Block_PyPxz_ids_v.hlsl.GpuCache.Gbx
+    39668  2020-09-24 13:38   Tech3/Block_PyPxz_X2H2_DefWrite_Hue_p.hlsl.GpuCache.Gbx
+    34385  2020-09-24 13:38   Tech3/Block_PyPxz_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
      3743  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_DefWrite_v.hlsl.GpuCache.Gbx
-   153908  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_Hue_p.hlsl.GpuCache.Gbx
+   163109  2020-09-24 13:38   Tech3/Block_PyPxz_X2H2_Hue_p.hlsl.GpuCache.Gbx
      8623  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_LM1_v.hlsl.GpuCache.Gbx
-   159100  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_p.hlsl.GpuCache.Gbx
+   165572  2020-09-24 13:38   Tech3/Block_PyPxz_X2H2_p.hlsl.GpuCache.Gbx
      1605  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_PeelDiff_LM1_v.hlsl.GpuCache.Gbx
-     4351  2020-09-10 11:18   Tech3/Block_PyPxz_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
+     4318  2020-09-24 13:38   Tech3/Block_PyPxz_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
      1608  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_PeelDiff_v.hlsl.GpuCache.Gbx
      9711  2020-09-03 11:51   Tech3/Block_PyPxz_X2H2_v.hlsl.GpuCache.Gbx
-    78719  2020-09-10 11:17   Tech3/Block_PyPxzT_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
+    78593  2020-09-24 13:37   Tech3/Block_PyPxzT_X2H2_DefWrite_p.hlsl.GpuCache.Gbx
     12155  2020-09-03 11:51   Tech3/Block_PyPxzT_X2H2_DefWrite_v.hlsl.GpuCache.Gbx
-   260128  2020-09-10 11:17   Tech3/Block_PyPxzT_X2H2_p.hlsl.GpuCache.Gbx
-     6226  2020-09-10 11:17   Tech3/Block_PyPxzT_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
+   259941  2020-09-24 13:37   Tech3/Block_PyPxzT_X2H2_p.hlsl.GpuCache.Gbx
+     6329  2020-09-24 13:37   Tech3/Block_PyPxzT_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
      2082  2020-09-03 11:51   Tech3/Block_PyPxzT_X2H2_PeelDiff_v.hlsl.GpuCache.Gbx
     15657  2020-09-03 11:51   Tech3/Block_PyPxzT_X2H2_v.hlsl.GpuCache.Gbx
-    86892  2020-09-16 16:40   Tech3/Block_PyPxzTLayered_DefRead_p.hlsl.GpuCache.Gbx
+    88709  2020-09-24 13:37   Tech3/Block_PyPxzTLayered_DefRead_p.hlsl.GpuCache.Gbx
     21055  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_DefRead_v.hlsl.GpuCache.Gbx
-    13536  2020-09-10 11:17   Tech3/Block_PyPxzTLayered_DefWrite_p.hlsl.GpuCache.Gbx
+    11243  2020-09-24 13:37   Tech3/Block_PyPxzTLayered_DefWrite_p.hlsl.GpuCache.Gbx
      6357  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_DefWrite_v.hlsl.GpuCache.Gbx
-   335661  2020-09-10 11:17   Tech3/Block_PyPxzTLayered_p.hlsl.GpuCache.Gbx
-    10056  2020-09-10 11:17   Tech3/Block_PyPxzTLayered_PeelDiff_p.hlsl.GpuCache.Gbx
+   340261  2020-09-24 13:37   Tech3/Block_PyPxzTLayered_p.hlsl.GpuCache.Gbx
+     9707  2020-09-24 13:37   Tech3/Block_PyPxzTLayered_PeelDiff_p.hlsl.GpuCache.Gbx
      2029  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_PeelDiff_v.hlsl.GpuCache.Gbx
     22070  2020-09-03 11:50   Tech3/Block_PyPxzTLayered_v.hlsl.GpuCache.Gbx
-     3190  2020-09-10 09:13   Tech3/Block_PyTDSN_PeelDiff_p.hlsl.GpuCache.Gbx
+     3168  2020-09-24 13:38   Tech3/Block_PyTDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1470  2020-09-03 11:51   Tech3/Block_PyTDSN_PeelDiff_v.hlsl.GpuCache.Gbx
-     4457  2020-09-10 09:13   Tech3/Block_PyTDSN_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
+     4465  2020-09-24 13:38   Tech3/Block_PyTDSN_X2H2_PeelDiff_p.hlsl.GpuCache.Gbx
      1968  2020-09-03 11:51   Tech3/Block_PyTDSN_X2H2_PeelDiff_v.hlsl.GpuCache.Gbx
-     4644  2020-09-10 09:13   Tech3/Block_ReflectLQ_p.hlsl.GpuCache.Gbx
+     4589  2020-09-24 13:38   Tech3/Block_ReflectLQ_p.hlsl.GpuCache.Gbx
      3116  2020-09-03 11:51   Tech3/Block_ReflectLQ_v.hlsl.GpuCache.Gbx
-     8374  2020-09-10 09:13   Tech3/Block_TAdd_p.hlsl.GpuCache.Gbx
+     7324  2020-09-24 13:38   Tech3/Block_TAdd_p.hlsl.GpuCache.Gbx
      8669  2020-09-03 11:51   Tech3/Block_TAdd_v.hlsl.GpuCache.Gbx
       855  2020-08-28 18:13   Tech3/Block_TAddLighted_Domain_d.hlsl.GpuCache.Gbx
       718  2020-08-28 18:13   Tech3/Block_TAddLighted_Domain_h.hlsl.GpuCache.Gbx
      1402  2020-09-03 11:51   Tech3/Block_TAddLighted_Domain_v.hlsl.GpuCache.Gbx
-     9447  2020-09-10 09:13   Tech3/Block_TAddLighted_p.hlsl.GpuCache.Gbx
+     9297  2020-09-24 13:38   Tech3/Block_TAddLighted_p.hlsl.GpuCache.Gbx
      4807  2020-09-03 18:05   Tech3/Block_TAddLighted_v.hlsl.GpuCache.Gbx
-     4289  2020-09-10 09:13   Tech3/Block_TAddModCV_p.hlsl.GpuCache.Gbx
+     4275  2020-09-24 13:38   Tech3/Block_TAddModCV_p.hlsl.GpuCache.Gbx
      3034  2020-09-03 11:51   Tech3/Block_TAddModCV_v.hlsl.GpuCache.Gbx
-     6925  2020-09-10 09:13   Tech3/Block_TAddShield_p.hlsl.GpuCache.Gbx
+     6813  2020-09-24 13:38   Tech3/Block_TAddShield_p.hlsl.GpuCache.Gbx
      3757  2020-09-03 11:51   Tech3/Block_TAddShield_v.hlsl.GpuCache.Gbx
-     6229  2020-09-10 09:13   Tech3/Block_TAddSwitch_p.hlsl.GpuCache.Gbx
+     6156  2020-09-24 13:38   Tech3/Block_TAddSwitch_p.hlsl.GpuCache.Gbx
      3577  2020-09-03 11:51   Tech3/Block_TAddSwitch_v.hlsl.GpuCache.Gbx
      2938  2020-09-03 11:51   Tech3/Block_TDSN_Anim_v.hlsl.GpuCache.Gbx
-     5071  2020-09-10 09:13   Tech3/Block_TDSN_COut_CIn_DefWrite_p.hlsl.GpuCache.Gbx
+     5056  2020-09-24 13:38   Tech3/Block_TDSN_COut_CIn_DefWrite_p.hlsl.GpuCache.Gbx
     11230  2020-09-03 11:51   Tech3/Block_TDSN_COut_CIn_DefWrite_v.hlsl.GpuCache.Gbx
-    92498  2020-09-16 16:40   Tech3/Block_TDSN_COut_CIn_p.hlsl.GpuCache.Gbx
+    86618  2020-09-24 13:38   Tech3/Block_TDSN_COut_CIn_p.hlsl.GpuCache.Gbx
     48868  2020-09-03 11:51   Tech3/Block_TDSN_COut_CIn_v.hlsl.GpuCache.Gbx
-    35686  2020-09-16 16:40   Tech3/Block_TDSN_COut_DecalMod_p.hlsl.GpuCache.Gbx
-     4608  2020-09-10 09:13   Tech3/Block_TDSN_COut_DispIn_DefWrite_p.hlsl.GpuCache.Gbx
+    36529  2020-09-24 13:38   Tech3/Block_TDSN_COut_DecalMod_p.hlsl.GpuCache.Gbx
+     4497  2020-09-24 13:38   Tech3/Block_TDSN_COut_DispIn_DefWrite_p.hlsl.GpuCache.Gbx
     11316  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_DefWrite_v.hlsl.GpuCache.Gbx
-   354697  2020-09-10 09:13   Tech3/Block_TDSN_COut_DispIn_p.hlsl.GpuCache.Gbx
-   491927  2020-09-10 09:14   Tech3/Block_TDSN_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
+   418531  2020-09-24 13:38   Tech3/Block_TDSN_COut_DispIn_p.hlsl.GpuCache.Gbx
+   434235  2020-09-24 13:39   Tech3/Block_TDSN_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
     37792  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
     35012  2020-09-03 11:51   Tech3/Block_TDSN_COut_DispIn_v.hlsl.GpuCache.Gbx
-   412063  2020-09-16 16:40   Tech3/Block_TDSN_COut_p.hlsl.GpuCache.Gbx
+   423315  2020-09-24 13:39   Tech3/Block_TDSN_COut_p.hlsl.GpuCache.Gbx
     20565  2020-09-03 18:05   Tech3/Block_TDSN_COut_v.hlsl.GpuCache.Gbx
-     6550  2020-09-10 09:14   Tech3/Block_TDSN_DecalMod_DefWrite_p.hlsl.GpuCache.Gbx
+     9625  2020-09-24 13:39   Tech3/Block_TDSN_DecalMod_DefWrite_p.hlsl.GpuCache.Gbx
      8010  2020-09-03 18:06   Tech3/Block_TDSN_DecalMod_DefWrite_v.hlsl.GpuCache.Gbx
-    70362  2020-09-10 09:14   Tech3/Block_TDSN_DecalMod_p.hlsl.GpuCache.Gbx
+    75374  2020-09-24 13:39   Tech3/Block_TDSN_DecalMod_p.hlsl.GpuCache.Gbx
     11158  2020-09-03 18:06   Tech3/Block_TDSN_DecalMod_v.hlsl.GpuCache.Gbx
-     5494  2020-09-10 09:14   Tech3/Block_TDSN_DefWrite_p.hlsl.GpuCache.Gbx
+     5482  2020-09-24 13:39   Tech3/Block_TDSN_DefWrite_p.hlsl.GpuCache.Gbx
     14312  2020-09-03 11:51   Tech3/Block_TDSN_DefWrite_v.hlsl.GpuCache.Gbx
-   143016  2020-09-10 09:14   Tech3/Block_TDSN_p.hlsl.GpuCache.Gbx
+   141550  2020-09-24 13:39   Tech3/Block_TDSN_p.hlsl.GpuCache.Gbx
      1273  2020-09-03 11:51   Tech3/Block_TDSN_PeelDiff_LM2_v.hlsl.GpuCache.Gbx
-     4058  2020-09-10 09:14   Tech3/Block_TDSN_PeelDiff_p.hlsl.GpuCache.Gbx
+     4045  2020-09-24 13:39   Tech3/Block_TDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1233  2020-09-03 11:51   Tech3/Block_TDSN_PeelDiff_v.hlsl.GpuCache.Gbx
-    99453  2020-09-16 16:40   Tech3/Block_TDSN_TI_COut_p.hlsl.GpuCache.Gbx
+    93794  2020-09-24 13:39   Tech3/Block_TDSN_TI_COut_p.hlsl.GpuCache.Gbx
      7712  2020-09-03 11:51   Tech3/Block_TDSN_TI_COut_v.hlsl.GpuCache.Gbx
     12620  2020-09-03 11:51   Tech3/Block_TDSN_v.hlsl.GpuCache.Gbx
-    98114  2020-09-16 16:40   Tech3/Block_TDSNI_COut_p.hlsl.GpuCache.Gbx
-     4128  2020-09-10 09:13   Tech3/Block_TDSNOp_PeelDiff_p.hlsl.GpuCache.Gbx
+    93762  2020-09-24 13:38   Tech3/Block_TDSNI_COut_p.hlsl.GpuCache.Gbx
+     4077  2020-09-24 13:38   Tech3/Block_TDSNOp_PeelDiff_p.hlsl.GpuCache.Gbx
      4936  2020-09-03 11:51   Tech3/Block_TreeSprite_Anim_v.hlsl.GpuCache.Gbx
-    10943  2020-09-10 09:14   Tech3/Block_TreeSprite_DefRead_p.hlsl.GpuCache.Gbx
+    15740  2020-09-24 13:39   Tech3/Block_TreeSprite_DefRead_p.hlsl.GpuCache.Gbx
      5978  2020-09-03 11:51   Tech3/Block_TreeSprite_DefRead_v.hlsl.GpuCache.Gbx
-    31122  2020-09-10 09:14   Tech3/Block_TreeSprite_DefWrite_p.hlsl.GpuCache.Gbx
+    31441  2020-09-24 13:39   Tech3/Block_TreeSprite_DefWrite_p.hlsl.GpuCache.Gbx
     12103  2020-09-03 11:51   Tech3/Block_TreeSprite_DefWrite_v.hlsl.GpuCache.Gbx
-   102273  2020-09-10 09:14   Tech3/Block_TreeSprite_p.hlsl.GpuCache.Gbx
-    37564  2020-09-10 09:14   Tech3/Block_TreeSprite_PeelDepthDiff_p.hlsl.GpuCache.Gbx
+    98559  2020-09-24 13:39   Tech3/Block_TreeSprite_p.hlsl.GpuCache.Gbx
+    41088  2020-09-24 13:39   Tech3/Block_TreeSprite_PeelDepthDiff_p.hlsl.GpuCache.Gbx
      6798  2020-09-03 11:51   Tech3/Block_TreeSprite_PeelDepthDiff_v.hlsl.GpuCache.Gbx
      7872  2020-09-03 11:51   Tech3/Block_TreeSprite_v.hlsl.GpuCache.Gbx
-   188953  2020-09-10 09:14   Tech3/Block_TSelfI_p.hlsl.GpuCache.Gbx
-     4206  2020-09-10 09:14   Tech3/Block_TSelfI_TDiffA_p.hlsl.GpuCache.Gbx
-     3043  2020-09-03 11:51   Tech3/Block_TSelfI_TDiffA_v.hlsl.GpuCache.Gbx
-     3164  2020-09-03 11:51   Tech3/Block_TSelfI_TxDiffA_v.hlsl.GpuCache.Gbx
+   210463  2020-09-24 13:39   Tech3/Block_TSelfI_p.hlsl.GpuCache.Gbx
+     4184  2020-09-24 13:39   Tech3/Block_TSelfI_TDiffA_p.hlsl.GpuCache.Gbx
+     3570  2020-09-24 13:39   Tech3/Block_TSelfI_TDiffA_v.hlsl.GpuCache.Gbx
+     3602  2020-09-24 13:39   Tech3/Block_TSelfI_TxDiffA_v.hlsl.GpuCache.Gbx
     17823  2020-09-03 11:51   Tech3/Block_TSelfI_v.hlsl.GpuCache.Gbx
      2140  2020-09-03 11:52   Tech3/Body_Tween_Anim_v.hlsl.GpuCache.Gbx
      1906  2020-09-03 11:52   Tech3/Body_Tween_DefWrite_v.hlsl.GpuCache.Gbx
      3917  2020-09-03 11:52   Tech3/Body_Tween_v.hlsl.GpuCache.Gbx
      3782  2020-09-03 11:51   Tech3/BodyAnim_Anim_v.hlsl.GpuCache.Gbx
-      616  2020-09-10 09:14   Tech3/BodyAnim_DbgVertexs_p.hlsl.GpuCache.Gbx
+      616  2020-09-24 13:39   Tech3/BodyAnim_DbgVertexs_p.hlsl.GpuCache.Gbx
      3693  2020-09-03 11:51   Tech3/BodyAnim_DbgVertexs_v.hlsl.GpuCache.Gbx
-    75983  2020-09-10 09:14   Tech3/BodyAnim_DefRead_p.hlsl.GpuCache.Gbx
+    82275  2020-09-24 13:39   Tech3/BodyAnim_DefRead_p.hlsl.GpuCache.Gbx
      9796  2020-09-03 11:51   Tech3/BodyAnim_DefRead_v.hlsl.GpuCache.Gbx
-    13266  2020-09-10 09:14   Tech3/BodyAnim_DefWrite_p.hlsl.GpuCache.Gbx
+    11755  2020-09-24 13:39   Tech3/BodyAnim_DefWrite_p.hlsl.GpuCache.Gbx
     11005  2020-09-03 11:51   Tech3/BodyAnim_DefWrite_v.hlsl.GpuCache.Gbx
-     4570  2020-09-10 09:14   Tech3/BodyAnim_Energy_p.hlsl.GpuCache.Gbx
+     4508  2020-09-24 13:39   Tech3/BodyAnim_Energy_p.hlsl.GpuCache.Gbx
      8672  2020-09-03 11:51   Tech3/BodyAnim_Energy_v.hlsl.GpuCache.Gbx
-   242642  2020-09-10 09:14   Tech3/BodyAnim_p.hlsl.GpuCache.Gbx
-     3788  2020-09-10 09:14   Tech3/BodyAnim_Shield_p.hlsl.GpuCache.Gbx
+   238478  2020-09-24 13:40   Tech3/BodyAnim_p.hlsl.GpuCache.Gbx
+     3770  2020-09-24 13:40   Tech3/BodyAnim_Shield_p.hlsl.GpuCache.Gbx
      6085  2020-09-03 11:51   Tech3/BodyAnim_Shield_v.hlsl.GpuCache.Gbx
-      768  2020-09-10 09:14   Tech3/BodyAnim_ShowEnergy_p.hlsl.GpuCache.Gbx
+      765  2020-09-24 13:40   Tech3/BodyAnim_ShowEnergy_p.hlsl.GpuCache.Gbx
      3724  2020-09-03 11:51   Tech3/BodyAnim_ShowEnergy_v.hlsl.GpuCache.Gbx
-    36889  2020-09-10 09:14   Tech3/BodyAnim_TDOSNEM_p.hlsl.GpuCache.Gbx
-     1511  2020-09-10 09:14   Tech3/BodyAnim_Teleport_p.hlsl.GpuCache.Gbx
+    40342  2020-09-24 13:40   Tech3/BodyAnim_TDOSNEM_p.hlsl.GpuCache.Gbx
+     1509  2020-09-24 13:40   Tech3/BodyAnim_Teleport_p.hlsl.GpuCache.Gbx
      4384  2020-09-03 11:51   Tech3/BodyAnim_Teleport_v.hlsl.GpuCache.Gbx
     15236  2020-09-03 11:52   Tech3/BodyAnim_v.hlsl.GpuCache.Gbx
-      941  2020-09-10 09:14   Tech3/BodyAnimSkel_PeelZDiffuse_p.hlsl.GpuCache.Gbx
+      945  2020-09-24 13:39   Tech3/BodyAnimSkel_PeelZDiffuse_p.hlsl.GpuCache.Gbx
      4065  2020-09-03 11:51   Tech3/BodyAnimSkel_PeelZDiffuse_v.hlsl.GpuCache.Gbx
      3072  2020-09-03 11:51   Tech3/BodyAnimSkel_VertexAddLight_v.hlsl.GpuCache.Gbx
      4502  2020-09-03 11:52   Tech3/CarAnimSkelDmg_Teleport_v.hlsl.GpuCache.Gbx
     14180  2020-09-03 11:52   Tech3/CarAnimSkelDmg_v.hlsl.GpuCache.Gbx
      2929  2020-09-03 11:52   Tech3/CarAnimSkelDmg_VertexAddLight_v.hlsl.GpuCache.Gbx
-   499200  2020-09-10 09:15   Tech3/CarDetails_DefRead_p.hlsl.GpuCache.Gbx
+   521699  2020-09-24 13:40   Tech3/CarDetails_DefRead_p.hlsl.GpuCache.Gbx
     38366  2020-09-03 11:52   Tech3/CarDetails_DefRead_v.hlsl.GpuCache.Gbx
-     8812  2020-09-10 09:15   Tech3/CarDetails_DefWrite_p.hlsl.GpuCache.Gbx
+     8367  2020-09-24 13:40   Tech3/CarDetails_DefWrite_p.hlsl.GpuCache.Gbx
      3303  2020-09-03 11:52   Tech3/CarDetails_DefWrite_v.hlsl.GpuCache.Gbx
-   403572  2020-09-10 09:15   Tech3/CarDetails_p.hlsl.GpuCache.Gbx
-    19319  2020-09-10 09:15   Tech3/CarDetails_SpecAmbient_p.hlsl.GpuCache.Gbx
+   435544  2020-09-24 13:40   Tech3/CarDetails_p.hlsl.GpuCache.Gbx
+    19468  2020-09-24 13:40   Tech3/CarDetails_SpecAmbient_p.hlsl.GpuCache.Gbx
      9299  2020-09-03 11:52   Tech3/CarDetails_SpecAmbient_v.hlsl.GpuCache.Gbx
     32665  2020-09-03 11:52   Tech3/CarDetails_v.hlsl.GpuCache.Gbx
-      538  2020-09-10 09:15   Tech3/CarGhost_p.hlsl.GpuCache.Gbx
+      535  2020-09-24 13:40   Tech3/CarGhost_p.hlsl.GpuCache.Gbx
       795  2020-08-28 18:16   Tech3/CarGhost_v.hlsl.GpuCache.Gbx
-     4456  2020-09-10 09:15   Tech3/CarGlass_p1_p.hlsl.GpuCache.Gbx
+     4435  2020-09-24 13:40   Tech3/CarGlass_p1_p.hlsl.GpuCache.Gbx
      4594  2020-09-03 11:52   Tech3/CarGlass_p1_v.hlsl.GpuCache.Gbx
-   111475  2020-09-10 09:15   Tech3/CarGlass_p2_p.hlsl.GpuCache.Gbx
+   107820  2020-09-24 13:40   Tech3/CarGlass_p2_p.hlsl.GpuCache.Gbx
      8208  2020-09-03 11:52   Tech3/CarGlass_p2_v.hlsl.GpuCache.Gbx
-   407587  2020-09-10 09:15   Tech3/CarSkin_DefRead_p.hlsl.GpuCache.Gbx
+   421758  2020-09-24 13:40   Tech3/CarSkin_DefRead_p.hlsl.GpuCache.Gbx
      9622  2020-09-03 11:52   Tech3/CarSkin_DefRead_v.hlsl.GpuCache.Gbx
-    17194  2020-09-10 09:15   Tech3/CarSkin_DefWrite_p.hlsl.GpuCache.Gbx
+    12508  2020-09-24 13:40   Tech3/CarSkin_DefWrite_p.hlsl.GpuCache.Gbx
      3140  2020-09-03 11:52   Tech3/CarSkin_DefWrite_v.hlsl.GpuCache.Gbx
-   292438  2020-09-10 09:15   Tech3/CarSkin_p.hlsl.GpuCache.Gbx
-    66620  2020-09-10 09:15   Tech3/CarSkin_SpecAmbient_p.hlsl.GpuCache.Gbx
+   271901  2020-09-24 13:40   Tech3/CarSkin_p.hlsl.GpuCache.Gbx
+    66025  2020-09-24 13:41   Tech3/CarSkin_SpecAmbient_p.hlsl.GpuCache.Gbx
      8909  2020-09-03 11:52   Tech3/CarSkin_v.hlsl.GpuCache.Gbx
      2504  2020-09-03 11:52   Tech3/CharAnimSkel_Anim_v.hlsl.GpuCache.Gbx
-     8701  2020-09-10 09:15   Tech3/CharAnimSkel_Body_DefRead_p.hlsl.GpuCache.Gbx
-     2530  2020-09-03 11:52   Tech3/CharAnimSkel_Body_DefRead_v.hlsl.GpuCache.Gbx
-     3561  2020-09-10 09:15   Tech3/CharAnimSkel_Body_DefWrite_p.hlsl.GpuCache.Gbx
-     2778  2020-09-03 11:52   Tech3/CharAnimSkel_Body_DefWrite_v.hlsl.GpuCache.Gbx
-     9133  2020-09-10 09:15   Tech3/CharAnimSkel_Body_p.hlsl.GpuCache.Gbx
-     2806  2020-09-03 11:52   Tech3/CharAnimSkel_Body_v.hlsl.GpuCache.Gbx
-     8701  2020-09-10 09:15   Tech3/CharAnimSkel_Part_DefRead_p.hlsl.GpuCache.Gbx
-     2530  2020-09-03 11:52   Tech3/CharAnimSkel_Part_DefRead_v.hlsl.GpuCache.Gbx
-     4888  2020-09-10 09:15   Tech3/CharAnimSkel_Part_DefWrite_p.hlsl.GpuCache.Gbx
-     2778  2020-09-03 11:52   Tech3/CharAnimSkel_Part_DefWrite_v.hlsl.GpuCache.Gbx
-    10787  2020-09-10 09:15   Tech3/CharAnimSkel_Part_p.hlsl.GpuCache.Gbx
-     2806  2020-09-03 11:52   Tech3/CharAnimSkel_Part_v.hlsl.GpuCache.Gbx
-   149938  2020-09-10 09:15   Tech3/Decal2d_p.hlsl.GpuCache.Gbx
-     3662  2020-09-10 09:15   Tech3/Decal2d_TIntens_PyDiff_p.hlsl.GpuCache.Gbx
+     8684  2020-09-24 13:41   Tech3/CharAnimSkel_Body_DefRead_p.hlsl.GpuCache.Gbx
+     3945  2020-09-24 13:41   Tech3/CharAnimSkel_Body_DefRead_v.hlsl.GpuCache.Gbx
+     3525  2020-09-24 13:41   Tech3/CharAnimSkel_Body_DefWrite_p.hlsl.GpuCache.Gbx
+     5205  2020-09-24 13:41   Tech3/CharAnimSkel_Body_DefWrite_v.hlsl.GpuCache.Gbx
+     9086  2020-09-24 13:41   Tech3/CharAnimSkel_Body_p.hlsl.GpuCache.Gbx
+     5151  2020-09-24 13:41   Tech3/CharAnimSkel_Body_v.hlsl.GpuCache.Gbx
+     8684  2020-09-24 13:41   Tech3/CharAnimSkel_Part_DefRead_p.hlsl.GpuCache.Gbx
+     3956  2020-09-24 13:41   Tech3/CharAnimSkel_Part_DefRead_v.hlsl.GpuCache.Gbx
+     4845  2020-09-24 13:41   Tech3/CharAnimSkel_Part_DefWrite_p.hlsl.GpuCache.Gbx
+     5059  2020-09-24 13:41   Tech3/CharAnimSkel_Part_DefWrite_v.hlsl.GpuCache.Gbx
+    10744  2020-09-24 13:41   Tech3/CharAnimSkel_Part_p.hlsl.GpuCache.Gbx
+     5150  2020-09-24 13:41   Tech3/CharAnimSkel_Part_v.hlsl.GpuCache.Gbx
+   149695  2020-09-24 13:41   Tech3/Decal2d_p.hlsl.GpuCache.Gbx
+     3651  2020-09-24 13:41   Tech3/Decal2d_TIntens_PyDiff_p.hlsl.GpuCache.Gbx
      3281  2020-09-03 11:52   Tech3/Decal2d_TIntens_PyDiff_v.hlsl.GpuCache.Gbx
      3911  2020-09-03 11:52   Tech3/Decal2d_v.hlsl.GpuCache.Gbx
-     3628  2020-09-10 09:15   Tech3/Decal2d_VDiff_p.hlsl.GpuCache.Gbx
+     3596  2020-09-24 13:41   Tech3/Decal2d_VDiff_p.hlsl.GpuCache.Gbx
      3569  2020-09-03 11:52   Tech3/Decal2d_VDiff_v.hlsl.GpuCache.Gbx
-     3206  2020-09-10 09:15   Tech3/Decal3d_SetInvalid_Box_p.hlsl.GpuCache.Gbx
-     3146  2020-09-10 09:15   Tech3/Decal3d_SetInvalid_p.hlsl.GpuCache.Gbx
+     3186  2020-09-24 13:41   Tech3/Decal3d_SetInvalid_Box_p.hlsl.GpuCache.Gbx
+     3120  2020-09-24 13:41   Tech3/Decal3d_SetInvalid_p.hlsl.GpuCache.Gbx
       601  2020-08-28 18:16   Tech3/Decal3d_SetInvalid_v.hlsl.GpuCache.Gbx
      6937  2020-09-03 11:52   Tech3/DecalSprite_Anim_v.hlsl.GpuCache.Gbx
-    28876  2020-09-10 09:16   Tech3/DecalSprite_DefRead_p.hlsl.GpuCache.Gbx
+    28412  2020-09-24 13:41   Tech3/DecalSprite_DefRead_p.hlsl.GpuCache.Gbx
      9992  2020-09-03 11:52   Tech3/DecalSprite_DefRead_v.hlsl.GpuCache.Gbx
-     5874  2020-09-10 09:16   Tech3/DecalSprite_DefWrite_p.hlsl.GpuCache.Gbx
+     5231  2020-09-24 13:41   Tech3/DecalSprite_DefWrite_p.hlsl.GpuCache.Gbx
     17576  2020-09-03 11:52   Tech3/DecalSprite_DefWrite_v.hlsl.GpuCache.Gbx
-    23946  2020-09-10 09:16   Tech3/DecalSprite_p.hlsl.GpuCache.Gbx
+    24867  2020-09-24 13:41   Tech3/DecalSprite_p.hlsl.GpuCache.Gbx
     20078  2020-09-03 11:52   Tech3/DecalSprite_v.hlsl.GpuCache.Gbx
      5214  2020-09-03 11:52   Tech3/DecalSpriteMacro_Anim_v.hlsl.GpuCache.Gbx
      8248  2020-09-03 11:52   Tech3/DecalSpriteMacro_DefRead_v.hlsl.GpuCache.Gbx
      7474  2020-09-03 11:52   Tech3/DecalSpriteMacro_DefWrite_v.hlsl.GpuCache.Gbx
     10831  2020-09-03 11:52   Tech3/DecalSpriteMacro_v.hlsl.GpuCache.Gbx
-     3785  2020-09-10 09:16   Tech3/Deferred_AddAmbient_Fresnel_p.hlsl.GpuCache.Gbx
-     4933  2020-09-10 09:16   Tech3/Deferred_AddLightLm_p.hlsl.GpuCache.Gbx
-     4625  2020-09-10 09:16   Tech3/Deferred_ReProjectLm_p.hlsl.GpuCache.Gbx
-     4051  2020-09-10 09:16   Tech3/Deferred_SetILightDir_p.hlsl.GpuCache.Gbx
-     1149  2020-09-10 09:16   Tech3/Deferred_SetLDirFromMask_p.hlsl.GpuCache.Gbx
-     3029  2020-09-10 09:16   Tech3/DeferredCameraMotion_p.hlsl.GpuCache.Gbx
+     3743  2020-09-24 13:41   Tech3/Deferred_AddAmbient_Fresnel_p.hlsl.GpuCache.Gbx
+     4907  2020-09-24 13:41   Tech3/Deferred_AddLightLm_p.hlsl.GpuCache.Gbx
+     4601  2020-09-24 13:41   Tech3/Deferred_ReProjectLm_p.hlsl.GpuCache.Gbx
+     4012  2020-09-24 13:41   Tech3/Deferred_SetILightDir_p.hlsl.GpuCache.Gbx
+     1145  2020-09-24 13:41   Tech3/Deferred_SetLDirFromMask_p.hlsl.GpuCache.Gbx
+     3005  2020-09-24 13:41   Tech3/DeferredCameraMotion_p.hlsl.GpuCache.Gbx
      2161  2020-08-28 18:16   Tech3/DeferredCameraMotion_v.hlsl.GpuCache.Gbx
      2708  2020-08-28 18:16   Tech3/DeferredDecal_Boxs_CBuffer_v.hlsl.GpuCache.Gbx
-    28079  2020-09-10 09:16   Tech3/DeferredDecal_Boxs_p.hlsl.GpuCache.Gbx
+    21858  2020-09-24 13:41   Tech3/DeferredDecal_Boxs_p.hlsl.GpuCache.Gbx
      3012  2020-08-28 18:17   Tech3/DeferredDecal_Boxs_SRView_v.hlsl.GpuCache.Gbx
-    26462  2020-09-10 09:16   Tech3/DeferredDecal_FullTri_p.hlsl.GpuCache.Gbx
+    27851  2020-09-24 13:41   Tech3/DeferredDecal_FullTri_p.hlsl.GpuCache.Gbx
      2180  2020-08-28 18:17   Tech3/DeferredDecal_FullTri_v.hlsl.GpuCache.Gbx
-     8374  2020-09-10 09:16   Tech3/DeferredDecalGeom_p.hlsl.GpuCache.Gbx
-     1041  2020-09-10 09:16   Tech3/DeferredDecalGeom_TIntens_PyDiff_p.hlsl.GpuCache.Gbx
+     8305  2020-09-24 13:41   Tech3/DeferredDecalGeom_p.hlsl.GpuCache.Gbx
+     1045  2020-09-24 13:41   Tech3/DeferredDecalGeom_TIntens_PyDiff_p.hlsl.GpuCache.Gbx
      1478  2020-09-03 11:52   Tech3/DeferredDecalGeom_TIntens_PyDiff_v.hlsl.GpuCache.Gbx
      5100  2020-09-03 11:52   Tech3/DeferredDecalGeom_v.hlsl.GpuCache.Gbx
-     1771  2020-09-10 09:16   Tech3/DeferredDecalGeom_VDiff_p.hlsl.GpuCache.Gbx
+     1783  2020-09-24 13:41   Tech3/DeferredDecalGeom_VDiff_p.hlsl.GpuCache.Gbx
      1672  2020-09-03 11:52   Tech3/DeferredDecalGeom_VDiff_v.hlsl.GpuCache.Gbx
      1921  2020-09-03 11:52   Tech3/DeferredDecalGeom_VtxAmbient_v.hlsl.GpuCache.Gbx
-     1136  2020-09-10 09:16   Tech3/DeferredDeCompFaceNormal_p.hlsl.GpuCache.Gbx
-     4175  2020-09-10 09:16   Tech3/DeferredFaceNormalFromDepth_p.hlsl.GpuCache.Gbx
-    78036  2020-09-10 09:16   Tech3/DeferredFog_p.hlsl.GpuCache.Gbx
-    11905  2020-09-10 09:16   Tech3/DeferredFogGlobal_p.hlsl.GpuCache.Gbx
-    15553  2020-09-10 09:16   Tech3/DeferredFull_Warp_p.hlsl.GpuCache.Gbx
-     3191  2020-09-10 09:16   Tech3/DeferredGeomBurnSphere_p.hlsl.GpuCache.Gbx
+     1135  2020-09-24 13:41   Tech3/DeferredDeCompFaceNormal_p.hlsl.GpuCache.Gbx
+     4156  2020-09-24 13:41   Tech3/DeferredFaceNormalFromDepth_p.hlsl.GpuCache.Gbx
+    78784  2020-09-24 13:41   Tech3/DeferredFog_p.hlsl.GpuCache.Gbx
+    11454  2020-09-24 13:41   Tech3/DeferredFogGlobal_p.hlsl.GpuCache.Gbx
+    16854  2020-09-24 13:41   Tech3/DeferredFull_Warp_p.hlsl.GpuCache.Gbx
+     3170  2020-09-24 13:41   Tech3/DeferredGeomBurnSphere_p.hlsl.GpuCache.Gbx
      1945  2020-08-28 18:17   Tech3/DeferredGeomBurnSphere_v.hlsl.GpuCache.Gbx
-     8050  2020-09-10 09:16   Tech3/DeferredGeomCameraMap_p.hlsl.GpuCache.Gbx
+     8064  2020-09-24 13:41   Tech3/DeferredGeomCameraMap_p.hlsl.GpuCache.Gbx
       725  2020-08-28 18:17   Tech3/DeferredGeomCameraMap_v.hlsl.GpuCache.Gbx
-     7164  2020-09-10 09:16   Tech3/DeferredGeomFakeOcc_p.hlsl.GpuCache.Gbx
+     7149  2020-09-24 13:41   Tech3/DeferredGeomFakeOcc_p.hlsl.GpuCache.Gbx
      1145  2020-08-28 18:17   Tech3/DeferredGeomFakeOcc_v.hlsl.GpuCache.Gbx
-     4120  2020-09-10 09:16   Tech3/DeferredGeomFogBoxInside_p.hlsl.GpuCache.Gbx
+     4062  2020-09-24 13:41   Tech3/DeferredGeomFogBoxInside_p.hlsl.GpuCache.Gbx
      2492  2020-08-28 18:17   Tech3/DeferredGeomFogBoxInside_v.hlsl.GpuCache.Gbx
-     3584  2020-09-10 09:16   Tech3/DeferredGeomFogBoxOutside_p.hlsl.GpuCache.Gbx
+     3567  2020-09-24 13:41   Tech3/DeferredGeomFogBoxOutside_p.hlsl.GpuCache.Gbx
      2186  2020-08-28 18:17   Tech3/DeferredGeomFogBoxOutside_v.hlsl.GpuCache.Gbx
-    23164  2020-09-10 09:16   Tech3/DeferredGeomLightBall_p.hlsl.GpuCache.Gbx
-     3954  2020-09-10 09:16   Tech3/DeferredGeomLightFxCylinder_p.hlsl.GpuCache.Gbx
-     3618  2020-09-10 09:16   Tech3/DeferredGeomLightFxSphere_p.hlsl.GpuCache.Gbx
-    16896  2020-09-10 09:16   Tech3/DeferredGeomLightSpot_p.hlsl.GpuCache.Gbx
-    19512  2020-09-10 09:16   Tech3/DeferredGeomProjector_p.hlsl.GpuCache.Gbx
+    22681  2020-09-24 13:41   Tech3/DeferredGeomLightBall_p.hlsl.GpuCache.Gbx
+     3923  2020-09-24 13:41   Tech3/DeferredGeomLightFxCylinder_p.hlsl.GpuCache.Gbx
+     3575  2020-09-24 13:41   Tech3/DeferredGeomLightFxSphere_p.hlsl.GpuCache.Gbx
+    13907  2020-09-24 13:41   Tech3/DeferredGeomLightSpot_p.hlsl.GpuCache.Gbx
+    19452  2020-09-24 13:41   Tech3/DeferredGeomProjector_p.hlsl.GpuCache.Gbx
       725  2020-08-28 18:17   Tech3/DeferredGeomProjector_v.hlsl.GpuCache.Gbx
-     6247  2020-09-10 09:16   Tech3/DeferredGeomShadowVol_p.hlsl.GpuCache.Gbx
+     6333  2020-09-24 13:41   Tech3/DeferredGeomShadowVol_p.hlsl.GpuCache.Gbx
      1462  2020-08-28 18:17   Tech3/DeferredGeomShadowVol_v.hlsl.GpuCache.Gbx
-     5940  2020-09-10 09:16   Tech3/DeferredGeomSmOffZoneLayer_p.hlsl.GpuCache.Gbx
+     5932  2020-09-24 13:41   Tech3/DeferredGeomSmOffZoneLayer_p.hlsl.GpuCache.Gbx
      2716  2020-08-28 18:17   Tech3/DeferredGeomSmOffZoneLayer_v.hlsl.GpuCache.Gbx
-     4334  2020-09-10 09:16   Tech3/DeferredImageReflects_CubeMap_p.hlsl.GpuCache.Gbx
-     7412  2020-09-10 09:16   Tech3/DeferredImageReflects_MergeLastFrames_p.hlsl.GpuCache.Gbx
-    17718  2020-09-10 09:16   Tech3/DeferredImageReflects_p.hlsl.GpuCache.Gbx
+     4313  2020-09-24 13:41   Tech3/DeferredImageReflects_CubeMap_p.hlsl.GpuCache.Gbx
+     7434  2020-09-24 13:41   Tech3/DeferredImageReflects_MergeLastFrames_p.hlsl.GpuCache.Gbx
+    17680  2020-09-24 13:41   Tech3/DeferredImageReflects_p.hlsl.GpuCache.Gbx
      1286  2020-08-28 18:17   Tech3/DeferredOutput_ImpostorConvert_c.hlsl.GpuCache.Gbx
-    68840  2020-09-10 09:16   Tech3/DeferredShadowPssm_p.hlsl.GpuCache.Gbx
+    68142  2020-09-24 13:41   Tech3/DeferredShadowPssm_p.hlsl.GpuCache.Gbx
      1730  2020-08-28 18:17   Tech3/DeferredShadowPssm_v.hlsl.GpuCache.Gbx
-    37727  2020-09-10 09:16   Tech3/DeferredWaterFog_FullTri_p.hlsl.GpuCache.Gbx
+    35170  2020-09-24 13:41   Tech3/DeferredWaterFog_FullTri_p.hlsl.GpuCache.Gbx
      1773  2020-09-03 11:52   Tech3/DeferredWaterFog_FullTri_v.hlsl.GpuCache.Gbx
-    32071  2020-09-10 09:16   Tech3/DeferredWaterFog_p.hlsl.GpuCache.Gbx
+    33434  2020-09-24 13:41   Tech3/DeferredWaterFog_p.hlsl.GpuCache.Gbx
      9170  2020-09-03 11:52   Tech3/DeferredWaterFog_v.hlsl.GpuCache.Gbx
-     3115  2020-09-10 09:16   Tech3/DeferredZBufferToDist01_p.hlsl.GpuCache.Gbx
+     3085  2020-09-24 13:41   Tech3/DeferredZBufferToDist01_p.hlsl.GpuCache.Gbx
      3018  2020-09-03 11:52   Tech3/Dyna0_TN_DefRead_v.hlsl.GpuCache.Gbx
      4947  2020-09-03 11:52   Tech3/Dyna0_TN_DefWrite_v.hlsl.GpuCache.Gbx
      5061  2020-09-03 11:52   Tech3/Dyna0_TN_v.hlsl.GpuCache.Gbx
@@ -834,41 +838,41 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      4277  2020-09-03 11:52   Tech3/Dyna1_TN_v.hlsl.GpuCache.Gbx
      3096  2020-09-03 11:52   Tech3/Dyna1_TNE_DefRead_v.hlsl.GpuCache.Gbx
      3069  2020-09-03 11:52   Tech3/Dyna1_TNI_DefRead_v.hlsl.GpuCache.Gbx
-     4231  2020-09-10 09:16   Tech3/Dyna_TAddModCV_p.hlsl.GpuCache.Gbx
+     4205  2020-09-24 13:41   Tech3/Dyna_TAddModCV_p.hlsl.GpuCache.Gbx
      3339  2020-09-03 11:52   Tech3/Dyna_TAddModCV_v.hlsl.GpuCache.Gbx
-     4590  2020-09-10 09:16   Tech3/Dyna_TAddShield_p.hlsl.GpuCache.Gbx
+     4568  2020-09-24 13:41   Tech3/Dyna_TAddShield_p.hlsl.GpuCache.Gbx
      3087  2020-09-03 11:52   Tech3/Dyna_TAddShield_v.hlsl.GpuCache.Gbx
-     5912  2020-09-10 09:16   Tech3/Dyna_TDSN_DefWrite_p.hlsl.GpuCache.Gbx
-    32696  2020-09-10 09:16   Tech3/Dyna_TDSNE_DefRead_p.hlsl.GpuCache.Gbx
-    28209  2020-09-10 09:16   Tech3/Dyna_TDSNI_DefRead_p.hlsl.GpuCache.Gbx
-    19612  2020-09-10 09:16   Tech3/Dyna_TDSNI_p.hlsl.GpuCache.Gbx
-    65464  2020-09-10 09:16   Tech3/Dyna_TDSNIE_DefRead_p.hlsl.GpuCache.Gbx
-   114740  2020-09-10 09:16   Tech3/Dyna_TDSNIE_p.hlsl.GpuCache.Gbx
-     9747  2020-09-10 09:16   Tech3/EditorHelpers_p.hlsl.GpuCache.Gbx
+     5893  2020-09-24 13:41   Tech3/Dyna_TDSN_DefWrite_p.hlsl.GpuCache.Gbx
+    30968  2020-09-24 13:41   Tech3/Dyna_TDSNE_DefRead_p.hlsl.GpuCache.Gbx
+    29536  2020-09-24 13:41   Tech3/Dyna_TDSNI_DefRead_p.hlsl.GpuCache.Gbx
+    19665  2020-09-24 13:41   Tech3/Dyna_TDSNI_p.hlsl.GpuCache.Gbx
+    65566  2020-09-24 13:41   Tech3/Dyna_TDSNIE_DefRead_p.hlsl.GpuCache.Gbx
+   116676  2020-09-24 13:41   Tech3/Dyna_TDSNIE_p.hlsl.GpuCache.Gbx
+     5474  2020-09-24 13:41   Tech3/EditorHelpers_p.hlsl.GpuCache.Gbx
      3206  2020-09-03 11:52   Tech3/EditorHelpers_v.hlsl.GpuCache.Gbx
-     1174  2020-09-10 09:16   Tech3/GeomDynaVertex_AddLight_p.hlsl.GpuCache.Gbx
-     1190  2020-09-10 09:16   Tech3/GrassFence_p.hlsl.GpuCache.Gbx
+     1174  2020-09-24 13:41   Tech3/GeomDynaVertex_AddLight_p.hlsl.GpuCache.Gbx
+     1203  2020-09-24 13:41   Tech3/GrassFence_p.hlsl.GpuCache.Gbx
      1647  2020-08-28 18:17   Tech3/GrassFence_v.hlsl.GpuCache.Gbx
-    10955  2020-09-10 09:16   Tech3/GrassFence_VDepLight_DefRead_p.hlsl.GpuCache.Gbx
+     6493  2020-09-24 13:41   Tech3/GrassFence_VDepLight_DefRead_p.hlsl.GpuCache.Gbx
      4148  2020-09-03 11:52   Tech3/GrassFence_VDepLight_DefRead_v.hlsl.GpuCache.Gbx
-     3903  2020-09-10 09:16   Tech3/GrassFence_VDepLight_DefWrite_p.hlsl.GpuCache.Gbx
+     3885  2020-09-24 13:41   Tech3/GrassFence_VDepLight_DefWrite_p.hlsl.GpuCache.Gbx
      4293  2020-09-03 11:52   Tech3/GrassFence_VDepLight_DefWrite_v.hlsl.GpuCache.Gbx
-    12800  2020-09-10 09:16   Tech3/GrassFence_VDepLight_p.hlsl.GpuCache.Gbx
+     9782  2020-09-24 13:41   Tech3/GrassFence_VDepLight_p.hlsl.GpuCache.Gbx
      4338  2020-09-03 11:52   Tech3/GrassFence_VDepLight_v.hlsl.GpuCache.Gbx
-    87697  2020-09-10 09:16   Tech3/Ice_p.hlsl.GpuCache.Gbx
+    85943  2020-09-24 13:41   Tech3/Ice_p.hlsl.GpuCache.Gbx
      3499  2020-09-03 11:52   Tech3/Ice_v.hlsl.GpuCache.Gbx
-     1884  2020-09-10 09:16   Tech3/IcePathBorder_p.hlsl.GpuCache.Gbx
+     1866  2020-09-24 13:41   Tech3/IcePathBorder_p.hlsl.GpuCache.Gbx
      2182  2020-09-03 11:52   Tech3/IcePathBorder_v.hlsl.GpuCache.Gbx
-     4487  2020-09-10 09:16   Tech3/IceWall_DefWrite_p.hlsl.GpuCache.Gbx
+     4437  2020-09-24 13:41   Tech3/IceWall_DefWrite_p.hlsl.GpuCache.Gbx
      3030  2020-09-03 11:52   Tech3/IceWall_DefWrite_v.hlsl.GpuCache.Gbx
-    52538  2020-09-10 09:16   Tech3/IceWall_p.hlsl.GpuCache.Gbx
+    53178  2020-09-24 13:41   Tech3/IceWall_p.hlsl.GpuCache.Gbx
      3065  2020-09-03 11:52   Tech3/IceWall_v.hlsl.GpuCache.Gbx
-     4277  2020-09-10 09:16   Tech3/Impostor_p.hlsl.GpuCache.Gbx
+     4243  2020-09-24 13:41   Tech3/Impostor_p.hlsl.GpuCache.Gbx
      2965  2020-09-03 11:52   Tech3/Impostor_v.hlsl.GpuCache.Gbx
      2471  2020-09-03 11:52   Tech3/MenuBox_DefWrite_v.hlsl.GpuCache.Gbx
-     2991  2020-09-10 09:16   Tech3/MenuBox_Light_p.hlsl.GpuCache.Gbx
-     3705  2020-09-10 09:16   Tech3/MenuBox_p.hlsl.GpuCache.Gbx
-     3750  2020-09-10 09:16   Tech3/MenuBox_Transp_p.hlsl.GpuCache.Gbx
+     2964  2020-09-24 13:42   Tech3/MenuBox_Light_p.hlsl.GpuCache.Gbx
+     3673  2020-09-24 13:42   Tech3/MenuBox_p.hlsl.GpuCache.Gbx
+     3737  2020-09-24 13:42   Tech3/MenuBox_Transp_p.hlsl.GpuCache.Gbx
      3027  2020-09-03 11:52   Tech3/MenuBox_Transp_v.hlsl.GpuCache.Gbx
      3159  2020-09-03 11:52   Tech3/MenuBox_v.hlsl.GpuCache.Gbx
      8501  2020-09-03 11:52   Tech3/Ocean_d.hlsl.GpuCache.Gbx
@@ -876,9 +880,9 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1503  2020-08-28 18:17   Tech3/Ocean_FlowStream_c.hlsl.GpuCache.Gbx
      1244  2020-08-28 18:17   Tech3/Ocean_Gradient_c.hlsl.GpuCache.Gbx
      1590  2020-08-28 18:17   Tech3/Ocean_h.hlsl.GpuCache.Gbx
-      463  2020-09-10 09:16   Tech3/Ocean_ObjectDepthMask_p.hlsl.GpuCache.Gbx
+      463  2020-09-24 13:42   Tech3/Ocean_ObjectDepthMask_p.hlsl.GpuCache.Gbx
      2151  2020-08-28 18:17   Tech3/Ocean_ObjectDepthMask_v.hlsl.GpuCache.Gbx
-    13436  2020-09-10 09:16   Tech3/Ocean_p.hlsl.GpuCache.Gbx
+    13685  2020-09-24 13:42   Tech3/Ocean_p.hlsl.GpuCache.Gbx
      1265  2020-08-28 18:17   Tech3/Ocean_Particles_p.hlsl.GpuCache.Gbx
      1428  2020-08-28 18:17   Tech3/Ocean_Particles_v.hlsl.GpuCache.Gbx
      3971  2020-08-28 18:17   Tech3/Ocean_ProfileBuffer_c.hlsl.GpuCache.Gbx
@@ -889,61 +893,61 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1625  2020-08-28 18:17   Tech3/Ocean_trigeom_h.hlsl.GpuCache.Gbx
       785  2020-08-28 18:17   Tech3/Ocean_trigeom_v.hlsl.GpuCache.Gbx
       645  2020-08-28 18:17   Tech3/Ocean_v.hlsl.GpuCache.Gbx
-      947  2020-09-10 09:16   Tech3/PeelDepthDiffuse_Car_p.hlsl.GpuCache.Gbx
+      951  2020-09-24 13:42   Tech3/PeelDepthDiffuse_Car_p.hlsl.GpuCache.Gbx
      2962  2020-09-03 11:52   Tech3/PeelDepthDiffuse_Car_v.hlsl.GpuCache.Gbx
-     5243  2020-09-10 09:16   Tech3/Sea_BlendRefract_p.hlsl.GpuCache.Gbx
-    12311  2020-09-10 09:16   Tech3/Sea_DefWrite_p.hlsl.GpuCache.Gbx
+     5231  2020-09-24 13:42   Tech3/Sea_BlendRefract_p.hlsl.GpuCache.Gbx
+    16334  2020-09-24 13:42   Tech3/Sea_DefWrite_p.hlsl.GpuCache.Gbx
      5569  2020-09-03 11:52   Tech3/Sea_DefWrite_v.hlsl.GpuCache.Gbx
-     4580  2020-09-10 09:16   Tech3/Sea_p.hlsl.GpuCache.Gbx
+     4576  2020-09-24 13:42   Tech3/Sea_p.hlsl.GpuCache.Gbx
      5620  2020-09-03 11:52   Tech3/Sea_v.hlsl.GpuCache.Gbx
-     7765  2020-09-10 09:16   Tech3/Sky_p.hlsl.GpuCache.Gbx
+     4856  2020-09-24 13:42   Tech3/Sky_p.hlsl.GpuCache.Gbx
      2201  2020-08-28 18:17   Tech3/Sky_v.hlsl.GpuCache.Gbx
-     6949  2020-09-10 09:16   Tech3/SphereShield_p.hlsl.GpuCache.Gbx
+     6909  2020-09-24 13:42   Tech3/SphereShield_p.hlsl.GpuCache.Gbx
      3148  2020-09-03 11:52   Tech3/SphereShield_v.hlsl.GpuCache.Gbx
-     5192  2020-09-10 09:16   Tech3/SphereShieldOpaque_p.hlsl.GpuCache.Gbx
+     5131  2020-09-24 13:42   Tech3/SphereShieldOpaque_p.hlsl.GpuCache.Gbx
      3148  2020-09-03 11:52   Tech3/SphereShieldOpaque_v.hlsl.GpuCache.Gbx
-      928  2020-09-10 09:16   Tech3/Stars_p.hlsl.GpuCache.Gbx
+      926  2020-09-24 13:42   Tech3/Stars_p.hlsl.GpuCache.Gbx
      2341  2020-08-28 18:17   Tech3/Stars_v.hlsl.GpuCache.Gbx
-     1128  2020-09-10 09:16   Tech3/Tech3VehicleShield_p.hlsl.GpuCache.Gbx
-    45591  2020-09-10 09:16   Tech3/Voxel_DefRead_TDSNI_COut_p.hlsl.GpuCache.Gbx
+     1124  2020-09-24 13:42   Tech3/Tech3VehicleShield_p.hlsl.GpuCache.Gbx
+    49400  2020-09-24 13:42   Tech3/Voxel_DefRead_TDSNI_COut_p.hlsl.GpuCache.Gbx
      5781  2020-09-03 11:52   Tech3/Voxel_DefRead_TDSNI_v.hlsl.GpuCache.Gbx
-     6593  2020-09-10 09:16   Tech3/Voxel_DefWrite_TDSN_p.hlsl.GpuCache.Gbx
+     6575  2020-09-24 13:42   Tech3/Voxel_DefWrite_TDSN_p.hlsl.GpuCache.Gbx
      6334  2020-09-03 11:52   Tech3/Voxel_DefWrite_TDSN_v.hlsl.GpuCache.Gbx
-    59234  2020-09-10 09:16   Tech3/Voxel_TDSNI_COut_p.hlsl.GpuCache.Gbx
+    46779  2020-09-24 13:42   Tech3/Voxel_TDSNI_COut_p.hlsl.GpuCache.Gbx
      7252  2020-09-03 11:52   Tech3/Voxel_TDSNI_COut_v.hlsl.GpuCache.Gbx
-     4486  2020-09-10 09:16   Tech3/VoxelIce_DefWrite_p.hlsl.GpuCache.Gbx
+     4458  2020-09-24 13:42   Tech3/VoxelIce_DefWrite_p.hlsl.GpuCache.Gbx
      3008  2020-09-03 11:52   Tech3/VoxelIce_DefWrite_v.hlsl.GpuCache.Gbx
-    22480  2020-09-10 09:16   Tech3/VoxelIce_p.hlsl.GpuCache.Gbx
+    21415  2020-09-24 13:42   Tech3/VoxelIce_p.hlsl.GpuCache.Gbx
      3986  2020-09-03 11:52   Tech3/VoxelIce_v.hlsl.GpuCache.Gbx
-     5115  2020-09-10 09:16   Tech3/Warp_Py_To_PyPgx2_DefWrite_p.hlsl.GpuCache.Gbx
+     5150  2020-09-24 13:42   Tech3/Warp_Py_To_PyPgx2_DefWrite_p.hlsl.GpuCache.Gbx
      4436  2020-09-03 11:52   Tech3/Warp_Py_To_PyPgx2_DefWrite_v.hlsl.GpuCache.Gbx
-    24995  2020-09-10 09:16   Tech3/Warp_Py_To_PyPgx2_p.hlsl.GpuCache.Gbx
+    25537  2020-09-24 13:42   Tech3/Warp_Py_To_PyPgx2_p.hlsl.GpuCache.Gbx
      6077  2020-09-03 11:52   Tech3/Warp_Py_To_PyPgx2_v.hlsl.GpuCache.Gbx
-     5684  2020-09-10 09:16   Tech3/Warp_PyPxz_DefWrite_p.hlsl.GpuCache.Gbx
+     5619  2020-09-24 13:42   Tech3/Warp_PyPxz_DefWrite_p.hlsl.GpuCache.Gbx
      4475  2020-09-03 11:52   Tech3/Warp_PyPxz_DefWrite_v.hlsl.GpuCache.Gbx
-    28739  2020-09-10 09:16   Tech3/Warp_PyPxz_p.hlsl.GpuCache.Gbx
+    28384  2020-09-24 13:42   Tech3/Warp_PyPxz_p.hlsl.GpuCache.Gbx
      6312  2020-09-03 11:52   Tech3/Warp_PyPxz_v.hlsl.GpuCache.Gbx
-    36685  2020-09-10 09:17   Tech3/Warp_TDiffSpec_VertexTween_DefRead_p.hlsl.GpuCache.Gbx
+    37626  2020-09-24 13:42   Tech3/Warp_TDiffSpec_VertexTween_DefRead_p.hlsl.GpuCache.Gbx
      4480  2020-09-03 11:52   Tech3/Warp_TDiffSpec_VertexTween_DefRead_v.hlsl.GpuCache.Gbx
-     3652  2020-09-10 09:17   Tech3/Warp_TDiffSpec_VertexTween_DefWrite_p.hlsl.GpuCache.Gbx
+     3627  2020-09-24 13:42   Tech3/Warp_TDiffSpec_VertexTween_DefWrite_p.hlsl.GpuCache.Gbx
      3837  2020-09-03 11:52   Tech3/Warp_TDiffSpec_VertexTween_DefWrite_v.hlsl.GpuCache.Gbx
-    43169  2020-09-10 09:17   Tech3/Warp_TDiffSpec_VertexTween_p.hlsl.GpuCache.Gbx
+    52497  2020-09-24 13:42   Tech3/Warp_TDiffSpec_VertexTween_p.hlsl.GpuCache.Gbx
      4533  2020-09-03 11:52   Tech3/Warp_TDiffSpec_VertexTween_v.hlsl.GpuCache.Gbx
-     4842  2020-09-10 09:17   Tech3/Warp_TDiffSpecNorm_DefWrite_p.hlsl.GpuCache.Gbx
+     4866  2020-09-24 13:42   Tech3/Warp_TDiffSpecNorm_DefWrite_p.hlsl.GpuCache.Gbx
      4680  2020-09-03 11:52   Tech3/Warp_TDiffSpecNorm_DefWrite_v.hlsl.GpuCache.Gbx
-    13684  2020-09-10 09:17   Tech3/Warp_TDiffSpecNorm_p.hlsl.GpuCache.Gbx
-    25029  2020-09-10 09:17   Tech3/Warp_TDiffSpecNorm_TOcc_CSpecSoft_p.hlsl.GpuCache.Gbx
+    11667  2020-09-24 13:42   Tech3/Warp_TDiffSpecNorm_p.hlsl.GpuCache.Gbx
+    22276  2020-09-24 13:42   Tech3/Warp_TDiffSpecNorm_TOcc_CSpecSoft_p.hlsl.GpuCache.Gbx
      5172  2020-09-03 11:52   Tech3/Warp_TDiffSpecNorm_TOcc_CSpecSoft_v.hlsl.GpuCache.Gbx
      5086  2020-09-03 11:52   Tech3/Warp_TDiffSpecNorm_v.hlsl.GpuCache.Gbx
-    22914  2020-09-10 09:16   Tech3/Warp_TDiffSpecNormSI_CSpecSoft_p.hlsl.GpuCache.Gbx
+    20193  2020-09-24 13:42   Tech3/Warp_TDiffSpecNormSI_CSpecSoft_p.hlsl.GpuCache.Gbx
      5152  2020-09-03 11:52   Tech3/Warp_TDiffSpecNormSI_CSpecSoft_v.hlsl.GpuCache.Gbx
-     5069  2020-09-10 09:17   Tech3/WaterFall_p.hlsl.GpuCache.Gbx
+     5049  2020-09-24 13:42   Tech3/WaterFall_p.hlsl.GpuCache.Gbx
      5722  2020-09-03 11:52   Tech3/WaterFall_v.hlsl.GpuCache.Gbx
-     3129  2020-09-10 09:17   Tech3/WaterFog_WGeomUnder_p.hlsl.GpuCache.Gbx
+     3099  2020-09-24 13:42   Tech3/WaterFog_WGeomUnder_p.hlsl.GpuCache.Gbx
       832  2020-08-28 18:18   Tech3/WaterFog_WGeomUnder_v.hlsl.GpuCache.Gbx
-     8154  2020-09-10 09:17   Tech3/WaterFogFromDepthH_p.hlsl.GpuCache.Gbx
+     8277  2020-09-24 13:42   Tech3/WaterFogFromDepthH_p.hlsl.GpuCache.Gbx
      3893  2020-08-28 18:18   Tech3/Grass/Chunk_AddInstances_c.hlsl.GpuCache.Gbx
-     5951  2020-09-10 09:17   Tech3/Grass/Grass_p.hlsl.GpuCache.Gbx
+     5923  2020-09-24 13:42   Tech3/Grass/Grass_p.hlsl.GpuCache.Gbx
      3613  2020-09-03 11:52   Tech3/Grass/Grass_v.hlsl.GpuCache.Gbx
       912  2020-08-28 18:18   Tech3/Grass/SetMatterId_p.hlsl.GpuCache.Gbx
      3075  2020-08-28 18:18   Tech3/Grass/SetMatterId_v.hlsl.GpuCache.Gbx
@@ -952,139 +956,139 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1144  2020-08-28 18:18   Tech3/Trees/MergeColorDepth_p.hlsl.GpuCache.Gbx
       606  2020-08-28 18:18   Tech3/Trees/MergeDepth_p.hlsl.GpuCache.Gbx
       968  2020-08-28 18:18   Tech3/Trees/MergeFullCoveredDepth_p.hlsl.GpuCache.Gbx
-      978  2020-09-10 09:17   Tech3/Trees/PeelDepthDiffuse_Tree_p.hlsl.GpuCache.Gbx
+      982  2020-09-24 13:42   Tech3/Trees/PeelDepthDiffuse_Tree_p.hlsl.GpuCache.Gbx
      2936  2020-09-03 11:52   Tech3/Trees/PeelDepthDiffuse_Tree_v.hlsl.GpuCache.Gbx
-     4628  2020-09-10 09:17   Tech3/Trees/Tree_Impostor_DefRead_p.hlsl.GpuCache.Gbx
+     4581  2020-09-24 13:42   Tech3/Trees/Tree_Impostor_DefRead_p.hlsl.GpuCache.Gbx
      4732  2020-09-03 11:52   Tech3/Trees/Tree_Impostor_DefRead_v.hlsl.GpuCache.Gbx
-     3469  2020-09-10 09:17   Tech3/Trees/Tree_Impostor_DefWrite_p.hlsl.GpuCache.Gbx
+     3441  2020-09-24 13:42   Tech3/Trees/Tree_Impostor_DefWrite_p.hlsl.GpuCache.Gbx
      3443  2020-09-03 11:52   Tech3/Trees/Tree_Impostor_DefWrite_v.hlsl.GpuCache.Gbx
-     9512  2020-09-10 09:17   Tech3/Trees/Tree_Impostor_p.hlsl.GpuCache.Gbx
+     5675  2020-09-24 13:42   Tech3/Trees/Tree_Impostor_p.hlsl.GpuCache.Gbx
      5318  2020-09-03 11:52   Tech3/Trees/Tree_Impostor_v.hlsl.GpuCache.Gbx
-     1900  2020-09-10 09:17   Tech3/Trees/Tree_Instance_AddLight_c.hlsl.GpuCache.Gbx
-    78520  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_DefRead_p.hlsl.GpuCache.Gbx
+     1897  2020-09-24 13:42   Tech3/Trees/Tree_Instance_AddLight_c.hlsl.GpuCache.Gbx
+    81380  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_DefRead_p.hlsl.GpuCache.Gbx
     23236  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_DefRead_v.hlsl.GpuCache.Gbx
-    21927  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_DefWrite_p.hlsl.GpuCache.Gbx
+    24851  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_DefWrite_p.hlsl.GpuCache.Gbx
     40567  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_DefWrite_v.hlsl.GpuCache.Gbx
      6069  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_NoInstance_DefWrite_v.hlsl.GpuCache.Gbx
-   294649  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_p.hlsl.GpuCache.Gbx
-     1408  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_Shadow_p.hlsl.GpuCache.Gbx
-    75868  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_TDSN_p.hlsl.GpuCache.Gbx
+   294476  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_p.hlsl.GpuCache.Gbx
+     1422  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_Shadow_p.hlsl.GpuCache.Gbx
+    78021  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_TDSN_p.hlsl.GpuCache.Gbx
     10959  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_TDSN_v.hlsl.GpuCache.Gbx
     25181  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_v.hlsl.GpuCache.Gbx
-     2833  2020-09-10 09:17   Tech3/Trees/Tree_SelfAO_ZOnly_p.hlsl.GpuCache.Gbx
+     2827  2020-09-24 13:42   Tech3/Trees/Tree_SelfAO_ZOnly_p.hlsl.GpuCache.Gbx
      4004  2020-09-03 11:52   Tech3/Trees/Tree_SelfAO_ZOnly_v.hlsl.GpuCache.Gbx
      3975  2020-09-03 11:52   Tech3/Trees/Tree_Shadow_v.hlsl.GpuCache.Gbx
-     1117  2020-09-10 09:17   Tech3/Trees/Tree_VertexAddLight_p.hlsl.GpuCache.Gbx
+     1117  2020-09-24 13:42   Tech3/Trees/Tree_VertexAddLight_p.hlsl.GpuCache.Gbx
      1759  2020-09-03 11:52   Tech3/Trees/Tree_VertexAddLight_v.hlsl.GpuCache.Gbx
-     2768  2020-09-10 09:17   Techno3/Media/Text/PHLSL/2dLightHistoryUpdate.PHlsl.Txt.GpuCache.Gbx
-      979  2020-09-10 09:17   Techno3/Media/Text/PHLSL/DriverCrash.PHlsl.Txt.GpuCache.Gbx
-    32524  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1 EnergySwitch.PHlsl.txt.GpuCache.Gbx
-    29111  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1 RenderOverlay.PHlsl.txt.GpuCache.Gbx
-    44323  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1_Probe.PHlsl.txt.GpuCache.Gbx
-    22447  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Block GeomLProbe.PHlsl.txt.GpuCache.Gbx
-     4968  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block PoleEnergy.PHlsl.Txt.GpuCache.Gbx
-      905  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block PoleEnergyInt.PHlsl.Txt.GpuCache.Gbx
+     2737  2020-09-24 13:42   Techno3/Media/Text/PHLSL/2dLightHistoryUpdate.PHlsl.Txt.GpuCache.Gbx
+      979  2020-09-24 13:42   Techno3/Media/Text/PHLSL/DriverCrash.PHlsl.Txt.GpuCache.Gbx
+    29647  2020-09-24 13:42   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1 EnergySwitch.PHlsl.txt.GpuCache.Gbx
+    28905  2020-09-24 13:42   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1 RenderOverlay.PHlsl.txt.GpuCache.Gbx
+    43689  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block DefReadP1_Probe.PHlsl.txt.GpuCache.Gbx
+    21953  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block GeomLProbe.PHlsl.txt.GpuCache.Gbx
+     4934  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block PoleEnergy.PHlsl.Txt.GpuCache.Gbx
+      905  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block PoleEnergyInt.PHlsl.Txt.GpuCache.Gbx
    173245  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 Block PTDiff_Spec_Norm PGrassX2.PHlsl.txt.GpuCache.Gbx
     83156  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 Block PTDiff_Spec_Norm.PHlsl.txt.GpuCache.Gbx
    156638  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 Block PxzDiff_Spec_Norm.PHlsl.txt.GpuCache.Gbx
-   249644  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block PyDiffSpecNormSwitch_PyGrassX2.PHlsl.txt.GpuCache.Gbx
-   126987  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Block TDiff_Spec_Norm_Switch.PHlsl.txt.GpuCache.Gbx
+   253015  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block PyDiffSpecNormSwitch_PyGrassX2.PHlsl.txt.GpuCache.Gbx
+   121010  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block TDiff_Spec_Norm_Switch.PHlsl.txt.GpuCache.Gbx
    135358  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 Block TDiff_TSpecNorm.PHlsl.txt.GpuCache.Gbx
      5557  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 Block TDiff_TSpecNorm_DeferredWrite.PHlsl.Txt.GpuCache.Gbx
-    45562  2020-09-10 09:17   Techno3/Media/Text/PHLSL/Tech3 Block TEmblem.PHlsl.txt.GpuCache.Gbx
-    55022  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Block TEnergySwitch.PHlsl.txt.GpuCache.Gbx
-   101781  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Block TRenderOverlay.PHlsl.txt.GpuCache.Gbx
-     4699  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 BodyParticule PC3.PHlsl.Txt.GpuCache.Gbx
+    44414  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block TEmblem.PHlsl.txt.GpuCache.Gbx
+    56356  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block TEnergySwitch.PHlsl.txt.GpuCache.Gbx
+   106698  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Block TRenderOverlay.PHlsl.txt.GpuCache.Gbx
+     4691  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 BodyParticule PC3.PHlsl.Txt.GpuCache.Gbx
      9833  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 DeferredInput PTNorm PGrassX2.PHlsl.Txt.GpuCache.Gbx
      5174  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 DeferredInput PTNorm.PHlsl.Txt.GpuCache.Gbx
      7539  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 DeferredInput PxzNorm.PHlsl.Txt.GpuCache.Gbx
      4613  2020-08-28 18:19   Techno3/Media/Text/PHLSL/Tech3 DeferredInput TNorm_TurboRoulette.PHlsl.Txt.GpuCache.Gbx
-     3166  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite BlackNoSpec.PHlsl.Txt.GpuCache.Gbx
-    20838  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite PyNormSwitch_PyGrassX2.PHlsl.Txt.GpuCache.Gbx
-     7283  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite TEmblem.PHlsl.Txt.GpuCache.Gbx
-    11032  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite TNorm_Switch.PHlsl.Txt.GpuCache.Gbx
-      525  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 InvisibleBlackBounce.PHlsl.Txt.GpuCache.Gbx
-     1486  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 SpriteAdd PC3.PHlsl.Txt.GpuCache.Gbx
-     4020  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 SpriteAddSoft PC33.PHlsl.Txt.GpuCache.Gbx
-     5005  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 SpriteBlendSoftLightedVtxAmbient.PHlsl.Txt.GpuCache.Gbx
-     3645  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 TitleCover.PHlsl.Txt.GpuCache.Gbx
-     5742  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Warp PyaPxz DefWrite.PHlsl.Txt.GpuCache.Gbx
-    14298  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Warp PyaPxzDiff.PHlsl.Txt.GpuCache.Gbx
-    15188  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2.PHlsl.Txt.GpuCache.Gbx
-     5542  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2_DefWrite.PHlsl.Txt.GpuCache.Gbx
-    80868  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod.PHlsl.txt.GpuCache.Gbx
-     5445  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod_DefWrite.PHlsl.Txt.GpuCache.Gbx
+     3133  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite BlackNoSpec.PHlsl.Txt.GpuCache.Gbx
+    22952  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite PyNormSwitch_PyGrassX2.PHlsl.Txt.GpuCache.Gbx
+     7337  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite TEmblem.PHlsl.Txt.GpuCache.Gbx
+     7798  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 DeferredWrite TNorm_Switch.PHlsl.Txt.GpuCache.Gbx
+      525  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 InvisibleBlackBounce.PHlsl.Txt.GpuCache.Gbx
+     1491  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 SpriteAdd PC3.PHlsl.Txt.GpuCache.Gbx
+     3973  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 SpriteAddSoft PC33.PHlsl.Txt.GpuCache.Gbx
+     4992  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 SpriteBlendSoftLightedVtxAmbient.PHlsl.Txt.GpuCache.Gbx
+     3616  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 TitleCover.PHlsl.Txt.GpuCache.Gbx
+     5706  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Warp PyaPxz DefWrite.PHlsl.Txt.GpuCache.Gbx
+    10534  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Warp PyaPxzDiff.PHlsl.Txt.GpuCache.Gbx
+    14139  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2.PHlsl.Txt.GpuCache.Gbx
+     5512  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2_DefWrite.PHlsl.Txt.GpuCache.Gbx
+    86634  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod.PHlsl.txt.GpuCache.Gbx
+     5431  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod_DefWrite.PHlsl.Txt.GpuCache.Gbx
     61722  2020-08-28 18:20   Techno3/Media/Text/PHLSL/Tech3_Block_TDiff_Spec_Norm_TurboRoulette.PHlsl.txt.GpuCache.Gbx
      9447  2020-08-28 18:20   Techno3/Media/Text/PHLSL/Tech3_Block_TDSN_DecalMod_DefWrite.PHlsl.txt.GpuCache.Gbx
      4148  2020-08-28 18:20   Techno3/Media/Text/PHLSL/Tech3_Block_TShadow.PHlsl.Txt.GpuCache.Gbx
-     1017  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_CopyVertexColor_DefRead.PHlsl.Txt.GpuCache.Gbx
-     3178  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_CopyVertexColor_DefWrite.PHlsl.Txt.GpuCache.Gbx
-      978  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Decal_2d_CV_DefDecal.PHlsl.Txt.GpuCache.Gbx
-    90748  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Dyna_LProbe_TDSN.PHlsl.txt.GpuCache.Gbx
-     2476  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Dyna_SoapBubble.PHlsl.Txt.GpuCache.Gbx
-     3301  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse.PHlsl.Txt.GpuCache.Gbx
-     3049  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse_DefRead.PHlsl.Txt.GpuCache.Gbx
-     2978  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse_DefWrite.PHlsl.Txt.GpuCache.Gbx
-      876  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_FxHitShield.PHlsl.Txt.GpuCache.Gbx
-     1085  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Moon2d.PHlsl.Txt.GpuCache.Gbx
-     1201  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_SelfIllumAtHue.PHlsl.Txt.GpuCache.Gbx
-    20132  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Warp_TDiffSpecNorm_TLight_CSpecSoft.PHlsl.Txt.GpuCache.Gbx
-    41166  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Warp_TDiffSpecNorm_TLight_CSpecSoft_DefRead_ps.hlsl.GpuCache.Gbx
-     1273  2020-09-10 09:18   Techno3/Media/Text/PHLSL/Tech3_Weapon_Laser.PHlsl.Txt.GpuCache.Gbx
-      705  2020-09-10 09:17   Techno3/Media/Text/VHLSL/2dLightHistoryUpdate.VHlsl.Txt.GpuCache.Gbx
-     1783  2020-09-10 09:17   Techno3/Media/Text/VHLSL/DriverCrash.VHlsl.Txt.GpuCache.Gbx
-    11821  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block DefReadP1 LM1_TgtFixed_EnergySwitch.VHlsl.Txt.GpuCache.Gbx
-     8595  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block DefReadP1 LM1_TgtFixed_RenderOverlay.VHlsl.Txt.GpuCache.Gbx
-     3758  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Block GeomLProbe.VHlsl.Txt.GpuCache.Gbx
-     3770  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block PoleEnergy.VHlsl.Txt.GpuCache.Gbx
-     2333  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block PoleEnergyInt.VHlsl.Txt.GpuCache.Gbx
+     1017  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_CopyVertexColor_DefRead.PHlsl.Txt.GpuCache.Gbx
+     3126  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_CopyVertexColor_DefWrite.PHlsl.Txt.GpuCache.Gbx
+      968  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Decal_2d_CV_DefDecal.PHlsl.Txt.GpuCache.Gbx
+    90171  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Dyna_LProbe_TDSN.PHlsl.txt.GpuCache.Gbx
+     2477  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Dyna_SoapBubble.PHlsl.Txt.GpuCache.Gbx
+     3274  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse.PHlsl.Txt.GpuCache.Gbx
+     3023  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse_DefRead.PHlsl.Txt.GpuCache.Gbx
+     2959  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_DynaSpriteDiffuse_DefWrite.PHlsl.Txt.GpuCache.Gbx
+      876  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_FxHitShield.PHlsl.Txt.GpuCache.Gbx
+     1079  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Moon2d.PHlsl.Txt.GpuCache.Gbx
+     1201  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_SelfIllumAtHue.PHlsl.Txt.GpuCache.Gbx
+    19046  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Warp_TDiffSpecNorm_TLight_CSpecSoft.PHlsl.Txt.GpuCache.Gbx
+    39739  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Warp_TDiffSpecNorm_TLight_CSpecSoft_DefRead_ps.hlsl.GpuCache.Gbx
+     1279  2020-09-24 13:43   Techno3/Media/Text/PHLSL/Tech3_Weapon_Laser.PHlsl.Txt.GpuCache.Gbx
+      702  2020-09-24 13:42   Techno3/Media/Text/VHLSL/2dLightHistoryUpdate.VHlsl.Txt.GpuCache.Gbx
+     1783  2020-09-24 13:42   Techno3/Media/Text/VHLSL/DriverCrash.VHlsl.Txt.GpuCache.Gbx
+    13796  2020-09-24 13:42   Techno3/Media/Text/VHLSL/Tech3 Block DefReadP1 LM1_TgtFixed_EnergySwitch.VHlsl.Txt.GpuCache.Gbx
+     8615  2020-09-24 13:42   Techno3/Media/Text/VHLSL/Tech3 Block DefReadP1 LM1_TgtFixed_RenderOverlay.VHlsl.Txt.GpuCache.Gbx
+     3762  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block GeomLProbe.VHlsl.Txt.GpuCache.Gbx
+     3785  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block PoleEnergy.VHlsl.Txt.GpuCache.Gbx
+     2339  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block PoleEnergyInt.VHlsl.Txt.GpuCache.Gbx
      8793  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 Block PTDiff_Spec_Norm PGrassX2.VHlsl.Txt.GpuCache.Gbx
      8809  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 Block PTDiff_Spec_Norm.VHlsl.Txt.GpuCache.Gbx
      8059  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 Block PxzDiff_Spec_Norm.VHlsl.Txt.GpuCache.Gbx
-    11782  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block PyDiffSpecNormSwitch_PyGrassX2.VHlsl.Txt.GpuCache.Gbx
-    11038  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block TDiff_Spec_Norm_Switch.VHlsl.Txt.GpuCache.Gbx
+    14482  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block PyDiffSpecNormSwitch_PyGrassX2.VHlsl.Txt.GpuCache.Gbx
+    11033  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block TDiff_Spec_Norm_Switch.VHlsl.Txt.GpuCache.Gbx
      8070  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 Block TDiff_TSpecNorm.VHlsl.Txt.GpuCache.Gbx
      4936  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 Block TDiff_TSpecNorm_DeferredWrite.VHlsl.Txt.GpuCache.Gbx
-    12847  2020-09-10 09:17   Techno3/Media/Text/VHLSL/Tech3 Block TEmblem.VHlsl.Txt.GpuCache.Gbx
-    10339  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Block TEnergySwitch.VHlsl.Txt.GpuCache.Gbx
-    13331  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Block TRenderOverlay.VHlsl.Txt.GpuCache.Gbx
-     3601  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 BodyParticule PC3.VHlsl.Txt.GpuCache.Gbx
+    13176  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block TEmblem.VHlsl.Txt.GpuCache.Gbx
+    11087  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block TEnergySwitch.VHlsl.Txt.GpuCache.Gbx
+    11146  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Block TRenderOverlay.VHlsl.Txt.GpuCache.Gbx
+     3601  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 BodyParticule PC3.VHlsl.Txt.GpuCache.Gbx
      5186  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 DeferredInput PTNorm PGrassX2.VHlsl.Txt.GpuCache.Gbx
      4452  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 DeferredInput PTNorm.VHlsl.Txt.GpuCache.Gbx
      4149  2020-08-28 18:19   Techno3/Media/Text/VHLSL/Tech3 DeferredInput PxzNorm.VHlsl.Txt.GpuCache.Gbx
-     2462  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite BlackNoSpec.VHlsl.Txt.GpuCache.Gbx
-    10602  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite PyNormSwitch_PyGrassX2.VHlsl.Txt.GpuCache.Gbx
-     7492  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite TEmblem.VHlsl.Txt.GpuCache.Gbx
-     9009  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite TNorm_Switch.VHlsl.Txt.GpuCache.Gbx
-      762  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 InvisibleBlackBounce.VHlsl.Txt.GpuCache.Gbx
-     2134  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 SpriteAdd PC3.VHlsl.Txt.GpuCache.Gbx
-     3103  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 SpriteAddSoft PC33.VHlsl.Txt.GpuCache.Gbx
-     2396  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 SpriteBlendSoftLightedVtxAmbient.VHlsl.Txt.GpuCache.Gbx
-     3178  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 TitleCover.VHlsl.Txt.GpuCache.Gbx
-     4616  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Warp PyaPxz DefWrite.VHlsl.Txt.GpuCache.Gbx
-     6459  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Warp PyaPxzDiff.VHlsl.Txt.GpuCache.Gbx
-     6299  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2.VHlsl.Txt.GpuCache.Gbx
-     4538  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2_DefWrite.VHlsl.Txt.GpuCache.Gbx
-     8378  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod.VHlsl.Txt.GpuCache.Gbx
-     4431  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod_DefWrite.VHlsl.Txt.GpuCache.Gbx
+     2462  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite BlackNoSpec.VHlsl.Txt.GpuCache.Gbx
+    11131  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite PyNormSwitch_PyGrassX2.VHlsl.Txt.GpuCache.Gbx
+     9257  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite TEmblem.VHlsl.Txt.GpuCache.Gbx
+     6759  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 DeferredWrite TNorm_Switch.VHlsl.Txt.GpuCache.Gbx
+      762  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 InvisibleBlackBounce.VHlsl.Txt.GpuCache.Gbx
+     2125  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 SpriteAdd PC3.VHlsl.Txt.GpuCache.Gbx
+     3116  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 SpriteAddSoft PC33.VHlsl.Txt.GpuCache.Gbx
+     2396  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 SpriteBlendSoftLightedVtxAmbient.VHlsl.Txt.GpuCache.Gbx
+     3178  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 TitleCover.VHlsl.Txt.GpuCache.Gbx
+     4584  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Warp PyaPxz DefWrite.VHlsl.Txt.GpuCache.Gbx
+     6459  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Warp PyaPxzDiff.VHlsl.Txt.GpuCache.Gbx
+     6257  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2.VHlsl.Txt.GpuCache.Gbx
+     4555  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3 Warp_PyaDiff_To_PDiffPGrassX2_DefWrite.VHlsl.Txt.GpuCache.Gbx
+     7949  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod.VHlsl.Txt.GpuCache.Gbx
+     4423  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Block_PyDSN_PyGrassX2_TDecalMod_DefWrite.VHlsl.Txt.GpuCache.Gbx
      5137  2020-08-28 18:20   Techno3/Media/Text/VHLSL/Tech3_Block_TDSN_DecalMod_DefWrite.VHlsl.Txt.GpuCache.Gbx
      3190  2020-08-28 18:20   Techno3/Media/Text/VHLSL/Tech3_Block_TShadow.VHlsl.txt.GpuCache.Gbx
-     1144  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_CopyVertexColor_DefRead.VHlsl.Txt.GpuCache.Gbx
-     2078  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_CopyVertexColor_DefWrite.VHlsl.Txt.GpuCache.Gbx
-     2120  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Decal_2d_CV_DefDecal.VHlsl.Txt.GpuCache.Gbx
-     4470  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Dyna0_LProbe_TDSN.VHlsl.Txt.GpuCache.Gbx
-     2211  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Dyna_SoapBubble.VHlsl.Txt.GpuCache.Gbx
-     3560  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse.VHlsl.Txt.GpuCache.Gbx
-     2740  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse_DefRead.VHlsl.Txt.GpuCache.Gbx
-     2748  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse_DefWrite.VHlsl.Txt.GpuCache.Gbx
-     1443  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_FxHitShield.VHlsl.Txt.GpuCache.Gbx
-     1920  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Moon2d.VHlsl.Txt.GpuCache.Gbx
-     3721  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_SelfIllumAtHue.VHlsl.Txt.GpuCache.Gbx
-     5258  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Warp_TDiffSpecNorm_TOcc_CSpecSoft.VHlsl.Txt.GpuCache.Gbx
-     1405  2020-09-10 09:18   Techno3/Media/Text/VHLSL/Tech3_Weapon_Laser.VHlsl.Txt.GpuCache.Gbx
-     3942  2020-09-10 09:17   Test/NoiseTest_3d_p.hlsl.GpuCache.Gbx
+     1144  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_CopyVertexColor_DefRead.VHlsl.Txt.GpuCache.Gbx
+     2078  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_CopyVertexColor_DefWrite.VHlsl.Txt.GpuCache.Gbx
+     2119  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Decal_2d_CV_DefDecal.VHlsl.Txt.GpuCache.Gbx
+     4446  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Dyna0_LProbe_TDSN.VHlsl.Txt.GpuCache.Gbx
+     2211  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Dyna_SoapBubble.VHlsl.Txt.GpuCache.Gbx
+     3560  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse.VHlsl.Txt.GpuCache.Gbx
+     2740  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse_DefRead.VHlsl.Txt.GpuCache.Gbx
+     2748  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_DynaSpriteDiffuse_DefWrite.VHlsl.Txt.GpuCache.Gbx
+     1443  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_FxHitShield.VHlsl.Txt.GpuCache.Gbx
+     1916  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Moon2d.VHlsl.Txt.GpuCache.Gbx
+     3684  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_SelfIllumAtHue.VHlsl.Txt.GpuCache.Gbx
+     5255  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Warp_TDiffSpecNorm_TOcc_CSpecSoft.VHlsl.Txt.GpuCache.Gbx
+     1405  2020-09-24 13:43   Techno3/Media/Text/VHLSL/Tech3_Weapon_Laser.VHlsl.Txt.GpuCache.Gbx
+     3915  2020-09-24 13:42   Test/NoiseTest_3d_p.hlsl.GpuCache.Gbx
      1985  2020-08-28 18:18   Test/NoiseTest_v.hlsl.GpuCache.Gbx
-    10474  2020-09-10 09:17   Test/pbr_test0_p.hlsl.GpuCache.Gbx
+    10448  2020-09-24 13:42   Test/pbr_test0_p.hlsl.GpuCache.Gbx
      2009  2020-08-28 18:18   Test/pbr_test0_v.hlsl.GpuCache.Gbx
       434  2020-08-28 18:18   Voxel/Debug_BBox_p.hlsl.GpuCache.Gbx
      2371  2020-08-28 18:18   Voxel/Debug_BBox_v.hlsl.GpuCache.Gbx
@@ -1092,37 +1096,37 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2586  2020-09-03 11:52   Voxel/DynaProbeGrid_Debug_v.hlsl.GpuCache.Gbx
      1891  2020-08-28 18:18   Voxel/DynaProbeGrid_Update_c.hlsl.GpuCache.Gbx
      1229  2020-08-28 18:18   Voxel/LDelta_BBox_To_BSphere_c.hlsl.GpuCache.Gbx
-     2823  2020-09-10 09:17   Voxel/VQuad_Debug_p.hlsl.GpuCache.Gbx
+     2786  2020-09-24 13:42   Voxel/VQuad_Debug_p.hlsl.GpuCache.Gbx
      3089  2020-08-28 18:18   Voxel/VQuad_Debug_v.hlsl.GpuCache.Gbx
-    36135  2020-09-10 09:17   Voxel/VQuad_DefRead_p.hlsl.GpuCache.Gbx
+    36836  2020-09-24 13:42   Voxel/VQuad_DefRead_p.hlsl.GpuCache.Gbx
      4097  2020-09-03 11:52   Voxel/VQuad_DefRead_v.hlsl.GpuCache.Gbx
-     3959  2020-09-10 09:17   Voxel/VQuad_DefWrite_p.hlsl.GpuCache.Gbx
+     3938  2020-09-24 13:42   Voxel/VQuad_DefWrite_p.hlsl.GpuCache.Gbx
      3155  2020-09-03 11:52   Voxel/VQuad_DefWrite_v.hlsl.GpuCache.Gbx
      2702  2020-08-28 18:18   Voxel/VQuad_LDelta_BBoxUnion_c.hlsl.GpuCache.Gbx
-    12841  2020-09-16 16:40   Voxel/VQuad_Light_CubeIn_p.hlsl.GpuCache.Gbx
+    12614  2020-09-24 13:42   Voxel/VQuad_Light_CubeIn_p.hlsl.GpuCache.Gbx
      4438  2020-09-03 11:52   Voxel/VQuad_Light_CubeIn_v.hlsl.GpuCache.Gbx
       775  2020-08-28 18:18   Voxel/VQuad_Light_FakeWithClose_c.hlsl.GpuCache.Gbx
      2382  2020-08-28 18:18   Voxel/VQuad_Light_Remap_AfterCpt_c.hlsl.GpuCache.Gbx
      3537  2020-08-28 18:18   Voxel/VQuad_Light_Remap_Probes_c.hlsl.GpuCache.Gbx
      2520  2020-08-28 18:18   Voxel/VQuad_Light_SetFromProbes_c.hlsl.GpuCache.Gbx
-     3536  2020-09-10 09:17   Voxel/VQuad_LM_AddLight_c.hlsl.GpuCache.Gbx
+     3533  2020-09-24 13:42   Voxel/VQuad_LM_AddLight_c.hlsl.GpuCache.Gbx
      1897  2020-08-28 18:18   Voxel/VQuad_LM_ILightDir_AddToAccum_c.hlsl.GpuCache.Gbx
      2539  2020-08-28 18:18   Voxel/VQuad_LM_ILightDir_SetFromPeel_c.hlsl.GpuCache.Gbx
-     1698  2020-09-10 09:17   Voxel/VQuad_LM_LightAccumMulDiffuse_c.hlsl.GpuCache.Gbx
-     1035  2020-09-10 09:17   Voxel/VQuad_LM_PeelZDiffuse_p.hlsl.GpuCache.Gbx
+     1698  2020-09-24 13:42   Voxel/VQuad_LM_LightAccumMulDiffuse_c.hlsl.GpuCache.Gbx
+     1035  2020-09-24 13:42   Voxel/VQuad_LM_PeelZDiffuse_p.hlsl.GpuCache.Gbx
      3126  2020-09-03 11:52   Voxel/VQuad_LM_PeelZDiffuse_v.hlsl.GpuCache.Gbx
-     1501  2020-09-10 09:17   Voxel/VQuad_LM_SetDiffuse_c.hlsl.GpuCache.Gbx
+     1501  2020-09-24 13:42   Voxel/VQuad_LM_SetDiffuse_c.hlsl.GpuCache.Gbx
      1831  2020-08-28 18:18   Voxel/VQuad_LmBlend_BlendNew_c.hlsl.GpuCache.Gbx
      1484  2020-08-28 18:18   Voxel/VQuad_LmBlend_DebugAccum_c.hlsl.GpuCache.Gbx
      3371  2020-08-28 18:18   Voxel/VQuad_LmBlend_End_c.hlsl.GpuCache.Gbx
      8002  2020-08-28 18:18   Voxel/VQuad_LmBlend_IndexFromQuadId_c.hlsl.GpuCache.Gbx
      1897  2020-08-28 18:18   Voxel/VQuad_LmBlend_MinLatency_c.hlsl.GpuCache.Gbx
       924  2020-08-28 18:18   Voxel/VQuad_LmBlend_ShowLatency_c.hlsl.GpuCache.Gbx
-    28357  2020-09-16 16:40   Voxel/VQuad_p.hlsl.GpuCache.Gbx
+    26316  2020-09-24 13:42   Voxel/VQuad_p.hlsl.GpuCache.Gbx
      2757  2020-08-28 18:18   Voxel/VQuad_SetLinks_QuadId_c.hlsl.GpuCache.Gbx
      1909  2020-08-28 18:18   Voxel/VQuad_SetQuadId_InVolume_c.hlsl.GpuCache.Gbx
      4480  2020-09-03 11:52   Voxel/VQuad_v.hlsl.GpuCache.Gbx
-     8924  2020-09-16 16:40   Voxel/VQuadWater_p.hlsl.GpuCache.Gbx
+     8883  2020-09-24 13:42   Voxel/VQuadWater_p.hlsl.GpuCache.Gbx
      4369  2020-09-03 11:52   Voxel/VQuadWater_v.hlsl.GpuCache.Gbx
      1338  2020-08-28 18:18   WorldDistortion/BlurAlphaUp_c.hlsl.GpuCache.Gbx
       787  2020-08-31 18:04   WorldDistortion/CombineDistortionBlocksAndWorld_p.hlsl.GpuCache.Gbx
@@ -1144,6 +1148,6 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2746  2020-08-28 18:18   WorldDistortion/SumDistortionBlocks_c.hlsl.GpuCache.Gbx
      3272  2020-08-28 18:18   WorldDistortion/WordlDistortion_PropagateRigidity_c.hlsl.GpuCache.Gbx
      3325  2020-08-28 18:18   WorldDistortion/WorldDistortion_ApplyRigidity_c.hlsl.GpuCache.Gbx
-       38  2020-09-16 18:44   SourceVersionInfo.txt
+       38  2020-09-24 15:47   SourceVersionInfo.txt
 ---------                     -------
- 15478074                     1144 files
+ 15568171                     1148 files

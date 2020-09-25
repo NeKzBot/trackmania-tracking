@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 08:24+0000\n"
+"PO-Revision-Date: 2020-09-21 10:11+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -840,6 +840,9 @@ msgstr "ALT+clic sulla Timeline"
 
 msgid "Always"
 msgstr "Sempre"
+
+msgid "Always display records"
+msgstr "Mostra sempre i record"
 
 msgid "Ambiance"
 msgstr "Ambientale"
@@ -2280,6 +2283,9 @@ msgstr "Clacson di serie"
 
 msgid "Default image"
 msgstr "Immagine predefinita"
+
+msgid "Default opponents visibility"
+msgstr "Visibilità predefinita avversari"
 
 msgid "Default sound"
 msgstr "Suono predefinito"
@@ -5552,6 +5558,10 @@ msgstr "Pronto"
 msgid "Ready (F6)"
 msgstr "Pronto (F6)"
 
+msgid "Real name and ID card information have been successfully validated."
+msgstr ""
+"Nome reale e informazioni scheda ID sono stati convalidati correttamente."
+
 msgid "Really balance teams?"
 msgstr "Bilanciare veramente le squadre?"
 
@@ -6706,6 +6716,9 @@ msgstr "Spettatore"
 
 msgid "Spectator"
 msgstr "Spettatore"
+
+msgid "Spectators placement computed"
+msgstr "Posizionamento spettatori calcolato"
 
 msgid "Speed"
 msgstr "Velocità"
@@ -8275,6 +8288,9 @@ msgstr "Mostra l'intera timeline"
 
 msgid "Virtual Reality"
 msgstr "Realtà virtuale"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibilità degli spettatori a bordo strada"
 
 msgid "Visible by other players"
 msgstr "Visibile dagli altri giocatori"
@@ -10474,6 +10490,9 @@ msgstr "|Input|Salva replay"
 msgid "|Input|Save screenshot"
 msgstr "|Input|Salva screenshot"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|Respawn secondario"
+
 msgid "|Input|Shoot"
 msgstr "|Input|Chat"
 
@@ -11885,6 +11904,12 @@ msgstr "|PlayerStateComponent|Indicatore arma"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|Elenco armi"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|Nascosta"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|Vecchia"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Opaco"
 
@@ -12098,6 +12123,9 @@ msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Esporta skin"
 
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "Esci"
+
 msgid ""
 "|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
 "add Elements by making a folder (or a sub-folder) in your Documents/"
@@ -12307,6 +12335,15 @@ msgstr "|SpectatorCam|Manuale"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Replay"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Sempre"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Mai"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|In modalità spettatore"
 
 msgid "|Stats|Editing time"
 msgstr "|Stats|Tempo di modifica"
