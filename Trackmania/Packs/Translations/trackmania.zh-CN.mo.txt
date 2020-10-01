@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 11:45+0000\n"
+"PO-Revision-Date: 2020-10-01 03:21+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -17,6 +17,9 @@ msgstr "$%1作者"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>是大厅之王！"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$>现在是第%2名！"
 
 msgid "$<%1$> joined the game"
 msgstr "$<%1$>加入了游戏"
@@ -518,6 +521,12 @@ msgstr "铜牌"
 msgid "Browse"
 msgstr "浏览"
 
+msgid "Browse a custom mode..."
+msgstr "浏览自定义模式…"
+
+msgid "Browse match settings"
+msgstr "浏览比赛设定"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr "请创建你的赛道并通过放置一个终点方块来完成它。"
 
@@ -701,6 +710,9 @@ msgstr "更改连接模式"
 msgid "Chat time"
 msgstr "聊天时间"
 
+msgid "Check your final Open Grand League rank on the event page"
+msgstr "查看活动页面中你的公开大联赛排名"
+
 msgid "Choose a campaign to use"
 msgstr "选择想要使用的赛事"
 
@@ -738,6 +750,9 @@ msgstr "点选玩家以加入他们的派对。"
 
 msgid "Click on a player to set them as ally."
 msgstr "点选玩家以将他们设置为队友。"
+
+msgid "Click on another map to swap her position with the selected one"
+msgstr "点击另一张地图来与已选定的地图切换位置"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "点击界面模组来编辑属性"
@@ -792,6 +807,10 @@ msgstr "俱乐部"
 
 msgid "Collect lottery tickets, everyone can participate!"
 msgstr "收集抽奖券，每个人都可以参与！"
+
+msgid ""
+"Come back next week for step %1 to get more points for the Open Grand League"
+msgstr "下一周记得来公开大联赛，参与第%1阶段并获得更多的分数"
 
 msgid "Coming soon!"
 msgstr "即将推出！"
@@ -874,6 +893,9 @@ msgstr "创建俱乐部"
 msgid "Create competition"
 msgstr "创建比赛"
 
+msgid "Create local server"
+msgstr "创建本地服务器"
+
 msgid "Create map"
 msgstr "创建地图"
 
@@ -925,6 +947,9 @@ msgstr "制作人员"
 
 msgid "Cumulate team points :"
 msgstr "累计团队积分："
+
+msgid "Cup mode"
+msgstr "奖杯赛模式"
 
 msgid "Current map"
 msgstr "当前地图"
@@ -1144,6 +1169,13 @@ msgstr ""
 "分级水平。"
 
 msgid ""
+"Each player is being placed in a division after finishing their placement "
+"match. You will find out your division when joining your league match."
+msgstr ""
+"每个玩家都将在完成定级赛后被分到相应的等级。你可以在加入联赛游戏之后查看你的"
+"等级。"
+
+msgid ""
 "Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
 "%1 right after%2 and respresent your country."
 msgstr ""
@@ -1312,6 +1344,9 @@ msgid ""
 "code: %1)"
 msgstr "载入Nadeo服务器分数时发生错误。请重试。（错误代码：%1）"
 
+msgid "Error while loading the annoucements. (Error code: %1)"
+msgstr "载入公告时发生错误。（错误代码：%1）"
+
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr "载入赛事时发生错误。请重试。（错误代码：%1）"
 
@@ -1331,6 +1366,16 @@ msgid ""
 "Error while loading the match results, please try again later. (Error code: "
 "%1)"
 msgstr "在载入比赛结果时出现错误，请稍后重试。（错误代码：%1）"
+
+msgid ""
+"Error while loading the user leaderboard, please try again later. (Error "
+"code: %1)"
+msgstr "载入用户排行榜时出错，请稍后重试。（错误代码：%1）"
+
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr "在载入用户排名时出错，请稍后重试。（错误代码：%1）"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "载入奖杯时发生错误。（代码：%1）"
@@ -1478,6 +1523,9 @@ msgstr "小组版本经理"
 msgid "Game mode"
 msgstr "游戏模式"
 
+msgid "Game mode:"
+msgstr "游戏模式："
+
 msgid "Game mode: %1"
 msgstr "游戏模式：%1"
 
@@ -1547,6 +1595,9 @@ msgstr "总部制作人"
 msgid "HR SPECIALIST"
 msgstr "人力资源专员"
 
+msgid "Half the players will be qualified for the next round"
+msgstr "一半的玩家将获得进行下一局游戏的资格"
+
 msgid "Help"
 msgstr "帮助"
 
@@ -1613,6 +1664,9 @@ msgstr "图片浏览器"
 
 msgid "Improve"
 msgstr "刷新纪录"
+
+msgid "Infinite laps"
+msgstr "无限圈数"
 
 msgid "Information"
 msgstr "详情"
@@ -1691,6 +1745,9 @@ msgstr "每回合淘汰数"
 
 msgid "Knockout match starts in %1"
 msgstr "淘汰赛将在%1后开始"
+
+msgid "Knockout mode"
+msgstr "淘汰赛模式"
 
 msgid "L1 button"
 msgstr "L1键"
@@ -1779,6 +1836,9 @@ msgstr "领先者"
 msgid "Leaderboard is empty"
 msgstr "排行榜目前为空"
 
+msgid "Leaderboards are closed"
+msgstr "排行榜已关闭"
+
 msgid "Leaderboards are now closed on this campaign!"
 msgstr "本赛事的排行榜功能现已关闭！"
 
@@ -1823,6 +1883,9 @@ msgstr "正在载入"
 
 msgid "Loading activity..."
 msgstr "正在载入活动…"
+
+msgid "Loading announcement"
+msgstr "正在载入公告"
 
 msgid "Loading campaign to edit"
 msgstr "正在载入编辑赛事"
@@ -2153,6 +2216,12 @@ msgstr "新赛季开始于 %1"
 msgid "New season in %1 day"
 msgstr "新赛季将在%1天后开始"
 
+msgid "New season in %1 day and %2 hour"
+msgstr "新赛季将在%1天和%2小时后开启"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "新赛季将在%1天和%2小时后开启"
+
 msgid "New season in %1 days"
 msgstr "新赛季将在%1天后开始"
 
@@ -2212,6 +2281,9 @@ msgstr "无淘汰"
 
 msgid "No accounts found"
 msgstr "没有找到账户"
+
+msgid "No announcements"
+msgstr "无公告"
 
 msgid "No clubs"
 msgstr "暂无俱乐部"
@@ -2308,6 +2380,9 @@ msgstr "越野"
 
 msgid "Ok"
 msgstr "确定"
+
+msgid "Open link"
+msgstr "打开链接"
 
 msgid "Opponents from %1"
 msgstr "来自%1的对手"
@@ -2533,6 +2608,9 @@ msgstr "最大玩家数量"
 msgid "Players will be rewarded as follows"
 msgstr "玩家将获得下列奖励"
 
+msgid "Playing on %1"
+msgstr "正在进行%1"
+
 msgid "Please reconnect the %1"
 msgstr "请重新连接%1"
 
@@ -2600,6 +2678,9 @@ msgstr "按下%1在不同创造模式之间切换。"
 
 msgid "Pressforward"
 msgstr "直前"
+
+msgid "Previous"
+msgstr "前一个"
 
 msgid "Previous author time"
 msgstr "前一作者用时"
@@ -2927,6 +3008,9 @@ msgstr ""
 "回合%1/%2，%3名玩家\n"
 "每回合淘汰%4名玩家直至剩下%5名玩家"
 
+msgid "Round matches are currently unavailable, check back later!"
+msgstr "比赛目前不可用，请稍后再来！"
+
 msgid "Round skipped"
 msgstr "回合已跳过"
 
@@ -3188,6 +3272,9 @@ msgstr "选择下一个地图"
 msgid "Select number of players"
 msgstr "选择玩家数量"
 
+msgid "Select one of these servers to join the qualification"
+msgstr "选择其中一个服务器来加入资格赛"
+
 msgid "Select one of this servers to join the qualification"
 msgstr "选择其中一个服务器来加入资格赛"
 
@@ -3250,6 +3337,9 @@ msgstr "加入/移除收藏"
 
 msgid "Settings"
 msgstr "设置"
+
+msgid "Settings name"
+msgstr "设定名称"
 
 msgid "Seventh (Press 7)"
 msgstr "第七位（按下7键）"
@@ -3342,6 +3432,9 @@ msgstr "准备就绪"
 
 msgid "Stats"
 msgstr "统计数据"
+
+msgid "Step %1 completed"
+msgstr "第%1阶段已结束"
 
 msgid "Step ranking"
 msgstr "阶段排名"
@@ -3453,6 +3546,12 @@ msgstr "订阅《赛道狂飙》%1即可使用自定义皮肤。"
 
 msgid "Sunday"
 msgstr "星期日"
+
+msgid "Swap maps"
+msgstr "切换地图"
+
+msgid "Swap with this map"
+msgstr "以此切换地图"
 
 msgid "Switch"
 msgstr "切换"
@@ -3576,6 +3675,9 @@ msgstr "俱乐部的名字最少需要%1个字符且最多不超过%2个字符"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "俱乐部的缩写最少需要%1个字符且最多不超过%2个字符"
+
+msgid "The competition is a tournament bracket"
+msgstr "本比赛是锦标赛中的淘汰赛"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -4056,6 +4158,9 @@ msgstr "等待下一场比赛"
 msgid "Waiting for other players."
 msgstr "等待其他玩家。"
 
+msgid "Waiting for other qualification servers to finish their matches..."
+msgstr "等待其它资格赛服务器完成比赛…"
+
 msgid "Waiting for players"
 msgstr "等待玩家"
 
@@ -4143,6 +4248,9 @@ msgstr "欢迎来到：%1。"
 
 msgid "What do you want to do?"
 msgstr "你想要做什么？"
+
+msgid "What's next"
+msgstr "接下来是"
 
 msgid "When the previous round is over"
 msgstr "上一回合结束时"
@@ -4291,6 +4399,12 @@ msgstr "你没有正在进行的活动"
 msgid "You don't have any server accounts registered."
 msgstr "你没有注册过任何服务器账户。"
 
+msgid "You finished $<$7FA%1$> in your league match"
+msgstr "你在联赛比赛中拿下了$<$7FA%1$>"
+
+msgid "You finished $<$7FA%1$> in your placement match"
+msgstr "你在定级赛中拿下了$<$7FA%1$>"
+
 msgid "You finished $<$7FA%1$> on your placement match"
 msgstr "你在定级赛中获得了$<$7FA%1$>"
 
@@ -4359,6 +4473,9 @@ msgstr "至少放置一条终点线！"
 msgid "You must place at least one respawnable checkpoint!"
 msgstr "你必须放置至少一个可重置的检查点！"
 
+msgid "You must select a map for qualifications"
+msgstr "你必须选择一张地图用于资格赛"
+
 msgid "You must select at least one map to play"
 msgstr "你至少必须选择一个地图进行游戏"
 
@@ -4395,6 +4512,15 @@ msgstr "你必须重新验证此赛道。"
 msgid "You will soon be redirected to a match server."
 msgstr "你即将被分配至一个比赛服务器。"
 
+msgid "You won $<$7FA%1$> points for the Open Grand League"
+msgstr "你在公开大联赛中获得了$<$7FA%1$>分"
+
+msgid "You won $<$7FA0$> points for the Open Grand League"
+msgstr "你在公开大联赛中获得了$<$7FA0$>分"
+
+msgid "You won $<$7FA1$> point for the Open Grand League"
+msgstr "你在公开大联赛中获得了$<$7FA1$>分"
+
 msgid "Your map in less than %1 minutes"
 msgstr "您的地图还有不到%1分钟"
 
@@ -4430,6 +4556,9 @@ msgstr "好的"
 
 msgid "per server"
 msgstr "按服务器"
+
+msgid "players online"
+msgstr "名在线玩家"
 
 msgid "standard access"
 msgstr "标准版"
@@ -5300,11 +5429,17 @@ msgstr "|Month 3 letters|十月 %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|九月 %1"
 
+msgid "|Mouse|Scroll"
+msgstr "|Mouse|滚动"
+
 msgid "|Move camera|Camera"
 msgstr "|Move camera|相机"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|返回"
+
+msgid "|NextPage|Next"
+msgstr "|NextPage|下一页"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|方向键"
@@ -5344,6 +5479,9 @@ msgstr "|Press xx to start|按下"
 
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|开始游戏"
+
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|上一页"
 
 msgid "|Race|Lap"
 msgstr "|Time|圈数"

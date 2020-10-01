@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 11:45+0000\n"
+"PO-Revision-Date: 2020-10-01 04:16+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -101,7 +101,7 @@ msgstr ""
 "$zNo modo $<$t$6F9Rodadas$z$z$>, o objetivo é ganhar o número máximo de $<$t"
 "$6F9pontos.\n"
 "\n"
-"$z$>O modo rounds consiste em $<$t$6F9uma série de corridas$z$>.\n"
+"$z$>O modo Rodadas consiste em $<$t$6F9uma série de corridas$z$>.\n"
 "Ao terminar uma corrida em uma boa $<$t$6F9posição$z$>, você recebe $<$t"
 "$6F9pontos$z$>, adicionados ao seu total.\n"
 "\n"
@@ -123,12 +123,12 @@ msgstr ""
 "$zNo modo $<$t$6F9Equipe$>, você tem que escolher uma equipe : $<$t"
 "$f00Vermelha$> ou $<$t$10cAzul$>.\n"
 "\n"
-"O modo equipe consiste em $<$t$6F9uma série de corridas$>.\n"
+"O modo Equipe consiste em $<$t$6F9uma série de corridas$>.\n"
 "O objetivo de sua equipe é ganhar um número máximo de $<$t$6F9pontos$>.\n"
 "\n"
 "Ao terminar uma corrida em uma boa $<$t$6F9posição$>, você dá $<$t$6F9pontos"
 "$> para sua equipe.\n"
-"A $<$t$6F9equipe vencedora$>é a primeira equipe cujo total atinge o $<$t"
+"A $<$t$6F9equipe vencedora$> é a primeira equipe cujo total atinge o $<$t"
 "$6F9limite de pontos$> (5 por exemplo)."
 
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "managed to become finalists and to finish first."
 msgstr ""
 "$zO modo Copa consiste em $<$t$6F9uma série de corridas em múltiplos mapas"
-"$>. \n"
+"$>.\n"
 "\n"
 "Quando você termina a corrida em uma boa $<$t$6F9posição$>, você recebe $<$t"
 "$6F9pontos$> adicionados ao seu total.\n"
@@ -530,6 +530,12 @@ msgstr "Medalha de Bronze"
 msgid "Browse"
 msgstr "Navegar"
 
+msgid "Browse a custom mode..."
+msgstr "Procurar um modo personalizado..."
+
+msgid "Browse match settings"
+msgstr "Procurar configurações de partida"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr "Construa sua pista e coloque um bloco de chegada para completá-la."
 
@@ -677,6 +683,9 @@ msgstr "Alterar o modo de conexão"
 msgid "Chat time"
 msgstr "Tempo de bate-papo"
 
+msgid "Check your final Open Grand League rank on the event page"
+msgstr "Verifique seu rank final na Open Grand League na página do evento"
+
 msgid "Choose a campaign to use"
 msgstr "Escolha uma campanha para usar"
 
@@ -715,6 +724,9 @@ msgstr "Clique em um jogador para se juntar ao grupo."
 
 msgid "Click on a player to set them as ally."
 msgstr "Clique em um jogador para defini-lo como aliado."
+
+msgid "Click on another map to swap her position with the selected one"
+msgstr "Clique em outro mapa para trocar sua posição com o mapa selecionado"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Clique nos módulos da U.I para editar suas propriedades"
@@ -771,6 +783,12 @@ msgstr "Clubes"
 
 msgid "Collect lottery tickets, everyone can participate!"
 msgstr "Coletar bilhetes de loteria, todos podem participar!"
+
+msgid ""
+"Come back next week for step %1 to get more points for the Open Grand League"
+msgstr ""
+"Volte na próxima semana para a etapa %1 para conseguir mais pontos para a "
+"Open Grand League"
 
 msgid "Coming soon!"
 msgstr "Em breve!"
@@ -853,6 +871,9 @@ msgstr "Criar clube"
 msgid "Create competition"
 msgstr "Criar competição"
 
+msgid "Create local server"
+msgstr "Criar servidor local"
+
 msgid "Create map"
 msgstr "Criar mapa"
 
@@ -904,6 +925,9 @@ msgstr "Créditos"
 
 msgid "Cumulate team points :"
 msgstr "Acumular pontos da equipe:"
+
+msgid "Cup mode"
+msgstr "Modo Copa"
 
 msgid "Current map"
 msgstr "Mapa atual"
@@ -978,7 +1002,7 @@ msgid "Daily map"
 msgstr "Mapa diário"
 
 msgid "Daily rankings"
-msgstr "Ranking diário"
+msgstr "Rankings diários"
 
 msgid "Date"
 msgstr "Data"
@@ -1119,8 +1143,15 @@ msgid ""
 "match. You will discover your division when joining your league match."
 msgstr ""
 "Cada jogador está sendo colocado em uma divisão após terminar a partida "
+"qualificatória. Você descobrirá sua divisão ao entrar em sua partida da liga."
+
+msgid ""
+"Each player is being placed in a division after finishing their placement "
+"match. You will find out your division when joining your league match."
+msgstr ""
+"Cada jogador é colocado em uma divisão após terminar sua partida "
 "qualificatória. Você irá descobrir sua divisão quando se juntar a sua "
-"partida na liga."
+"partida da liga."
 
 msgid ""
 "Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
@@ -1319,6 +1350,9 @@ msgstr ""
 "Erro ao carregar pontuações dos Serviços Nadeo. Por favor, tente novamente. "
 "(Código de erro: %1)"
 
+msgid "Error while loading the annoucements. (Error code: %1)"
+msgstr "Erro ao carregar os anúncios. (Código de erro: %1)"
+
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr ""
 "Erro ao carregar campanha. Por favor, tente novamente. (Código de erro: %1)"
@@ -1346,6 +1380,20 @@ msgid ""
 msgstr ""
 "Erro ao carregar os resultados da partida, por favor tente novamente mais "
 "tarde. (Código de erro: %1)"
+
+msgid ""
+"Error while loading the user leaderboard, please try again later. (Error "
+"code: %1)"
+msgstr ""
+"Erro ao carregar a tabela de lideranças do usuário, por favor, tente "
+"novamente. (Código de erro: %1)"
+
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Erro ao carregar o ranking do usuário, por favor tente novamente mais tarde. "
+"(Código de erro: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Erro ao carregar troféus (código: %1)"
@@ -1512,6 +1560,9 @@ msgstr "GERENTE DE LANÇAMENTO EM GRUPO"
 msgid "Game mode"
 msgstr "Modo de jogo"
 
+msgid "Game mode:"
+msgstr "Modo de jogo:"
+
 msgid "Game mode: %1"
 msgstr "Modo de jogo: %1"
 
@@ -1580,6 +1631,9 @@ msgstr "PRODUTORES HQ"
 
 msgid "HR SPECIALIST"
 msgstr "ESPECIALISTA DE RH"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "Metade dos jogadores serão qualificados para a próxima rodada"
 
 msgid "Help"
 msgstr "Ajuda"
@@ -1654,6 +1708,9 @@ msgstr "Navegador de imagens"
 msgid "Improve"
 msgstr "Melhorar"
 
+msgid "Infinite laps"
+msgstr "Voltas infinitas"
+
 msgid "Information"
 msgstr "Informação"
 
@@ -1680,6 +1737,9 @@ msgstr "COORDENADOR DE PRODUÇÃO JÚNIOR"
 
 msgid "JUNIOR PROGRAMMER"
 msgstr "PROGRAMADOR JÚNIOR"
+
+msgid "JUNIOR TESTER"
+msgstr "TESTER JÚNIOR"
 
 msgid "JUNIOR UX DESIGNER"
 msgstr "DESIGNER UX JÚNIOR"
@@ -1718,6 +1778,9 @@ msgstr "KOs por rodada"
 msgid "Knockout match starts in %1"
 msgstr "Partida de nocaute começa em %1"
 
+msgid "Knockout mode"
+msgstr "Modo Nocaute"
+
 msgid "L1 button"
 msgstr "Botão L1"
 
@@ -1741,6 +1804,9 @@ msgstr "PROGRAMADOR LÍDER"
 
 msgid "LEAD TECHNICAL ARTIST"
 msgstr "ARTISTA TÉCNICO LÍDER"
+
+msgid "LEAD UX SUPERVISOR"
+msgstr "SUPERVISOR UX LÍDER"
 
 msgid "LINE DESIGNER"
 msgstr "DESIGNER DE LINHA"
@@ -1780,6 +1846,9 @@ msgstr "Líder"
 
 msgid "Leaderboard is empty"
 msgstr "A tabela de classificação está vazia"
+
+msgid "Leaderboards are closed"
+msgstr "Tabela de lideranças está fechada"
 
 msgid "Leaderboards are now closed on this campaign!"
 msgstr "As tabelas de classificação estão fechadas para esta campanha!"
@@ -1825,6 +1894,9 @@ msgstr "Carregando"
 
 msgid "Loading activity..."
 msgstr "Carregando atividade..."
+
+msgid "Loading announcement"
+msgstr "Carregando anúncio"
 
 msgid "Loading campaign to edit"
 msgstr "Carregando campanha para editar"
@@ -2081,7 +2153,7 @@ msgid "Mode script browser"
 msgstr "Pesquisador de script de Modo"
 
 msgid "Mode settings"
-msgstr "Configurações de modo"
+msgstr "Configurações do modo"
 
 msgid "Monday"
 msgstr "Segunda-Feira"
@@ -2152,6 +2224,12 @@ msgstr "Nova temporada em %1"
 msgid "New season in %1 day"
 msgstr "Nova temporada em %1 dia"
 
+msgid "New season in %1 day and %2 hour"
+msgstr "Nova temporada em %1 dia e %2 hora"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "Nova temporada em %1 dia e %2 horas"
+
 msgid "New season in %1 days"
 msgstr "Nova temporada em %1 dias"
 
@@ -2211,6 +2289,9 @@ msgstr "Sem K.O."
 
 msgid "No accounts found"
 msgstr "Nenhuma conta encontrada"
+
+msgid "No announcements"
+msgstr "Sem anúncios"
 
 msgid "No clubs"
 msgstr "Nenhum clube"
@@ -2307,6 +2388,9 @@ msgstr "Off-road"
 
 msgid "Ok"
 msgstr "Ok"
+
+msgid "Open link"
+msgstr "Abrir link"
 
 msgid "Opponents from %1"
 msgstr "Oponentes de %1"
@@ -2531,6 +2615,9 @@ msgstr "Jogadores por partida"
 msgid "Players will be rewarded as follows"
 msgstr "Os jogadores serão recompensados da seguinte forma"
 
+msgid "Playing on %1"
+msgstr "Jogando em %1"
+
 msgid "Please reconnect the %1"
 msgstr "Por favor, reconecte o %1"
 
@@ -2548,7 +2635,7 @@ msgid "Points gap"
 msgstr "Distância de pontos"
 
 msgid "Points gap :"
-msgstr "Limite de pontos:"
+msgstr "Diferença de pontos:"
 
 msgid "Points limit"
 msgstr "Limite de pontos"
@@ -2599,6 +2686,9 @@ msgstr "Pressione %1 para alternar entre os diferentes modos de construção."
 
 msgid "Pressforward"
 msgstr "Pressione para frente"
+
+msgid "Previous"
+msgstr "Anterior"
 
 msgid "Previous author time"
 msgstr "Tempo de autor anterior"
@@ -2707,8 +2797,8 @@ msgid ""
 "Race MapType has not been found or set. You might be unable to validate your "
 "map."
 msgstr ""
-"O tipo de corrida do Mapa não foi definido ou configurado. Você talvez não "
-"consiga validar seu mapa."
+"O tipo de corrida do Mapa não foi encontrado ou definido. Você pode não "
+"conseguir validar seu mapa."
 
 msgid "Race and compete in the daily player's map selection"
 msgstr "Corra e compita na seleção diária de mapas do jogador"
@@ -2916,8 +3006,13 @@ msgstr ""
 "Rodada %1/%2, %3 Jogadores\n"
 "%4 eliminações por rodada até %5 jogadores"
 
+msgid "Round matches are currently unavailable, check back later!"
+msgstr ""
+"Partidas de round estão indisponíveis no momento, verifique novamente mais "
+"tarde!"
+
 msgid "Round skipped"
-msgstr "Pulou a rodada"
+msgstr "Rodada pulada"
 
 msgid "Rounds "
 msgstr "Rodadas "
@@ -3104,7 +3199,7 @@ msgid "Select a VIP to play against"
 msgstr "Selecione um VIP para jogar contra"
 
 msgid "Select a billboard"
-msgstr "Escolha um anúncio"
+msgstr "Selecione um outdoor"
 
 msgid "Select a campaign"
 msgstr "Selecionar uma campanha"
@@ -3163,6 +3258,9 @@ msgstr "Selecionar próximo mapa"
 
 msgid "Select number of players"
 msgstr "Selecione o número de jogadores"
+
+msgid "Select one of these servers to join the qualification"
+msgstr "Selecione um desses servidores para ingressar na qualificação"
 
 msgid "Select one of this servers to join the qualification"
 msgstr "Selecione um destes servidores para participar da qualificação"
@@ -3228,6 +3326,9 @@ msgstr "Ativar/Desativar como favorito"
 
 msgid "Settings"
 msgstr "Configurações"
+
+msgid "Settings name"
+msgstr "Nome das configurações"
 
 msgid "Seventh (Press 7)"
 msgstr "Sétimo (Pressione 7)"
@@ -3326,6 +3427,9 @@ msgstr "Começa em"
 
 msgid "Stats"
 msgstr "Estatísticas"
+
+msgid "Step %1 completed"
+msgstr "Etapa %1 concluída"
 
 msgid "Step ranking"
 msgstr "Classificação da etapa"
@@ -3439,6 +3543,12 @@ msgstr "Assine o Trackmania %1 para usar uma skin personalizada"
 msgid "Sunday"
 msgstr "Domingo"
 
+msgid "Swap maps"
+msgstr "Trocar ordem dos mapas"
+
+msgid "Swap with this map"
+msgstr "Trocar com este mapa"
+
 msgid "Switch"
 msgstr "Mudar"
 
@@ -3462,6 +3572,18 @@ msgstr "ESPECIALISTA TÉCNICO"
 
 msgid "TECHNICAL SUPPORT COORDINATOR"
 msgstr "COORDENADOR DE SUPORTE TÉCNICO"
+
+msgid "TESTER"
+msgstr "TESTER"
+
+msgid ""
+"THANKS TO ALL THE INCREDIBLE ALPHA TESTERS FROM THE TEAM AND FROM THE "
+"PLAYERS ALL AROUND THE WORLD THAT WILL ENJOY THE GAME IN SUCH A BETTER WAY. "
+"YOUR SPIRIT AND YOUR EXPERTISE ARE IN A WORLD CLASS LEAGUE."
+msgstr ""
+"OBRIGADO À TODOS OS INCRÍVEIS TESTADORES ALFA DE NOSSA EQUIPE E JOGADORES AO "
+"REDOR DO MUNDO QUE DESFRUTARÃO DO JOGO DE UMA MANEIRA MELHOR. SEU ESPÍRITO E "
+"SUA PERÍCIA ESTÃO EM UMA LIGA DE CLASSE MUNDIAL."
 
 msgid "TRACKING & ANALYTICS SPECIALIST, EMEA"
 msgstr "ESPECIALISTA DE RASTREAMENTO E ANÁLISES, EMEA"
@@ -3549,6 +3671,9 @@ msgstr "O nome do clube tem no mínimo %1 e no máximo %2 caracteres"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "A tag do clube tem no mínimo %1 e no máximo %2 caracteres"
+
+msgid "The competition is a tournament bracket"
+msgstr "A competição é uma chave de torneio"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -3652,7 +3777,7 @@ msgid "There are no macroblocks available for this editor."
 msgstr "Não há macroblocos disponíveis para este editor."
 
 msgid "There are no saved activities in your club."
-msgstr "Não há atividades salvas no seu clube."
+msgstr "Não há atividades salvas em seu clube."
 
 msgid ""
 "There was an error while gathering the leaderboard, please try again later. "
@@ -3725,7 +3850,7 @@ msgid ""
 "This matchmaking server is hosting a match. You can't join at the moment."
 msgstr ""
 "Este servidor de matchmaking está hospedando uma partida. Você não pode "
-"juntar-se no momento."
+"entrar no momento."
 
 msgid "This round is a draw."
 msgstr "Esta rodada é um empate."
@@ -4044,6 +4169,9 @@ msgstr "Aguarde a próxima partida"
 msgid "Waiting for other players."
 msgstr "Esperando por outros jogadores."
 
+msgid "Waiting for other qualification servers to finish their matches..."
+msgstr "Esperando outros servidores de qualficação terminarem suas partidas..."
+
 msgid "Waiting for players"
 msgstr "Aguardando por jogadores"
 
@@ -4104,7 +4232,7 @@ msgid ""
 msgstr ""
 "Bem-vindo à Copa Diária Nadeo!\n"
 "\n"
-"Corra por 10 minutos no dia de hoje. Você poderá ingressar na fase "
+"Corra por 10 minutos no mapa de hoje. Você poderá ingressar na fase "
 "eliminatória posteriormente e ganhar ainda mais troféus. \n"
 "Você pode ver sua classificação global entre todos os servidores à direita "
 "de tela."
@@ -4125,7 +4253,7 @@ msgstr ""
 "de tela. Boa sorte!"
 
 msgid "Welcome to the Open Grand League"
-msgstr "Bem-vindo ao Open Grand League"
+msgstr "Bem-vindo à Open Grand League"
 
 msgid "Welcome to the club!"
 msgstr "Bem-Vindo ao Clube!"
@@ -4135,6 +4263,9 @@ msgstr "Bem-vindo ao: %1."
 
 msgid "What do you want to do?"
 msgstr "O que deseja fazer?"
+
+msgid "What's next"
+msgstr "A seguir"
 
 msgid "When the previous round is over"
 msgstr "Quando a rodada anterior terminar"
@@ -4297,6 +4428,12 @@ msgstr "Você não tem nenhum evento em andamento"
 msgid "You don't have any server accounts registered."
 msgstr "Você não possui nenhuma conta de servidor registrada."
 
+msgid "You finished $<$7FA%1$> in your league match"
+msgstr "Você terminou em $<$7FA%1$> na sua partida da liga"
+
+msgid "You finished $<$7FA%1$> in your placement match"
+msgstr "Você terminou em $<$7FA%1$> na sua partida qualificatória"
+
 msgid "You finished $<$7FA%1$> on your placement match"
 msgstr "Você terminou em $ <$7FA%1$> na sua partida qualificatória"
 
@@ -4368,6 +4505,9 @@ msgstr "É preciso inserir pelo menos uma linha de chegada!"
 msgid "You must place at least one respawnable checkpoint!"
 msgstr "Você deve colocar pelo menos um checkpoint reiniciável!"
 
+msgid "You must select a map for qualifications"
+msgstr "Você deve selecionar um mapa para as qualificações"
+
 msgid "You must select at least one map to play"
 msgstr "Você deve selecionar pelo menos um mapa para jogar"
 
@@ -4405,6 +4545,15 @@ msgstr "Você precisará validar a pista novamente."
 msgid "You will soon be redirected to a match server."
 msgstr "Você será redirecionado para um servidor de partida em breve."
 
+msgid "You won $<$7FA%1$> points for the Open Grand League"
+msgstr "Você ganhou $<$7FA%1$> pontos para a Open Grand League"
+
+msgid "You won $<$7FA0$> points for the Open Grand League"
+msgstr "Você ganhou $<$7FA0$> pontos para a Open Grand League"
+
+msgid "You won $<$7FA1$> point for the Open Grand League"
+msgstr "Você ganhou $<$7FA1$> ponto para a Open Grand League"
+
 msgid "Your map in less than %1 minutes"
 msgstr "Seu mapa em menos de %1 minutos"
 
@@ -4440,6 +4589,9 @@ msgstr "ok"
 
 msgid "per server"
 msgstr "por servidor"
+
+msgid "players online"
+msgstr "jogadores online"
 
 msgid "standard access"
 msgstr "acesso Standard"
@@ -4755,6 +4907,9 @@ msgstr "|Club|Solicitações"
 
 msgid "|Club|Unfeature"
 msgstr "Remover destacamento"
+
+msgid "|Club|Unpin club"
+msgstr "|Club|Desafixar clube"
 
 msgid "|Club|VIP"
 msgstr "|Club|VIP"
@@ -5331,11 +5486,17 @@ msgstr "|Month 3 letters|Out %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Set %1"
 
+msgid "|Mouse|Scroll"
+msgstr "|Mouse|Rolar"
+
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Câmera"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Voltar"
+
+msgid "|NextPage|Next"
+msgstr "|PreviousPage|Próxima"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|os botões direcionais"
@@ -5375,6 +5536,9 @@ msgstr "|Press xx to start|Pressione"
 
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|para iniciar"
+
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|Anterior"
 
 msgid "|Race|Lap"
 msgstr "|Race|Volta"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 11:45+0000\n"
+"PO-Revision-Date: 2020-10-01 08:24+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -534,6 +534,12 @@ msgstr "Bronz madalya"
 msgid "Browse"
 msgstr "Gözat"
 
+msgid "Browse a custom mode..."
+msgstr "Özel bir moda gözat..."
+
+msgid "Browse match settings"
+msgstr "Maç ayarlarına gözat"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr "Pistinizi oluşturun ve tamamlamak için bitiş bloğu yerleştirin."
 
@@ -759,6 +765,9 @@ msgstr "Partisine katılmak için oyuncunun üzerine tıklayın."
 msgid "Click on a player to set them as ally."
 msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
 
+msgid "Click on another map to swap her position with the selected one"
+msgstr "Seçili harita ile sırasını değiştirmek üzere başka bir harita seçin"
+
 msgid "Click on the UI modules to edit their properties"
 msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
 
@@ -900,6 +909,9 @@ msgstr "Kulüp oluştur"
 msgid "Create competition"
 msgstr "Karşılaşma oluştur"
 
+msgid "Create local server"
+msgstr "Yerel sunucu oluştur"
+
 msgid "Create map"
 msgstr "HARİTA OLUŞTUR"
 
@@ -951,6 +963,9 @@ msgstr "EMEĞİ GEÇENLER"
 
 msgid "Cumulate team points :"
 msgstr "Kümüle takım puanları"
+
+msgid "Cup mode"
+msgstr "Kupa modu"
 
 msgid "Current map"
 msgstr "Şu anki harita"
@@ -1410,6 +1425,13 @@ msgstr ""
 "Kullanıcı lider tablosu yüklenirken hata oluştu, lütfen daha sonra tekrar "
 "deneyin. (Hata kodu: %1)"
 
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Kullanıcı sıralaması yüklenirken hata oluştu, lütfen daha sonra tekrar "
+"deneyin. (Hata kodu: %1)"
+
 msgid "Error while loading trophies (code: %1)"
 msgstr "Kupalar yüklenirken hata oluştu (kod: %1)"
 
@@ -1580,6 +1602,9 @@ msgstr "GRUP ÇIKIŞ MÜDÜRÜ"
 msgid "Game mode"
 msgstr "Oyun modu"
 
+msgid "Game mode:"
+msgstr "Oyun modu:"
+
 msgid "Game mode: %1"
 msgstr "Oyun modu: %1"
 
@@ -1648,6 +1673,9 @@ msgstr "YAPIMCILAR (HQ)"
 
 msgid "HR SPECIALIST"
 msgstr "İNSAN KAYNAKLARI UZMANI"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "Oyuncuların yarısı bir sonraki round'a geçecek"
 
 msgid "Help"
 msgstr "YARDIM"
@@ -1802,6 +1830,9 @@ msgstr "Round başına eleme"
 
 msgid "Knockout match starts in %1"
 msgstr "Eleme maçı %1 içinde başlıyor"
+
+msgid "Knockout mode"
+msgstr "Eleme modu"
 
 msgid "L1 button"
 msgstr "L1 tuşu"
@@ -2274,6 +2305,12 @@ msgstr "YENİ SEZON: %1 İÇİNDE"
 msgid "New season in %1 day"
 msgstr "YENİ SEZON: %1 GÜN İÇİNDE"
 
+msgid "New season in %1 day and %2 hour"
+msgstr "YENİ SEZON: %1 GÜN %2 SAAT İÇİNDE"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "YENİ SEZON: %1 GÜN %2 SAAT İÇİNDE"
+
 msgid "New season in %1 days"
 msgstr "YENİ SEZON: %1 GÜN İÇİNDE"
 
@@ -2664,6 +2701,9 @@ msgstr "Maç başına oyuncu"
 
 msgid "Players will be rewarded as follows"
 msgstr "Oyuncular aşağıdaki gibi ödüllendirilecek"
+
+msgid "Playing on %1"
+msgstr "Oynanan: %1"
 
 msgid "Please reconnect the %1"
 msgstr "Lütfen yeniden bağlayın: %1"
@@ -3403,6 +3443,9 @@ msgstr "Sık kullanılanlara ekle/kaldır"
 msgid "Settings"
 msgstr "Ayarlar"
 
+msgid "Settings name"
+msgstr "Ayar adı"
+
 msgid "Seventh (Press 7)"
 msgstr "Yedinci (7'ye basın)"
 
@@ -3621,6 +3664,12 @@ msgstr "Özel bir dış görünüm kullanmak için Trackmania %1 sürümüne abo
 msgid "Sunday"
 msgstr "PAZAR"
 
+msgid "Swap maps"
+msgstr "Harita sırasını değiştir"
+
+msgid "Swap with this map"
+msgstr "Bu haritayla değiştir"
+
 msgid "Switch"
 msgstr "Değiştir"
 
@@ -3745,6 +3794,9 @@ msgstr "Kulüp ismi en az %1 ve en fazla %2 karakterden oluşmalıdır"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "KULÜP ETİKETİ EN AZ %1 VE EN FAZLA %2 KARAKTERDEN OLUŞMALIDIR"
+
+msgid "The competition is a tournament bracket"
+msgstr "Bu karşılaşma turnuva ayracı formatındadır"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -4588,6 +4640,9 @@ msgstr "En az bir bitiş çizgisi yerleştirmelisiniz!"
 msgid "You must place at least one respawnable checkpoint!"
 msgstr "En az bir adet respawn olunabilen checkpoint yerleştirmelisiniz!"
 
+msgid "You must select a map for qualifications"
+msgstr "Elemeler için bir harita seçmelisiniz"
+
 msgid "You must select at least one map to play"
 msgstr "Oynamak için en az bir harita seçmelisiniz"
 
@@ -4670,6 +4725,9 @@ msgstr "tamam"
 
 msgid "per server"
 msgstr "sunucu başına"
+
+msgid "players online"
+msgstr "oyuncu çevrimiçi"
 
 msgid "standard access"
 msgstr "STANDART ERİŞİM"
@@ -5567,6 +5625,9 @@ msgstr "|Move camera|Kamera"
 msgid "|Navigation|Back"
 msgstr "|Navigation|GERİ"
 
+msgid "|NextPage|Next"
+msgstr "|NextPage|Sonraki"
+
 msgid "|PC|the directional buttons"
 msgstr "|PC|yön tuşları"
 
@@ -5605,6 +5666,9 @@ msgstr "|Press xx to start|Başlamak için"
 
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|tuşuna basın"
+
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|Önceki"
 
 msgid "|Race|Lap"
 msgstr "|Race|Tur"

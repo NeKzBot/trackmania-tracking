@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 14:28+0000\n"
+"PO-Revision-Date: 2020-10-01 06:01+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Polish, Poland\n"
 "Language: pl-PL\n"
@@ -531,6 +531,12 @@ msgstr "Brązowy medal"
 msgid "Browse"
 msgstr "Przeglądaj"
 
+msgid "Browse a custom mode..."
+msgstr "Przeglądaj niest. tryby gry"
+
+msgid "Browse match settings"
+msgstr "Przeglądaj ustawienia gry"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr "Zbuduj swoją trasę i zakończ ją blokiem mety."
 
@@ -756,6 +762,9 @@ msgstr "Kliknij na gracza, żeby dołączyć do jego grupy."
 msgid "Click on a player to set them as ally."
 msgstr "Kliknij na gracza, żeby wybrać go jako sojusznika."
 
+msgid "Click on another map to swap her position with the selected one"
+msgstr "Kliknij na inną mapę aby zamienić ją z aktualnie wybraną"
+
 msgid "Click on the UI modules to edit their properties"
 msgstr "Kliknij na moduły interfejsu, aby edytować ich właściwości"
 
@@ -903,6 +912,9 @@ msgstr "Stwórz klub"
 msgid "Create competition"
 msgstr "Stwórz wydarzenie"
 
+msgid "Create local server"
+msgstr "Stwórz serwer lokalny"
+
 msgid "Create map"
 msgstr "Stwórz mapę"
 
@@ -954,6 +966,9 @@ msgstr "Twórcy"
 
 msgid "Cumulate team points :"
 msgstr "Skumuluj punkty drużyny :"
+
+msgid "Cup mode"
+msgstr "Tryb pucharu"
 
 msgid "Current map"
 msgstr "Aktualna mapa"
@@ -1420,8 +1435,15 @@ msgid ""
 "Error while loading the user leaderboard, please try again later. (Error "
 "code: %1)"
 msgstr ""
-"Wystąpił błąd podczas wczytywania rankingów gracza, spróbuj ponownie "
-"później. (Kod błędu: %1)"
+"Wystąpił błąd podczas wczytywania rankingu gracza, spróbuj ponownie później. "
+"(Kod błędu: %1)"
+
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Wystąpił błąd podczas wczytywania rankingu gracza, spróbuj ponownie później. "
+"(Kod błędu: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Wystąpił błąd podczas wczytywania trofeów (Kod: %1)"
@@ -1588,6 +1610,9 @@ msgstr "MENEDŻER GRUPY WYDAWNICTWA"
 msgid "Game mode"
 msgstr "Tryb gry"
 
+msgid "Game mode:"
+msgstr "Tryb gry:"
+
 msgid "Game mode: %1"
 msgstr "Tryb gry: %1"
 
@@ -1657,6 +1682,9 @@ msgstr "PRODUCENCI HQ"
 
 msgid "HR SPECIALIST"
 msgstr "SPECJALISTA HR"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "Połowa graczy zakwalifikuje się do następnej rundy"
 
 msgid "Help"
 msgstr "Pomoc"
@@ -1808,6 +1836,9 @@ msgstr "Eliminacje na rundę"
 
 msgid "Knockout match starts in %1"
 msgstr "Rozgrywka Eliminacji rozpocznie się za %1"
+
+msgid "Knockout mode"
+msgstr "Tryb Knockout"
 
 msgid "L1 button"
 msgstr "Przycisk L1"
@@ -2280,6 +2311,9 @@ msgstr "Nowy sezon za %1"
 msgid "New season in %1 day"
 msgstr "Nowy sezon za %1 dzień"
 
+msgid "New season in %1 day and %2 hours"
+msgstr "Nowy sezon za %1 dzień i %2 godziny"
+
 msgid "New season in %1 days"
 msgstr "Nowy sezon za %1 dni"
 
@@ -2671,6 +2705,9 @@ msgstr "Ilość graczy na mecz"
 msgid "Players will be rewarded as follows"
 msgstr "Gracze będą nagradzani następująco"
 
+msgid "Playing on %1"
+msgstr "Rozgrywana %1"
+
 msgid "Please reconnect the %1"
 msgstr "Proszę podłączyć ponownie %1"
 
@@ -2743,6 +2780,9 @@ msgstr "Wciśnij %1 aby przełączyć między różnymi trybami budowania."
 
 msgid "Pressforward"
 msgstr "Tylko do przodu"
+
+msgid "Previous"
+msgstr "Poprzedni"
 
 msgid "Previous author time"
 msgstr "Poprzedni czas autora"
@@ -3411,6 +3451,9 @@ msgstr "Dodaj/usuń jako ulubione"
 msgid "Settings"
 msgstr "Opcje"
 
+msgid "Settings name"
+msgstr "Nazwa ustawień"
+
 msgid "Seventh (Press 7)"
 msgstr "Siódmy (Naciśnij 7)"
 
@@ -3648,6 +3691,12 @@ msgstr ""
 msgid "Sunday"
 msgstr "Niedziela"
 
+msgid "Swap maps"
+msgstr "Zamień mapy"
+
+msgid "Swap with this map"
+msgstr "Zamień z tą mapą"
+
 msgid "Switch"
 msgstr "Przełącz"
 
@@ -3772,6 +3821,9 @@ msgstr "Nazwa klubu musi posiadać minimalnie od %1 do maksymalnie %2 znaków"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Skrót klubu ma minimalnie %1 i maksymalnie %2 znaków"
+
+msgid "The competition is a tournament bracket"
+msgstr "To wydarzenie jest rozgrywane w trybie drabinkowym"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -4615,6 +4667,9 @@ msgid "You must place at least one respawnable checkpoint!"
 msgstr ""
 "Musisz postawić co najmniej jeden punkt kontrolny z możliwością respawnu!"
 
+msgid "You must select a map for qualifications"
+msgstr "Musisz wybrać mapę do kwalifikacji"
+
 msgid "You must select at least one map to play"
 msgstr "Musisz wybrać przynajmniej jedną mapę"
 
@@ -4696,6 +4751,9 @@ msgstr "ok"
 
 msgid "per server"
 msgstr "na serwerze"
+
+msgid "players online"
+msgstr "graczy online"
 
 msgid "standard access"
 msgstr "Pakiet standardowy"
@@ -5595,6 +5653,9 @@ msgstr "|Move camera|Kamera"
 msgid "|Navigation|Back"
 msgstr "Powrót"
 
+msgid "|NextPage|Next"
+msgstr "Następna"
+
 msgid "|PC|the directional buttons"
 msgstr "|PC|Przyciski kierunkowe"
 
@@ -5633,6 +5694,9 @@ msgstr "Naciśnij"
 
 msgid "|Press xx to start|to start"
 msgstr "aby rozpocząć"
+
+msgid "|PreviousPage|Previous"
+msgstr "Poprzednia"
 
 msgid "|Race|Lap"
 msgstr "Okrążenie"

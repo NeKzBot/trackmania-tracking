@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 11:39+0000\n"
+"PO-Revision-Date: 2020-09-30 18:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -708,6 +708,9 @@ msgstr "연결 모드 변경"
 msgid "Chat time"
 msgstr "마지막 시간"
 
+msgid "Check your final Open Grand League rank on the event page"
+msgstr "이벤트 페이지에서 최종 오픈 그랜드 리그 랭킹을 확인하십시오"
+
 msgid "Choose a campaign to use"
 msgstr "사용할 캠페인을 선택하십시오"
 
@@ -799,6 +802,11 @@ msgstr "클럽"
 
 msgid "Collect lottery tickets, everyone can participate!"
 msgstr "추첨 티켓을 모으십시오. 누구나 참여할 수 있습니다!"
+
+msgid ""
+"Come back next week for step %1 to get more points for the Open Grand League"
+msgstr ""
+"오픈 그랜드 리그를 위해 다음 주에 %1단계에서 더 많은 점수를 획득하십시오"
 
 msgid "Coming soon!"
 msgstr "공개 임박!"
@@ -1147,8 +1155,15 @@ msgid ""
 "Each player is being placed in a division after finishing their placement "
 "match. You will discover your division when joining your league match."
 msgstr ""
-"각 플레이어는 순위 경기를 마친 후 디비전에 배치됩니다. 리그 매치에 참여하면 "
-"자신의 디비전을 알게 됩니다."
+"순위 매치에서 각각의 플레이어들에게 디비전이 배정됩니다. 리그 매치에 참가하시"
+"면 디비전을 확인하실 수 있습니다."
+
+msgid ""
+"Each player is being placed in a division after finishing their placement "
+"match. You will find out your division when joining your league match."
+msgstr ""
+"순위 매치에서 각각의 플레이어들에게 디비전이 배정됩니다. 리그 매치에 참가하시"
+"면 디비전을 확인하실 수 있습니다."
 
 msgid ""
 "Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
@@ -1343,6 +1358,9 @@ msgstr ""
 "Nadeo Services에서 점수를 불러오는 중 오류가 발생했습니다. 다시 시도하십시"
 "오. (오류 코드: %1)"
 
+msgid "Error while loading the annoucements. (Error code: %1)"
+msgstr "공지를 불러오는 중에 오류가 발생했습니다. (오류 코드: %1)"
+
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr ""
 "캠페인을 불러오는 도중 오류가 발생했습니다. 다시 시도하십시오. (오류 코드: "
@@ -1371,6 +1389,13 @@ msgid ""
 msgstr ""
 "경기 결과를 로딩하는 중 에러가 발생했습니다. 나중에 다시 시도하십시오. (에러 "
 "코드: %1)"
+
+msgid ""
+"Error while loading the user leaderboard, please try again later. (Error "
+"code: %1)"
+msgstr ""
+"사용자 순위표를 불러오는 중에 오류가 발생했습니다. 나중에 다시 시도해주세요. "
+"(오류 코드: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "트로피 로딩 중 에러 발생(코드: %1)"
@@ -1678,6 +1703,9 @@ msgstr "이미지 브라우저"
 msgid "Improve"
 msgstr "재도전"
 
+msgid "Infinite laps"
+msgstr "무제한 랩"
+
 msgid "Information"
 msgstr "정보"
 
@@ -1843,6 +1871,9 @@ msgstr "선두"
 msgid "Leaderboard is empty"
 msgstr "리더보드가 비어있습니다"
 
+msgid "Leaderboards are closed"
+msgstr "순위표가 마감되었습니다"
+
 msgid "Leaderboards are now closed on this campaign!"
 msgstr "이 캠페인의 순위표는 지금 폐쇄됩니다!"
 
@@ -1887,6 +1918,9 @@ msgstr "불러오는 중"
 
 msgid "Loading activity..."
 msgstr "활동 로딩 중..."
+
+msgid "Loading announcement"
+msgstr "공지를 불러오는 중"
 
 msgid "Loading campaign to edit"
 msgstr "편집할 캠페인 불러오는 중"
@@ -2278,6 +2312,9 @@ msgstr "KO 없음"
 msgid "No accounts found"
 msgstr "발견된 계정 없음"
 
+msgid "No announcements"
+msgstr "공지 없음"
+
 msgid "No clubs"
 msgstr "클럽 없음"
 
@@ -2373,6 +2410,9 @@ msgstr "오프로드"
 
 msgid "Ok"
 msgstr "확인"
+
+msgid "Open link"
+msgstr "링크 열기"
 
 msgid "Opponents from %1"
 msgstr "%1 지역 상대"
@@ -2672,6 +2712,9 @@ msgstr "다른 생성 모드로 변경하려면 %1를 누르십시오."
 
 msgid "Pressforward"
 msgstr "프레스포워드"
+
+msgid "Previous"
+msgstr "이전"
 
 msgid "Previous author time"
 msgstr "이전 작성자 기록"
@@ -2981,6 +3024,9 @@ msgid ""
 "%4 K.O. per round until %5 players"
 msgstr "라운드 %1/%2  |  플레이어 %3명  |  플레이어가 %5명이 될 때까지 %4 KO"
 
+msgid "Round matches are currently unavailable, check back later!"
+msgstr "지금은 라운드 매치를 할 수 없습니다. 나중에 다시 확인해주세요!"
+
 msgid "Round skipped"
 msgstr "라운드 건너뜀"
 
@@ -3244,8 +3290,11 @@ msgstr "다음 맵 선택하기"
 msgid "Select number of players"
 msgstr "플레이어 수 선택:"
 
+msgid "Select one of these servers to join the qualification"
+msgstr "예선전에 참가하려면 서버 중 하나를 선택하십시오"
+
 msgid "Select one of this servers to join the qualification"
-msgstr "예선전에 참가하기 위해 서버를 선택해 주십시오"
+msgstr "예선전에 참가하려면 서버를 선택해 주십시오"
 
 msgid "Select style"
 msgstr "스타일 선택"
@@ -3400,6 +3449,9 @@ msgstr "다음 후에 시작:"
 
 msgid "Stats"
 msgstr "통계"
+
+msgid "Step %1 completed"
+msgstr "%1단계 완료"
 
 msgid "Step ranking"
 msgstr "단계 랭킹"
@@ -4137,6 +4189,9 @@ msgstr "다음 경기를 기다리십시오"
 msgid "Waiting for other players."
 msgstr "다른 플레이어를 기다리는 중입니다."
 
+msgid "Waiting for other qualification servers to finish their matches..."
+msgstr "다른 예선전 서버의 경기가 끝나기를 기다리고 있습니다..."
+
 msgid "Waiting for players"
 msgstr "플레이어 기다리는 중"
 
@@ -4226,6 +4281,9 @@ msgstr "%1에 오신 것을 환영합니다."
 
 msgid "What do you want to do?"
 msgstr "무엇을 하기를 원하십시까?"
+
+msgid "What's next"
+msgstr "다음"
 
 msgid "When the previous round is over"
 msgstr "이전 라운드 종료 후 시작됩니다"
@@ -4380,8 +4438,14 @@ msgstr "진행 중인 이벤트가 없습니다"
 msgid "You don't have any server accounts registered."
 msgstr "등록된 서버 계정을 보유하고 있지 않습니다."
 
+msgid "You finished $<$7FA%1$> in your league match"
+msgstr "리그 매치를 $<$7FA%1$>로 마쳤습니다"
+
+msgid "You finished $<$7FA%1$> in your placement match"
+msgstr "순위 매치를 $<$7FA%1$>로 마쳤습니다"
+
 msgid "You finished $<$7FA%1$> on your placement match"
-msgstr "순위 매치를 $<$7FA%1$>(으)로 마쳤습니다"
+msgstr "순위 매치를 $<$7FA%1$>로 마쳤습니다"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -4483,6 +4547,15 @@ msgstr "트랙을 다시 활성화해야 합니다."
 
 msgid "You will soon be redirected to a match server."
 msgstr "매치 서버로 곧 이동합니다."
+
+msgid "You won $<$7FA%1$> points for the Open Grand League"
+msgstr "오픈 그랜드 리그에서 $<$7FA%1$>점을 획득했습니다"
+
+msgid "You won $<$7FA0$> points for the Open Grand League"
+msgstr "오픈 그랜드 리그에서 $<$7FA0$>점을 획득했습니다"
+
+msgid "You won $<$7FA1$> point for the Open Grand League"
+msgstr "오픈 그랜드 리그에서 $<$7FA1$>점을 획득했습니다"
 
 msgid "Your map in less than %1 minutes"
 msgstr "지도 검토까지 %1 분 이하"
@@ -5384,6 +5457,9 @@ msgstr "|Month 3 letters|10월 %1"
 
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|9월 %1"
+
+msgid "|Mouse|Scroll"
+msgstr "|Mouse|스크롤"
 
 msgid "|Move camera|Camera"
 msgstr "|Move camera|카메라"

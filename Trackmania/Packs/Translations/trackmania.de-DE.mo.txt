@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-25 11:39+0000\n"
+"PO-Revision-Date: 2020-10-01 06:33+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -541,6 +541,12 @@ msgstr "Bronzemedaille"
 msgid "Browse"
 msgstr "Durchsuchen"
 
+msgid "Browse a custom mode..."
+msgstr "Benutzerdefinierten Modus durchsuchen..."
+
+msgid "Browse match settings"
+msgstr "Matchsettings durchsuchen"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr ""
 "Bauen Sie Ihre Strecke und platzieren Sie einen Ziel-Block, um sie "
@@ -773,6 +779,11 @@ msgid "Click on a player to set them as ally."
 msgstr ""
 "Klicken Sie auf einen Spieler, um diesen zu einem Verbündeten zu machen."
 
+msgid "Click on another map to swap her position with the selected one"
+msgstr ""
+"Klicken Sie auf eine andere Strecke, um die Position mit der ausgewählten "
+"Strecken zu tauschen"
+
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klicken Sie auf die UI-Module, um deren Eigenschaften zu bearbeiten"
 
@@ -921,6 +932,9 @@ msgstr "Club erstellen"
 msgid "Create competition"
 msgstr "Wettbewerb erstellen"
 
+msgid "Create local server"
+msgstr "Lokalen Server erstellen"
+
 msgid "Create map"
 msgstr "Strecke erstellen"
 
@@ -973,6 +987,9 @@ msgstr "Mitwirkende"
 
 msgid "Cumulate team points :"
 msgstr "Teampunkte ansammeln :"
+
+msgid "Cup mode"
+msgstr "Cup-Modus"
 
 msgid "Current map"
 msgstr "Aktuelle Strecke"
@@ -1453,6 +1470,13 @@ msgstr ""
 "Fehler beim Laden des Benutzer-Leaderboards, bitte versuchen Sie es später "
 "erneut. (Fehlercode: %1)"
 
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Fehler beim Laden des Benutzerrankings, bitte versuchen Sie es später "
+"erneut. (Fehlercode: %1)"
+
 msgid "Error while loading trophies (code: %1)"
 msgstr "Fehler beim Laden der Trophäen (Code: %1)"
 
@@ -1624,6 +1648,9 @@ msgstr "GROUP RELEASE MANAGER"
 msgid "Game mode"
 msgstr "Spielmodus"
 
+msgid "Game mode:"
+msgstr "Spielmodus:"
+
 msgid "Game mode: %1"
 msgstr "Spielmodus: %1"
 
@@ -1692,6 +1719,9 @@ msgstr "HQ PRODUCERS"
 
 msgid "HR SPECIALIST"
 msgstr "HR SPECIALIST"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "Die Hälfte der Spieler qualifiziert sich sich für die nächste Runde"
 
 msgid "Help"
 msgstr "Hilfe"
@@ -1851,6 +1881,9 @@ msgstr "K.O.s pro Runde"
 
 msgid "Knockout match starts in %1"
 msgstr "Knockout-Match startet in %1"
+
+msgid "Knockout mode"
+msgstr "Knockout-Modus"
 
 msgid "L1 button"
 msgstr "L1-Taste"
@@ -2331,6 +2364,12 @@ msgstr "Neue Saison in %1"
 msgid "New season in %1 day"
 msgstr "Neue Saison in %1 Tag"
 
+msgid "New season in %1 day and %2 hour"
+msgstr "Neue Saison in %1 Tag und %2 Stunde"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "Neue Saison in %1 Tag und %2 Stunden"
+
 msgid "New season in %1 days"
 msgstr "Neue Saison in %1 Tagen"
 
@@ -2722,6 +2761,9 @@ msgstr "Spieler pro Match"
 
 msgid "Players will be rewarded as follows"
 msgstr "Spieler werden wie folgt belohnt"
+
+msgid "Playing on %1"
+msgstr "Spielt gerade %1"
 
 msgid "Please reconnect the %1"
 msgstr "Bitte %1 erneut verbinden"
@@ -3468,6 +3510,9 @@ msgstr "Zu Favoriten hinzufügen/entfernen"
 msgid "Settings"
 msgstr "Einstellungen"
 
+msgid "Settings name"
+msgstr "Name der Einstellungen"
+
 msgid "Seventh (Press 7)"
 msgstr "Siebender (7 drücken)"
 
@@ -3694,6 +3739,12 @@ msgstr ""
 msgid "Sunday"
 msgstr "Sonntag"
 
+msgid "Swap maps"
+msgstr "Strecken vertauschen"
+
+msgid "Swap with this map"
+msgstr "Mit dieser Strecke tauschen"
+
 msgid "Switch"
 msgstr "Wechseln"
 
@@ -3821,6 +3872,9 @@ msgstr "Der Club-Name muss aus mindestens %1 und maximal %2 Zeichen bestehen"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Der Club-Tag muss aus mindestens %1 und maximal %2 Zeichen bestehen"
+
+msgid "The competition is a tournament bracket"
+msgstr "Der Wettkampf ist eine Turnierrunde"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -4696,6 +4750,9 @@ msgstr ""
 "Sie müssen mindestens einen Checkpoint platzieren, an dem Sie respawnen "
 "können."
 
+msgid "You must select a map for qualifications"
+msgstr "Sie müssen eine Qualifikationsstrecke auswählen"
+
 msgid "You must select at least one map to play"
 msgstr "Sie müssen mindestens eine Strecke zum spielen auswählen"
 
@@ -4782,6 +4839,9 @@ msgstr "ok"
 
 msgid "per server"
 msgstr "pro Server"
+
+msgid "players online"
+msgstr "Spieler online"
 
 msgid "standard access"
 msgstr "Standard-Zugang"
@@ -5686,6 +5746,9 @@ msgstr "|Move camera|Kamera"
 msgid "|Navigation|Back"
 msgstr "|Navigation|Zurück"
 
+msgid "|NextPage|Next"
+msgstr "|NextPage|Nächste"
+
 msgid "|PC|the directional buttons"
 msgstr "|PC|die Richtungstasten"
 
@@ -5724,6 +5787,9 @@ msgstr "|Press xx to start|Drücken Sie"
 
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|zum Starten"
+
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|Vorherige"
 
 msgid "|Race|Lap"
 msgstr "|Race|Runde"
