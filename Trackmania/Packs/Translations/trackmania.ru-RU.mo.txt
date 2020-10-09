@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-01 12:30+0000\n"
+"PO-Revision-Date: 2020-10-05 08:23+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -535,6 +535,10 @@ msgstr "Смена соединённого/разъединённого реж�
 msgid "Chat time"
 msgstr "Время чата"
 
+msgid "Check your final Open Grand League rank on the event page"
+msgstr ""
+"Проверьте свой финальный ранг Большой Открытой Лиги на странице события"
+
 msgid "Choose a campaign to use"
 msgstr "Выберите кампанию для использования"
 
@@ -574,6 +578,9 @@ msgstr "Кликните на игрока, чтобы присоединить�
 
 msgid "Click on a player to set them as ally."
 msgstr "Кликните на игрока, чтобы установить его, как союзника."
+
+msgid "Click on another map to swap her position with the selected one"
+msgstr "Кликните на другую карту, чтобы поменять её позицию с выбранной"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Кликните на модули интерфейса для редактирования их свойств"
@@ -631,6 +638,12 @@ msgstr "Клубы"
 
 msgid "Collect lottery tickets, everyone can participate!"
 msgstr "Собирайте лотерейные билеты, каждый может принять участие!"
+
+msgid ""
+"Come back next week for step %1 to get more points for the Open Grand League"
+msgstr ""
+"Возвращайтесь на следующей неделе, на этап %1, чтобы получить больше очков "
+"для Большой Открытой Лиги"
 
 msgid "Coming soon!"
 msgstr "Скоро!"
@@ -923,8 +936,8 @@ msgid ""
 "Each player is being placed in a division after finishing their placement "
 "match. You will discover your division when joining your league match."
 msgstr ""
-"Каждый игрок будет помещён в дивизион после завершения своего матч "
-"размещения. Вы узнаете свой дивизион, когда подключитесь матчу лиги."
+"Каждый игрок будет помещён в дивизион после завершения своего матча "
+"размещения. Вы откроете свой дивизион, когда подключитесь матчу лиги."
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
@@ -1137,6 +1150,9 @@ msgstr ""
 "Ошибка при загрузке результатов с сервисов Nadeo. Пожалуйста, повторите "
 "снова. (Код ошибки: %1)"
 
+msgid "Error while loading the annoucements. (Error code: %1)"
+msgstr "Произошла ошибка при загрузке анонсов. (Код ошибки: %1)"
+
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr ""
 "Произошла ошибка при загрузке кампании. Пожалуйста, повторите снова. (Код "
@@ -1173,6 +1189,13 @@ msgid ""
 msgstr ""
 "Ошибка при загрузке таблицы лидеров пользователей, пожалуйста, повторите "
 "попытку позже. (Код ошибки: %1)"
+
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Произошла ошибка при загрузке пользовательских рангов, пожалуйста, повторите "
+"снова. (Код ошибки: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Произошла ошибка при загрузке трофеев (код: %1)"
@@ -1309,13 +1332,13 @@ msgid "Generate"
 msgstr "Генерировать"
 
 msgid "Get the Club access for one year"
-msgstr "Получите клубный доступ на один год"
+msgstr "Получить клубный доступ на один год"
 
 msgid "Get the Club access for three years"
 msgstr "Получить Клубный доступ на три года"
 
 msgid "Get the Standard access for one year"
-msgstr "Получите стандартный доступ на один год"
+msgstr "Получить стандартный доступ на один год"
 
 msgid "Get the best of player campaigns in the arcade channel"
 msgstr "Получите лучшие кампании игроков в аркадном канале"
@@ -1487,6 +1510,9 @@ msgstr "Лидер"
 msgid "Leaderboard is empty"
 msgstr "Таблица лидеров пуста"
 
+msgid "Leaderboards are closed"
+msgstr "Таблицы лидеров закрыты"
+
 msgid "Leaderboards are now closed on this campaign!"
 msgstr "Таблицы лидеров в этой кампании закрыты!"
 
@@ -1531,6 +1557,9 @@ msgstr "Загрузка"
 
 msgid "Loading activity..."
 msgstr "Загрузка активности..."
+
+msgid "Loading announcement"
+msgstr "Загрузка анонса"
 
 msgid "Loading campaign to edit"
 msgstr "Загрузка кампании для редактирования"
@@ -1868,6 +1897,9 @@ msgstr "Нет выбывших"
 
 msgid "No accounts found"
 msgstr "Учётные записи не найдены"
+
+msgid "No announcements"
+msgstr "Нет анонсов"
 
 msgid "No clubs"
 msgstr "Нет клубов"
@@ -2691,7 +2723,7 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgid "Settings name"
-msgstr "Имя настройки"
+msgstr "Название настройки"
 
 msgid "Seventh (Press 7)"
 msgstr "Седьмой (Нажмите 7)"
@@ -2915,6 +2947,12 @@ msgstr "Подпишитесь на Trackmania %1, чтобы использов
 msgid "Sunday"
 msgstr "Воскресенье"
 
+msgid "Swap maps"
+msgstr "Поменять местами"
+
+msgid "Swap with this map"
+msgstr "Поменять местами с этой"
+
 msgid "Switch"
 msgstr "Переключатель"
 
@@ -3009,6 +3047,9 @@ msgstr "Название клуба должно содержать не мен�
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Клубный тег должен содержать не менее %1 и не более %2 символов"
+
+msgid "The competition is a tournament bracket"
+msgstr "Соревнование представляет собой турнирную сетку"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -3413,7 +3454,7 @@ msgid "Waiting for other players."
 msgstr "Ожидание других игроков."
 
 msgid "Waiting for other qualification servers to finish their matches..."
-msgstr "Ждем, пока другие квалификационные серверы закончат свои матчи..."
+msgstr "Ждём, пока другие квалификационные серверы закончат свои матчи..."
 
 msgid "Waiting for players"
 msgstr "Ожидание игроков"
@@ -4732,7 +4773,7 @@ msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Сен %1"
 
 msgid "|Mouse|Scroll"
-msgstr "|Mouse|Скролл"
+msgstr "|Mouse|Прокрутка"
 
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Камера"

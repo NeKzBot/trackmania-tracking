@@ -2,11 +2,11 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
   Length      Date    Time    Name
 ---------  ---------- -----   ----
    282906  2020-09-25 17:26   Translations/cs-CZ/core.cs-CZ.mo
-   139198  2020-10-01 15:11   Translations/cs-CZ/trackmania.cs-CZ.mo
+   139289  2020-10-08 12:51   Translations/cs-CZ/trackmania.cs-CZ.mo
    208724  2020-09-11 17:53   Translations/da/core.da.mo
    127973  2020-10-01 15:11   Translations/da/trackmania.da.mo
    299912  2020-09-25 17:26   Translations/de-DE/core.de-DE.mo
-   146156  2020-10-01 15:11   Translations/de-DE/trackmania.de-DE.mo
+   146149  2020-10-08 12:51   Translations/de-DE/trackmania.de-DE.mo
    278948  2020-09-17 15:31   Translations/en-US/core.en-US.mo
    136444  2020-10-01 15:11   Translations/en-US/trackmania.en-US.mo
    292828  2020-09-11 17:53   Translations/es-ES/core.es-ES.mo
@@ -22,10 +22,10 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
    292043  2020-10-01 15:11   Translations/pt-BR/core.pt-BR.mo
    140359  2020-10-01 15:11   Translations/pt-BR/trackmania.pt-BR.mo
    375299  2020-10-01 15:11   Translations/ru-RU/core.ru-RU.mo
-   159653  2020-10-01 15:11   Translations/ru-RU/trackmania.ru-RU.mo
+   161291  2020-10-08 12:51   Translations/ru-RU/trackmania.ru-RU.mo
    295084  2020-09-11 17:53   Translations/tr-TR/core.tr-TR.mo
-   144953  2020-10-01 15:11   Translations/tr-TR/trackmania.tr-TR.mo
+   144953  2020-10-08 12:51   Translations/tr-TR/trackmania.tr-TR.mo
    275841  2020-09-17 15:31   Translations/zh-CN/core.zh-CN.mo
    136327  2020-10-01 15:11   Translations/zh-CN/trackmania.zh-CN.mo
 ---------                     -------
-  5609085                     26 files
+  5610807                     26 files

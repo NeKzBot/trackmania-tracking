@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-01 11:36+0000\n"
+"PO-Revision-Date: 2020-10-04 10:33+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -3771,6 +3771,9 @@ msgstr "Jméno klubu má minimálně %1 a maximálně %2 znaků"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "Tag klubu má minimálně %1 a maximálně %2 znaků"
+
+msgid "The competition is a tournament bracket"
+msgstr "Tato soutěž je turnajový pavouk"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
