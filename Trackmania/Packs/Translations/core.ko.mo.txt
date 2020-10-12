@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-15 15:44+0000\n"
+"PO-Revision-Date: 2020-10-09 08:49+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -7274,9 +7274,6 @@ msgid ""
 "The validation code is not valid. Please make sure you spelled it correctly."
 msgstr "승인 코드가 유효하지 않습니다. 철자가 올바른지 확인하십시오."
 
-msgid "The version %1 of %2 will be installed above version %3%n found in %4"
-msgstr "%4에서 찾은 버전 %3 위에 %2 버전 %1이 설치됩니다."
-
 msgid "Then hurry up! Playing TrackMania with friends is great!"
 msgstr ""
 "그럼 서두르십시오! TrackMania를 친구들과 함께 플레이하면 재미가 배가 됩니다!"
@@ -7752,9 +7749,6 @@ msgid "Tries"
 msgstr "시도"
 
 msgid "Trigger "
-msgstr "트리거 "
-
-msgid "Trigger %1"
 msgstr "트리거 "
 
 msgid "Trigger Options"

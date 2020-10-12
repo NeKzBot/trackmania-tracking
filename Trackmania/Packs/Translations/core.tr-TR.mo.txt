@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-10 21:47+0000\n"
+"PO-Revision-Date: 2020-10-09 19:36+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -1847,6 +1847,9 @@ msgstr "Seçimi Kopyala [Ctrl + C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Seçimi Kopyala [Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "Hesap ID'sini kopyala"
+
 msgid "Copy server link"
 msgstr "Sunucu linkini kopyala"
 
@@ -2862,6 +2865,9 @@ msgstr "Otomatik satır başını aktifleştir"
 
 msgid "Enable chat"
 msgstr "Sohbeti etkinleştir"
+
+msgid "Enable map editor quick start"
+msgstr "Harita editörü hızlı başlatmayı etkinleştir"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "Script etkinliklerini fare ile tetiklemeyi etkinleştir"
@@ -4234,6 +4240,9 @@ msgstr "Harita silindi"
 msgid "Map downloaded"
 msgstr "Harita indirildi"
 
+msgid "Map editor quick start"
+msgstr "HARİTA EDİTÖRÜ HIZLI BAŞLATMA"
+
 msgid "Map mods"
 msgstr "Harita modları"
 
@@ -4446,6 +4455,9 @@ msgstr "Modül Stüdyosu"
 
 msgid "Module saved"
 msgstr "Modül kaydedildi"
+
+msgid "Mood"
+msgstr "Mod"
 
 msgid "More info"
 msgstr "Daha fazla bilgi"
@@ -8138,6 +8150,9 @@ msgstr "Modeli Tüm Arabalar İçin Kullan"
 msgid "Use Own Data"
 msgstr "Kendi Verilerini Kullan"
 
+msgid "Use advanced editor"
+msgstr "Gelişmiş editörü kullan"
+
 msgid "Use alternate rules :"
 msgstr "Alternatif kuralları kullan :"
 
@@ -8152,6 +8167,9 @@ msgstr "Varsayılanı kullan"
 
 msgid "Use existing action as preset"
 msgstr "Var olan eylemi ön ayarlı olarak kullan"
+
+msgid "Use gamepad"
+msgstr "Oyun kumandası kullan"
 
 msgid "Use motion blur"
 msgstr "Hareket bulanıklığı kullan"
@@ -10607,6 +10625,9 @@ msgstr "|LightMapQuality|Yok"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|Ultra2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Çok Hızlı"
 
@@ -10654,6 +10675,18 @@ msgstr "|MapLight|Kalite"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|Gölgeler"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Gündüz"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Gece"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Gündoğumu"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Günbatımı"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|Çok Hızlı"

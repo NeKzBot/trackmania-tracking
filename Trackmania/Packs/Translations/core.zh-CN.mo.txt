@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-17 08:04+0000\n"
+"PO-Revision-Date: 2020-10-09 12:42+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -1817,6 +1817,9 @@ msgstr "复制所选[Ctrl+C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "复制所选[Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "复制账户ID"
+
 msgid "Copy server link"
 msgstr "复制服务器链接"
 
@@ -2810,6 +2813,9 @@ msgstr "启用自动换行"
 
 msgid "Enable chat"
 msgstr "打开聊天"
+
+msgid "Enable map editor quick start"
+msgstr "启动地图编辑器快速开始"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "启用通过鼠标触发脚本事件"
@@ -4158,6 +4164,9 @@ msgstr "已删除地图"
 msgid "Map downloaded"
 msgstr "地图下载完毕"
 
+msgid "Map editor quick start"
+msgstr "地图编辑器快速开始"
+
 msgid "Map mods"
 msgstr "地图模组"
 
@@ -4371,6 +4380,9 @@ msgstr "模组工作台"
 
 msgid "Module saved"
 msgstr "已保存模组"
+
+msgid "Mood"
+msgstr "时间阶段"
 
 msgid "More info"
 msgstr "更多信息"
@@ -4738,7 +4750,7 @@ msgid "Official time"
 msgstr "官方时间"
 
 msgid "Official time rankings for %1"
-msgstr "%官方时间排名"
+msgstr "%1官方时间排名"
 
 msgid "Offline"
 msgstr "离线"
@@ -7971,6 +7983,9 @@ msgstr "对所有车辆使用模型"
 msgid "Use Own Data"
 msgstr "使用自己的数据"
 
+msgid "Use advanced editor"
+msgstr "使用高级编辑器"
+
 msgid "Use alternate rules :"
 msgstr "使用备用规则："
 
@@ -7985,6 +8000,9 @@ msgstr "使用默认"
 
 msgid "Use existing action as preset"
 msgstr "使用现有动作为预设"
+
+msgid "Use gamepad"
+msgstr "使用手柄"
 
 msgid "Use motion blur"
 msgstr "使用动态模糊"
@@ -10347,6 +10365,9 @@ msgstr "|LightMapQuality|无"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|超高"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|究极2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|非常快"
 
@@ -10394,6 +10415,18 @@ msgstr "|MapLight|品质"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|阴影"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|白天"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|夜间"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|日出"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|日落"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|非常快"

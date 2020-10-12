@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-06 08:11+0000\n"
+"PO-Revision-Date: 2020-10-10 11:15+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -41,15 +41,6 @@ msgstr "Round'u $<%1$> kazandı!"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$> maçı kazandı!"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1 oyuncu elenecek"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f001 oyuncu elenecek"
-
-msgid "$f90No elimination this round"
-msgstr "$f90Bu round'da eleme yok"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -197,8 +188,17 @@ msgstr "%1 harita"
 msgid "%1 player"
 msgstr "%1 oyuncu"
 
+msgid "%1 player will be eliminated"
+msgstr "%1 oyuncu elenecek"
+
 msgid "%1 players"
 msgstr "%1 oyuncu"
+
+msgid "%1 players eliminated"
+msgstr "%1 oyuncu elendi"
+
+msgid "%1 players will be eliminated"
+msgstr "%1 oyuncu elenecek"
 
 msgid "%1 points"
 msgstr "%1 puan"
@@ -236,6 +236,12 @@ msgstr "%1En iyi CP %2"
 msgid "%1Best race"
 msgstr "%1En iyi yarış"
 
+msgid "%1Next round in %2s"
+msgstr "%1Sıradaki round'a: %2s"
+
+msgid "%1No elimination this round"
+msgstr "%1Bu round'da eleme yok"
+
 msgid "%1Personal best"
 msgstr "%1Kişisel en iyi"
 
@@ -244,6 +250,9 @@ msgstr "0 puan"
 
 msgid "1 player"
 msgstr "1 oyuncu"
+
+msgid "1 player eliminated"
+msgstr "1 oyuncu elendi"
 
 msgid "1 point"
 msgstr "1 puan"
@@ -543,6 +552,9 @@ msgstr "Maç ayarlarına gözat"
 msgid "Build your track and place a finish block to complete it."
 msgstr "Pistinizi oluşturun ve tamamlamak için bitiş bloğu yerleştirin."
 
+msgid "By"
+msgstr "Tarafından"
+
 msgid "By %1"
 msgstr "%1 TARAFINDAN"
 
@@ -765,7 +777,7 @@ msgstr "Partisine katılmak için oyuncunun üzerine tıklayın."
 msgid "Click on a player to set them as ally."
 msgstr "Müttefik olarak eklemek için oyuncuya tıklayın."
 
-msgid "Click on another map to swap her position with the selected one"
+msgid "Click on another map to swap its position with the selected one"
 msgstr "Seçili harita ile sırasını değiştirmek üzere başka bir harita seçin"
 
 msgid "Click on the UI modules to edit their properties"
@@ -1180,13 +1192,6 @@ msgstr "HARİCİ ORTAKLAR"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"HER OYUNCU YERLEŞTİRME MAÇINI TAMAMLADIKTAN SONRA BİR KÜMEYE YERLEŞTİRİLİR. "
-"HANGİ KÜMEDE OLDUĞUNUZU, LİG MAÇINIZA KATILIRKEN ÖĞRENEBİLİRSİNİZ."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "HER OYUNCU YERLEŞTİRME MAÇINI TAMAMLADIKTAN SONRA BİR KÜMEYE YERLEŞTİRİLİR. "
@@ -1419,13 +1424,6 @@ msgstr ""
 "(Hata kodu: %1)"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"Kullanıcı lider tablosu yüklenirken hata oluştu, lütfen daha sonra tekrar "
-"deneyin. (Hata kodu: %1)"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr ""
@@ -1517,27 +1515,16 @@ msgstr ""
 "KATILIN"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Sunucuya katılma başarısız oldu, lütfen sıradaki maça Etkinlik sayfasından "
-"katılın. Ana menüye dönülüyor:"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "MAÇA KATILMA LİNKİ ALINAMADI, LÜTFEN SIRADAKİ MAÇA ETKİNLİK SAYFASINDAN "
 "KATILIN"
 
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Maça katılma linki alınamadı, lütfen sıradaki maça Etkinlik sayfasından "
-"katılın. Ana menüye dönülüyor:"
-
 msgid "Fifth (Press 5)"
 msgstr "Beşinci (5'e basın)"
+
+msgid "Final Rank"
+msgstr "Son Sıralama"
 
 msgid "Finish timeout"
 msgstr "Bitiş zamanaşımı"
@@ -1727,13 +1714,6 @@ msgstr ""
 "Eğer yönlendirilmezseniz, lütfen ana menüye dönün ve sıradaki maça Etkinlik "
 "sayfasından katılın"
 
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"Eğer yönlendirilmezseniz, lütfen ana menüye dönün ve sıradaki maça Etkinlik "
-"sayfasından katılın."
-
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Eğer bir manzara seçerseniz, tüm ilerlemenizi kaybedebilirsiniz."
 
@@ -1828,6 +1808,9 @@ msgstr "BİLGİ UZMANI"
 msgid "KOs per round"
 msgstr "Round başına eleme"
 
+msgid "Knocked out players"
+msgstr "Elenen oyuncular"
+
 msgid "Knockout match starts in %1"
 msgstr "Eleme maçı %1 içinde başlıyor"
 
@@ -1912,6 +1895,9 @@ msgstr "Manzara"
 msgid "Lap %1"
 msgstr "%1. tur"
 
+msgid "Lap %1/%2"
+msgstr "Tur %1/%2"
+
 msgid "Last time"
 msgstr "En son süre"
 
@@ -1922,7 +1908,7 @@ msgid "Leaderboard is empty"
 msgstr "Lider tablosu boş"
 
 msgid "Leaderboards are closed"
-msgstr "Lider tablosu kapandı"
+msgstr "LİDER TABLOSU KAPANDI"
 
 msgid "Leaderboards are now closed on this campaign!"
 msgstr "Lider tablosu bu campaign için kapandı!"
@@ -2185,9 +2171,6 @@ msgstr "MAÇ DURAKLATILDI"
 msgid "Match results currently not available, check back later!"
 msgstr "Maç sonuçları şu an mevcut değil, daha sonra tekrar kontrol edin!"
 
-msgid "Match settings"
-msgstr "MAÇ AYARLARI"
-
 msgid "Match starting"
 msgstr "Maç başlıyor"
 
@@ -2302,9 +2285,6 @@ msgstr "Yeni rekorlar devre dışı bırakıldı"
 msgid "New season in %1"
 msgstr "YENİ SEZON: %1 İÇİNDE"
 
-msgid "New season in %1 day"
-msgstr "YENİ SEZON: %1 GÜN İÇİNDE"
-
 msgid "New season in %1 day and %2 hour"
 msgstr "YENİ SEZON: %1 GÜN %2 SAAT İÇİNDE"
 
@@ -2379,6 +2359,9 @@ msgstr "Kulüp yok"
 
 msgid "No daily map found to display the rankings"
 msgstr "Sıralama gösterilecek günlük harita bulunamadı"
+
+msgid "No elimination on first round"
+msgstr "İlk round'da eleme yok"
 
 msgid "No events"
 msgstr "Etkinlik yok"
@@ -2475,9 +2458,6 @@ msgstr "Bağlantıyı aç"
 
 msgid "Opponents from %1"
 msgstr "%1 BÖLGESİNDEN RAKİPLER"
-
-msgid "Optional"
-msgstr "İsteğe bağlı"
 
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr ""
@@ -2586,10 +2566,6 @@ msgstr "Şifre"
 msgid "Past 14 days"
 msgstr "Son 14 gün"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr ""
-"Geçmiş round maçları şu an mevcut değil, daha sonra tekrar kontrol edin!"
-
 msgid "Paste"
 msgstr "Yapıştır"
 
@@ -2690,9 +2666,6 @@ msgstr "Oyuncular"
 msgid "Players are tied!"
 msgstr "Oyuncular berabere!"
 
-msgid "Players in server"
-msgstr "Sunucudaki oyuncular"
-
 msgid "Players order"
 msgstr "Oyuncu sırası"
 
@@ -2777,9 +2750,6 @@ msgstr "Diğer inşa modlarına geçiş yapmak için %1 tuşuna basın."
 msgid "Pressforward"
 msgstr "İleri"
 
-msgid "Previous"
-msgstr "Önceki"
-
 msgid "Previous author time"
 msgstr "Önceki yapımcı süresi"
 
@@ -2860,6 +2830,9 @@ msgstr "Miktar"
 
 msgid "Quarter-final"
 msgstr "Çeyrek final"
+
+msgid "Quick start is enabled"
+msgstr "Hızlı başlatma etkin"
 
 msgid "Quit"
 msgstr "ÇIKIŞ"
@@ -3380,9 +3353,6 @@ msgstr "OYUNCU SAYISINI SEÇİN"
 msgid "Select one of these servers to join the qualification"
 msgstr "Elemeye katılmak için sunuculardan birini seçin"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Elemeye katılmak için sunuculardan birini seçin"
-
 msgid "Select style"
 msgstr "Stil seç"
 
@@ -3439,9 +3409,6 @@ msgstr "HERKESE AÇIK OLARAK AYARLA"
 
 msgid "Set/Unset as favorite"
 msgstr "Sık kullanılanlara ekle/kaldır"
-
-msgid "Settings"
-msgstr "Ayarlar"
 
 msgid "Settings name"
 msgstr "Ayar adı"
@@ -4323,9 +4290,6 @@ msgstr "Maç için bekleniyor"
 msgid "Waiting for your match to start"
 msgstr "Maçınızın başlaması için bekleniyor"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "Maçınız için bekleniyor, bu 3 dakika kadar sürebilir."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "MAÇINIZ İÇİN BEKLENİYOR, BU 3 DAKİKA KADAR SÜREBİLİR..."
 
@@ -4511,9 +4475,6 @@ msgstr "Herhangi bir kulübe abone değilsiniz"
 msgid "You are qualified"
 msgstr "Elemeyi geçtiniz"
 
-msgid "You are registered for this event."
-msgstr "Bu etkinliğe zaten kayıtlısınız."
-
 msgid "You are suspended"
 msgstr "Askıya alındınız"
 
@@ -4571,9 +4532,6 @@ msgstr "Lig maçınızı $<$7FA%1$> olarak tamamladınız"
 
 msgid "You finished $<$7FA%1$> in your placement match"
 msgstr "Yerleştirme maçını $<$7FA%1$> olarak tamamladınız"
-
-msgid "You finished $<$7FA%1$> on your placement match"
-msgstr "Katıldığınız yerleştirme maçında $<$7FA%1$> oldunuz"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -4696,9 +4654,6 @@ msgstr "Haritanıza kalan süre: %1 dk.dan daha az"
 msgid "Your match is ready"
 msgstr "Maçınız hazır"
 
-msgid "Your next match is ready."
-msgstr "Sıradaki maçınız hazır."
-
 msgid "Your search did not return any results"
 msgstr "Aramada herhangi bir sonuç bulunamadı"
 
@@ -4725,6 +4680,9 @@ msgstr "tamam"
 
 msgid "per server"
 msgstr "sunucu başına"
+
+msgid "player online"
+msgstr "oyuncu çevrimiçi"
 
 msgid "players online"
 msgstr "oyuncu çevrimiçi"

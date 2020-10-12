@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-01 03:21+0000\n"
+"PO-Revision-Date: 2020-10-09 12:40+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -41,15 +41,6 @@ msgstr "$<%1$>赢得了本回合！"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$>赢得了比赛！"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1名玩家将被淘汰"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f001名玩家将被淘汰"
-
-msgid "$f90No elimination this round"
-msgstr "$f90本回合无人被淘汰"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -189,8 +180,17 @@ msgstr "%1张地图"
 msgid "%1 player"
 msgstr "%1 名玩家"
 
+msgid "%1 player will be eliminated"
+msgstr "将会淘汰%1名玩家"
+
 msgid "%1 players"
 msgstr "%1名玩家"
+
+msgid "%1 players eliminated"
+msgstr "淘汰%1名玩家"
+
+msgid "%1 players will be eliminated"
+msgstr "将会淘汰%1名玩家"
 
 msgid "%1 points"
 msgstr "%1分"
@@ -228,6 +228,12 @@ msgstr "%1最佳检查点%2"
 msgid "%1Best race"
 msgstr "%1最佳成绩"
 
+msgid "%1Next round in %2s"
+msgstr "%1下一回合将在%2秒后开始"
+
+msgid "%1No elimination this round"
+msgstr "%1本回合没有淘汰"
+
 msgid "%1Personal best"
 msgstr "%1个人最佳"
 
@@ -236,6 +242,9 @@ msgstr "0分"
 
 msgid "1 player"
 msgstr "1名玩家"
+
+msgid "1 player eliminated"
+msgstr "淘汰1名玩家"
 
 msgid "1 point"
 msgstr "1分"
@@ -530,6 +539,9 @@ msgstr "浏览比赛设定"
 msgid "Build your track and place a finish block to complete it."
 msgstr "请创建你的赛道并通过放置一个终点方块来完成它。"
 
+msgid "By"
+msgstr "通过"
+
 msgid "By %1"
 msgstr "来自%1"
 
@@ -751,8 +763,8 @@ msgstr "点选玩家以加入他们的派对。"
 msgid "Click on a player to set them as ally."
 msgstr "点选玩家以将他们设置为队友。"
 
-msgid "Click on another map to swap her position with the selected one"
-msgstr "点击另一张地图来与已选定的地图切换位置"
+msgid "Click on another map to swap its position with the selected one"
+msgstr "点击另一张地图来与已选择的地图切换位置"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "点击界面模组来编辑属性"
@@ -1163,13 +1175,6 @@ msgstr "外部合作伙伴"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"每个玩家都会在完成定级赛后获得比赛分级。你可以通过加入联赛比赛来了解你的比赛"
-"分级水平。"
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "每个玩家都将在完成定级赛后被分到相应的等级。你可以在加入联赛游戏之后查看你的"
@@ -1368,11 +1373,6 @@ msgid ""
 msgstr "在载入比赛结果时出现错误，请稍后重试。（错误代码：%1）"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr "载入用户排行榜时出错，请稍后重试。（错误代码：%1）"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr "在载入用户排名时出错，请稍后重试。（错误代码：%1）"
@@ -1441,24 +1441,14 @@ msgid "Failed to join server, please join next match from the Event page"
 msgstr "加入服务器失败，请从活动页面加入下一场比赛"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"加入服务器失败，请从活动页面处加入下一场比赛。将在以下时间后返回至主界面："
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr "获取比赛加入链接失败，请从活动页面加入下一场比赛"
 
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"获取比赛加入链接失败，请从活动页面处加入下一场比赛。将在以下时间后返回至主界"
-"面："
-
 msgid "Fifth (Press 5)"
 msgstr "第五位（按下5键）"
+
+msgid "Final Rank"
+msgstr "最终排名"
 
 msgid "Finish timeout"
 msgstr "结束超时"
@@ -1646,11 +1636,6 @@ msgid ""
 "match from the Event page"
 msgstr "如果你没有被重新导向，请返回至主菜单界面，并通过活动页面加入下一场比赛"
 
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr "如果你没有被重新导向，请返回至主界面，并从活动页面处加入下一场比赛。"
-
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "如果你选择一个场景，你可能会失去你所有的进度。"
 
@@ -1743,6 +1728,9 @@ msgstr "信息专员"
 msgid "KOs per round"
 msgstr "每回合淘汰数"
 
+msgid "Knocked out players"
+msgstr "已淘汰玩家"
+
 msgid "Knockout match starts in %1"
 msgstr "淘汰赛将在%1后开始"
 
@@ -1826,6 +1814,9 @@ msgstr "场景"
 
 msgid "Lap %1"
 msgstr "第%1圈"
+
+msgid "Lap %1/%2"
+msgstr "第%1/%2圈"
 
 msgid "Last time"
 msgstr "上次用时"
@@ -2096,9 +2087,6 @@ msgstr "比赛暂停"
 msgid "Match results currently not available, check back later!"
 msgstr "尚无比赛成绩，稍后再来看看吧！"
 
-msgid "Match settings"
-msgstr "比赛设置"
-
 msgid "Match starting"
 msgstr "比赛即将开始"
 
@@ -2213,9 +2201,6 @@ msgstr "已禁用新纪录"
 msgid "New season in %1"
 msgstr "新赛季开始于 %1"
 
-msgid "New season in %1 day"
-msgstr "新赛季将在%1天后开始"
-
 msgid "New season in %1 day and %2 hour"
 msgstr "新赛季将在%1天和%2小时后开启"
 
@@ -2290,6 +2275,9 @@ msgstr "暂无俱乐部"
 
 msgid "No daily map found to display the rankings"
 msgstr "无可供显示排名的每日地图"
+
+msgid "No elimination on first round"
+msgstr "第一回合没有淘汰"
 
 msgid "No events"
 msgstr "没有活动"
@@ -2386,9 +2374,6 @@ msgstr "打开链接"
 
 msgid "Opponents from %1"
 msgstr "来自%1的对手"
-
-msgid "Optional"
-msgstr "可选"
 
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr "或者通过点击右侧玩家名字加入现有派对。"
@@ -2495,9 +2480,6 @@ msgstr "密码"
 msgid "Past 14 days"
 msgstr "过去14天"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr "尚无回合比赛历史，稍后再来看看吧！"
-
 msgid "Paste"
 msgstr "粘贴"
 
@@ -2596,9 +2578,6 @@ msgstr "玩家"
 msgid "Players are tied!"
 msgstr "平局！"
 
-msgid "Players in server"
-msgstr "在服务器内的玩家"
-
 msgid "Players order"
 msgstr "玩家发车顺序"
 
@@ -2678,9 +2657,6 @@ msgstr "按下%1在不同创造模式之间切换。"
 
 msgid "Pressforward"
 msgstr "直前"
-
-msgid "Previous"
-msgstr "前一个"
 
 msgid "Previous author time"
 msgstr "前一作者用时"
@@ -2762,6 +2738,9 @@ msgstr "数量"
 
 msgid "Quarter-final"
 msgstr "1/4决赛"
+
+msgid "Quick start is enabled"
+msgstr "已启用快速开始"
 
 msgid "Quit"
 msgstr "退出"
@@ -3275,9 +3254,6 @@ msgstr "选择玩家数量"
 msgid "Select one of these servers to join the qualification"
 msgstr "选择其中一个服务器来加入资格赛"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "选择其中一个服务器来加入资格赛"
-
 msgid "Select style"
 msgstr "选择风格"
 
@@ -3334,9 +3310,6 @@ msgstr "设为公开"
 
 msgid "Set/Unset as favorite"
 msgstr "加入/移除收藏"
-
-msgid "Settings"
-msgstr "设置"
 
 msgid "Settings name"
 msgstr "设定名称"
@@ -4173,9 +4146,6 @@ msgstr "等待你的比赛"
 msgid "Waiting for your match to start"
 msgstr "等待你的比赛开始"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "等待你的下一场比赛，最多将需等待3分钟。"
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "正在等待你的比赛，这个过程可能需要等到3分钟左右…"
 
@@ -4351,9 +4321,6 @@ msgstr "你没有订阅任何俱乐部"
 msgid "You are qualified"
 msgstr "你已获得资格"
 
-msgid "You are registered for this event."
-msgstr "你已注册了本次活动。"
-
 msgid "You are suspended"
 msgstr "你被禁赛了"
 
@@ -4404,9 +4371,6 @@ msgstr "你在联赛比赛中拿下了$<$7FA%1$>"
 
 msgid "You finished $<$7FA%1$> in your placement match"
 msgstr "你在定级赛中拿下了$<$7FA%1$>"
-
-msgid "You finished $<$7FA%1$> on your placement match"
-msgstr "你在定级赛中获得了$<$7FA%1$>"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -4527,9 +4491,6 @@ msgstr "您的地图还有不到%1分钟"
 msgid "Your match is ready"
 msgstr "你的比赛已经准备好了"
 
-msgid "Your next match is ready."
-msgstr "你的下一场比赛已准备好。"
-
 msgid "Your search did not return any results"
 msgstr "无搜索结果"
 
@@ -4556,6 +4517,9 @@ msgstr "好的"
 
 msgid "per server"
 msgstr "按服务器"
+
+msgid "player online"
+msgstr "名玩家在线"
 
 msgid "players online"
 msgstr "名在线玩家"

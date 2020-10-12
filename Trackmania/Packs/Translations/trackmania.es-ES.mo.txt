@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-30 18:52+0000\n"
+"PO-Revision-Date: 2020-10-09 08:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -41,15 +41,6 @@ msgstr "¡$<%1$> gana la ronda!"
 
 msgid "$<%1$> won the match!"
 msgstr "¡ $<%1$> ganó la partida!"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "¡$f00%1 jugadores serán eliminados!"
-
-msgid "$f001 player will be eliminated"
-msgstr "¡$f001 jugador será eliminado!"
-
-msgid "$f90No elimination this round"
-msgstr "$f90Ronda sin eliminaciones"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -508,6 +499,9 @@ msgstr "Buscar"
 
 msgid "Build your track and place a finish block to complete it."
 msgstr "Construye tu mapa y coloca un bloque de meta para completarlo."
+
+msgid "By"
+msgstr "Por"
 
 msgid "By %1"
 msgstr "Por %1"
@@ -1906,9 +1900,6 @@ msgstr "Partida acabada. Serás transferido de vuelta a la sala de espera."
 msgid "Match paused"
 msgstr "Partida en pausa"
 
-msgid "Match settings"
-msgstr "Configuración de partida"
-
 msgid "Match starting"
 msgstr "Partida comenzando"
 
@@ -2167,9 +2158,6 @@ msgstr "Aceptar"
 msgid "Opponents from %1"
 msgstr "Oponentes de %1"
 
-msgid "Optional"
-msgstr "Opcional"
-
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr ""
 "O unirte a un equipo existente haciendo click en el nombre de un jugador a "
@@ -2373,9 +2361,6 @@ msgstr "Jugadores"
 
 msgid "Players are tied!"
 msgstr "¡Los jugadores están empatados!"
-
-msgid "Players in server"
-msgstr "Jugadores en el servidor"
 
 msgid "Players order"
 msgstr "Orden de jugadores"
@@ -3042,9 +3027,6 @@ msgstr "Establecer público"
 
 msgid "Set/Unset as favorite"
 msgstr "Poner/Quitar de favorito"
-
-msgid "Settings"
-msgstr "Configuración"
 
 msgid "Seventh (Press 7)"
 msgstr "Séptimo (Pulsa 7)"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-01 04:16+0000\n"
+"PO-Revision-Date: 2020-10-09 18:00+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -2866,6 +2866,9 @@ msgstr "Ativar uma nova linha automaticamente"
 msgid "Enable chat"
 msgstr "Ativar bate-papo"
 
+msgid "Enable map editor quick start"
+msgstr "Ativar início rápido no Editor de Mapas"
+
 msgid "Enable mouse trigerring of script events"
 msgstr "Ativar a ativação de gatilhos de script com o mouse"
 
@@ -4237,6 +4240,9 @@ msgstr "Mapa apagado"
 msgid "Map downloaded"
 msgstr "Mapa baixado"
 
+msgid "Map editor quick start"
+msgstr "Início rápido do editor de mapas"
+
 msgid "Map mods"
 msgstr "Mods de mapa"
 
@@ -4451,6 +4457,9 @@ msgstr "Estúdio de Módulos"
 
 msgid "Module saved"
 msgstr "Módulo salvo"
+
+msgid "Mood"
+msgstr "Tempo"
 
 msgid "More info"
 msgstr "Mais informações"
@@ -8152,6 +8161,9 @@ msgstr "Usa modelo para todos os carros"
 msgid "Use Own Data"
 msgstr "Utilizar Dados Próprios"
 
+msgid "Use advanced editor"
+msgstr "Usar editor avançado"
+
 msgid "Use alternate rules :"
 msgstr "Usar regras alternadas:"
 
@@ -8166,6 +8178,9 @@ msgstr "Usar padrão"
 
 msgid "Use existing action as preset"
 msgstr "Usar ação existente como pré-definição"
+
+msgid "Use gamepad"
+msgstr "Usar controle"
 
 msgid "Use motion blur"
 msgstr "Usar motion blur"

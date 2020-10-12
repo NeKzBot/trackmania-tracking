@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-04 10:33+0000\n"
+"PO-Revision-Date: 2020-10-09 08:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -41,15 +41,6 @@ msgstr "$<%1$> vyhrál/a toto kolo!"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$> vyhrál/a zápas!"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1 hráči/ů budou/e vyřazeni/o"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f00%1 hráč bude vyřazen"
-
-msgid "$f90No elimination this round"
-msgstr "$f90Bez vyřazování"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -540,6 +531,9 @@ msgstr "Procházet nastavení zápasu"
 msgid "Build your track and place a finish block to complete it."
 msgstr "Postavte vaši trať a umístěte cílový blok pro dokončení."
 
+msgid "By"
+msgstr "Autor:"
+
 msgid "By %1"
 msgstr "Od %1"
 
@@ -761,9 +755,6 @@ msgstr "Kliknutím na hráče se připojíte k jejich hře."
 
 msgid "Click on a player to set them as ally."
 msgstr "Klikněte na hráče, které chcete jako spojence."
-
-msgid "Click on another map to swap her position with the selected one"
-msgstr "Klikněte na jinou mapu pro přehození s vybranou"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klikněte na moduly rozhraní pro úpravu jejich parametrů"
@@ -1177,13 +1168,6 @@ msgstr "EXTERNÍ PARTNEŘI"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"Každý hráč je po rozřazovacím zápase umístěn do divize. Vaši divizi zjistíte "
-"při připojování k ligovému zápasu."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "Každý hráč je po rozřazovacím zápase umístěn do divize. Vaši divizi zjistíte "
@@ -1409,13 +1393,6 @@ msgstr ""
 "chyby: %1)"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"Došlo k chybě při načítání uživatelské výsledkové tabule, prosím opakujte "
-"později. (Kód chyby: %1)"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr ""
@@ -1495,24 +1472,10 @@ msgstr ""
 "stránky Událost"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Nepodařilo se připojit k serveru, k dalšímu zápasu se prosím připojte ze "
-"stránky Událost. Návrat do hlavního menu za"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "Nepodařilo se získat odkaz pro připojení k zápasu, k dalšímu zápasu se "
 "prosím připojte ze stránky Událost"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Nepodařilo se získat odkaz pro připojení k zápasu, k dalšímu zápasu se "
-"prosím připojte ze stránky Událost. Návrat do hlavního menu za"
 
 msgid "Fifth (Press 5)"
 msgstr "Pátý (Stiskněte 5)"
@@ -1704,13 +1667,6 @@ msgid ""
 msgstr ""
 "Pokud nejste přesměrován/a, vraťte se do hlavního menu a připojte se k "
 "dalšímu zápasu ze stránky Událost"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"Pokud nejste přesměrován/a, vraťte se prosím do hlavního menu a připojte se "
-"k dalšímu zápasu ze stránky Událost."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Pokud si vyberete krajinu, můžete ztratit všechnu vaší práci."
@@ -2161,9 +2117,6 @@ msgstr "Zápas pozastaven"
 msgid "Match results currently not available, check back later!"
 msgstr "Výsledky zápasu aktuálně nejsou dostupné, vraťte se později!"
 
-msgid "Match settings"
-msgstr "Nastavení zápasu"
-
 msgid "Match starting"
 msgstr "Zápas začíná"
 
@@ -2277,9 +2230,6 @@ msgstr "Nové rekordy zakázány"
 
 msgid "New season in %1"
 msgstr "Nová sezóna za %1"
-
-msgid "New season in %1 day"
-msgstr "Nová sezóna za %1 den"
 
 msgid "New season in %1 day and %2 hour"
 msgstr "Nová sezóna za %1 den a %2 hodinu"
@@ -2452,9 +2402,6 @@ msgstr "Otevřít odkaz"
 msgid "Opponents from %1"
 msgstr "Soupeři z %1"
 
-msgid "Optional"
-msgstr "Volitelné"
-
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr "Nebo se připojit k již existující hře kliknutím na jméno hráče vpravo."
 
@@ -2560,9 +2507,6 @@ msgstr "Heslo"
 msgid "Past 14 days"
 msgstr "Předchozích 14 dní"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr "Zápasy předchozího kola aktuálně nejsou dostupné, vraťte se později!"
-
 msgid "Paste"
 msgstr "Vložit"
 
@@ -2663,9 +2607,6 @@ msgstr "Hráči/ů"
 msgid "Players are tied!"
 msgstr "Hráči remízovali!"
 
-msgid "Players in server"
-msgstr "Hráči na serveru"
-
 msgid "Players order"
 msgstr "Pořadí hráčů"
 
@@ -2750,9 +2691,6 @@ msgstr "Stiskněte %1 pro přepnutí mezi různými režimy stavění."
 
 msgid "Pressforward"
 msgstr "Pouze dopředu"
-
-msgid "Previous"
-msgstr "Předchozí"
 
 msgid "Previous author time"
 msgstr "Předchozí čas autora"
@@ -3353,9 +3291,6 @@ msgstr "Vyberte počet hráčů"
 msgid "Select one of these servers to join the qualification"
 msgstr "Vyberte jeden z těchto serverů pro připojení ke kvalifikaci"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Vyberte jeden z těchto serverů pro připojení ke kvalifikaci"
-
 msgid "Select style"
 msgstr "Vyberte styl"
 
@@ -3412,9 +3347,6 @@ msgstr "Nastavit veřejný"
 
 msgid "Set/Unset as favorite"
 msgstr "Nastavit jako oblíbený"
-
-msgid "Settings"
-msgstr "Nastavení"
 
 msgid "Settings name"
 msgstr "Jméno nastavení"
@@ -4296,9 +4228,6 @@ msgstr "Čeká se na váš zápas"
 msgid "Waiting for your match to start"
 msgstr "Čekání na začátek vašeho zápasu"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "Čekání na váš zápas, může to trvat 3 minuty."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "Čekání na váš zápas, může to trvat 3 minuty."
 
@@ -4480,9 +4409,6 @@ msgstr "Nepředplácíte si žádný klub"
 msgid "You are qualified"
 msgstr "Jste kvalifikován/a"
 
-msgid "You are registered for this event."
-msgstr "Jste zaregistrovaný/a pro tuto událost."
-
 msgid "You are suspended"
 msgstr "Jste suspendován/a"
 
@@ -4534,9 +4460,6 @@ msgid "You finished $<$7FA%1$> in your league match"
 msgstr "Skončil/a jste $<$7FA%1$> ve vašem ligovém zápase"
 
 msgid "You finished $<$7FA%1$> in your placement match"
-msgstr "Skončil/a jste $<$7FA%1$> ve vašem rozřazovacím zápase"
-
-msgid "You finished $<$7FA%1$> on your placement match"
 msgstr "Skončil/a jste $<$7FA%1$> ve vašem rozřazovacím zápase"
 
 msgid ""
@@ -4658,9 +4581,6 @@ msgstr "Vaše mapa za méně než %1 minut"
 
 msgid "Your match is ready"
 msgstr "Váš zápas je připraven"
-
-msgid "Your next match is ready."
-msgstr "Váš další zápas je připraven."
 
 msgid "Your search did not return any results"
 msgstr "Nebyly nalezeny žádné výsledky"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-01 05:39+0000\n"
+"PO-Revision-Date: 2020-10-09 18:34+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -41,15 +41,6 @@ msgstr "$<%1$> gagne le tour !"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$> gagne le match !"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1 joueurs seront éliminés"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f001 joueur sera éliminé"
-
-msgid "$f90No elimination this round"
-msgstr "$f90Aucune élimination sur ce tour"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -200,8 +191,17 @@ msgstr "%1 circuits"
 msgid "%1 player"
 msgstr "%1 joueur"
 
+msgid "%1 player will be eliminated"
+msgstr "%1 joueur sera éliminé"
+
 msgid "%1 players"
 msgstr "%1 joueurs"
+
+msgid "%1 players eliminated"
+msgstr "%1 joueurs éliminés"
+
+msgid "%1 players will be eliminated"
+msgstr "%1 joueurs seront éliminés"
 
 msgid "%1 points"
 msgstr "%1 points"
@@ -239,6 +239,12 @@ msgstr "%1Meilleur CP %2"
 msgid "%1Best race"
 msgstr "%1Meilleure course"
 
+msgid "%1Next round in %2s"
+msgstr "%1Prochain tour dans %2s"
+
+msgid "%1No elimination this round"
+msgstr "%1Pas d'élimination sur ce tour"
+
 msgid "%1Personal best"
 msgstr "%1Meilleur temps"
 
@@ -247,6 +253,9 @@ msgstr "0 points"
 
 msgid "1 player"
 msgstr "1 joueur"
+
+msgid "1 player eliminated"
+msgstr "1 joueur éliminé"
 
 msgid "1 point"
 msgstr "1 point"
@@ -550,6 +559,9 @@ msgid "Build your track and place a finish block to complete it."
 msgstr ""
 "Construisez votre circuit et placez un bloc d'arrivée pour le terminer."
 
+msgid "By"
+msgstr "Par"
+
 msgid "By %1"
 msgstr "Par %1"
 
@@ -777,7 +789,7 @@ msgstr "Cliquer sur une joueur pour rejoindre son groupe."
 msgid "Click on a player to set them as ally."
 msgstr "Cliquer sur un joueur pour le mettre en allié."
 
-msgid "Click on another map to swap her position with the selected one"
+msgid "Click on another map to swap its position with the selected one"
 msgstr ""
 "Cliquez sur un autre circuit pour échanger sa position avec celui sélectionné"
 
@@ -1197,14 +1209,6 @@ msgstr "PARTENAIRES EXTERNES"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"Chaque joueur est placé dans une division après avoir terminé son match de "
-"placement. Vous découvrirez votre division en rejoignant votre match de "
-"championnat."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "Chaque joueur est placé dans une division après avoir terminé son match de "
@@ -1452,13 +1456,6 @@ msgstr ""
 "tard. (Code d'erreur : %1)"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"Erreur lors du chargement du classement des utilisateurs, veuillez réessayer "
-"plus tard. (Code d'erreur : %1)"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr ""
@@ -1547,28 +1544,16 @@ msgstr ""
 "depuis la page de l'Événement"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Échec de la connexion au serveur, veuillez rejoindre le prochain match "
-"depuis la page de l'Événement. Retour au menu principal dans"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "Échec de l'obtention du lien pour rejoindre le match. Veuillez rejoindre le "
 "prochain match depuis la page de l'Événement"
 
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Échec de l'obtention du lien de participation au match. Veuillez rejoindre "
-"le prochain match depuis la page de l'Événement. Retour au menu principal "
-"dans"
-
 msgid "Fifth (Press 5)"
 msgstr "Cinquième (Appuyez sur 5)"
+
+msgid "Final Rank"
+msgstr "Classement Final"
 
 msgid "Finish timeout"
 msgstr "Temps après arrivée"
@@ -1759,13 +1744,6 @@ msgstr ""
 "Si vous n'êtes pas redirigé, veuillez retourner au menu principal et "
 "rejoindre le prochain match depuis la page de l'Événement"
 
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"Si vous n'êtes pas redirigé, veuillez retourner au menu principal et "
-"rejoindre le prochain match depuis la page de l'Événement."
-
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr ""
 "Si vous choisissez un paysage, vous risquez de perdre tous vos progrès."
@@ -1862,6 +1840,9 @@ msgstr "SPÉCIALISTE DES CONNAISSANCES"
 msgid "KOs per round"
 msgstr "KOs par tour"
 
+msgid "Knocked out players"
+msgstr "Joueurs éliminés"
+
 msgid "Knockout match starts in %1"
 msgstr "Le match d'Elimination démarre dans %1"
 
@@ -1945,6 +1926,9 @@ msgstr "Paysage"
 
 msgid "Lap %1"
 msgstr "Tour %1"
+
+msgid "Lap %1/%2"
+msgstr "Tour %1/%2"
 
 msgid "Last time"
 msgstr "Dernier temps"
@@ -2222,9 +2206,6 @@ msgid "Match results currently not available, check back later!"
 msgstr ""
 "Résultats de matchs indisponibles pour le moment, vérifiiez plus tard !"
 
-msgid "Match settings"
-msgstr "Paramètres de match"
-
 msgid "Match starting"
 msgstr "Début du match"
 
@@ -2341,9 +2322,6 @@ msgstr "Nouveaux records désactivés"
 msgid "New season in %1"
 msgstr "Nouvelle saison dans %1"
 
-msgid "New season in %1 day"
-msgstr "Nouvelle saison dans %1 jour"
-
 msgid "New season in %1 day and %2 hour"
 msgstr "Nouvelle saison dans %1 jour et %2 heure"
 
@@ -2418,6 +2396,9 @@ msgstr "Aucun club"
 
 msgid "No daily map found to display the rankings"
 msgstr "Aucun circuit quotidien trouvé pour afficher les classements"
+
+msgid "No elimination on first round"
+msgstr "Pas d'élimination sur le premier tour"
 
 msgid "No events"
 msgstr "Aucun évènement"
@@ -2514,9 +2495,6 @@ msgstr "Ouvrir le lien"
 
 msgid "Opponents from %1"
 msgstr "Adversaires de la zone %1"
-
-msgid "Optional"
-msgstr "Optionnel"
 
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr ""
@@ -2625,11 +2603,6 @@ msgstr "Mot de passe"
 msgid "Past 14 days"
 msgstr "14 derniers jours"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr ""
-"Les matchs du tour précédent sont actuellement indisponibles, revenez plus "
-"tard !"
-
 msgid "Paste"
 msgstr "Coller"
 
@@ -2730,9 +2703,6 @@ msgstr "Joueurs"
 msgid "Players are tied!"
 msgstr "Les joueurs sont à égalité !"
 
-msgid "Players in server"
-msgstr "Joueurs sur le serveur"
-
 msgid "Players order"
 msgstr "Ordre des joueurs"
 
@@ -2816,9 +2786,6 @@ msgstr ""
 msgid "Pressforward"
 msgstr "Pressforward"
 
-msgid "Previous"
-msgstr "Précédent"
-
 msgid "Previous author time"
 msgstr "Précédent temps auteur"
 
@@ -2901,6 +2868,9 @@ msgstr "Quantité"
 
 msgid "Quarter-final"
 msgstr "Quart de finale"
+
+msgid "Quick start is enabled"
+msgstr "Démarrage rapide est activé"
 
 msgid "Quit"
 msgstr "Quitter"
@@ -3424,9 +3394,6 @@ msgstr "Choix du nombre de joueurs"
 msgid "Select one of these servers to join the qualification"
 msgstr "Sélectionnez l'un de ces serveurs pour rejoindre la qualification"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Sélectionnez l'un de ces serveurs pour rejoindre la qualification"
-
 msgid "Select style"
 msgstr "Sélectionner le style"
 
@@ -3484,9 +3451,6 @@ msgstr "Rendre publique"
 
 msgid "Set/Unset as favorite"
 msgstr "Mettre/Enlever en tant que favori"
-
-msgid "Settings"
-msgstr "Paramètres"
 
 msgid "Settings name"
 msgstr "Nom des paramètres"
@@ -4383,9 +4347,6 @@ msgstr "En attente de votre match"
 msgid "Waiting for your match to start"
 msgstr "En attente du commencement du match"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "En attente de votre match, cela peut prendre jusqu'à 3 minutes."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "En attente de votre match, cela peut prendre jusqu'à 3 minutes..."
 
@@ -4573,9 +4534,6 @@ msgstr "Vous n'êtes abonné à aucun club"
 msgid "You are qualified"
 msgstr "Vous êtes qualifié"
 
-msgid "You are registered for this event."
-msgstr "Vous êtes inscrit à cet événement."
-
 msgid "You are suspended"
 msgstr "Vous êtes suspendu"
 
@@ -4638,9 +4596,6 @@ msgstr "Vous avez terminé $<$7FA%1$> dans votre match de championnat"
 
 msgid "You finished $<$7FA%1$> in your placement match"
 msgstr "Vous avez terminé $<$7FA%1$> dans votre match de placement"
-
-msgid "You finished $<$7FA%1$> on your placement match"
-msgstr "Vous avez terminé $<$7FA%1$> sur votre match de placement"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -4767,9 +4722,6 @@ msgstr "Votre circuit dans moins de %1 minutes"
 msgid "Your match is ready"
 msgstr "Votre match est prêt"
 
-msgid "Your next match is ready."
-msgstr "Votre prochain match est prêt."
-
 msgid "Your search did not return any results"
 msgstr "La recherche n'a donné aucun résultat"
 
@@ -4796,6 +4748,9 @@ msgstr "ok"
 
 msgid "per server"
 msgstr "par serveur"
+
+msgid "player online"
+msgstr "joueur en ligne"
 
 msgid "players online"
 msgstr "joueurs en ligne"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-30 18:52+0000\n"
+"PO-Revision-Date: 2020-10-09 08:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -38,15 +38,6 @@ msgstr "$<%1$>님이 라운드에서 승리했습니다!"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$>님이 경기에 승리했습니다!"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1명의 플레이어가 탈락하게 됩니다."
-
-msgid "$f001 player will be eliminated"
-msgstr "$f001명의 플레이어가 탈락하게 됩니다."
-
-msgid "$f90No elimination this round"
-msgstr "$f90이번 라운드에서는 탈락자가 없습니다."
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -527,6 +518,9 @@ msgstr "검색하기"
 
 msgid "Build your track and place a finish block to complete it."
 msgstr "트랙을 생성한 후, 종료하고 싶은 지점에 결승점 블록을 두십시오."
+
+msgid "By"
+msgstr "By"
 
 msgid "By %1"
 msgstr "%1 제작"
@@ -1153,13 +1147,6 @@ msgstr "외부 협력업체"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"순위 매치에서 각각의 플레이어들에게 디비전이 배정됩니다. 리그 매치에 참가하시"
-"면 디비전을 확인하실 수 있습니다."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "순위 매치에서 각각의 플레이어들에게 디비전이 배정됩니다. 리그 매치에 참가하시"
@@ -1390,13 +1377,6 @@ msgstr ""
 "경기 결과를 로딩하는 중 에러가 발생했습니다. 나중에 다시 시도하십시오. (에러 "
 "코드: %1)"
 
-msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"사용자 순위표를 불러오는 중에 오류가 발생했습니다. 나중에 다시 시도해주세요. "
-"(오류 코드: %1)"
-
 msgid "Error while loading trophies (code: %1)"
 msgstr "트로피 로딩 중 에러 발생(코드: %1)"
 
@@ -1476,24 +1456,10 @@ msgstr ""
 "서버에 참가하지 못했습니다. 이벤트 페이지를 통해 다음 매치에 참가하십시오."
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"서버에 참가할 수 없습니다. 이벤트 페이지를 통해 다음 경기에 참가하세요. 시간"
-"이 경과하면 메인 메뉴로 이동합니다"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "매치 참여 링크를 가져오지 못했습니다. 이벤트 페이지를 통해 다음 경기에 참가하"
 "십시오."
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"경기 참가 링크를 가져올 수 없습니다. 이벤트 페이지를 통해 다음 경기에 참가하"
-"세요. 시간이 경과하면 메인 메뉴로 이동합니다"
 
 msgid "Fifth (Press 5)"
 msgstr "5위(5를 누르세요)"
@@ -1679,13 +1645,6 @@ msgid ""
 msgstr ""
 "만약 자동으로 이동하지 않으면 메인 메뉴로 나가서 이벤트 페이지를 통해 다음 매"
 "치에 참가하십시오."
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"만약 자동으로 이동하지 않으면 메인 메뉴로 나가서 이벤트 페이지를 통해 다음 경"
-"기에 참가하십시오."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
@@ -2132,9 +2091,6 @@ msgstr "경기 일시 정지됨"
 msgid "Match results currently not available, check back later!"
 msgstr "지금은 경기 결과를 확인할 수 없습니다. 나중에 다시 확인해보세요!"
 
-msgid "Match settings"
-msgstr "매치 설정"
-
 msgid "Match starting"
 msgstr "매치 시작 중"
 
@@ -2248,9 +2204,6 @@ msgstr "신규 기록 비활성화됨"
 
 msgid "New season in %1"
 msgstr "%1에 새로운 시즌이 시작됩니다"
-
-msgid "New season in %1 day"
-msgstr "%1일 후에 새로운 시즌이 시작됩니다"
 
 msgid "New season in %1 days"
 msgstr "%1일 후에 새로운 시즌이 시작됩니다"
@@ -2417,9 +2370,6 @@ msgstr "링크 열기"
 msgid "Opponents from %1"
 msgstr "%1 지역 상대"
 
-msgid "Optional"
-msgstr "선택 사항"
-
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr "또는 오른쪽의 플레이어 이름을 클릭해 기존 파티에 참여하십시오."
 
@@ -2525,9 +2475,6 @@ msgstr "암호"
 msgid "Past 14 days"
 msgstr "최근 14일"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr "확인할 수 있는 이전 라운드 경기가 없습니다. 나중에 다시 확인해보세요!"
-
 msgid "Paste"
 msgstr "붙여넣기"
 
@@ -2629,9 +2576,6 @@ msgstr "플레이어"
 msgid "Players are tied!"
 msgstr "플레이어들이 비겼습니다!"
 
-msgid "Players in server"
-msgstr "서버에 접속 중인 플레이어"
-
 msgid "Players order"
 msgstr "플레이어 순서"
 
@@ -2712,9 +2656,6 @@ msgstr "다른 생성 모드로 변경하려면 %1를 누르십시오."
 
 msgid "Pressforward"
 msgstr "프레스포워드"
-
-msgid "Previous"
-msgstr "이전"
 
 msgid "Previous author time"
 msgstr "이전 작성자 기록"
@@ -3293,9 +3234,6 @@ msgstr "플레이어 수 선택:"
 msgid "Select one of these servers to join the qualification"
 msgstr "예선전에 참가하려면 서버 중 하나를 선택하십시오"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "예선전에 참가하려면 서버를 선택해 주십시오"
-
 msgid "Select style"
 msgstr "스타일 선택"
 
@@ -3352,9 +3290,6 @@ msgstr "공개로 설정"
 
 msgid "Set/Unset as favorite"
 msgstr "즐겨찾기로 설정/취소"
-
-msgid "Settings"
-msgstr "설정"
 
 msgid "Seventh (Press 7)"
 msgstr "7위(7을 누르세요)"
@@ -4204,9 +4139,6 @@ msgstr "내 매치 기다리는 중"
 msgid "Waiting for your match to start"
 msgstr "매치 시작을 기다리는 중"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "다음 경기를 기다리는 중. 최대 3분이 소요됩니다."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "경기를 기다리는 중입니다. 최대 3분까지 걸릴 수 있습니다..."
 
@@ -4388,9 +4320,6 @@ msgstr "구독한 클럽이 없습니다."
 msgid "You are qualified"
 msgstr "예선에 통과했습니다"
 
-msgid "You are registered for this event."
-msgstr "이 이벤트에 이미 등록하셨습니다."
-
 msgid "You are suspended"
 msgstr "플레이가 중단되었습니다"
 
@@ -4442,9 +4371,6 @@ msgid "You finished $<$7FA%1$> in your league match"
 msgstr "리그 매치를 $<$7FA%1$>로 마쳤습니다"
 
 msgid "You finished $<$7FA%1$> in your placement match"
-msgstr "순위 매치를 $<$7FA%1$>로 마쳤습니다"
-
-msgid "You finished $<$7FA%1$> on your placement match"
 msgstr "순위 매치를 $<$7FA%1$>로 마쳤습니다"
 
 msgid ""
@@ -4562,9 +4488,6 @@ msgstr "지도 검토까지 %1 분 이하"
 
 msgid "Your match is ready"
 msgstr "매치가 준비되었습니다."
-
-msgid "Your next match is ready."
-msgstr "다음 경기가 준비되었습니다."
 
 msgid "Your search did not return any results"
 msgstr "검색 결과가 없습니다."

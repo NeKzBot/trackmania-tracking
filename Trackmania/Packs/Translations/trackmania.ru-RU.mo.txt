@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-05 08:23+0000\n"
+"PO-Revision-Date: 2020-10-09 08:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -42,15 +42,6 @@ msgstr "$<%1$> выигрывает раунд!"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$> Выиграл матч"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1 игроков будут исключены"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f00%1 игрок будет исключён"
-
-msgid "$f90No elimination this round"
-msgstr "$f90Нет выбывших в этом раунде"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -477,6 +468,9 @@ msgstr "Найти настройки матча"
 msgid "Build your track and place a finish block to complete it."
 msgstr "Постройте свою трассу и разместите блок финиша, чтобы завершить её."
 
+msgid "By"
+msgstr "Кем"
+
 msgid "By %1"
 msgstr "От %1"
 
@@ -578,9 +572,6 @@ msgstr "Кликните на игрока, чтобы присоединить�
 
 msgid "Click on a player to set them as ally."
 msgstr "Кликните на игрока, чтобы установить его, как союзника."
-
-msgid "Click on another map to swap her position with the selected one"
-msgstr "Кликните на другую карту, чтобы поменять её позицию с выбранной"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Кликните на модули интерфейса для редактирования их свойств"
@@ -934,13 +925,6 @@ msgstr "Продолжительность одной разминки"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"Каждый игрок будет помещён в дивизион после завершения своего матча "
-"размещения. Вы откроете свой дивизион, когда подключитесь матчу лиги."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "Каждый игрок помещается в дивизион после завершения своего матча размещения. "
@@ -1184,13 +1168,6 @@ msgstr ""
 "снова. (Код ошибки: %1)"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"Ошибка при загрузке таблицы лидеров пользователей, пожалуйста, повторите "
-"попытку позже. (Код ошибки: %1)"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr ""
@@ -1269,25 +1246,10 @@ msgstr ""
 "матчу со страницы события"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Не удалось присоединиться к серверу, пожалуйста, присоединитесь к следующему "
-"матчу со страницы события. Возвращение в главное меню через"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "Не удалось получить ссылку для присоединения к матчу, пожалуйста, "
 "присоединитесь к следующему матчу со страницы события"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Не удалось получить ссылку для присоединения к матчу, пожалуйста, "
-"присоединитесь к следующему матчу со страницы события. Возвращение в главное "
-"меню через"
 
 msgid "Fifth (Press 5)"
 msgstr "Пятый (Нажмите 5)"
@@ -1419,13 +1381,6 @@ msgid ""
 msgstr ""
 "Если вы не были перенаправлены, пожалуйста, вернитесь в главное меню и "
 "присоединитесь к следующему матчу со страницы события"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"Если вас не перенаправили, пожалуйста, вернитесь в главное меню и "
-"присоединитесь к следующему матчу со страницы события."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Если вы выберете ландшафт, вы можете потерять весь ваш прогресс."
@@ -1718,9 +1673,6 @@ msgstr "Матч приостановлен"
 msgid "Match results currently not available, check back later!"
 msgstr "Результаты матчей в настоящее время недоступны, проверьте позже!"
 
-msgid "Match settings"
-msgstr "Настройки матча"
-
 msgid "Match starting"
 msgstr "Матч начинается"
 
@@ -1828,9 +1780,6 @@ msgstr "Новые рекорды отключены"
 
 msgid "New season in %1"
 msgstr "Новый сезон через %1"
-
-msgid "New season in %1 day"
-msgstr "Новый сезон через %1 день"
 
 msgid "New season in %1 day and %2 hour"
 msgstr "Новый сезон через %1 день и %2 час"
@@ -1982,9 +1931,6 @@ msgstr "Открыть ссылку"
 msgid "Opponents from %1"
 msgstr "Соперники из %1"
 
-msgid "Optional"
-msgstr "Необязательно"
-
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr ""
 "Или присоединиться к существующей группе, кликнув на имя игрока справа."
@@ -2009,9 +1955,6 @@ msgstr "Пароль"
 
 msgid "Past 14 days"
 msgstr "Последние 14 дней"
-
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr "Матчи прошлого раунда в настоящее время недоступны, проверьте позже!"
 
 msgid "Paste"
 msgstr "Вставить"
@@ -2113,9 +2056,6 @@ msgstr "Игроки"
 msgid "Players are tied!"
 msgstr "Ничья!"
 
-msgid "Players in server"
-msgstr "Игроки на сервере"
-
 msgid "Players order"
 msgstr "Порядок игроков"
 
@@ -2201,9 +2141,6 @@ msgstr ""
 
 msgid "Pressforward"
 msgstr "Держи вперёд"
-
-msgid "Previous"
-msgstr "Предыдущий"
 
 msgid "Previous author time"
 msgstr "Предыдущее авторское время"
@@ -2658,9 +2595,6 @@ msgstr "Выберите количество игроков"
 msgid "Select one of these servers to join the qualification"
 msgstr "Выберите один из этих серверов, чтобы присоединиться к квалификации"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Выберите один из трёх серверов, чтобы присоединиться к квалификации."
-
 msgid "Select style"
 msgstr "Выбрать стиль"
 
@@ -2718,9 +2652,6 @@ msgstr "Сделать публичным"
 
 msgid "Set/Unset as favorite"
 msgstr "Установить/Отменить как избранное"
-
-msgid "Settings"
-msgstr "Настройки"
 
 msgid "Settings name"
 msgstr "Название настройки"
@@ -3468,9 +3399,6 @@ msgstr "Ждите матч"
 msgid "Waiting for your match to start"
 msgstr "Ожидание начала матча"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "Ожидайте вашего матча, это может занять до 3 минут."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "Ожидайте вашего матча, это может занять до 3 минут..."
 
@@ -3654,9 +3582,6 @@ msgstr "Вы не подписаны ни на один клуб"
 msgid "You are qualified"
 msgstr "Вы квалифицированы"
 
-msgid "You are registered for this event."
-msgstr "Вы уже зарегистрированы на это событие."
-
 msgid "You are suspended"
 msgstr "Вы приостановлены"
 
@@ -3714,9 +3639,6 @@ msgstr "Вы финишировали $<$7FA%1$> в матче вашей лиг
 
 msgid "You finished $<$7FA%1$> in your placement match"
 msgstr "Вы финишировали $<$7FA%1$> в вашем матче размещения"
-
-msgid "You finished $<$7FA%1$> on your placement match"
-msgstr "Вы финишировали $<$7FA%1$> в матче размещения"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -3840,9 +3762,6 @@ msgstr "Ваша карта менее чем через %1 минуты"
 
 msgid "Your match is ready"
 msgstr "Ваш матч готов"
-
-msgid "Your next match is ready."
-msgstr "Ваш следующий матч готов."
 
 msgid "Your search did not return any results"
 msgstr "Поиск не дал никаких результатов"

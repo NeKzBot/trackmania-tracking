@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-11 18:28+0000\n"
+"PO-Revision-Date: 2020-10-09 18:36+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: French, France\n"
+"Language-Team: français, France\n"
 "Language: fr-FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1858,6 +1858,9 @@ msgstr "Copier la sélection [Ctrl + C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Copier la sélection [Ctrl + C]"
 
+msgid "Copy account id"
+msgstr "Copier compte ID"
+
 msgid "Copy server link"
 msgstr "Copier le lien du serveur"
 
@@ -2878,6 +2881,9 @@ msgstr "Activer le saut de ligne automatique"
 
 msgid "Enable chat"
 msgstr "Activer le chat"
+
+msgid "Enable map editor quick start"
+msgstr "Activer le démarrage rapide de l'éditeur de circuit"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "Activer le déclenchement par la souris d'événements de script"
@@ -4258,6 +4264,9 @@ msgstr "Circuit supprimé"
 msgid "Map downloaded"
 msgstr "Circuit téléchargé"
 
+msgid "Map editor quick start"
+msgstr "Démarrage rapide de l'éditeur de circuit"
+
 msgid "Map mods"
 msgstr "Modes de circuit"
 
@@ -4473,6 +4482,9 @@ msgstr "Atelier de Module"
 
 msgid "Module saved"
 msgstr "Module sauvegardé"
+
+msgid "Mood"
+msgstr "Ambiance"
 
 msgid "More info"
 msgstr "Plus d'infos"
@@ -8208,6 +8220,9 @@ msgstr "Utiliser ce modèle pour toutes les voitures"
 msgid "Use Own Data"
 msgstr "Utiliser ses propres données"
 
+msgid "Use advanced editor"
+msgstr "Utiliser l'éditeur avancé"
+
 msgid "Use alternate rules :"
 msgstr "Règles alternatives :"
 
@@ -8222,6 +8237,9 @@ msgstr "Utiliser celui par défaut"
 
 msgid "Use existing action as preset"
 msgstr "Utiliser une action existante comme préréglage"
+
+msgid "Use gamepad"
+msgstr "Utiliser la manette"
 
 msgid "Use motion blur"
 msgstr "Flou de mouvement"
@@ -10684,6 +10702,9 @@ msgstr "Aucune"
 msgid "|LightMapQuality|Ultra"
 msgstr "Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "Ultra2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Très rapide"
 
@@ -10731,6 +10752,18 @@ msgstr "Qualité"
 
 msgid "|MapLight|Shadows"
 msgstr "Ombres"
+
+msgid "|MapMood|Day"
+msgstr "Jour"
+
+msgid "|MapMood|Night"
+msgstr "Nuit"
+
+msgid "|MapMood|Sunrise"
+msgstr "Aube"
+
+msgid "|MapMood|Sunset"
+msgstr "Crépuscule"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "Très rapide"

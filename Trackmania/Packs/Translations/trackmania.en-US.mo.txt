@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-09-30 22:53+0000\n"
+"PO-Revision-Date: 2020-10-09 08:46+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -41,15 +41,6 @@ msgstr "$<%1$> wins the round!"
 
 msgid "$<%1$> won the match!"
 msgstr "$<%1$> won the match!"
-
-msgid "$f00%1 players will be eliminated"
-msgstr "$f00%1 players will be eliminated"
-
-msgid "$f001 player will be eliminated"
-msgstr "$f001 player will be eliminated"
-
-msgid "$f90No elimination this round"
-msgstr "$f90No eliminations this round"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -542,6 +533,9 @@ msgstr "Browse match settings"
 msgid "Build your track and place a finish block to complete it."
 msgstr "Build your track and place a finish block to complete it."
 
+msgid "By"
+msgstr "By"
+
 msgid "By %1"
 msgstr "by %1"
 
@@ -764,9 +758,6 @@ msgstr "Click on a player to join their party."
 
 msgid "Click on a player to set them as ally."
 msgstr "Click on a player to set them as ally."
-
-msgid "Click on another map to swap her position with the selected one"
-msgstr "Click on another map to swap its position with the selected one"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Click on the UI modules to edit their properties"
@@ -1178,13 +1169,6 @@ msgstr "EXTERNAL PARTNERS"
 
 msgid ""
 "Each player is being placed in a division after finishing their placement "
-"match. You will discover your division when joining your league match."
-msgstr ""
-"Each player is being placed in a division after finishing their placement "
-"match. You'll find out your division when joining your league match."
-
-msgid ""
-"Each player is being placed in a division after finishing their placement "
 "match. You will find out your division when joining your league match."
 msgstr ""
 "Each player is being placed in a division after finishing their placement "
@@ -1402,13 +1386,6 @@ msgstr ""
 "Error while loading match results. Please try again later. (Error code: %1)"
 
 msgid ""
-"Error while loading the user leaderboard, please try again later. (Error "
-"code: %1)"
-msgstr ""
-"Error while loading the user leaderboard. Please try again later. (Error "
-"code: %1)"
-
-msgid ""
 "Error while loading the user ranking, please try again later. (Error code: "
 "%1)"
 msgstr ""
@@ -1484,23 +1461,9 @@ msgid "Failed to join server, please join next match from the Event page"
 msgstr "Failed to join server. Please join next match from the Event page"
 
 msgid ""
-"Failed to join server, please join next match from the Event page. Return to "
-"the main menu in"
-msgstr ""
-"Failed to join server, please join next match from the Event page. Returning "
-"to the main menu in"
-
-msgid ""
 "Failed to obtain match join link, please join next match from the Event page"
 msgstr ""
 "Failed to obtain match join link. Please join next match from the Event page"
-
-msgid ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Return to the main menu in"
-msgstr ""
-"Failed to obtain match join link, please join next match from the Event "
-"page. Returning to the main menu in"
 
 msgid "Fifth (Press 5)"
 msgstr "Fifth (Press 5)"
@@ -1692,13 +1655,6 @@ msgid ""
 msgstr ""
 "If you are not redirected, please return to the main menu and join next "
 "match from the Event page"
-
-msgid ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
-msgstr ""
-"If you are not redirected, please return to the main menu and join next "
-"match from the Event page."
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "If you choose a landscape, you might lose all of your progress."
@@ -2148,9 +2104,6 @@ msgstr "Match paused"
 msgid "Match results currently not available, check back later!"
 msgstr "Match results currently unavailable. Check back later!"
 
-msgid "Match settings"
-msgstr "MatchSettings"
-
 msgid "Match starting"
 msgstr "Match starting"
 
@@ -2264,9 +2217,6 @@ msgstr "New records disabled"
 
 msgid "New season in %1"
 msgstr "New season in %1"
-
-msgid "New season in %1 day"
-msgstr "New season in %1 day"
 
 msgid "New season in %1 day and %2 hour"
 msgstr "New season in %1 day and %2 hour"
@@ -2439,9 +2389,6 @@ msgstr "Open link"
 msgid "Opponents from %1"
 msgstr "Opponents from %1"
 
-msgid "Optional"
-msgstr "Optional"
-
 msgid "Or join an existing party by clicking on a player name on the right."
 msgstr "Or join an existing party by clicking on a player name on the right."
 
@@ -2547,9 +2494,6 @@ msgstr "Password"
 msgid "Past 14 days"
 msgstr "Past 14 days"
 
-msgid "Past round matches are currently unavailable, check back later!"
-msgstr "Past round matches currently unavailable. Check back later!"
-
 msgid "Paste"
 msgstr "Paste"
 
@@ -2650,9 +2594,6 @@ msgstr "Players"
 msgid "Players are tied!"
 msgstr "Players are tied!"
 
-msgid "Players in server"
-msgstr "Players in server"
-
 msgid "Players order"
 msgstr "Players order"
 
@@ -2736,9 +2677,6 @@ msgstr "Press %1 to switch between different building modes."
 
 msgid "Pressforward"
 msgstr "PressForward"
-
-msgid "Previous"
-msgstr "Previous"
 
 msgid "Previous author time"
 msgstr "Previous author time"
@@ -3339,9 +3277,6 @@ msgstr "Select number of players"
 msgid "Select one of these servers to join the qualification"
 msgstr "Select one of these servers to join qualification"
 
-msgid "Select one of this servers to join the qualification"
-msgstr "Select one of the servers to join qualification"
-
 msgid "Select style"
 msgstr "Select style"
 
@@ -3398,9 +3333,6 @@ msgstr "Set public"
 
 msgid "Set/Unset as favorite"
 msgstr "Toggle favorite"
-
-msgid "Settings"
-msgstr "Settings"
 
 msgid "Settings name"
 msgstr "Settings name"
@@ -4273,9 +4205,6 @@ msgstr "Waiting for your match"
 msgid "Waiting for your match to start"
 msgstr "Waiting for your match to start"
 
-msgid "Waiting for your match, this may take up to 3 minutes."
-msgstr "Waiting for your match, this may take up to 3 minutes."
-
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "Waiting for your match. This may take up to 3 minutes..."
 
@@ -4458,9 +4387,6 @@ msgstr "You're not subscribed to any clubs"
 msgid "You are qualified"
 msgstr "You've qualified"
 
-msgid "You are registered for this event."
-msgstr "You are registered for this event."
-
 msgid "You are suspended"
 msgstr "You're suspended"
 
@@ -4516,9 +4442,6 @@ msgid "You finished $<$7FA%1$> in your league match"
 msgstr "You finished $<$7FA%1$> in your league match"
 
 msgid "You finished $<$7FA%1$> in your placement match"
-msgstr "You finished $<$7FA%1$> in your placement match"
-
-msgid "You finished $<$7FA%1$> on your placement match"
 msgstr "You finished $<$7FA%1$> in your placement match"
 
 msgid ""
@@ -4641,9 +4564,6 @@ msgstr "Your map in less than %1 minutes"
 
 msgid "Your match is ready"
 msgstr "Your match is ready"
-
-msgid "Your next match is ready."
-msgstr "Your next match is ready."
 
 msgid "Your search did not return any results"
 msgstr "Your search didn't return any results"
