@@ -511,8 +511,8 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      8039  2020-09-30 08:08   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_p.hlsl.GpuCache.Gbx
      3378  2020-09-30 08:08   Tech3/Block_DecalGeom_TOp_PyPxzDSN_X2_v.hlsl.GpuCache.Gbx
     58923  2020-09-30 08:08   Tech3/Block_DefReadP1_COut_CIn_p.hlsl.GpuCache.Gbx
-   228518  2020-09-30 08:08   Tech3/Block_DefReadP1_COut_DispIn_p.hlsl.GpuCache.Gbx
-   335604  2020-09-30 08:08   Tech3/Block_DefReadP1_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
+   260882  2020-10-20 12:55   Tech3/Block_DefReadP1_COut_DispIn_p.hlsl.GpuCache.Gbx
+   314029  2020-10-20 12:55   Tech3/Block_DefReadP1_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
     14680  2020-09-30 08:08   Tech3/Block_DefReadP1_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
     72694  2020-09-30 08:08   Tech3/Block_DefReadP1_COut_p.hlsl.GpuCache.Gbx
      9090  2020-09-30 08:08   Tech3/Block_DefReadP1_LM0_TgtPxz_v.hlsl.GpuCache.Gbx
@@ -634,8 +634,8 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
     36767  2020-09-30 08:11   Tech3/Block_TDSN_COut_DecalMod_p.hlsl.GpuCache.Gbx
      4514  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_DefWrite_p.hlsl.GpuCache.Gbx
     10538  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_DefWrite_v.hlsl.GpuCache.Gbx
-   449032  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_p.hlsl.GpuCache.Gbx
-   437824  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
+   468388  2020-10-20 12:55   Tech3/Block_TDSN_COut_DispIn_p.hlsl.GpuCache.Gbx
+   548048  2020-10-20 12:56   Tech3/Block_TDSN_COut_DispIn_Parallax_p.hlsl.GpuCache.Gbx
     38189  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_Parallax_v.hlsl.GpuCache.Gbx
     29784  2020-09-30 08:11   Tech3/Block_TDSN_COut_DispIn_v.hlsl.GpuCache.Gbx
    401735  2020-09-30 08:11   Tech3/Block_TDSN_COut_p.hlsl.GpuCache.Gbx
@@ -646,7 +646,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
     11028  2020-09-30 08:11   Tech3/Block_TDSN_DecalMod_v.hlsl.GpuCache.Gbx
      5479  2020-09-30 08:11   Tech3/Block_TDSN_DefWrite_p.hlsl.GpuCache.Gbx
     14666  2020-09-30 08:11   Tech3/Block_TDSN_DefWrite_v.hlsl.GpuCache.Gbx
-   142587  2020-09-30 08:12   Tech3/Block_TDSN_p.hlsl.GpuCache.Gbx
+   142742  2020-10-20 12:56   Tech3/Block_TDSN_p.hlsl.GpuCache.Gbx
      1257  2020-09-30 08:12   Tech3/Block_TDSN_PeelDiff_LM2_v.hlsl.GpuCache.Gbx
      4027  2020-09-30 08:12   Tech3/Block_TDSN_PeelDiff_p.hlsl.GpuCache.Gbx
      1248  2020-09-30 08:12   Tech3/Block_TDSN_PeelDiff_v.hlsl.GpuCache.Gbx
@@ -938,22 +938,22 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2936  2020-09-30 08:15   Tech3/Trees/PeelDepthDiffuse_Tree_v.hlsl.GpuCache.Gbx
      5332  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_DefRead_p.hlsl.GpuCache.Gbx
      4705  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_DefRead_v.hlsl.GpuCache.Gbx
-     3438  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_DefWrite_p.hlsl.GpuCache.Gbx
+     3438  2020-10-20 12:56   Tech3/Trees/Tree_Impostor_DefWrite_p.hlsl.GpuCache.Gbx
      3446  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_DefWrite_v.hlsl.GpuCache.Gbx
-     5531  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_p.hlsl.GpuCache.Gbx
+     9446  2020-10-20 12:56   Tech3/Trees/Tree_Impostor_p.hlsl.GpuCache.Gbx
      5318  2020-09-30 08:15   Tech3/Trees/Tree_Impostor_v.hlsl.GpuCache.Gbx
-     1897  2020-09-30 08:15   Tech3/Trees/Tree_Instance_AddLight_c.hlsl.GpuCache.Gbx
+     1897  2020-10-20 12:56   Tech3/Trees/Tree_Instance_AddLight_c.hlsl.GpuCache.Gbx
    192709  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_DefRead_p.hlsl.GpuCache.Gbx
     31472  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_DefRead_v.hlsl.GpuCache.Gbx
-    30835  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_DefWrite_p.hlsl.GpuCache.Gbx
+    28686  2020-10-20 12:56   Tech3/Trees/Tree_SelfAO_DefWrite_p.hlsl.GpuCache.Gbx
     49833  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_DefWrite_v.hlsl.GpuCache.Gbx
      6059  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_NoInstance_DefWrite_v.hlsl.GpuCache.Gbx
-   385405  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_p.hlsl.GpuCache.Gbx
-     1425  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_Shadow_p.hlsl.GpuCache.Gbx
-    76347  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_TDSN_p.hlsl.GpuCache.Gbx
+   392910  2020-10-20 12:56   Tech3/Trees/Tree_SelfAO_p.hlsl.GpuCache.Gbx
+     1413  2020-10-20 12:56   Tech3/Trees/Tree_SelfAO_Shadow_p.hlsl.GpuCache.Gbx
+    73824  2020-10-20 12:56   Tech3/Trees/Tree_SelfAO_TDSN_p.hlsl.GpuCache.Gbx
     22119  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_TDSN_v.hlsl.GpuCache.Gbx
     37601  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_v.hlsl.GpuCache.Gbx
-     2834  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_ZOnly_p.hlsl.GpuCache.Gbx
+     2834  2020-10-20 12:56   Tech3/Trees/Tree_SelfAO_ZOnly_p.hlsl.GpuCache.Gbx
      4032  2020-09-30 08:15   Tech3/Trees/Tree_SelfAO_ZOnly_v.hlsl.GpuCache.Gbx
      3968  2020-09-30 08:15   Tech3/Trees/Tree_Shadow_v.hlsl.GpuCache.Gbx
      1117  2020-09-30 08:15   Tech3/Trees/Tree_VertexAddLight_p.hlsl.GpuCache.Gbx
@@ -1074,7 +1074,7 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      1501  2020-09-30 08:16   Voxel/VQuad_LM_SetDiffuse_c.hlsl.GpuCache.Gbx
      1831  2020-09-30 08:16   Voxel/VQuad_LmBlend_BlendNew_c.hlsl.GpuCache.Gbx
      1484  2020-09-30 08:16   Voxel/VQuad_LmBlend_DebugAccum_c.hlsl.GpuCache.Gbx
-     3371  2020-09-30 08:16   Voxel/VQuad_LmBlend_End_c.hlsl.GpuCache.Gbx
+     3371  2020-10-20 12:56   Voxel/VQuad_LmBlend_End_c.hlsl.GpuCache.Gbx
      8002  2020-09-30 08:16   Voxel/VQuad_LmBlend_IndexFromQuadId_c.hlsl.GpuCache.Gbx
      1897  2020-09-30 08:16   Voxel/VQuad_LmBlend_MinLatency_c.hlsl.GpuCache.Gbx
       924  2020-09-30 08:16   Voxel/VQuad_LmBlend_ShowLatency_c.hlsl.GpuCache.Gbx
@@ -1104,6 +1104,6 @@ Archive:  /mnt/c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackma
      2746  2020-09-30 08:16   WorldDistortion/SumDistortionBlocks_c.hlsl.GpuCache.Gbx
      3272  2020-09-30 08:16   WorldDistortion/WordlDistortion_PropagateRigidity_c.hlsl.GpuCache.Gbx
      3325  2020-09-30 08:16   WorldDistortion/WorldDistortion_ApplyRigidity_c.hlsl.GpuCache.Gbx
-       38  2020-09-30 10:20   SourceVersionInfo.txt
+       38  2020-10-20 15:00   SourceVersionInfo.txt
 ---------                     -------
- 15248084                     1104 files
+ 15395344                     1104 files
