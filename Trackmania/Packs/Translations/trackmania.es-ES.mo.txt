@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:46+0000\n"
+"PO-Revision-Date: 2020-11-03 11:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -192,8 +192,20 @@ msgstr "%1 mapas"
 msgid "%1 player"
 msgstr "%1 jugador"
 
+msgid "%1 player will be eliminated"
+msgstr "%1 jugador será eliminado"
+
 msgid "%1 players"
 msgstr "%1 jugadores"
+
+msgid "%1 players eliminated"
+msgstr "%1 jugadores eliminados"
+
+msgid "%1 players will be eliminated"
+msgstr "%1 jugadores serán eliminados"
+
+msgid "%1 points"
+msgstr "%1 puntos"
 
 msgid "%1 replays selected"
 msgstr "%1 repeticiones seleccionadas"
@@ -228,11 +240,26 @@ msgstr "%1Mejor CP %2"
 msgid "%1Best race"
 msgstr "%1Mejor tiempo"
 
+msgid "%1Next round in %2s"
+msgstr "%1Siguiente ronda en %2s"
+
+msgid "%1No elimination this round"
+msgstr "%1Sin eliminación esta ronda"
+
 msgid "%1Personal best"
 msgstr "%1Récord personal"
 
+msgid "0 points"
+msgstr "0 puntos"
+
 msgid "1 player"
 msgstr "1 jugador"
+
+msgid "1 player eliminated"
+msgstr "1 jugador eliminado"
+
+msgid "1 point"
+msgstr "1 punto"
 
 msgid "16th final"
 msgstr "Dieciseisavos de final"
@@ -330,6 +357,9 @@ msgstr "Contra repetición"
 msgid "All clubs"
 msgstr "Todos los clubs"
 
+msgid "All done here, thanks for playing!"
+msgstr "Todo ha terminado, ¡gracias por jugar!"
+
 msgid "All events"
 msgstr "Todos los eventos"
 
@@ -360,11 +390,20 @@ msgstr "Cualquier modificación hecha en este terreno se perderá."
 msgid "Any unsaved modification done on this track will be lost."
 msgstr "Cualquier modificación sin guardar hecha en este mapa se perderá."
 
+msgid "Applied"
+msgstr "Aplicado"
+
 msgid "Apply"
 msgstr "Aplicar"
 
+msgid "Apply a skin"
+msgstr "Aplicar un diseño"
+
 msgid "Apply skin"
 msgstr "Aplicar diseño"
+
+msgid "Applying skin..."
+msgstr "Aplicando diseño..."
 
 msgid "Arcade"
 msgstr "Arcade"
@@ -395,6 +434,13 @@ msgstr "¿Estás seguro de que quieres generar otro mapa?"
 
 msgid "Are you sure you want to leave the editor?"
 msgstr "¿Estás seguro de que quieres salir del editor?"
+
+msgid ""
+"Are you sure you want to leave the server? You can join your next match from "
+"the Event page."
+msgstr ""
+"¿Seguro que quieres abandonar el servidor? Puedes unirte a tu siguiente "
+"partida en la página de eventos."
 
 msgid "Are you sure you want to quit Trackmania?"
 msgstr "¿Seguro que quieres salir de Trackmania?"
@@ -458,6 +504,13 @@ msgstr "BUSINESS OPERATIONS MANAGER"
 msgid "Back"
 msgstr "Volver"
 
+msgid ""
+"Background: back image of your club details page.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Fondo: Imagen de fondo de la página de detalles del club.\n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
+
 msgid "Balance teams"
 msgstr "Equilibrar equipos"
 
@@ -496,6 +549,12 @@ msgstr "Medalla de Bronce"
 
 msgid "Browse"
 msgstr "Buscar"
+
+msgid "Browse a custom mode..."
+msgstr "Buscar un modo personalizado..."
+
+msgid "Browse match settings"
+msgstr "Buscar ajustes de partida"
 
 msgid "Build your track and place a finish block to complete it."
 msgstr "Construye tu mapa y coloca un bloque de meta para completarlo."
@@ -632,6 +691,9 @@ msgstr "CUSTOMER SUPPORT SENIOR KNOWLEDGE MANAGER"
 msgid "Campaign"
 msgstr "Campaña"
 
+msgid "Campaign '$<%1$>'"
+msgstr "Campaña '$<%1$>'"
+
 msgid "Campaign creation"
 msgstr "Creación de campaña"
 
@@ -656,6 +718,9 @@ msgstr "Cancelar solicitud"
 msgid "Category"
 msgstr "Categoría"
 
+msgid "Challenger"
+msgstr "Aspirante"
+
 msgid "Champion mode"
 msgstr "Modo campeón"
 
@@ -676,6 +741,10 @@ msgstr "Cambiar el modo de conexión"
 
 msgid "Chat time"
 msgstr "Tiempo de chat"
+
+msgid "Check your final Open Grand League rank on the event page"
+msgstr ""
+"Consulta tu posición final en la Open Grand League en la página de eventos"
 
 msgid "Choose a campaign to use"
 msgstr "Selecciona una campaña para usar"
@@ -717,16 +786,27 @@ msgstr "Haz click en un jugador para unirte a su equipo."
 msgid "Click on a player to set them as ally."
 msgstr "Haz click en un jugador para aliarte."
 
+msgid "Click on another map to swap its position with the selected one"
+msgstr ""
+"Haz click en otro mapa para intercambiar su posición con el mapa "
+"seleccionado."
+
 msgid "Click on the UI modules to edit their properties"
 msgstr ""
 "Haz click en los módulos de la interfaz de usuario para editar sus "
 "propiedades"
+
+msgid "Click to see $<%1$> results"
+msgstr "Haz click para ver los resultados de la $<%1$>"
 
 msgid "Close"
 msgstr "Cerrar"
 
 msgid "Club"
 msgstr "Club"
+
+msgid "Club access required to register for this competition"
+msgstr "El Acceso Club es necesario para registrarse a esta competición"
 
 msgid "Club campaigns"
 msgstr "Campañas del club"
@@ -770,6 +850,12 @@ msgstr "Clubs"
 msgid "Collect lottery tickets, everyone can participate!"
 msgstr "Colecciona billetes de lotería, ¡todos pueden participar!"
 
+msgid ""
+"Come back next week for step %1 to get more points for the Open Grand League"
+msgstr ""
+"Vuelve la semana que viene para la fase %1 y consigue más puntos para la "
+"Open Grand League"
+
 msgid "Coming soon!"
 msgstr "Pronto!"
 
@@ -791,11 +877,17 @@ msgstr "Concepto"
 msgid "Confirm"
 msgstr "Confirmar"
 
+msgid "Confirm skin selection"
+msgstr "Confirmar selección de aspecto"
+
 msgid "Confirm your choice"
 msgstr "Confirma tu selección"
 
 msgid "Confirmation"
 msgstr "Confirmación"
+
+msgid "Congratulations"
+msgstr "Felicidades"
 
 msgid "Connect"
 msgstr "Conectar"
@@ -845,6 +937,9 @@ msgstr "Crear club"
 msgid "Create competition"
 msgstr "Crear competición"
 
+msgid "Create local server"
+msgstr "Crear servidor local"
+
 msgid "Create map"
 msgstr "Crear mapa"
 
@@ -888,11 +983,17 @@ msgstr "Creando sala del club..."
 msgid "Creating club..."
 msgstr "Creando club..."
 
+msgid "Creation failed, information missing"
+msgstr "Fallo al crear, falta información"
+
 msgid "Credits"
 msgstr "Créditos"
 
 msgid "Cumulate team points :"
 msgstr "Acumulación de puntos de equipo :"
+
+msgid "Cup mode"
+msgstr "Modo Copa"
 
 msgid "Current map"
 msgstr "Mapa actual"
@@ -905,6 +1006,12 @@ msgstr "Puntuación actual"
 
 msgid "Current player"
 msgstr "Jugador actual"
+
+msgid "Current quarterly campaign"
+msgstr "Campaña trimestral actual"
+
+msgid "Current round starts in %1"
+msgstr "La ronda actual empieza en %1"
 
 msgid "Customization"
 msgstr "Personalización"
@@ -954,11 +1061,8 @@ msgstr "DIRECTORES"
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "Mando inalámbrico DUALSHOCK®4"
 
-msgid "Daily Cup Knockout"
-msgstr "Copa Diaria Eliminatoria"
-
-msgid "Daily cup"
-msgstr "Copa diaria"
+msgid "Daily map"
+msgstr "Mapa diario"
 
 msgid "Daily rankings"
 msgstr "Clasificaciones diarias"
@@ -972,6 +1076,23 @@ msgstr "Desactivar"
 msgid "Dead end"
 msgstr "Punto muerto"
 
+msgid ""
+"Decal 1x1: image visible on the road surface (at start, checkpoint and "
+"finish).\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Vinilo 1x1: imagen visible en la superficie de la carretera (salida, punto "
+"de control y meta). \n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
+
+msgid ""
+"Decal sponsor: image visible on the sponsor banner surrounding the road.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Vinilo de patrocinador: imagen que se muestra en las pancartas de "
+"patrocinador en torno a la carretera. \n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
+
 msgid "Decoration"
 msgstr "Decoración"
 
@@ -981,8 +1102,16 @@ msgstr "Eliminar club"
 msgid "Deleting club..."
 msgstr "Eliminando club..."
 
+msgid "Deletion of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Eliminación de la imagen de tipo '%1' falló. Por favor, inténtelo de nuevo. "
+"(Error: %2)"
+
 msgid "Description"
 msgstr "Descripción"
+
+msgid "Description can't be empty"
+msgstr "La descripción no puede estar vacía"
 
 msgid "Did you like this map?"
 msgstr "¿Te gusta este mapa?"
@@ -1025,6 +1154,9 @@ msgstr "¿Quieres terminar el auto-finalizado?"
 
 msgid "Do you want to validate the track now?"
 msgstr "¿Quieres validar el mapa ahora?"
+
+msgid "Do your best to qualify."
+msgstr "Hazlo lo mejor que puedas para clasificarte."
 
 msgid "Don't forget to save your track!"
 msgstr "¡No olvides guardar tu mapa!"
@@ -1070,6 +1202,27 @@ msgstr "DIRECTOR EJECUTIVO, WORLDWIDE STUDIOS"
 
 msgid "EXTERNAL PARTNERS"
 msgstr "EXTERNAL PARTNERS"
+
+msgid ""
+"Each player is being placed in a division after finishing their placement "
+"match. You will find out your division when joining your league match."
+msgstr ""
+"Al terminar la partida clasificatoria, se asigna a cada jugador a una "
+"división. Sabrás en que división estás al apuntarte a la partida de liga."
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Gain access to the league match"
+"%1 right after%2 and respresent your country."
+msgstr ""
+"Gana %1puntos de habilidad %2en cada mapa y sube de rango. Accede a la "
+"partida de liga%1 justo después%2 y representa a tu país."
+
+msgid ""
+"Earn %1Skill Points %2on each map to rank up. Your final rank determines the "
+"points you score for %1your country%2."
+msgstr ""
+"Gana %1Puntos de habilidad %2en cada mapa para subir de rango. Tu rango "
+"final determina cuántos puntos ganas para %1tu país%2."
 
 msgid "Earn medals and track your progression in regional rankings"
 msgstr ""
@@ -1120,6 +1273,11 @@ msgstr "Editando actividad de club..."
 msgid "Editing club room..."
 msgstr "Editando sala del club..."
 
+msgid "Edition of image with type '%1' failed. Please try again. (Error %2)"
+msgstr ""
+"Edición de la imagen de tipo '%1' falló. Por favor, inténtelo de nuevo. "
+"(Error: %2)"
+
 msgid "Eighth (Press 8)"
 msgstr "Octavo (Pulsa 8)"
 
@@ -1168,6 +1326,13 @@ msgstr ""
 "Error al editar la sala. Por favor, inténtalo de nuevo. (Código de error: %1)"
 
 msgid ""
+"Error while fetching campaigns of type %1 for the profile. Please try again. "
+"(Error code: %2)"
+msgstr ""
+"Error al recuperar las campañas de tipo %1 del perfil. Inténtalo de nuevo."
+"(Código de error: %2)"
+
+msgid ""
 "Error while fetching campaigns of type %1. Please try again. (Error code: %2)"
 msgstr ""
 "Error mientras se buscaban campañas de tipo %1. Por favor, inténtalo de "
@@ -1179,6 +1344,13 @@ msgid ""
 msgstr ""
 "Error mientras se buscaba la lista de mapas de los Servicios de Nadeo, por "
 "favor inténtalo de nuevo (Código de error: %1)"
+
+msgid ""
+"Error while fetching monthly campaign from Nadeo Services. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Error al recuperar la campaña mensual de los Servicios de Nadeo. Por favor, "
+"inténtelo de nuevo. (Código de error: %1)"
 
 msgid ""
 "Error while fetching player position on maps in club rankings. Please try "
@@ -1206,6 +1378,12 @@ msgstr ""
 "Error mientras se buscaba el enlace al servidor, por favor inténtalo de "
 "nuevo (Código de error: %1)"
 
+msgid ""
+"Error while fetching your submitted maps, please try again. (Error code: %1)"
+msgstr ""
+"Error al recuperar tus mapas enviados, por favor, inténtalo de nuevo. "
+"(Código de error: %1)"
+
 msgid "Error while gathering maps data. (Error code: %1)"
 msgstr "Error durante la recopilación de datos del mapa (Código de error: %1)"
 
@@ -1213,6 +1391,12 @@ msgid "Error while joining the server, please try again. (Error code: %1)"
 msgstr ""
 "Error al unirse al servidor, por favor, inténtalo de nuevo. (Código de "
 "error: %1)"
+
+msgid "Error while loading matches. (Error code: %1)"
+msgstr "Error al cargar las partidas. (Código de error: %1)"
+
+msgid "Error while loading past matches. (Error code: %1)"
+msgstr "Error al cargar las partidas anteriores. (Código de error: %1)"
 
 msgid "Error while loading ranking (code: %1)"
 msgstr "Error al cargar la clasificación (código: %1)"
@@ -1230,6 +1414,9 @@ msgstr ""
 "Error mientras se cargaban los resultados desde los Servicios de Nadeo, por "
 "favor inténtalo de nuevo (Código de error: %1)"
 
+msgid "Error while loading the annoucements. (Error code: %1)"
+msgstr "Error al cargar los anuncios (Código de error: %1)"
+
 msgid "Error while loading the campaign. Please try again. (Error code: %1)"
 msgstr ""
 "Error cargando la campaña. Por favor, inténtalo de nuevo. (Código de error: "
@@ -1244,6 +1431,25 @@ msgstr ""
 
 msgid "Error while loading the event. Please try again. (Error code: %1)"
 msgstr "Error al cargar el evento. Prueba otra vez (Error: %1)"
+
+msgid ""
+"Error while loading the leaderboard, please try again later. (Error code: %1)"
+msgstr ""
+"Error al cargar el marcador, inténtalo más tarde. (Código de error: %1)"
+
+msgid ""
+"Error while loading the match results, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Error al cargar los resultados de la partida, inténtalo más tarde. (Código "
+"de error: %1)"
+
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"Error al cargar la clasificación de usuarios, inténtalo más tarde. (Código "
+"de error: %1)"
 
 msgid "Error while loading trophies (code: %1)"
 msgstr "Error al cargar los trofeos (código: %1)"
@@ -1322,8 +1528,22 @@ msgstr "PLANIFICACIÓN FINANCIERA, ESTUDIOS DE OPERACIONES Y CONTROL DE CALIDAD"
 msgid "FRONT-END ENGINEER"
 msgstr "INGENIERO DE INTERFAZ"
 
+msgid "Failed to join server, please join next match from the Event page"
+msgstr ""
+"Error al unirse al servidor, por favor, únete a la siguiente partida desde "
+"la página de Eventos."
+
+msgid ""
+"Failed to obtain match join link, please join next match from the Event page"
+msgstr ""
+"Error al obtener enlace de entrada a partida, únete a la siguiente partida "
+"desde la página de eventos"
+
 msgid "Fifth (Press 5)"
 msgstr "Quinto (Pulsa 5)"
+
+msgid "Final Rank"
+msgstr "Posición final"
 
 msgid "Finish timeout"
 msgstr "Tiempo de espera final"
@@ -1388,6 +1608,9 @@ msgstr "GROUP RELEASE MANAGER"
 msgid "Game mode"
 msgstr "Modalidad de juego"
 
+msgid "Game mode:"
+msgstr "Modo de juego:"
+
 msgid "Game mode: %1"
 msgstr "Modo de juego: %1"
 
@@ -1415,11 +1638,11 @@ msgstr "Consigue el editor simple de repeticiones, diseños y mapas"
 msgid "Give up"
 msgstr "Abortar"
 
-msgid "Give up %1"
-msgstr "Rendirse %1"
+msgid "Go back to the menu to see the results."
+msgstr "Vuelve al menú para ver los resultados."
 
-msgid "Give up Daily cup?"
-msgstr "¿Rendirse en la copa Diaria?"
+msgid "Go back to the menu to wait for your next match."
+msgstr "Vuelve al menú para esperar a la siguiente partida."
 
 msgid "Go to map list"
 msgstr "Ir a lista de mapas"
@@ -1450,6 +1673,9 @@ msgstr "PRODUCTOR HQ"
 
 msgid "HR SPECIALIST"
 msgstr "GROUP MANAGER, MEDIA PERFORMANCE, EMEA"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "La mitad de los jugadores se clasificará para la siguiente ronda"
 
 msgid "Help"
 msgstr "Ayuda"
@@ -1487,21 +1713,31 @@ msgstr "INTERN LIVE QA"
 msgid "INTERNATIONAL PRODUCT MANAGER"
 msgstr "INTERNATIONAL PRODUCT MANAGER"
 
-msgid "If you choose a landscape, you might lose all of your progress."
-msgstr "Si eliges un paisaje, podrías perder todo tu progreso."
+msgid ""
+"Icon: image used in All Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Icono: imagen para la lista de Todos los clubes. \n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
 
 msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
+"If you are not redirected, please return to the main menu and join next "
+"match from the Event page"
 msgstr ""
-"Si te rindes, podrás seguir jugando en el canal, pero no participarás en el "
-"Knockout Diario."
+"Si no se te redirige automáticamente, vuelve al menú principal y únete a la "
+"siguiente partida en la página de eventos."
+
+msgid "If you choose a landscape, you might lose all of your progress."
+msgstr "Si eliges un paisaje, podrías perder todo tu progreso."
 
 msgid "Image browser"
 msgstr "Explorador de imágenes"
 
 msgid "Improve"
 msgstr "Mejorar"
+
+msgid "Infinite laps"
+msgstr "Vueltas infinitas"
 
 msgid "Information"
 msgstr "Información"
@@ -1566,6 +1802,9 @@ msgstr "Únete a las actividades públicas de club: campañas y salas online"
 msgid "Joining friends"
 msgstr "Uniéndose a amigos"
 
+msgid "Joining in %1"
+msgstr "Uniéndose en %1"
+
 msgid "Jump to map"
 msgstr "Saltar al mapa"
 
@@ -1575,8 +1814,11 @@ msgstr "ESPECIALISTA DE CONOCIMIENTO"
 msgid "KOs per round"
 msgstr "KOs por ronda"
 
-msgid "Knockout match starts in %1"
-msgstr "La partida de eliminación empieza en %1"
+msgid "Knocked out players"
+msgstr "Jugadores eliminados"
+
+msgid "Knockout mode"
+msgstr "Modo Eliminación"
 
 msgid "L1 button"
 msgstr "Botón L1"
@@ -1656,11 +1898,29 @@ msgstr "Paisaje"
 msgid "Lap %1"
 msgstr "Vuelta %1"
 
+msgid "Lap %1/%2"
+msgstr "Vuelta %1/%2"
+
 msgid "Last time"
 msgstr "Último tiempo"
 
 msgid "Leader"
 msgstr "Líder"
+
+msgid "Leaderboard is empty"
+msgstr "La clasificación está vacía"
+
+msgid "Leaderboards are closed"
+msgstr "Las clasificaciones están cerradas"
+
+msgid "Leaderboards are now closed on this campaign!"
+msgstr "¡La clasificación está cerrada en esta campaña!"
+
+msgid "League match"
+msgstr "Partida de liga"
+
+msgid "League match divisions"
+msgstr "Divisiones de partidas de liga"
 
 msgid "League ranking"
 msgstr "Ranking de liga"
@@ -1698,6 +1958,9 @@ msgstr "Cargando"
 msgid "Loading activity..."
 msgstr "Cargando actividad..."
 
+msgid "Loading announcement"
+msgstr "Cargando anuncio"
+
 msgid "Loading campaign to edit"
 msgstr "Cargando la campaña a editar"
 
@@ -1715,6 +1978,9 @@ msgstr "Cargando campaá offline..."
 
 msgid "Loading records"
 msgstr "Cargando Récords"
+
+msgid "Loading results..."
+msgstr "Cargando resultados..."
 
 msgid "Loading room informations..."
 msgstr "Cargando información de la sala..."
@@ -1736,6 +2002,13 @@ msgstr "Nombre de usuario"
 
 msgid "Logo"
 msgstr "Logo"
+
+msgid ""
+"Logo: the first visible image of your club.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Logo: la primera imagen visible de tu club.\n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
 
 msgid "Lol"
 msgstr "Lol"
@@ -1880,14 +2153,14 @@ msgstr ""
 msgid "Maps list already full"
 msgstr "Lista de mapas llena"
 
-msgid "Match found!"
-msgstr "¡Partida encontrada!"
-
 msgid "Match is over"
 msgstr "La partida ha terminado"
 
 msgid "Match not started yet."
 msgstr "La partida no ha comenzado aún."
+
+msgid "Match ongoing"
+msgstr "Partida en progreso"
 
 msgid "Match over. You should have been transferred back to the lobby."
 msgstr ""
@@ -1899,6 +2172,11 @@ msgstr "Partida acabada. Serás transferido de vuelta a la sala de espera."
 
 msgid "Match paused"
 msgstr "Partida en pausa"
+
+msgid "Match results currently not available, check back later!"
+msgstr ""
+"Los resultados de la partida no están disponibles actualmente, ¡vuelve más "
+"tarde!"
 
 msgid "Match starting"
 msgstr "Partida comenzando"
@@ -1981,6 +2259,9 @@ msgstr "Mis eventos"
 msgid "My maps"
 msgstr "Mis mapas"
 
+msgid "My submitted maps"
+msgstr "Mis mapas enviados"
+
 msgid "NCSA CUSTOMER RELATIONSHIP CENTER - COMMUNITY TEAM"
 msgstr "EQUIPO COMUNITARIO - CENTRO DE ATENCIÓN AL CLIENTE NCSA"
 
@@ -1989,6 +2270,9 @@ msgstr "EQUIPO DE ATENCIÓN AL CLIENTE NCSA"
 
 msgid "Name"
 msgstr "Nombre"
+
+msgid "Name can't be empty"
+msgstr "El nombre no puede estar vacío"
 
 msgid "New author time"
 msgstr "Nuevo tiempo de autor"
@@ -2007,6 +2291,15 @@ msgstr "Nuevos Récords deshabbilitados"
 
 msgid "New season in %1"
 msgstr "Nueva temporada en %1"
+
+msgid "New season in %1 day and %2 hour"
+msgstr "Nueva temporada en %1 día y %2 hora"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "Nueva temporada en %1 día y %2 horas"
+
+msgid "New season in %1 days"
+msgstr "Nueva temporada en %1 días"
 
 msgid "New track"
 msgstr "Nuevo mapa"
@@ -2041,6 +2334,9 @@ msgstr "Siguiente mapa"
 msgid "Next map in %1..."
 msgstr "Siguiente mapa en %1..."
 
+msgid "Next match"
+msgstr "Siguiente partida"
+
 msgid "Next medal"
 msgstr "Siguiente medalla"
 
@@ -2062,6 +2358,9 @@ msgstr "No hay K.O."
 msgid "No accounts found"
 msgstr "No se han encontrado cuentas"
 
+msgid "No announcements"
+msgstr "No hay anuncios"
+
 msgid "No clubs"
 msgstr "Sin clubs"
 
@@ -2073,6 +2372,9 @@ msgstr "Sin eventos"
 
 msgid "No maps in this month"
 msgstr "No hay mapas este mes"
+
+msgid "No matches currently available, come back later!"
+msgstr "No hay partidos disponibles actualmente, ¡vuelve más tarde!"
 
 msgid "No monthly campaigns found."
 msgstr "No se han encontrado campañas mensuales."
@@ -2154,6 +2456,9 @@ msgstr "Campo a través"
 
 msgid "Ok"
 msgstr "Aceptar"
+
+msgid "Open link"
+msgstr "Abrir enlace"
 
 msgid "Opponents from %1"
 msgstr "Oponentes de %1"
@@ -2256,9 +2561,6 @@ msgstr "Av Pag"
 msgid "Page Up"
 msgstr "Re Pág"
 
-msgid "Participation registered!"
-msgstr "¡Participación registrada!"
-
 msgid "Password"
 msgstr "Contraseña"
 
@@ -2305,6 +2607,9 @@ msgstr ""
 msgid "Placement match"
 msgstr "Partida de posicionamiento"
 
+msgid "Placement match finished"
+msgstr "Partida de posicionamiento finalizada"
+
 msgid "Platform"
 msgstr "Plataforma"
 
@@ -2344,9 +2649,6 @@ msgstr "Jugar offline"
 msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr "Juega solo y multijugador en 25 nuevos mapas cada temporada"
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "Juega al Knockout Diario"
-
 msgid "Player Best Time"
 msgstr "Mejor tiempo del jugador"
 
@@ -2368,18 +2670,17 @@ msgstr "Orden de jugadores"
 msgid "Players per match"
 msgstr "Jugadores por partida"
 
+msgid "Players will be rewarded as follows"
+msgstr "Los jugadores serán recompensados como sigue"
+
+msgid "Playing on %1"
+msgstr "Jugando en %1"
+
 msgid "Please reconnect the %1"
 msgstr "Por favor, reconecta el %1"
 
 msgid "Please select your %1"
 msgstr "Por favor, selecciona tu %1"
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr ""
-"Por favor, espera en el canal hasta que empiece el Knockout. Serás "
-"redireccionado una vez tu partida este preparada."
 
 msgid "Please wait."
 msgstr "Por favor, espera."
@@ -2491,8 +2792,27 @@ msgstr "DIRECTOR DE CONTROL DE CALIDAD"
 msgid "Qualification"
 msgstr "Clasificación"
 
+msgid "Qualification ends in %1"
+msgstr "La clasificación termina en %1"
+
+msgid "Qualification ranking is empty"
+msgstr "El servidor de clasificación está vacío"
+
+msgid "Qualification server %1"
+msgstr "Servidor de clasificación %1"
+
+msgid "Qualification server will be available in %1"
+msgstr "El servidor de clasificación estará disponible en %1"
+
+msgid "Qualifier over"
+msgstr "Clasificación finalizada"
+
 msgid "Qualifier rank: %1"
 msgstr "Puesto de clasificación: %1"
+
+msgid "Qualifiers are not available now, please try again later"
+msgstr ""
+"Las clasificatorias no están disponibles ahora, inténtalo de nuevo más tarde"
 
 msgid "Qualify"
 msgstr "Calidad"
@@ -2503,6 +2823,9 @@ msgstr "Cantidad"
 msgid "Quarter-final"
 msgstr "Cuartos de final"
 
+msgid "Quick start is enabled"
+msgstr "El inicio rápido está activado"
+
 msgid "Quit"
 msgstr "Salir"
 
@@ -2511,9 +2834,6 @@ msgstr "Salir del editor"
 
 msgid "Quit plugin"
 msgstr "Salir del plugin"
-
-msgid "Quit%1"
-msgstr "Salir%1"
 
 msgid "R&D ENGINEER"
 msgstr "INGENIERO I+D"
@@ -2573,6 +2893,9 @@ msgstr "Clasificación"
 
 msgid "Rankings"
 msgstr "Clasificación"
+
+msgid "Rankings activity"
+msgstr "Clasificación de actividades"
 
 msgid "Ready"
 msgstr "Listo"
@@ -2643,6 +2966,9 @@ msgstr "Editor de repeticiones"
 msgid "Replay saved!"
 msgstr "¡Repetición guardada!"
 
+msgid "Reroll decoration"
+msgstr "Editar decoración"
+
 msgid "Reset"
 msgstr "Reiniciar"
 
@@ -2669,6 +2995,9 @@ msgstr "Recuperando lista de mapas..."
 
 msgid "Retry"
 msgstr "Volver a intentarlo"
+
+msgid "Return to the main menu in %1"
+msgstr "Volviendo al menú en %1"
 
 msgid "Right click : hide/show the module"
 msgstr "Click derecho: mostrar/ocultar el módulo"
@@ -2742,6 +3071,10 @@ msgid ""
 msgstr ""
 "Ronda %1/%2, %3 Jugadores\n"
 "%4 K.O. por ronda hasta %5 jugadores"
+
+msgid "Round matches are currently unavailable, check back later!"
+msgstr ""
+"Las partidas por rondas no están disponibles ahora mismo, ¡vuelve más tarde!"
 
 msgid "Round skipped"
 msgstr "Ronda saltada"
@@ -2890,8 +3223,40 @@ msgstr "Actividades Guardadas"
 msgid "Saving campaign..."
 msgstr "Guardando campaña..."
 
+msgid ""
+"Score points for %1your country%2. Play against players with the%1 same "
+"placement%2 rank. You score more points in%1 high rank%2 matchs. "
+msgstr ""
+"Gana puntos para %1tu país%2. Juega contra jugadores con el%1 mismo rango de "
+"posicionamiento%2. Ganas más puntos en partidas de%1 rango elevado%2. "
+
+msgid ""
+"Screen 16x1: image displayed on stadium's podium (under big screen).\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Pantalla 16x1: Imagen mostrada en el podio del estadio (bajo la pantalla "
+"gigante).\n"
+"Dimensiones: %1 - Formato: DDS (DXT5)"
+
+msgid ""
+"Screen 16x9: image displayed on stadium's big screen.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Pantalla 16x9: Imagen mostrada en la pantalla gigante del estadio.\n"
+"Dimensiones: %1 - Formato: DDS (DXT5)"
+
+msgid ""
+"Screen 8x1: image displayed on stadium's bleachers.\n"
+"Dimensions: %1 - Format: DDS (DXT5)"
+msgstr ""
+"Pantalla 8x1: Imagen mostrada en las gradas del estadio.\n"
+"Dimensiones: %1 - Formato: DDS (DXT5)"
+
 msgid "Scroll down"
 msgstr "Desplazarse hacia abajo"
+
+msgid "Scroll to top"
+msgstr "Ir arriba"
 
 msgid "Scroll up"
 msgstr "Desplazarse hacia arriba"
@@ -2933,6 +3298,9 @@ msgstr ""
 "Selecciona un paisaje. Cuando encuentres uno que te guste, puedes empezar tu "
 "mapa."
 
+msgid "Select a map to move"
+msgstr "Selecciona un mapa para mover"
+
 msgid "Select a mode"
 msgstr "Selecciona un modo"
 
@@ -2972,11 +3340,17 @@ msgstr "Seleccionar siguiente mapa"
 msgid "Select number of players"
 msgstr "Seleccionar número de jugadores"
 
+msgid "Select one of these servers to join the qualification"
+msgstr "Selecciona uno de estos servidores para unirte a la clasificación"
+
 msgid "Select style"
 msgstr "Seleccionar estilo"
 
 msgid "Select the location of the starting line"
 msgstr "Selecciona la ubicación de la línea de salida"
+
+msgid "Select the skin that will be applied to your car"
+msgstr "Selecciona el diseño que será aplicado a tu coche"
 
 msgid "Select where you want to start"
 msgstr "Selecciona dónde quieres empezar"
@@ -3028,6 +3402,9 @@ msgstr "Establecer público"
 msgid "Set/Unset as favorite"
 msgstr "Poner/Quitar de favorito"
 
+msgid "Settings name"
+msgstr "Nombre de ajustes"
+
 msgid "Seventh (Press 7)"
 msgstr "Séptimo (Pulsa 7)"
 
@@ -3045,6 +3422,14 @@ msgstr "Un mapa"
 
 msgid "Sixth (Press 6)"
 msgstr "Sexto (Pulsa 6)"
+
+msgid "Skill Points Ranking"
+msgstr "Clasificación de Puntos de Habilidad"
+
+msgid "Skin '%1' could not be applied. Please try again. (Error: %2)"
+msgstr ""
+"El diseño '%1' no pudo ser aplicado. Por favor, inténtelo de nuevo. (Error: "
+"%2)"
 
 msgid "Skin browser"
 msgstr "Explorador de apariencias"
@@ -3103,6 +3488,13 @@ msgstr ""
 msgid "Start Date"
 msgstr "Fecha de inicio"
 
+msgid ""
+"Start time must be at least 10 minutes after registration or qualification, "
+"please enter another time or date"
+msgstr ""
+"La hora de inicio debe estar al menos 10 minutos después del registro o la "
+"clasificación, por favor, introduce otra fecha u hora."
+
 msgid "Starter"
 msgstr "Inicial"
 
@@ -3111,6 +3503,9 @@ msgstr "Empieza en"
 
 msgid "Stats"
 msgstr "Estadísticas"
+
+msgid "Step %1 completed"
+msgstr "Paso %1 completado"
 
 msgid "Step ranking"
 msgstr "Ranking de carrera"
@@ -3224,6 +3619,12 @@ msgstr "Suscríbete a Trackmania %1 para usar un diseño personalizado"
 msgid "Sunday"
 msgstr "Domingo"
 
+msgid "Swap maps"
+msgstr "Intercambiar mapas"
+
+msgid "Swap with this map"
+msgstr "Intercambiar con este mapa"
+
 msgid "Switch"
 msgstr "Cambiar"
 
@@ -3310,6 +3711,9 @@ msgstr "Probar mapa"
 msgid "Test your maps"
 msgstr "Probar tus mapas"
 
+msgid "Thank you for playing."
+msgstr "Gracias por jugar."
+
 msgid "The %1 started, GL HF"
 msgstr "El %1 ha comenzado, GL HF"
 
@@ -3346,6 +3750,15 @@ msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr ""
 "La insignia del club tiene un mínimo de %1 caracteres y un máximo de %2"
 
+msgid "The competition is a tournament bracket"
+msgstr "Esta es una competición de estilo torneo"
+
+msgid ""
+"The creation of this competition failed, please try again (Error code: %1 %2)"
+msgstr ""
+"Se ha producido un error al crear esta competición, inténtalo de nuevo "
+"(Código de error: %1 %2)"
+
 msgid ""
 "The decoration will be removed and you will have to validate the track again."
 msgstr "La decoración será eliminada y tendrás que validar el mapa de nuevo."
@@ -3381,6 +3794,9 @@ msgstr ""
 "El mapa '%1' no se puede jugar. Por favor, valida el mapa y calcula las "
 "sombras."
 
+msgid "The match is over, thank you for playing. You can leave now."
+msgstr "La partida ha terminado, gracias por jugar. Puedes abandonar ahora."
+
 msgid "The match started, GL HF"
 msgstr "La partida ha empezado, GL HF"
 
@@ -3402,6 +3818,17 @@ msgstr ""
 
 msgid "The name tag has a maximum of %1 characters"
 msgstr "La etiqueta tiene un máximo de %1 caracteres"
+
+msgid "The rankings activity is not linked to any campaign"
+msgstr "Esta actividad de clasificación no está vinculada a ninguna campaña"
+
+msgid "The registration failed, please try again (Error code: %1 %2)"
+msgstr ""
+"El registro ha fallado, por favor, inténtalo de nuevo (Código de error: %1 "
+"%2)"
+
+msgid "The registration failed, your current zone is not allowed"
+msgstr "El registro ha fallado, tu zona actual no está permitida"
 
 msgid "The room is not reachable, please try again. (Error code: %1)"
 msgstr "La sala no es accesible, prueba de nuevo. (Código de error: %1)"
@@ -3432,6 +3859,48 @@ msgstr "No hay macrobloques disponibles para este editor"
 
 msgid "There are no saved activities in your club."
 msgstr "No hay actividades guardadas en tu club"
+
+msgid ""
+"There was an error while gathering the leaderboard, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Ha ocurrido un error al recuperar las clasificaciones, por favor, inténtelo "
+"de nuevo. (Código de error: %1)"
+
+msgid ""
+"There was an error while gathering the leaderboard, please try again later. "
+"(Error: Task no longer available)"
+msgstr ""
+"Ha ocurrido un error al recuperar las clasificaciones, por favor, inténtelo "
+"de nuevo. (Error: Tarea ya no disponible)"
+
+msgid ""
+"There was an error while gathering the macth results, please try again "
+"later. (Error code: %1)"
+msgstr ""
+"Se ha producido un error al recuperar los resultados de la partida, "
+"inténtalo más tarde. (Código de error: %1)"
+
+msgid ""
+"There was an error while gathering the match results, please try again "
+"later. (Error: Task no longer available)"
+msgstr ""
+"Se ha producido un error al recuperar los resultados de la partida, "
+"inténtalo más tarde. (Error: La tarea ya no se encuentra disponible)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Ha ocurrido un error al recuperar las clasificaciones, por favor, inténtelo "
+"de nuevo. (Código de error: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
+"(Error: Task not longer available)"
+msgstr ""
+"Ha ocurrido un error al recuperar las clasificaciones, por favor, inténtelo "
+"de nuevo. (Error: Tarea ya no disponible)"
 
 msgid "Third (Press 3)"
 msgstr "Tercero (Pulsa 3)"
@@ -3629,8 +4098,14 @@ msgstr "Subir un mapa"
 msgid "Upload a skin"
 msgstr "Subir un diseño"
 
+msgid "Upload image"
+msgstr "Subir imagen"
+
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Falló la subida del logo (Error: %1)"
+
+msgid "Uploading of the logo and Vertical failed (Error code: %1)"
+msgstr "Error al subir el logo y la vertical (Código de error: %1)"
 
 msgid "Uploading of the vertical Image failed (Error code: %1)"
 msgstr "Falló la subida de la imagen vertical (Error: %1)"
@@ -3712,6 +4187,13 @@ msgstr "Versión: %1"
 msgid "Versus"
 msgstr "Contra"
 
+msgid ""
+"Vertical: image used in My Clubs list.\n"
+"Dimensions: %1 - Format: PNG, JPEG or DDS (DXT5)"
+msgstr ""
+"Vertical: Imagen utilizada en la lista de Mis Clubes\n"
+"Dimensiones: %1 - Formato: PNG, JPEG o DDS (DXT5)"
+
 msgid "View replay"
 msgstr "Ver repetición"
 
@@ -3782,8 +4264,16 @@ msgstr "EQUIPO DE SERVICIOS WEB"
 msgid "WEB UI DESIGNER"
 msgstr "WEB UI DESIGNER"
 
+msgid "Wait for next match"
+msgstr "Esperar a la siguiente partida"
+
 msgid "Waiting for other players."
 msgstr "Esperando a otros jugadores."
+
+msgid "Waiting for other qualification servers to finish their matches..."
+msgstr ""
+"Esperando a que los otros servidores de calificación finalicen sus "
+"partidas..."
 
 msgid "Waiting for players"
 msgstr "Esperando a los jugadores"
@@ -3791,11 +4281,14 @@ msgstr "Esperando a los jugadores"
 msgid "Waiting for your allies to be ready."
 msgstr "Esperando a que tus compañeros estén listos."
 
-msgid "Waiting for your match"
-msgstr "Esperando a tu partida"
-
 msgid "Waiting for your match to start"
 msgstr "Esperando a que empiece la partida"
+
+msgid "Waiting for your match, this may take up to 3 minutes..."
+msgstr "Esperando a tu partida, esto puede tardar hasta 3 minutos..."
+
+msgid "Waiting on all matches currently in progress"
+msgstr "Esperando a que terminen las partidas en curso"
 
 msgid "Warm up"
 msgstr "Calentamiento"
@@ -3805,6 +4298,9 @@ msgstr "Calentamiento"
 
 msgid "Warmup: %1/%2"
 msgstr "Calentamiento: %1/%2"
+
+msgid "Watch warmup"
+msgstr "Ver calentamiento"
 
 msgid "We are sending you back to the lobby."
 msgstr "Te estamos transfiriendo de vuelta a la sala de espera."
@@ -3824,34 +4320,8 @@ msgstr "Bienvenido a Trackmania"
 msgid "Welcome to the %1 server."
 msgstr "Bienvenido al servidor %1."
 
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"¡Bienvenido a la copa diaria Nadeo! \n"
-" \n"
-"Corre durante 10 minutos en el mapa de hoy. Podrás unirte a la fase de "
-"knockout después y ganar aún más trofeos.  \n"
-"Puedes ver tu ranking global entre todos los servidores en la parte derecha "
-"de tu pantalla."
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"¡Bienvenido a la copa diaria Nadeo!\n"
-"\n"
-"Corre durante 10 minutos en la carrera de hoy. Podrás unirte a la fase de "
-"knockout después y ganar aún más trofeos. \n"
-"Puedes ver tu ranking global entre todos los servidores en la parte derecha "
-"de tu pantalla. ¡Buena suerte!"
+msgid "Welcome to the Open Grand League"
+msgstr "Bienvenido a la Open Grand League"
 
 msgid "Welcome to the club!"
 msgstr "¡Bienvenido al club!"
@@ -3861,6 +4331,12 @@ msgstr "Bienvenido al: %1."
 
 msgid "What do you want to do?"
 msgstr "¿Qué quieres hacer?"
+
+msgid "What's next"
+msgstr "Próximamente"
+
+msgid "When the previous round is over"
+msgstr "Cuando la ronda anterior acabe"
 
 msgid ""
 "When you cut a block it is stored into your block history. You can then "
@@ -3899,6 +4375,31 @@ msgstr "Yellow"
 msgid "Yes"
 msgstr "Sí"
 
+msgid ""
+"You are about to participate in the $<$7FAOpen Grand League$>.\n"
+"\n"
+"The placement match that will begin shortly will allow you to race on all of "
+"the 6 TMGL maps from last week.\n"
+"\n"
+"You will have %1 minutes per map to go through as many checkpoints as you "
+"can.\n"
+"\n"
+"After the placement match, you will be placed in a division ($<$DA6bronze$>, "
+"$<$CCCsilver$>, $<$CB4gold$> or $<$FE0challenger$>) to compete in a league "
+"match to earn points for the $<$7FAOpen Grand League$>."
+msgstr ""
+"Estás a punto de participar en la $<$7FAOpen Grand League$>. \n"
+" \n"
+"La partida clasificatoria empezará pronto y te permitirá correr en los 6 "
+"mapas de la TMGL de la semana pasada.\n"
+" \n"
+"Tendrás %1 minutos por mapa para atravesar tantos puntos de control como "
+"puedas. \n"
+" \n"
+"Tras la clasificatoria, se te asignará a una división ($<$DA6bronce$>, $<"
+"$CCCplata$>, $<$CB4oro$> o $<$FE0aspirante$>) para competir en una partida "
+"de liga y ganar puntos para la $<$7FAOpen Grand League$>."
+
 msgid "You are being transferred as a substitute."
 msgstr "Estás siendo transferido como sustituto."
 
@@ -3918,6 +4419,12 @@ msgid "You are disconnected from the Trackmania servers. (Error code: %1)"
 msgstr ""
 "Has sido desconectado de los servidores de Trackmania. (Código de error: %1)"
 
+msgid "You are eliminated"
+msgstr "Estás eliminado"
+
+msgid "You are in the $<%1%2$> division"
+msgstr "Estás en la división $<%1%2$>"
+
 msgid "You are in zone: %1."
 msgstr "Estás en la zona: %1."
 
@@ -3930,18 +4437,14 @@ msgstr "No te has registrado para ningún evento aún"
 msgid "You are not subscribed to any club"
 msgstr "No estás suscrito a ningún club"
 
+msgid "You are qualified"
+msgstr "Estás clasificado"
+
 msgid "You are suspended"
 msgstr "Estás suspendido"
 
 msgid "You can cancel 1 match."
 msgstr "Puedes cancelar 1 partida."
-
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr ""
-"Puedes elegir $<$00f$tcontinue$> la copa y participar en una partida de "
-"Knockout."
 
 msgid "You can create your own party by clicking on the create button below."
 msgstr "Puedes crear tu propio equipo haciendo click en el boton de abajo."
@@ -3953,6 +4456,16 @@ msgstr ""
 
 msgid "You can place only one starting point!"
 msgstr "¡Solo puedes colocar un punto de salida!"
+
+msgid "You can start qualification rounds at the same time as registration."
+msgstr ""
+"Puedes empezar las rondas de clasificación al mismo tiempo que el registro."
+
+msgid ""
+"You can start this competition 10 minutes after registration or qualification"
+msgstr ""
+"Puedes comenzar esta competición 10 minutos después del registro o la "
+"clasificación"
 
 msgid ""
 "You can test your track at any time. Press the \"test\" button to choose "
@@ -3967,8 +4480,17 @@ msgstr "No puedes acelerar hasta el próximo punto de control"
 msgid "You can't remove the starting line of the track."
 msgstr "No puedes eliminar la línea de salida del mapa."
 
+msgid "You don't have any events in progress"
+msgstr "No tienes ningún evento en progreso"
+
 msgid "You don't have any server accounts registered."
 msgstr "No tienes ninguna cuenta de servidor registrada"
+
+msgid "You finished $<$7FA%1$> in your league match"
+msgstr "Has alcanzado el puesto $<$7FA%1$> en tu partida de liga"
+
+msgid "You finished $<$7FA%1$> in your placement match"
+msgstr "Has alcanzado el puesto $<$7FA%1$> en tu partida clasificatoria"
 
 msgid ""
 "You have almost reached the maximum number of blocks that can be placed in "
@@ -3990,28 +4512,20 @@ msgid ""
 msgstr ""
 "Has sido desconectado de los servidores de Trackmania. (Código de error: %1)"
 
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"Has sido eliminado.\n"
-"[Los premios estarán disponibles en la siguiente actualización]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redireccionando al canal diario en 30s"
+msgid "You have been reconnected to Uplay."
+msgstr "Te has reconectado a UPlay."
+
+msgid "You have been reconnected to the Trackmania servers."
+msgstr "Te has reconectado a los servidores de Trackmania."
 
 msgid "You have been successfuly registered!"
 msgstr "Te has registrado correctamente"
 
 msgid "You have to place exactly one podium!"
 msgstr "¡Tienes que colocar exactamente un podio!"
+
+msgid "You haven't submitted a map yet."
+msgstr "No has enviado ningún mapa todavía."
 
 msgid "You must enter a name for your club"
 msgstr "Debes darle un nombre a tu club"
@@ -4027,6 +4541,9 @@ msgstr "Debes colocar al menos una línea de meta."
 
 msgid "You must place at least one respawnable checkpoint!"
 msgstr "¡Debes colocar al menos un punto de control reiniciable!"
+
+msgid "You must select a map for qualifications"
+msgstr "Tienes que elegir un mapa para la clasificatoria"
 
 msgid "You must select at least one map to play"
 msgstr "Debes seleccionar al menos un mapa para jugar"
@@ -4048,6 +4565,9 @@ msgstr "Tienes que elegir un modo de juego"
 msgid "You need to place a starting point!"
 msgstr "¡Debes colocar un punto de salida!"
 
+msgid "You need to set a name to the activity."
+msgstr "Necesitas poner un nombre a la actividad."
+
 msgid "You reached the maximum number of blocks. You cannot add more."
 msgstr "Has alcanzado el número máximo de bloques. No puedes añadir más."
 
@@ -4063,8 +4583,20 @@ msgstr "Tendrás que validar el mapa otra vez."
 msgid "You will soon be redirected to a match server."
 msgstr "En breve serás redirigido a un servidor de partidas."
 
+msgid "You won $<$7FA%1$> points for the Open Grand League"
+msgstr "Has ganado $<$7FA%1$> puntos para la Open Grand League"
+
+msgid "You won $<$7FA0$> points for the Open Grand League"
+msgstr "Has ganado $<$7FA0$> puntos para la Open Grand League"
+
+msgid "You won $<$7FA1$> point for the Open Grand League"
+msgstr "Has ganado $<$7FA1$> punto para la Open Grand League"
+
 msgid "Your map in less than %1 minutes"
 msgstr "Tu mapa en menos de %1 minutos"
+
+msgid "Your match is ready"
+msgstr "Tu partida está lista"
 
 msgid "Your search did not return any results"
 msgstr "Tu búsqueda no devolvió resultados"
@@ -4081,6 +4613,9 @@ msgstr "acceso club"
 msgid "controller"
 msgstr "mando"
 
+msgid "from %1"
+msgstr "del %1"
+
 msgid "max %1 characters"
 msgstr "%1 caracteres máximo"
 
@@ -4090,11 +4625,20 @@ msgstr "ok"
 msgid "per server"
 msgstr "por servidor"
 
+msgid "player online"
+msgstr "jugadores en línea"
+
+msgid "players online"
+msgstr "jugadores online"
+
 msgid "standard access"
 msgstr "acceso estándar"
 
 msgid "starter access"
 msgstr "acceso inicial"
+
+msgid "support %1: \"go %2\" in chat"
+msgstr "Animar a %1: \"go %2\" en el chat"
 
 msgid "|%1 is the number of matches|You can cancel %1 matches."
 msgstr "Puedes cancelar %1 emparejamientos."
@@ -4156,6 +4700,9 @@ msgstr "|BlockInfo|Multivuelta"
 msgid "|BlockInfo|Start"
 msgstr "|BlockInfo|Inicio"
 
+msgid "|BlockStyle - Red/black road blocks, not jump blocks|Bump"
+msgstr "|BlockStyle - Red/black road blocks, not jump blocks|Bache"
+
 msgid "|BlockStyle|Decoration"
 msgstr "|BlockStyle|Decoración"
 
@@ -4185,6 +4732,9 @@ msgstr "|Blocks|Recientes"
 
 msgid "|Camera|Follow"
 msgstr "|Camera|Seguimiento"
+
+msgid "|Camera|Follow all"
+msgstr "|Camera|Seguir a todos"
 
 msgid "|Camera|Free"
 msgstr "|Camera|Libre"
@@ -4364,6 +4914,9 @@ msgstr "|Club|Club VIP"
 msgid "|Club|Description"
 msgstr "|Club|Descripción"
 
+msgid "|Club|Feature"
+msgstr "|Club|Destacar"
+
 msgid "|Club|Global VIP"
 msgstr "|Club|VIP Global"
 
@@ -4379,11 +4932,20 @@ msgstr "|Club|Miembro"
 msgid "|Club|Members"
 msgstr "|Club|Miembros"
 
+msgid "|Club|Pin club"
+msgstr "|Club|Fijar club"
+
 msgid "|Club|Privacy"
 msgstr "|Club|Privacidad"
 
 msgid "|Club|Requests"
 msgstr "|Club|Solicitudes"
+
+msgid "|Club|Unfeature"
+msgstr "|Club|No destacar"
+
+msgid "|Club|Unpin club"
+msgstr "|Club|Desfijar club"
 
 msgid "|Club|VIP"
 msgstr "|Club|VIP"
@@ -4394,8 +4956,20 @@ msgstr "|Club|solicitud"
 msgid "|Club|requests"
 msgstr "|Club|solicitudes"
 
+msgid "|Competition|Entry"
+msgstr "|Competition|Participación"
+
+msgid "|Competition|Infos"
+msgstr "|Competition|Información"
+
+msgid "|Competition|Map Pool"
+msgstr "|Competition|Mapas"
+
 msgid "|Competition|Matches"
 msgstr "|Competition|Partidas"
+
+msgid "|Competition|Rounds"
+msgstr "|Competition|Rondas"
 
 msgid "|DataType|Campaign"
 msgstr "|DataType|Campaña"
@@ -4487,11 +5061,53 @@ msgstr "|GameMode|Contrarreloj"
 msgid "|Gamepad progress step|Decoration"
 msgstr "|Gamepad progress step|Decoración"
 
+msgid "|Ghost|Replay"
+msgstr "|Ghost|Repetición"
+
+msgid "|ImageType|Background"
+msgstr "|ImageType|Fondo"
+
+msgid "|ImageType|Decal"
+msgstr "|ImageType|Vinilo"
+
+msgid "|ImageType|Decal sponsor"
+msgstr "|ImageType|Vinilo de patrocinador"
+
+msgid "|ImageType|Icon"
+msgstr "|ImageType|Icono"
+
+msgid "|ImageType|Logo"
+msgstr "|ImageType|Logo"
+
+msgid "|ImageType|Screen 16x1"
+msgstr "|ImageType|Pantalla 16x1"
+
+msgid "|ImageType|Screen 16x9"
+msgstr "|ImageType|Pantalla 16x9"
+
+msgid "|ImageType|Screen 8x1"
+msgstr "|ImageType|Pantalla 8x1"
+
 msgid "|ImageType|Unknown"
 msgstr "|ImageType|Desconocido"
 
+msgid "|ImageType|Vertical"
+msgstr "|ImageType|Vertical"
+
 msgid "|Image|Background"
 msgstr "|Image|Fondo"
+
+msgid "|Image|Decal"
+msgstr "|Image|Vinilo"
+
+msgid "|Image|Icon"
+msgstr "|Image|Icono"
+
+msgid "|Image|Logo"
+msgstr "|Image|Logo"
+
+msgid "|Image|Screen"
+msgstr "|Image|Pantalla"
 
 msgid "|Image|Vertical"
 msgstr "|Image|Vertical"
@@ -4907,11 +5523,17 @@ msgstr "|Month 3 letters|Oct %1"
 msgid "|Month 3 letters|Sep %1"
 msgstr "|Month 3 letters|Sep %1"
 
+msgid "|Mouse|Scroll"
+msgstr "|Mouse|Desplazamiento"
+
 msgid "|Move camera|Camera"
 msgstr "|Move camera|Cámara"
 
 msgid "|Navigation|Back"
 msgstr "|Navigation|Atrás"
+
+msgid "|NextPage|Next"
+msgstr "|NextPage|Siguiente"
 
 msgid "|PC|the directional buttons"
 msgstr "|PC|los botones direccionales"
@@ -4952,6 +5574,9 @@ msgstr "|Press xx to start|Presiona"
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|para empezar"
 
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|Anterior"
+
 msgid "|Race|Lap"
 msgstr "|Race|Vuelta"
 
@@ -4981,6 +5606,9 @@ msgstr "|RankingZone|Zona"
 
 msgid "|Rank|from %1"
 msgstr "|Rank|del %1"
+
+msgid "|Recreate automatic decoration|Reroll decoration"
+msgstr "|Recreate automatic decoration|Editar decoración"
 
 msgid "|ReplayVerb|Edit"
 msgstr "|ReplayVerb|Editar"
@@ -5104,12 +5732,6 @@ msgstr "|Status|Finalista"
 
 msgid "|Status|K.O."
 msgstr "|Status|K.O."
-
-msgid "|Status|K.O. #%1"
-msgstr "|Status|K.O. #%1"
-
-msgid "|Status|Racing"
-msgstr "|Status|Corriendo"
 
 msgid "|Status|Winner"
 msgstr "|Status|Ganador"

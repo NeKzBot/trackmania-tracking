@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 18:00+0000\n"
+"PO-Revision-Date: 2020-11-03 21:45+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -1853,6 +1853,9 @@ msgstr "Copiar Seleção [CTRL+C]"
 
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Copiar Seleção [Ctrl+C]"
+
+msgid "Copy account id"
+msgstr "Copiar ID da conta"
 
 msgid "Copy server link"
 msgstr "Copie link do server"
@@ -6652,7 +6655,7 @@ msgid "Skinning Mode (F4)"
 msgstr "Modo Skinning (F3)"
 
 msgid "Skinning Mode [F5]"
-msgstr "Modo Skinning"
+msgstr "Modo Skinning [F5]"
 
 msgid "Skip match in comments"
 msgstr "Pular resultados em comentários"
@@ -10617,6 +10620,9 @@ msgstr "|LightMapQuality|Nenhuma"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|Ultra2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Muito Rápida"
 
@@ -10664,6 +10670,18 @@ msgstr "|MapLight|Qualidade"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|Sombras"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Dia"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Noite"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Nascer do sol"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Pôr do sol"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|Muito Rápida"
@@ -10744,7 +10762,7 @@ msgid "|MediaTracker Camera values|Show anchor"
 msgstr "|MediaTracker Camera values|Mostrar âncora"
 
 msgid "|MediaTracker Camera values|Target"
-msgstr "Alvo"
+msgstr "|MediaTracker Camera values|Alvo"
 
 msgid "|MediaTracker Camera values|Target offset (x, y, z)"
 msgstr "|MediaTracker Camera values|Deslocamento do alvo (x, y, z)"
@@ -11005,7 +11023,7 @@ msgid "|MediaTracker block type|2D Decals"
 msgstr "Decalques 2D"
 
 msgid "|MediaTracker block type|2D Triangles"
-msgstr "Triângulos 2D"
+msgstr "|MediaTracker block type|Triângulos 2D"
 
 msgid "|MediaTracker block type|3D Triangles"
 msgstr "|MediaTracker block type|Triângulos 3D"
@@ -11062,7 +11080,7 @@ msgid "|MediaTracker block type|Fading transition"
 msgstr "Transição de Desvanecimento"
 
 msgid "|MediaTracker block type|Fog"
-msgstr "Nevoeiro"
+msgstr "|MediaTracker block type|Nevoeiro"
 
 msgid "|MediaTracker block type|Ghost"
 msgstr "Fantasma"
@@ -11077,7 +11095,7 @@ msgid "|MediaTracker block type|Inertial tracking CamFX"
 msgstr "Efeito de Câmera Inercial"
 
 msgid "|MediaTracker block type|Interface"
-msgstr "Interface"
+msgstr "|MediaTracker block type|Interface"
 
 msgid "|MediaTracker block type|Lightmap"
 msgstr "Mapa de Luz"
@@ -11128,7 +11146,7 @@ msgid "|MediaTracker block type|Sound FX"
 msgstr "|MediaTracker block type|Som FX"
 
 msgid "|MediaTracker block type|Stereo 3D"
-msgstr "3D estéreo"
+msgstr "|MediaTracker block type|3D estéreo"
 
 msgid "|MediaTracker block type|Text"
 msgstr "|MediaTracker block type|Texto"

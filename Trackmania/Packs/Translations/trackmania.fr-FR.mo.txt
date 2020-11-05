@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 18:34+0000\n"
+"PO-Revision-Date: 2020-11-03 11:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -837,7 +837,7 @@ msgid "Club rooms"
 msgstr "Salons des clubs"
 
 msgid "Club skins"
-msgstr "Skins du club"
+msgstr "Skins de club"
 
 msgid "Club update failed. Please try again. (Error %1)"
 msgstr "La mise à jour du club a échoué. Veuillez réessayer. (Erreur %1)"
@@ -1058,12 +1058,6 @@ msgstr "DIRECTEURS"
 
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "manette sans fil \"DUALSHOCK®4\""
-
-msgid "Daily Cup Knockout"
-msgstr "Coupe Elimination journalière"
-
-msgid "Daily cup"
-msgstr "Coupe journalière"
 
 msgid "Daily map"
 msgstr "Circuit du jour"
@@ -1649,12 +1643,6 @@ msgstr ""
 msgid "Give up"
 msgstr "Abandonner"
 
-msgid "Give up %1"
-msgstr "Abandonner %1"
-
-msgid "Give up Daily cup?"
-msgstr "Abandonner la Coupe Journalière ?"
-
 msgid "Go back to the menu to see the results."
 msgstr "Revenez au menu pour voir les résultats."
 
@@ -1748,13 +1736,6 @@ msgid "If you choose a landscape, you might lose all of your progress."
 msgstr ""
 "Si vous choisissez un paysage, vous risquez de perdre tous vos progrès."
 
-msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
-msgstr ""
-"Si vous abandonnez, vous serez capable de continuer de jouer sur la chaîne "
-"mais pas de participer au match journalier d'Elimination."
-
 msgid "Image browser"
 msgstr "Explorateur d'images"
 
@@ -1842,9 +1823,6 @@ msgstr "KOs par tour"
 
 msgid "Knocked out players"
 msgstr "Joueurs éliminés"
-
-msgid "Knockout match starts in %1"
-msgstr "Le match d'Elimination démarre dans %1"
 
 msgid "Knockout mode"
 msgstr "Mode Knockout"
@@ -2181,9 +2159,6 @@ msgstr ""
 msgid "Maps list already full"
 msgstr "La liste de circuits est déjà pleine"
 
-msgid "Match found!"
-msgstr "Match trouvé !"
-
 msgid "Match is over"
 msgstr "Partie terminée"
 
@@ -2397,9 +2372,6 @@ msgstr "Aucun club"
 msgid "No daily map found to display the rankings"
 msgstr "Aucun circuit quotidien trouvé pour afficher les classements"
 
-msgid "No elimination on first round"
-msgstr "Pas d'élimination sur le premier tour"
-
 msgid "No events"
 msgstr "Aucun évènement"
 
@@ -2594,9 +2566,6 @@ msgstr "Page Bas"
 msgid "Page Up"
 msgstr "Page Haut"
 
-msgid "Participation registered!"
-msgstr "Participation enregistrée !"
-
 msgid "Password"
 msgstr "Mot de passe"
 
@@ -2685,9 +2654,6 @@ msgstr "Jouer hors ligne"
 msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr "Jouez en solo et en multijoueur sur 25 nouvelles cartes chaque saison"
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "Jouer l'Elimination journalière"
-
 msgid "Player Best Time"
 msgstr "Meilleur Temps du Joueur"
 
@@ -2712,18 +2678,14 @@ msgstr "Joueurs par match"
 msgid "Players will be rewarded as follows"
 msgstr "Les joueurs seront récompensés comme suit"
 
+msgid "Playing on %1"
+msgstr "Jouant sur %1"
+
 msgid "Please reconnect the %1"
 msgstr "Veuillez reconnecter la %1"
 
 msgid "Please select your %1"
 msgstr "Veuillez sélectionner votre %1"
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr ""
-"Veuillez rester sur la chaîne jusqu'à ce que l'Elimination démarre. Vous "
-"allez être automatiquement redirigé quand le match sera prêt."
 
 msgid "Please wait."
 msgstr "Veuillez patienter."
@@ -2870,7 +2832,7 @@ msgid "Quarter-final"
 msgstr "Quart de finale"
 
 msgid "Quick start is enabled"
-msgstr "Démarrage rapide est activé"
+msgstr "Démarrage rapide activé"
 
 msgid "Quit"
 msgstr "Quitter"
@@ -2880,9 +2842,6 @@ msgstr "Quitter l'éditeur"
 
 msgid "Quit plugin"
 msgstr "Quitter le plugin"
-
-msgid "Quit%1"
-msgstr "Quitter%1"
 
 msgid "R&D ENGINEER"
 msgstr "INGÉNIEUR R&D"
@@ -4341,9 +4300,6 @@ msgstr "En attente de joueurs"
 msgid "Waiting for your allies to be ready."
 msgstr "Attendez vos alliés pour être prêt."
 
-msgid "Waiting for your match"
-msgstr "En attente de votre match"
-
 msgid "Waiting for your match to start"
 msgstr "En attente du commencement du match"
 
@@ -4382,37 +4338,6 @@ msgstr "Bienvenue dans Trackmania"
 
 msgid "Welcome to the %1 server."
 msgstr "Bienvenue sur le serveur %1."
-
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"Bienvenue à la coupe journalière Nadeo\n"
-"\n"
-"Conduis pendant 10 minutes sur le circuit d'aujourd'hui. Vous pourrez "
-"ensuite rejoindre la phase à élimination directe et gagner encore plus de "
-"trophées. \n"
-"Vous pouvez voir votre classement mondial parmi tous les serveurs à droite "
-"de votre écran."
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"Bienvenue à la coupe journalière Nadeo!\n"
-"\n"
-"Conduis pendant 10 minutes sur le circuit d'aujourd'hui. Vous pourrez "
-"ensuite rejoindre la phase à élimination directe et gagner encore plus de "
-"trophées. \n"
-"Vous pouvez voir votre classement mondial parmi tous les serveurs à droite "
-"de votre écran. Bonne chance!"
 
 msgid "Welcome to the Open Grand League"
 msgstr "Bienvenue dans l'Open Grand League"
@@ -4540,13 +4465,6 @@ msgstr "Vous êtes suspendu"
 msgid "You can cancel 1 match."
 msgstr "Vous pouvez annuler 1 match."
 
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr ""
-"Vous pouvez choisir de <$00f$tcontinuer$> la coupe et participer à un match "
-"d'Élimination."
-
 msgid "You can create your own party by clicking on the create button below."
 msgstr ""
 "Vous pouvez créer votre propre groupe en cliquant sur le bouton créer ci-"
@@ -4616,23 +4534,6 @@ msgstr "Vous avez été déconnecté des serveurs Trackmania."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Vous avez été déconnecté des serveurs Trackmania.(Code Erreur : %1)"
-
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"Vous avez été éliminé.\n"
-"[La récompense sera disponible dans une mise à jour future]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection sur la chaîne journalière dans 30s"
 
 msgid "You have been reconnected to Uplay."
 msgstr "Vous avez été reconnecté à Uplay."
@@ -4721,6 +4622,9 @@ msgstr "Votre circuit dans moins de %1 minutes"
 
 msgid "Your match is ready"
 msgstr "Votre match est prêt"
+
+msgid "Your next match is ready."
+msgstr "Votre prochain match est prêt."
 
 msgid "Your search did not return any results"
 msgstr "La recherche n'a donné aucun résultat"
@@ -5864,12 +5768,6 @@ msgstr "Finaliste"
 
 msgid "|Status|K.O."
 msgstr "K.O."
-
-msgid "|Status|K.O. #%1"
-msgstr "K.O. #%1"
-
-msgid "|Status|Racing"
-msgstr "Coureur"
 
 msgid "|Status|Winner"
 msgstr "Gagnant"

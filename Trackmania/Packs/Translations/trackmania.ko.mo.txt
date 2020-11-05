@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:46+0000\n"
+"PO-Revision-Date: 2020-11-03 11:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-msgid "$%1Author"
-msgstr "$%1작성자"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>님은 로비의 왕입니다!"
@@ -184,8 +181,17 @@ msgstr "%1 맵"
 msgid "%1 player"
 msgstr "플레이어 %1"
 
+msgid "%1 player will be eliminated"
+msgstr "%1명의 플레이어가 탈락합니다"
+
 msgid "%1 players"
 msgstr "플레이어 %1명"
+
+msgid "%1 players eliminated"
+msgstr "플레이어 %1명 탈락"
+
+msgid "%1 players will be eliminated"
+msgstr "%1명의 플레이어가 합니다"
 
 msgid "%1 points"
 msgstr "%1 포인트"
@@ -223,6 +229,9 @@ msgstr "%1최고의 CP %2"
 msgid "%1Best race"
 msgstr "%1최고의 레이스"
 
+msgid "%1Next round in %2s"
+msgstr "%2초 뒤에 %1다음 라운드가 시작됩니다"
+
 msgid "%1Personal best"
 msgstr "%1개인 최고기록"
 
@@ -231,6 +240,9 @@ msgstr "0 포인트"
 
 msgid "1 player"
 msgstr "플레이어 1명"
+
+msgid "1 player eliminated"
+msgstr "플레이어 1명 탈락"
 
 msgid "1 point"
 msgstr "1 포인트"
@@ -516,6 +528,12 @@ msgstr "동메달"
 msgid "Browse"
 msgstr "검색하기"
 
+msgid "Browse a custom mode..."
+msgstr "커스텀 모드 탐색..."
+
+msgid "Browse match settings"
+msgstr "매치 설정 탐색"
+
 msgid "Build your track and place a finish block to complete it."
 msgstr "트랙을 생성한 후, 종료하고 싶은 지점에 결승점 블록을 두십시오."
 
@@ -743,6 +761,9 @@ msgstr "그들의 파티에 참여시킬 플레이어를 클릭하십시오."
 msgid "Click on a player to set them as ally."
 msgstr "아군으로 설정할 플레이어를 클릭하십시오."
 
+msgid "Click on another map to swap its position with the selected one"
+msgstr "선택한 맵과 위치를 바꾸기 위해 다른 맵을 클릭하십시오."
+
 msgid "Click on the UI modules to edit their properties"
 msgstr "UI 모듈을 클릭해 속성을 변경하십시오"
 
@@ -883,6 +904,9 @@ msgstr "클럽 만들기"
 msgid "Create competition"
 msgstr "대회 생성"
 
+msgid "Create local server"
+msgstr "로컬 서버 생성"
+
 msgid "Create map"
 msgstr "맵 만들기"
 
@@ -934,6 +958,9 @@ msgstr "크레딧"
 
 msgid "Cumulate team points :"
 msgstr "팀 포인트 누적:"
+
+msgid "Cup mode"
+msgstr "컵 모드"
 
 msgid "Current map"
 msgstr "현재 지도"
@@ -1000,12 +1027,6 @@ msgstr "DIRECTORS"
 
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "DUALSHOCK®4 무선 컨트롤러"
-
-msgid "Daily Cup Knockout"
-msgstr "데일리 컵 녹아웃"
-
-msgid "Daily cup"
-msgstr "데일리 컵"
 
 msgid "Daily map"
 msgstr "일일 맵"
@@ -1377,6 +1398,13 @@ msgstr ""
 "경기 결과를 로딩하는 중 에러가 발생했습니다. 나중에 다시 시도하십시오. (에러 "
 "코드: %1)"
 
+msgid ""
+"Error while loading the user ranking, please try again later. (Error code: "
+"%1)"
+msgstr ""
+"사용자 랭킹 로딩 중 에러가 발생했습니다. 나중에 다시 시도해 주십시오. (에러 "
+"코드: %1)"
+
 msgid "Error while loading trophies (code: %1)"
 msgstr "트로피 로딩 중 에러 발생(코드: %1)"
 
@@ -1464,6 +1492,9 @@ msgstr ""
 msgid "Fifth (Press 5)"
 msgstr "5위(5를 누르세요)"
 
+msgid "Final Rank"
+msgstr "최종 랭킹"
+
 msgid "Finish timeout"
 msgstr "종료 타임아웃"
 
@@ -1527,6 +1558,9 @@ msgstr "GROUP RELEASE MANAGER"
 msgid "Game mode"
 msgstr "게임 모드"
 
+msgid "Game mode:"
+msgstr "게임 모드:"
+
 msgid "Game mode: %1"
 msgstr "게임 모드: %1"
 
@@ -1553,12 +1587,6 @@ msgstr "리플레이, 스킨 및 간단 트랙 편집기를 획득하십시오."
 
 msgid "Give up"
 msgstr "포기"
-
-msgid "Give up %1"
-msgstr "%1 포기"
-
-msgid "Give up Daily cup?"
-msgstr "일일 컵을 포기하시겠습니까?"
 
 msgid "Go back to the menu to see the results."
 msgstr "결과를 보려면 메뉴로 돌아가십시오."
@@ -1595,6 +1623,9 @@ msgstr "HQ 프로듀서"
 
 msgid "HR SPECIALIST"
 msgstr "HR 주임"
+
+msgid "Half the players will be qualified for the next round"
+msgstr "플레이어 중 절반이 통과하여 다음 라운드로 갑니다"
 
 msgid "Help"
 msgstr "도움말"
@@ -1648,13 +1679,6 @@ msgstr ""
 
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "풍경을 선택하면 진행 내용이 삭제될 수 있습니다."
-
-msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
-msgstr ""
-"포기하시면 채널에서 계속 플레이할 수는 있지만, 일일 녹아웃 매치에는 참여할 "
-"수 없습니다."
 
 msgid "Image browser"
 msgstr "이미지 브라우저"
@@ -1740,8 +1764,11 @@ msgstr "KNOWLEDGE SPECIALIST"
 msgid "KOs per round"
 msgstr "라운드당 KO"
 
-msgid "Knockout match starts in %1"
-msgstr "녹아웃 매치 %1 후 시작"
+msgid "Knocked out players"
+msgstr "녹아웃된 플레이어"
+
+msgid "Knockout mode"
+msgstr "녹아웃 모드"
 
 msgid "L1 button"
 msgstr "L1 버튼"
@@ -1820,6 +1847,9 @@ msgstr "풍경"
 
 msgid "Lap %1"
 msgstr "랩 %1"
+
+msgid "Lap %1/%2"
+msgstr "랩 %1/%2"
 
 msgid "Last time"
 msgstr "마지막 시간"
@@ -2067,9 +2097,6 @@ msgstr "맵을 업로드하지 못했습니다. 다시 시도하십시오. (오�
 msgid "Maps list already full"
 msgstr "맵 목록이 이미 가득 찼습니다"
 
-msgid "Match found!"
-msgstr "매치 발견!"
-
 msgid "Match is over"
 msgstr "경기가 끝났습니다"
 
@@ -2204,6 +2231,12 @@ msgstr "신규 기록 비활성화됨"
 
 msgid "New season in %1"
 msgstr "%1에 새로운 시즌이 시작됩니다"
+
+msgid "New season in %1 day and %2 hour"
+msgstr "%1일 %2시간 이후 새 시즌 시작"
+
+msgid "New season in %1 day and %2 hours"
+msgstr "%1일 %2시간 이후 새 시즌 시작"
 
 msgid "New season in %1 days"
 msgstr "%1일 후에 새로운 시즌이 시작됩니다"
@@ -2466,9 +2499,6 @@ msgstr "페이지 아래로"
 msgid "Page Up"
 msgstr "페이지 위로"
 
-msgid "Participation registered!"
-msgstr "참여가 등록되었습니다!"
-
 msgid "Password"
 msgstr "암호"
 
@@ -2558,9 +2588,6 @@ msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr ""
 "매 시즌 새로운 맵 25개를 혼자 또는 여러 사람과 함께 플레이할 수 있습니다."
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "일일 라운드 녹아웃을 플레이하십시오"
-
 msgid "Player Best Time"
 msgstr "플레이어 최고 기록"
 
@@ -2585,18 +2612,14 @@ msgstr "경기 당 플레이어 수"
 msgid "Players will be rewarded as follows"
 msgstr "플레이어는 다음과 같은 보상을 받습니다"
 
+msgid "Playing on %1"
+msgstr "%1에서 플레이 중"
+
 msgid "Please reconnect the %1"
 msgstr "%1와 다시 연결하십시오."
 
 msgid "Please select your %1"
 msgstr "%1을(를) 선택하십시오."
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr ""
-"녹아웃이 시작될 때까지 채널에 머무십시오. 매치가 준비되면 자동으로 이동됩니"
-"다."
 
 msgid "Please wait."
 msgstr "잠시만 기다리십시오."
@@ -2738,6 +2761,9 @@ msgstr "수량"
 msgid "Quarter-final"
 msgstr "준준결승"
 
+msgid "Quick start is enabled"
+msgstr "빠른 시작 가능"
+
 msgid "Quit"
 msgstr "나가기"
 
@@ -2746,9 +2772,6 @@ msgstr "에디터 종료"
 
 msgid "Quit plugin"
 msgstr "플러그인 중단"
-
-msgid "Quit%1"
-msgstr "나가기%1"
 
 msgid "R&D ENGINEER"
 msgstr "R&D ENGINEER"
@@ -3291,6 +3314,9 @@ msgstr "공개로 설정"
 msgid "Set/Unset as favorite"
 msgstr "즐겨찾기로 설정/취소"
 
+msgid "Settings name"
+msgstr "설정 이름"
+
 msgid "Seventh (Press 7)"
 msgstr "7위(7을 누르세요)"
 
@@ -3500,6 +3526,12 @@ msgstr "커스텀 스킨을 사용하려면 Trackmania %1에 가입하십시오.
 msgid "Sunday"
 msgstr "일요일"
 
+msgid "Swap maps"
+msgstr "맵 바꾸기"
+
+msgid "Swap with this map"
+msgstr "이 맵으로 바꾸기"
+
 msgid "Switch"
 msgstr "변경"
 
@@ -3624,6 +3656,9 @@ msgstr "클럽 이름은 최소 %1자 최대 %2자여야 합니다"
 
 msgid "The club tag has a minimum of %1 and a maximum of %2 characters"
 msgstr "클럽 태그는 최소 %1자 최대 %2자여야 합니다"
+
+msgid "The competition is a tournament bracket"
+msgstr "경기는 토너먼트 대진표에 따라 진행됩니다"
 
 msgid ""
 "The creation of this competition failed, please try again (Error code: %1 %2)"
@@ -4133,9 +4168,6 @@ msgstr "플레이어 기다리는 중"
 msgid "Waiting for your allies to be ready."
 msgstr "아군의 준비를 기다리는 중입니다."
 
-msgid "Waiting for your match"
-msgstr "내 매치 기다리는 중"
-
 msgid "Waiting for your match to start"
 msgstr "매치 시작을 기다리는 중"
 
@@ -4174,33 +4206,6 @@ msgstr "Trackmania에 잘 오셨습니다."
 
 msgid "Welcome to the %1 server."
 msgstr "%1 서버에 오신 것을 환영합니다."
-
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"Nadeo 일일 컵에 오신 것을 환영합니다\n"
-"\n"
-"오늘의 맵에서 10분 동안 레이스를 펼치십시오. 후에 녹아웃 단계에 참여해 더 많"
-"은 트로피를 획득할 수 있습니다. \n"
-"화면 오른쪽에서 모든 서버에 걸친 전체 랭킹을 볼 수 있습니다."
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"Nadeo 일일 컵에 오신 것을 환영합니다!\n"
-"\n"
-"오늘의 맵에서 10분 동안 레이스를 펼치십시오. 후에 녹아웃 단계에 참여해 더 많"
-"은 트로피를 획득할 수 있습니다. \n"
-"화면 오른쪽에서 모든 서버에 걸친 전체 랭킹을 볼 수 있습니다. 행운을 빕니다!"
 
 msgid "Welcome to the Open Grand League"
 msgstr "오픈 그랜드 리그에 오신 것을 환영합니다"
@@ -4326,11 +4331,6 @@ msgstr "플레이가 중단되었습니다"
 msgid "You can cancel 1 match."
 msgstr "매치를 1번 취소할 수 있습니다."
 
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr "컵을 $<$00f$t계속$>하고 녹아웃 매치에 참여하도록 선택할 수 있습니다."
-
 msgid "You can create your own party by clicking on the create button below."
 msgstr "아래의 생성 버튼을 클릭해 자신의 파티를 만들 수 있습니다."
 
@@ -4391,23 +4391,6 @@ msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Trackmania 서버와의 연결이 끊어졌습니다. (오류 코드: %1)"
 
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"탈락하셨습니다.\n"
-"[이후의 업데이트에서 보상을 받을 수 있습니다]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"30초 안에 일일 채널로 이동"
-
 msgid "You have been reconnected to Uplay."
 msgstr "Uplay에 다시 연결되었습니다."
 
@@ -4437,6 +4420,9 @@ msgstr "최소 한 개의 결승선을 배치해야 합니다!"
 
 msgid "You must place at least one respawnable checkpoint!"
 msgstr "적어도 하나 이상의 부활 체크포인트를 제작해야 합니다."
+
+msgid "You must select a map for qualifications"
+msgstr "예선전을 위해 맵을 선택해야 합니다"
 
 msgid "You must select at least one map to play"
 msgstr "플레이할 맵을 하나 이상 선택해야 합니다"
@@ -4489,6 +4475,9 @@ msgstr "지도 검토까지 %1 분 이하"
 msgid "Your match is ready"
 msgstr "매치가 준비되었습니다."
 
+msgid "Your next match is ready."
+msgstr "다음 경기가 준비되었습니다."
+
 msgid "Your search did not return any results"
 msgstr "검색 결과가 없습니다."
 
@@ -4515,6 +4504,12 @@ msgstr "확인"
 
 msgid "per server"
 msgstr "서버 당"
+
+msgid "player online"
+msgstr "명의 플레이어 접속 중"
+
+msgid "players online"
+msgstr "명의 플레이어 접속 중"
 
 msgid "standard access"
 msgstr "스탠다드 액세스"
@@ -4728,15 +4723,6 @@ msgstr "|Campaign|알 수 없음"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|뒤로 가기"
-
-msgid "|Champion|%1End of warmup, Final phase starting"
-msgstr "|Champion|%1워밍업을 마치고 결승 단계를 시작하는 중"
-
-msgid "|Champion|%1End of warmup, Opening phase starting"
-msgstr "|Champion|%1워밍업을 마치고 개막 단계를 시작하는 중"
-
-msgid "|Champion|%1End of warmup, Semi-Final phase starting"
-msgstr "|Champion|%1워밍업을 마치고 준결승 단계를 시작하는 중"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|결승 단계"
@@ -5390,6 +5376,9 @@ msgstr "|Move camera|카메라"
 msgid "|Navigation|Back"
 msgstr "|Navigation|뒤로"
 
+msgid "|NextPage|Next"
+msgstr "|NextPage|다음"
+
 msgid "|PC|the directional buttons"
 msgstr "|PC|방향 버튼"
 
@@ -5428,6 +5417,9 @@ msgstr "|Press xx to start|시작하려면"
 
 msgid "|Press xx to start|to start"
 msgstr "|Press xx to start|을 누르십시오"
+
+msgid "|PreviousPage|Previous"
+msgstr "|PreviousPage|이전"
 
 msgid "|Race|Lap"
 msgstr "|Race|랩"
@@ -5585,12 +5577,6 @@ msgstr "|Status|결승 진출자"
 msgid "|Status|K.O."
 msgstr "|Status|KO"
 
-msgid "|Status|K.O. #%1"
-msgstr "|Status|KO %1위"
-
-msgid "|Status|Racing"
-msgstr "|Status|레이싱 중"
-
 msgid "|Status|Winner"
 msgstr "|Status|우승"
 
@@ -5683,9 +5669,6 @@ msgstr "|Zone|남미"
 
 msgid "|Zone|World"
 msgstr "|Zone|세계"
-
-msgid "|in n seconds|Starting in %1s"
-msgstr "|in n seconds|%1초 후에 시작"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|분"

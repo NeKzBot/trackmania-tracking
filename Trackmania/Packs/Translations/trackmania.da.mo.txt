@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:46+0000\n"
+"PO-Revision-Date: 2020-11-03 11:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-msgid "$%1Author"
-msgstr "$%1Skaber"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> er Kongen af lobbyen!"
@@ -981,12 +978,6 @@ msgstr "DIRECTORS"
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "DUALSHOCK®4 Trådløs Controller"
 
-msgid "Daily Cup Knockout"
-msgstr "Daglig Turnering-Knockout"
-
-msgid "Daily cup"
-msgstr "Daglig turnering"
-
 msgid "Daily map"
 msgstr "Daglig bane"
 
@@ -1487,12 +1478,6 @@ msgstr "Få gengivelse-, skin- og simpel bane-editorerne"
 msgid "Give up"
 msgstr "Giv op"
 
-msgid "Give up %1"
-msgstr "Giv op %1"
-
-msgid "Give up Daily cup?"
-msgstr "Opgiv daglig turnering?"
-
 msgid "Go back to the menu to see the results."
 msgstr "Gå tilbage til menuen for at se resultaterne."
 
@@ -1578,13 +1563,6 @@ msgstr ""
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Hvis du vælger et landskab, vil du måske miste alle dine fremskridt."
 
-msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
-msgstr ""
-"Hvis du giver op, vil du kunne fortsætte med at spille i kanalen, men du vil "
-"ikke deltage i den daglige Knockout-kamp."
-
 msgid "Image browser"
 msgstr "Billed-browser"
 
@@ -1665,9 +1643,6 @@ msgstr "KNOWLEDGE SPECIALIST"
 
 msgid "KOs per round"
 msgstr "KOs per runde"
-
-msgid "Knockout match starts in %1"
-msgstr "Knockout-kamp starter om %1"
 
 msgid "L1 button"
 msgstr "L1-knap"
@@ -1987,9 +1962,6 @@ msgstr "Baner kunne ikke uploades. Forsøg venligst igen. (Fejl: %1)"
 
 msgid "Maps list already full"
 msgstr "Listen med baner er allerede fuld"
-
-msgid "Match found!"
-msgstr "Kamp fundet!"
 
 msgid "Match is over"
 msgstr "Kampen er ovre"
@@ -2371,9 +2343,6 @@ msgstr "Page Down"
 msgid "Page Up"
 msgstr "Page Up"
 
-msgid "Participation registered!"
-msgstr "Deltagelse registreret!"
-
 msgid "Password"
 msgstr "Kodeord"
 
@@ -2456,9 +2425,6 @@ msgstr "Spil offline"
 msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr "Spil alene og flere spillere på 25 nye baner hver sæson"
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "Spil den Daglige Runde-Knockout"
-
 msgid "Player Best Time"
 msgstr "Spiller Bedste Tid"
 
@@ -2491,13 +2457,6 @@ msgstr "Forbind venligst igen %1"
 
 msgid "Please select your %1"
 msgstr "Vælg venligst dit %1"
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr ""
-"Bliv venligst i kanalen, indtil Knockouten begynder. Du vil automatisk blive "
-"viderestillet, når din kamp er klar."
 
 msgid "Please wait."
 msgstr "Vent venligst."
@@ -2630,9 +2589,6 @@ msgstr "Forlad editor"
 
 msgid "Quit plugin"
 msgstr "Forlad plug-in"
-
-msgid "Quit%1"
-msgstr "Afslut%1"
 
 msgid "R&D ENGINEER"
 msgstr "R&D ENGINEER"
@@ -3954,9 +3910,6 @@ msgstr "Venter på spillere"
 msgid "Waiting for your allies to be ready."
 msgstr "Venter på, at dine allierede er klar."
 
-msgid "Waiting for your match"
-msgstr "Afventer din kamp"
-
 msgid "Waiting for your match to start"
 msgstr "Venter på, at din kamp starter"
 
@@ -3992,35 +3945,6 @@ msgstr "Velkommen til Trackmania"
 
 msgid "Welcome to the %1 server."
 msgstr "Velkommen til %1 serveren."
-
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"Velkommen til Nadeo's daglige turnering!\n"
-"\n"
-"Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
-"bagefter, og optjene endnu flere trofæer.\n"
-"Du kan se din globale rangering blandt alle servere i højre side af din "
-"skærm."
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"Velkommen til Nadeo's daglige turnering!\n"
-"\n"
-"Ræs i 10 minutter på dagens bane. Du vil kunne deltage i knockout-fasen "
-"bagefter, og optjene endnu flere trofæer.\n"
-"Du kan se din globale rangering blandt alle servere i højre side af din "
-"skærm. Held og lykke!"
 
 msgid "Welcome to the Open Grand League"
 msgstr "Velkommen til Open Grand League"
@@ -4133,13 +4057,6 @@ msgstr "Du er udelukket"
 msgid "You can cancel 1 match."
 msgstr "Du kan annullere 1 kamp."
 
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr ""
-"Du kan vælge at $<$00f$tfortsætte$> turneringen og deltage i en Knockout-"
-"kamp."
-
 msgid "You can create your own party by clicking on the create button below."
 msgstr ""
 "Du kan oprette din egen gruppe ved at klikke på opret-knappen forneden."
@@ -4191,23 +4108,6 @@ msgstr "Du er blevet afbrudt fra Trackmania serverne."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Du er blevet afbrudt fra Trackmania-serverne. (Fejlkode: %1)"
-
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"Du er blevet elimineret.\n"
-"[Belønning vil være tilgængelig i nærmere opdatering]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Omdirigering til den daglige kanal om 30s"
 
 msgid "You have been successfuly registered!"
 msgstr "Du er blevet registreret!"
@@ -4280,6 +4180,9 @@ msgstr "Din bane om mindre end %1 minutter"
 
 msgid "Your match is ready"
 msgstr "Din kamp er klar"
+
+msgid "Your next match is ready."
+msgstr "Din næste kamp er klar."
 
 msgid "Your search did not return any results"
 msgstr "Din søgning gav ingen resultater"
@@ -4514,15 +4417,6 @@ msgstr "|Campaign|Ukendt"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|Tilbage"
-
-msgid "|Champion|%1End of warmup, Final phase starting"
-msgstr "|Champion|%1Opvarmning slut. Finalefasen starter"
-
-msgid "|Champion|%1End of warmup, Opening phase starting"
-msgstr "|Champion|%1Opvarmning slut. Åbningsfasen starter"
-
-msgid "|Champion|%1End of warmup, Semi-Final phase starting"
-msgstr "|Champion|%1Opvarmning slut. Semifinalefasen starter"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|Finalefase"
@@ -5334,12 +5228,6 @@ msgstr "|Status|Finalist"
 
 msgid "|Status|K.O."
 msgstr "|Status|K.O."
-
-msgid "|Status|K.O. #%1"
-msgstr "|Status|K.O. #%1"
-
-msgid "|Status|Racing"
-msgstr "|Status|Kører"
 
 msgid "|Status|Winner"
 msgstr "|Status|Vinder"

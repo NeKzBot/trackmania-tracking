@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 12:40+0000\n"
+"PO-Revision-Date: 2020-11-04 11:36+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -12,14 +12,8 @@ msgstr ""
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "$%1Author"
-msgstr "$%1作者"
-
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>是大厅之王！"
-
-msgid "$<%1$> is now %2%3!"
-msgstr "$<%1$>现在是第%2名！"
 
 msgid "$<%1$> joined the game"
 msgstr "$<%1$>加入了游戏"
@@ -326,6 +320,9 @@ msgstr "活动"
 
 msgid "Add"
 msgstr "增加"
+
+msgid "Add collection"
+msgstr "添加集合"
 
 msgid "Add to favorite"
 msgstr "加入收藏"
@@ -963,6 +960,9 @@ msgstr "累计团队积分："
 msgid "Cup mode"
 msgstr "奖杯赛模式"
 
+msgid "Cup of the Day"
+msgstr "今日杯赛"
+
 msgid "Current map"
 msgstr "当前地图"
 
@@ -1028,12 +1028,6 @@ msgstr "总监"
 
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "DUALSHOCK®4无线控制器"
-
-msgid "Daily Cup Knockout"
-msgstr "每日淘汰杯赛"
-
-msgid "Daily cup"
-msgstr "每日杯赛"
 
 msgid "Daily map"
 msgstr "每日地图"
@@ -1264,6 +1258,10 @@ msgid "Error"
 msgstr "错误"
 
 msgid ""
+"Error while adding the item collection. Please try again. (Error code: %1)"
+msgstr "在添加物品集合时出错。请重试。（错误代码：%1）"
+
+msgid ""
 "Error while adding your map to the queue, please try again. (Error code: %1)"
 msgstr "添加你的地图至队列时发生错误，请重试。（错误代码：%1）"
 
@@ -1273,11 +1271,24 @@ msgstr "创建赛事时发生错误。请重试。（错误代码：%1）"
 msgid "Error while creating the activity. Please try again. (Error code: %1)"
 msgstr "创建活动时发生错误。请重试。（错误代码：%1）"
 
+msgid ""
+"Error while creating the item collection. Please try again. (Error code: %1)"
+msgstr "在创建物品集合时出错。请重试。（错误代码：%1）"
+
 msgid "Error while creating the room. Please try again. (Error code: %1)"
 msgstr "创建房间时发生错误，请重试。（错误代码：%1）"
 
 msgid "Error while editing the activity. Please try again. (Error code: %1)"
 msgstr "编辑活动时发生错误。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while editing the item collection description. Please try again. "
+"(Error code: %1)"
+msgstr "在编辑物品集合描述时出错。请重试。（错误代码：%1）"
+
+msgid ""
+"Error while editing the item collection. Please try again. (Error code: %1)"
+msgstr "在编辑物品集合时出错。请重试。（错误代码：%1）"
 
 msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr "编辑房间时发生错误。请重试。（错误代码：%1）"
@@ -1404,6 +1415,11 @@ msgid ""
 msgstr "上传活动徽标时发生错误。请重试。（错误代码：%1）"
 
 msgid ""
+"Error while uploading the collection medias. Please try again. (Error code: "
+"%1)"
+msgstr "在上传集合媒体时出错。请重试。（错误代码：%1）"
+
+msgid ""
 "Error while uploading the room media. Please try again. (Error code: %1)"
 msgstr "上传房间媒体时发生错误。请重试。（错误代码：%1）"
 
@@ -1449,6 +1465,12 @@ msgstr "第五位（按下5键）"
 
 msgid "Final Rank"
 msgstr "最终排名"
+
+msgid "Final TMGL"
+msgstr "TMGL决赛"
+
+msgid "Finish the map once to validate your registration for the cup."
+msgstr "完成一次地图来验证你在本次杯赛的注册。"
 
 msgid "Finish timeout"
 msgstr "结束超时"
@@ -1543,12 +1565,6 @@ msgstr "获取回放功能，皮肤和简易赛道编辑器"
 msgid "Give up"
 msgstr "放弃"
 
-msgid "Give up %1"
-msgstr "放弃%1"
-
-msgid "Give up Daily cup?"
-msgstr "放弃每日杯赛？"
-
 msgid "Go back to the menu to see the results."
 msgstr "返回到主菜单并查看结果。"
 
@@ -1639,13 +1655,11 @@ msgstr "如果你没有被重新导向，请返回至主菜单界面，并通过
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "如果你选择一个场景，你可能会失去你所有的进度。"
 
-msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
-msgstr "如果选择放弃，你仍可以继续在频道内游玩，但是你将不能参与每日淘汰赛。"
-
 msgid "Image browser"
 msgstr "图片浏览器"
+
+msgid "Image gallery"
+msgstr "图库"
 
 msgid "Improve"
 msgstr "刷新纪录"
@@ -1664,6 +1678,12 @@ msgstr "邀请朋友"
 
 msgid "It is currently not possible to vote for this server setting."
 msgstr "目前暂不能投票修改此服务器设置。"
+
+msgid "Item Collection"
+msgstr "物品集合"
+
+msgid "Item collection"
+msgstr "物品集合"
 
 msgid "JUNIOR ACCOUNT MANAGER"
 msgstr "初级客户经理"
@@ -1730,9 +1750,6 @@ msgstr "每回合淘汰数"
 
 msgid "Knocked out players"
 msgstr "已淘汰玩家"
-
-msgid "Knockout match starts in %1"
-msgstr "淘汰赛将在%1后开始"
 
 msgid "Knockout mode"
 msgstr "淘汰赛模式"
@@ -2063,9 +2080,6 @@ msgstr "地图无法上传，请重试。（错误：%1）"
 msgid "Maps list already full"
 msgstr "地图列表已满"
 
-msgid "Match found!"
-msgstr "已找到比赛！"
-
 msgid "Match is over"
 msgstr "比赛结束"
 
@@ -2276,11 +2290,14 @@ msgstr "暂无俱乐部"
 msgid "No daily map found to display the rankings"
 msgstr "无可供显示排名的每日地图"
 
-msgid "No elimination on first round"
-msgstr "第一回合没有淘汰"
+msgid "No elimination in first round"
+msgstr "第一局没有淘汰"
 
 msgid "No events"
 msgstr "没有活动"
+
+msgid "No info about this collection"
+msgstr "这个集合没有信息"
 
 msgid "No maps in this month"
 msgstr "没有本月地图"
@@ -2471,9 +2488,6 @@ msgstr "Page Down"
 msgid "Page Up"
 msgstr "Page Up"
 
-msgid "Participation registered!"
-msgstr "已注册参与！"
-
 msgid "Password"
 msgstr "密码"
 
@@ -2560,9 +2574,6 @@ msgstr "离线游戏"
 msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr "在每个赛季中以单人模式和多人模式游玩25张新地图"
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "游玩每日回合淘汰赛"
-
 msgid "Player Best Time"
 msgstr "玩家最佳时间"
 
@@ -2595,11 +2606,6 @@ msgstr "请重新连接%1"
 
 msgid "Please select your %1"
 msgstr "请选择你所在的%1"
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr "在淘汰赛开始之前请留在频道内。当比赛就绪时，游戏将会自动开始。"
 
 msgid "Please wait."
 msgstr "请稍等。"
@@ -2751,9 +2757,6 @@ msgstr "退出编辑器"
 msgid "Quit plugin"
 msgstr "退出插件"
 
-msgid "Quit%1"
-msgstr "退出%1"
-
 msgid "R&D ENGINEER"
 msgstr "研发工程师"
 
@@ -2785,6 +2788,15 @@ msgstr "地图类型未发现或尚未设置。你将无法验证你的地图。
 
 msgid "Race and compete in the daily player's map selection"
 msgstr "在每日玩家地图中相互较量"
+
+msgid ""
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies.\n"
+"You can see your global rank among all servers on the left of your screen."
+msgstr ""
+"在今天的地图中飙上10分钟。在此之后你就可以加入淘汰赛阶段，并获得更多的奖"
+"杯。\n"
+"你可以在你的屏幕左侧查看所有服务器中的全球排名。"
 
 msgid "Race ranking"
 msgstr "竞速排名"
@@ -2842,11 +2854,17 @@ msgstr "刷新"
 msgid "Register"
 msgstr "注册"
 
+msgid "Register for the Cup of the Day to participate in the Knockout match."
+msgstr "注册今日杯赛来参与淘汰赛。"
+
 msgid "Registration"
 msgstr "注册"
 
 msgid "Registration dates"
 msgstr "报名日期"
+
+msgid "Registration for today's cup has finished, come back tomorrow!"
+msgstr "今日杯赛的注册已经结束，请明天再来！"
 
 msgid "Registrations are closed"
 msgstr "注册已截止"
@@ -3136,6 +3154,9 @@ msgstr "已保存的活动"
 
 msgid "Saving campaign..."
 msgstr "正在保存赛事…"
+
+msgid "Scalable room"
+msgstr "可变房间容量"
 
 msgid ""
 "Score points for %1your country%2. Play against players with the%1 same "
@@ -3625,6 +3646,9 @@ msgstr ""
 "俱乐部版是为期一年或三年的年票，提供了最为完整的《赛道狂飙》体验，包括自定义"
 "内容、专业级的竞技赛事和独特的游戏内社交选项！"
 
+msgid "The Cup of the Day will start soon."
+msgstr "今日杯赛即将开始。"
+
 msgid "The Left Stick"
 msgstr "左摇杆"
 
@@ -3662,6 +3686,9 @@ msgstr "所有装饰都会被移除，并且你也必须重新验证赛道。"
 
 msgid "The decoration will be removed."
 msgstr "装饰将会被移除。"
+
+msgid "The description has a maximum of %1 characters"
+msgstr "描述至少需要%1个字符"
 
 msgid "The description of Competition can't be empty"
 msgstr "竞赛的描述不能为空"
@@ -3704,6 +3731,9 @@ msgstr "比赛设置文件不可用"
 msgid "The name has a maximum of %1 characters"
 msgstr "名字最多不能超过%1个字符"
 
+msgid "The name has a minimum of 1 character"
+msgstr "名字至少需要1个字符"
+
 msgid ""
 "The name of the competition has a minimum of %1 and a maximum of %2 "
 "characters"
@@ -3736,6 +3766,9 @@ msgstr "这条赛道通向一条死路。试着前往另一个方向"
 
 msgid "The track must have an open connector to be auto-finished."
 msgstr "这个赛道必须拥有一个开放的连接位置才可被自动完成。"
+
+msgid "The winner earns a $<$7FA%1$>"
+msgstr "获胜者将会获得一个$<$7FA%1$>"
 
 msgid "There are %1 podiums on your track. You can only place one."
 msgstr "你的赛道中包含了%1个颁奖台。你只能放置一个颁奖台。"
@@ -3965,6 +3998,9 @@ msgstr "上传皮肤"
 msgid "Upload image"
 msgstr "上传图片"
 
+msgid "Upload item collection"
+msgstr "上传物品集合"
+
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "更新Logo失败（错误代码：%1）"
 
@@ -4140,14 +4176,14 @@ msgstr "等待玩家"
 msgid "Waiting for your allies to be ready."
 msgstr "等待你的队友准备就绪。"
 
-msgid "Waiting for your match"
-msgstr "等待你的比赛"
-
 msgid "Waiting for your match to start"
 msgstr "等待你的比赛开始"
 
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "正在等待你的比赛，这个过程可能需要等到3分钟左右…"
+
+msgid "Waiting for your match."
+msgstr "正在等待你的比赛。"
 
 msgid "Waiting on all matches currently in progress"
 msgstr "在所有比赛进行时等待"
@@ -4179,33 +4215,14 @@ msgstr "星期三"
 msgid "Welcome to Trackmania"
 msgstr "欢迎游玩《赛道狂飙》"
 
+msgid "Welcome to the $<$7FACup of the Day$> !"
+msgstr "欢迎来到$<$7FA今日杯赛$>！"
+
 msgid "Welcome to the %1 server."
 msgstr "欢迎来到%1服务器。"
 
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"欢迎来到Nadeo的每日杯赛！\n"
-" \n"
-"在今日地图中进行10分钟赛事后，你将晋级至淘汰赛，获取更多奖杯。\n"
-"你可以在屏幕右侧查看你在所有服务器上全球排名。"
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"欢迎来到Nadeo的每日杯赛！\n"
-" \n"
-"在今日地图中进行10分钟赛事后，你将晋级至淘汰赛，获取更多奖杯。\n"
-"你可以在屏幕右侧查看你在所有服务器上全球排名。祝你好运！"
+msgid "Welcome to the Cup of the Day"
+msgstr "欢迎来到今日杯赛"
 
 msgid "Welcome to the Open Grand League"
 msgstr "欢迎来到公开大联赛"
@@ -4246,6 +4263,9 @@ msgstr "在等候时，试着成为大厅王者吧！"
 
 msgid "White"
 msgstr "白色"
+
+msgid "Winners"
+msgstr "胜者"
 
 msgid "With Starter Access, discover Trackmania's core features for free."
 msgstr "用新手版来免费探索《赛道狂飙》的核心功能。"
@@ -4321,16 +4341,16 @@ msgstr "你没有订阅任何俱乐部"
 msgid "You are qualified"
 msgstr "你已获得资格"
 
+msgid "You are registered!\\nThe Cup of the Day will start soon."
+msgstr ""
+"你已经注册好了！\n"
+"今日杯赛很快就会开始。"
+
 msgid "You are suspended"
 msgstr "你被禁赛了"
 
 msgid "You can cancel 1 match."
 msgstr "你可以取消1场比赛。"
-
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr "你可以选择$<$00f$t继续$>参与杯赛并加入一局淘汰赛。"
 
 msgid "You can create your own party by clicking on the create button below."
 msgstr "你可以通过点击下方的创建按钮来创建自己的派对。"
@@ -4390,22 +4410,8 @@ msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "你已经从《赛道狂飙》服务器断开。（错误代码：%1）"
 
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"你已经被淘汰。\n"
-"[奖励将在未来的更新后可用]\n"
-" \n"
-" \n"
-" \n"
-" \n"
-"将在30秒后回到每日频道"
+msgid "You have been eliminated"
+msgstr "你已被淘汰"
 
 msgid "You have been reconnected to Uplay."
 msgstr "你已重新连接至优派对。"
@@ -4485,14 +4491,36 @@ msgstr "你在公开大联赛中获得了$<$7FA0$>分"
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "你在公开大联赛中获得了$<$7FA1$>分"
 
+msgid ""
+"You're about to compete on the Track Of The Day\n"
+"You've been placed with players of the same level\n"
+"\n"
+"Every round, last players to finish will be eliminated\n"
+"Do your best to finish among the first !"
+msgstr ""
+"你即将在今日赛道中参与较量\n"
+"你将会和与你水平相当的玩家进行对抗\n"
+"\n"
+"每一局里，最后一名的玩家将会被淘汰\n"
+"尽全力比赛，努力成为第一！"
+
+msgid "Your final rank is $<$7FA%1$>"
+msgstr "你的最终排名是$<$7FA%1$>"
+
 msgid "Your map in less than %1 minutes"
 msgstr "您的地图还有不到%1分钟"
 
 msgid "Your match is ready"
 msgstr "你的比赛已经准备好了"
 
+msgid "Your next match is ready."
+msgstr "你的下一场比赛已准备好。"
+
 msgid "Your search did not return any results"
 msgstr "无搜索结果"
+
+msgid "Your text here"
+msgstr "在这输入文字"
 
 msgid "by"
 msgstr "来自"
@@ -4736,15 +4764,6 @@ msgstr "|Campaign|未知"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|返回"
-
-msgid "|Champion|%1End of warmup, Final phase starting"
-msgstr "|Champion|%1热身结束，决赛阶段即将开始"
-
-msgid "|Champion|%1End of warmup, Opening phase starting"
-msgstr "|Champion|%1热身结束，公开阶段即将开始"
-
-msgid "|Champion|%1End of warmup, Semi-Final phase starting"
-msgstr "|Champion|%1热身结束，半决赛阶段即将开始"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|决赛阶段"
@@ -5146,6 +5165,9 @@ msgstr "|Information - window title|赛道尚未验证"
 msgid "|Input|No binding"
 msgstr "|Input|未绑定"
 
+msgid "|Item Collection title|Title"
+msgstr "|Item Collection title|标题"
+
 msgid "|Keyboard|Enter"
 msgstr "|Keyboard|回车键"
 
@@ -5166,6 +5188,9 @@ msgstr "|Landscape|石柱"
 
 msgid "|League|Map %1"
 msgstr "|League|%1号地图"
+
+msgid "|League|Round %1"
+msgstr "|League|第%1局"
 
 msgid "|League|map %1/%2"
 msgstr "|League|地图%1/%2"
@@ -5462,6 +5487,9 @@ msgstr "|RankingZone|地区"
 msgid "|RankingZone|Country"
 msgstr "|RankingZone|国家"
 
+msgid "|RankingZone|Country and Territory"
+msgstr "|RankingZone|国家和地区"
+
 msgid "|RankingZone|District"
 msgstr "|RankingZone|区域"
 
@@ -5597,17 +5625,17 @@ msgstr "|SpecialBlock|下"
 msgid "|SpecialBlock|up"
 msgstr "|SpecialBlock|上"
 
+msgid "|Status|Fin"
+msgstr "|Status|入围"
+
 msgid "|Status|Finalist"
 msgstr "|Status|决赛选手"
 
 msgid "|Status|K.O."
 msgstr "|Status|淘汰"
 
-msgid "|Status|K.O. #%1"
-msgstr "|Status|淘汰榜第%1名"
-
-msgid "|Status|Racing"
-msgstr "|Status|竞赛中"
+msgid "|Status|Win"
+msgstr "|Status|胜者"
 
 msgid "|Status|Winner"
 msgstr "|Status|获胜者"
@@ -5684,6 +5712,12 @@ msgstr "|XB1|左摇杆"
 msgid "|XB1|the right stick"
 msgstr "|XB1|右摇杆"
 
+msgid "|Zone|Africa"
+msgstr "|Zone|非洲"
+
+msgid "|Zone|Asia"
+msgstr "|Zone|亚洲"
+
 msgid "|Zone|Europe"
 msgstr "|Zone|欧洲"
 
@@ -5701,9 +5735,6 @@ msgstr "|Zone|南美洲"
 
 msgid "|Zone|World"
 msgstr "|Zone|世界"
-
-msgid "|in n seconds|Starting in %1s"
-msgstr "|in n seconds|%1秒后开始"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|分钟"

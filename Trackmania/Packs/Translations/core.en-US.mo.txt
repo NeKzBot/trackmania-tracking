@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-10-15 19:19+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -1839,6 +1839,9 @@ msgstr "Copy Selection [CTRL+C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Copy Selection [Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "Copy account id"
+
 msgid "Copy server link"
 msgstr "Copy server link"
 
@@ -2841,6 +2844,9 @@ msgstr "Enable automatic newline"
 
 msgid "Enable chat"
 msgstr "Enable chat"
+
+msgid "Enable map editor quick start"
+msgstr "Enable map editor quick start"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "Enable mouse triggering of script events"
@@ -4207,6 +4213,9 @@ msgstr "Map deleted"
 msgid "Map downloaded"
 msgstr "Map downloaded"
 
+msgid "Map editor quick start"
+msgstr "Map editor quick start"
+
 msgid "Map mods"
 msgstr "Map mods"
 
@@ -4420,6 +4429,9 @@ msgstr "Module Studio"
 
 msgid "Module saved"
 msgstr "Module saved"
+
+msgid "Mood"
+msgstr "Mood"
 
 msgid "More info"
 msgstr "More info"
@@ -8078,6 +8090,9 @@ msgstr "Use Model for all Cars"
 msgid "Use Own Data"
 msgstr "Use Own Data"
 
+msgid "Use advanced editor"
+msgstr "Use advanced editor"
+
 msgid "Use alternate rules :"
 msgstr "Use alternate rules :"
 
@@ -8092,6 +8107,9 @@ msgstr "Use default"
 
 msgid "Use existing action as preset"
 msgstr "Use existing action as preset"
+
+msgid "Use gamepad"
+msgstr "Use gamepad"
 
 msgid "Use motion blur"
 msgstr "Use motion blur"
@@ -10503,6 +10521,9 @@ msgstr "|LightMapQuality|None"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|Ultra2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Very Fast"
 
@@ -10550,6 +10571,18 @@ msgstr "|MapLight|Quality"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|Shadows"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Day"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Night"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Sunrise"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Sunset"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|Very Fast"

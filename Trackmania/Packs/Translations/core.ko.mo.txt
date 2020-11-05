@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-10-12 13:26+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -1839,6 +1839,9 @@ msgstr "선택 복사[Ctrl + C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "선택 복사[Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "계정 아이디 복사"
+
 msgid "Copy server link"
 msgstr "서버 링크 복사"
 
@@ -2840,6 +2843,9 @@ msgstr "자동 새 라인 활성화"
 
 msgid "Enable chat"
 msgstr "채팅 활성화"
+
+msgid "Enable map editor quick start"
+msgstr "맵 에디터 빠른 시작 켜기"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "스크립트 이벤트의 마우스 트리거링 활성화"
@@ -4205,6 +4211,9 @@ msgstr "맵이 삭제되었습니다"
 msgid "Map downloaded"
 msgstr "맵을 다운로드했습니다"
 
+msgid "Map editor quick start"
+msgstr "맵 에디터 빠른 시작"
+
 msgid "Map mods"
 msgstr "맵 모드"
 
@@ -4418,6 +4427,9 @@ msgstr "모듈 스튜디오"
 
 msgid "Module saved"
 msgstr "모듈 저장됨"
+
+msgid "Mood"
+msgstr "분위기"
 
 msgid "More info"
 msgstr "더 많은 정보"
@@ -8063,6 +8075,9 @@ msgstr "모든 차에 모델 사용하기"
 msgid "Use Own Data"
 msgstr "자신의 데이터 사용하기"
 
+msgid "Use advanced editor"
+msgstr "고급 에디터 사용"
+
 msgid "Use alternate rules :"
 msgstr "대체 규칙 사용:"
 
@@ -8077,6 +8092,9 @@ msgstr "기본값 사용하기"
 
 msgid "Use existing action as preset"
 msgstr "기존 액션을 프리셋으로 사용"
+
+msgid "Use gamepad"
+msgstr "게임패드 사용"
 
 msgid "Use motion blur"
 msgstr "모션 블러 사용"
@@ -10478,6 +10496,9 @@ msgstr "|LightMapQuality|없음"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|울트라"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|울트라2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|매우 빠름"
 
@@ -10525,6 +10546,18 @@ msgstr "|MapLight|속성"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|그림자"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|낮"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|밤"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|일출"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|일몰"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|매우 빠르게"

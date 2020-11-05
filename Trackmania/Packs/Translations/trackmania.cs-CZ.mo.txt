@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:46+0000\n"
+"PO-Revision-Date: 2020-11-03 11:52+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -186,8 +186,17 @@ msgstr "%1 map/y"
 msgid "%1 player"
 msgstr "%1 hráč/ů"
 
+msgid "%1 player will be eliminated"
+msgstr "%1 hráč bude vyloučen"
+
 msgid "%1 players"
 msgstr "%1 hráčů"
+
+msgid "%1 players eliminated"
+msgstr "%1 hráčů vyloučeno"
+
+msgid "%1 players will be eliminated"
+msgstr "%1 hráčů bude vyloučeno"
 
 msgid "%1 points"
 msgstr "%1 bodů"
@@ -225,6 +234,12 @@ msgstr "%1Nejl. CP %2"
 msgid "%1Best race"
 msgstr "%1Nejl. závod"
 
+msgid "%1Next round in %2s"
+msgstr "%1Další kolo za %2s"
+
+msgid "%1No elimination this round"
+msgstr "%1Toto kolo bez vyloučení"
+
 msgid "%1Personal best"
 msgstr "%1Osobní rekord"
 
@@ -233,6 +248,9 @@ msgstr "0 bodů"
 
 msgid "1 player"
 msgstr "1 hráč"
+
+msgid "1 player eliminated"
+msgstr "1 hráč vyloučen"
 
 msgid "1 point"
 msgstr "1 bod"
@@ -532,7 +550,7 @@ msgid "Build your track and place a finish block to complete it."
 msgstr "Postavte vaši trať a umístěte cílový blok pro dokončení."
 
 msgid "By"
-msgstr "Autor:"
+msgstr "Od"
 
 msgid "By %1"
 msgstr "Od %1"
@@ -755,6 +773,9 @@ msgstr "Kliknutím na hráče se připojíte k jejich hře."
 
 msgid "Click on a player to set them as ally."
 msgstr "Klikněte na hráče, které chcete jako spojence."
+
+msgid "Click on another map to swap its position with the selected one"
+msgstr "Klikněte na jinou mapu pro přehození s vybranou"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klikněte na moduly rozhraní pro úpravu jejich parametrů"
@@ -1020,12 +1041,6 @@ msgstr "ŘEDITELÉ"
 
 msgid "DUALSHOCK®4 Wireless Controller"
 msgstr "DUALSHOCK®4 Bezdrátový ovladač"
-
-msgid "Daily Cup Knockout"
-msgstr "Denní pohár Knockout"
-
-msgid "Daily cup"
-msgstr "Denní pohár"
 
 msgid "Daily map"
 msgstr "Mapa dne"
@@ -1480,6 +1495,9 @@ msgstr ""
 msgid "Fifth (Press 5)"
 msgstr "Pátý (Stiskněte 5)"
 
+msgid "Final Rank"
+msgstr "Konečné pořadí"
+
 msgid "Finish timeout"
 msgstr "Čas ukončení"
 
@@ -1573,12 +1591,6 @@ msgstr "Získejte editor záznamů, editor vzhledů a jednoduchý editor tratí"
 msgid "Give up"
 msgstr "Vzdát se"
 
-msgid "Give up %1"
-msgstr "Vzdát se %1"
-
-msgid "Give up Daily cup?"
-msgstr "Vzdát se Denního poháru?"
-
 msgid "Go back to the menu to see the results."
 msgstr "Vraťte se do menu pro zobrazení výsledků."
 
@@ -1671,13 +1683,6 @@ msgstr ""
 msgid "If you choose a landscape, you might lose all of your progress."
 msgstr "Pokud si vyberete krajinu, můžete ztratit všechnu vaší práci."
 
-msgid ""
-"If you give up, you will be able to continue playing in the channel but you "
-"will not participate in the Daily Knockout match."
-msgstr ""
-"Pokud se vzdáte, budete moct pokračovat ve hraní v kanálu, ale nebudete se "
-"moct zúčastnit Denního Knockoutu."
-
 msgid "Image browser"
 msgstr "Prohlížeč obrázků"
 
@@ -1763,8 +1768,8 @@ msgstr "ZNALOSTNÍ SPECIALISTA"
 msgid "KOs per round"
 msgstr "KO za kolo"
 
-msgid "Knockout match starts in %1"
-msgstr "Zápas knockoutu začíná za %1"
+msgid "Knocked out players"
+msgstr "Vyloučení hráči"
 
 msgid "Knockout mode"
 msgstr "Mód Knockout"
@@ -1846,6 +1851,9 @@ msgstr "Krajina"
 
 msgid "Lap %1"
 msgstr "Okruh %1"
+
+msgid "Lap %1/%2"
+msgstr "Okruh %1/%2"
 
 msgid "Last time"
 msgstr "Poslední čas"
@@ -2092,9 +2100,6 @@ msgstr "Mapy nemohly být nahrány. Prosím opakujte. (Chyba: %1)"
 
 msgid "Maps list already full"
 msgstr "Seznam map je již plný"
-
-msgid "Match found!"
-msgstr "Zápas nalezen!"
 
 msgid "Match is over"
 msgstr "Zápas skončil."
@@ -2498,9 +2503,6 @@ msgstr "Page Down"
 msgid "Page Up"
 msgstr "Page Up"
 
-msgid "Participation registered!"
-msgstr "Účast zaregistrována!"
-
 msgid "Password"
 msgstr "Heslo"
 
@@ -2589,9 +2591,6 @@ msgstr "Hrát offline"
 msgid "Play solo and multiplayer on 25 new maps every season"
 msgstr "Hrajte solo a multiplayer na 25 nových mapách každou sezónu"
 
-msgid "Play the Daily Rounds Knockout"
-msgstr "Hrát Denní Knockout na kola"
-
 msgid "Player Best Time"
 msgstr "Nejlepší čas hráče"
 
@@ -2624,13 +2623,6 @@ msgstr "Prosím připojte %1 zpět"
 
 msgid "Please select your %1"
 msgstr "Prosím, zvolte váš/vaši %1"
-
-msgid ""
-"Please stay in the channel until the Knockout begins. You will be "
-"automatically redirected when your match is ready."
-msgstr ""
-"Prosím zůstaňte v kanále, než začne Knockout. Až bude váš zápas připraven, "
-"budete automaticky přesměrováni."
 
 msgid "Please wait."
 msgstr "Prosím čekejte."
@@ -2773,6 +2765,9 @@ msgstr "Množství"
 msgid "Quarter-final"
 msgstr "Čtvrtfinále"
 
+msgid "Quick start is enabled"
+msgstr "Rychlý start je zapnutý"
+
 msgid "Quit"
 msgstr "Konec"
 
@@ -2781,9 +2776,6 @@ msgstr "Ukončit editor"
 
 msgid "Quit plugin"
 msgstr "Ukončit plugin"
-
-msgid "Quit%1"
-msgstr "Ukončit%1"
 
 msgid "R&D ENGINEER"
 msgstr "INŽENÝR VÝZKUMU A VÝVOJE"
@@ -4222,9 +4214,6 @@ msgstr "Čekání na hráče"
 msgid "Waiting for your allies to be ready."
 msgstr "Čekání, až se vaši spojenci připraví."
 
-msgid "Waiting for your match"
-msgstr "Čeká se na váš zápas"
-
 msgid "Waiting for your match to start"
 msgstr "Čekání na začátek vašeho zápasu"
 
@@ -4263,35 +4252,6 @@ msgstr "Vítejte v Trackmanii"
 
 msgid "Welcome to the %1 server."
 msgstr "Vítejte na %1 serveru."
-
-msgid ""
-"Welcome to the Nadeo daily cup\n"
-"\n"
-"Race for 10 minutes on today's map. You will be able to join the knockout "
-"phase afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your screen."
-msgstr ""
-"Vítejte v denním Nadeo poháru\n"
-"\n"
-"Na dnešní mapě závodíte 10 minut. Potom se budete moct připojit do fáze "
-"knockoutu a získat ještě více trofejí. \n"
-"Vaše globální umístění na všech serverech můžete vidět na pravé straně "
-"obrazovky."
-
-msgid ""
-"Welcome to the Nadeo daily cup!\n"
-"\n"
-"Race for 10 minutes on today's. You will be able to join the knockout phase "
-"afterwards and earn even more trophies. \n"
-"You can see your global rank amongst all servers on the right of your "
-"screen. Good luck!"
-msgstr ""
-"Vítejte v denním Nadeo poháru!\n"
-"\n"
-"Dnes závodíte 10 minut. Potom se budete moct připojit do fáze knockoutu a "
-"získat ještě více trofejí!\n"
-"Vaše globální umístění na všech serverech můžete vidět na pravé straně "
-"obrazovky. Hodně štěstí!"
 
 msgid "Welcome to the Open Grand League"
 msgstr "Vítejte v Open Grand League"
@@ -4415,11 +4375,6 @@ msgstr "Jste suspendován/a"
 msgid "You can cancel 1 match."
 msgstr "Můžete zrušit 1 zápas."
 
-msgid ""
-"You can choose to $<$00f$tcontinue$> the cup and participate in a Knockout "
-"match."
-msgstr "Můžete $<$00f$tpokračovat$> v turnaji a účastnit se zápasu Knockout."
-
 msgid "You can create your own party by clicking on the create button below."
 msgstr "Můžete vytvořit vlastní hru kliknutím na tlačítko \"Vytvořit\" níže."
 
@@ -4480,23 +4435,6 @@ msgstr "Byli jste odpojeni od serverů Trackmanie."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Byl/a jste odpojen/a od serverů Trackmanie. (Kód chyby: %1)"
-
-msgid ""
-"You have been eliminated.\n"
-"[Reward will be available in further update]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Redirection to the daily channel in 30s"
-msgstr ""
-"Byl/a jste vyloučen/a.\n"
-"[Odměna bude dostupná v další aktualizaci]\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Návrat do denního kanálu za 30s"
 
 msgid "You have been reconnected to Uplay."
 msgstr "Byl/a jste znovu připojen/a k službě Uplay."
@@ -4582,6 +4520,9 @@ msgstr "Vaše mapa za méně než %1 minut"
 msgid "Your match is ready"
 msgstr "Váš zápas je připraven"
 
+msgid "Your next match is ready."
+msgstr "Váš další zápas je připraven."
+
 msgid "Your search did not return any results"
 msgstr "Nebyly nalezeny žádné výsledky"
 
@@ -4608,6 +4549,9 @@ msgstr "ok"
 
 msgid "per server"
 msgstr "na server"
+
+msgid "player online"
+msgstr "hráč online"
 
 msgid "players online"
 msgstr "online hráčů"
@@ -4824,15 +4768,6 @@ msgstr "Neznámá"
 
 msgid "|Cancel|Back"
 msgstr "Zpět"
-
-msgid "|Champion|%1End of warmup, Final phase starting"
-msgstr "%1Konec zahřívacího kola, začíná finálová fáze"
-
-msgid "|Champion|%1End of warmup, Opening phase starting"
-msgstr "%1Konec zahřívacího kola, začíná otevírací fáze"
-
-msgid "|Champion|%1End of warmup, Semi-Final phase starting"
-msgstr "%1Konec zahřívacího kola, začíná semifinálová fáze"
 
 msgid "|Champion|Final Phase"
 msgstr "Finálová fáze"
@@ -5695,12 +5630,6 @@ msgstr "Finalista"
 
 msgid "|Status|K.O."
 msgstr "K.O."
-
-msgid "|Status|K.O. #%1"
-msgstr "K.O. #%1"
-
-msgid "|Status|Racing"
-msgstr "Závodí"
 
 msgid "|Status|Winner"
 msgstr "Vítěz"

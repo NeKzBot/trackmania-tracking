@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-11-03 11:00+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -848,6 +848,9 @@ msgstr "Alt + Clic en la línea temporal"
 
 msgid "Always"
 msgstr "Siempre"
+
+msgid "Always display records"
+msgstr "Mostrar récords siempre"
 
 msgid "Ambiance"
 msgstr "Ambiente"
@@ -1856,6 +1859,9 @@ msgstr "Copiar selección [Ctrl + C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Copiar Selección [Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "Copiar ID de cuenta"
+
 msgid "Copy server link"
 msgstr "Copiar dirección del servidor"
 
@@ -2285,6 +2291,9 @@ msgstr "Cláxones predeterminados"
 msgid "Default image"
 msgstr "Imagen predeterminada"
 
+msgid "Default opponents visibility"
+msgstr "Visibilidad predeterminada de oponentes"
+
 msgid "Default sound"
 msgstr "Sonido predeterminado"
 
@@ -2296,6 +2305,9 @@ msgstr "Valores por defecto"
 
 msgid "Defense"
 msgstr "Defensa"
+
+msgid "Deferred antialiasing"
+msgstr "Antialiasing pospuesto"
 
 msgid "Define BlockUnits"
 msgstr "Definir Unidades del Bloque"
@@ -2864,6 +2876,9 @@ msgstr "Habilitar salto de línea automático"
 msgid "Enable chat"
 msgstr "Mostrar el chat"
 
+msgid "Enable map editor quick start"
+msgstr "Activar inicio rápido editor de mapas"
+
 msgid "Enable mouse trigerring of script events"
 msgstr "Habilitar disparador por mouse de eventos de script"
 
@@ -3235,6 +3250,9 @@ msgstr "Convergencia de fuerza"
 
 msgid "Forced"
 msgstr "Forzada"
+
+msgid "Forward antialiasing"
+msgstr "Antialiasing adelantado"
 
 msgid "Fourth (Press 4)"
 msgstr "Cuarto (4)"
@@ -4239,6 +4257,9 @@ msgstr "Mapa eliminado"
 msgid "Map downloaded"
 msgstr "Mapa descargado"
 
+msgid "Map editor quick start"
+msgstr "Inicio rápido editor de mapas"
+
 msgid "Map mods"
 msgstr "Mods de mapa"
 
@@ -4452,6 +4473,9 @@ msgstr "Estudio de Módulos"
 
 msgid "Module saved"
 msgstr "Módulo guardado"
+
+msgid "Mood"
+msgstr "Momento del día"
 
 msgid "More info"
 msgstr "Más información"
@@ -5546,6 +5570,11 @@ msgstr "Listo"
 
 msgid "Ready (F6)"
 msgstr "Listo (F6)"
+
+msgid "Real name and ID card information have been successfully validated."
+msgstr ""
+"Nombre real e información de tarjeta de identificación validados "
+"correctamente."
 
 msgid "Really balance teams?"
 msgstr "¿Equilibrar equipos?"
@@ -6700,6 +6729,9 @@ msgstr "Espectador"
 
 msgid "Spectator"
 msgstr "Espectador"
+
+msgid "Spectators placement computed"
+msgstr "Poscionamiento de espectadores calculado"
 
 msgid "Speed"
 msgstr "Velocidad"
@@ -8150,6 +8182,9 @@ msgstr "Utilizar el modelo para todos los coches"
 msgid "Use Own Data"
 msgstr "Usar los datos propios"
 
+msgid "Use advanced editor"
+msgstr "Usar editor avanzado"
+
 msgid "Use alternate rules :"
 msgstr "Usar sistema de puntuación alternativo:"
 
@@ -8164,6 +8199,9 @@ msgstr "Por defecto"
 
 msgid "Use existing action as preset"
 msgstr "Usar acción existente como predeterminada"
+
+msgid "Use gamepad"
+msgstr "Usar mando"
 
 msgid "Use motion blur"
 msgstr "Usar desenfoque de movimiento"
@@ -8268,6 +8306,9 @@ msgstr "Ver línea de tiempo completa"
 
 msgid "Virtual Reality"
 msgstr "Realidad virtual"
+
+msgid "Visibility of roadside spectators"
+msgstr "Visibilidad de espectadores junto a la carretera"
 
 msgid "Visible by other players"
 msgstr "Visible para otros jugadores"
@@ -10464,6 +10505,9 @@ msgstr "|Input|Guardar repetición"
 msgid "|Input|Save screenshot"
 msgstr "|Input|Guardar captura de pantalla"
 
+msgid "|Input|Secondary respawn"
+msgstr "|Input|Reinicio secundario"
+
 msgid "|Input|Shoot"
 msgstr "|Input|Disparar"
 
@@ -10603,6 +10647,9 @@ msgstr "|LightMapQuality|Ninguno"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|Ultra2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Muy rápida"
 
@@ -10650,6 +10697,18 @@ msgstr "|MapLight|Calidad"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|Sombras"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|Día"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Noche"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Amanecer"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Anochecer"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|Muy Rápido"
@@ -11875,6 +11934,12 @@ msgstr "|PlayerStateComponent|Indicador de arma"
 msgid "|PlayerStateComponent|Weapon List"
 msgstr "|PlayerStateComponent|Lista de armas"
 
+msgid "|PlayerVisibility|Hidden"
+msgstr "|PlayerVisibility|Oculto"
+
+msgid "|PlayerVisibility|Old"
+msgstr "|PlayerVisibility|Antiguo"
+
 msgid "|PlayerVisibility|Opaque"
 msgstr "|PlayerVisibility|Opaco"
 
@@ -12040,9 +12105,67 @@ msgstr "|SkinEditor (As in mesh local normal)|Normal"
 msgid "|SkinEditor (Camera is used as a projection for brush)|Camera"
 msgstr "|SkinEditor (Camera is used as a projection for brush)|Cámara"
 
+msgid ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|This list is empty. You can add Brushes by making a folder (or a "
+"sub-folder) in your \"Documents/TrackMania/Media/Painter/Stencils\" folder, "
+"containing an \"Icon\" image file and an \"Brush\" image file"
+msgstr ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|Esta lista está vacía. Puedes añadir brochas creando una carpeta "
+"(o subcarpeta) en tu carpeta \"Documents/TrackMania/Media/Painter/Stencils\" "
+"que contenga un archivo de imagen \"Icon\" y un archivo de imagen \"Brush\""
+
+msgid ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|This list is empty. You can add Images by making a folder (or a "
+"sub-folder) in your \"Documents/TrackMania/Media/Painter/Vehicles/CarSport/"
+"Layers\" folder, containing a \"Layer\" image file and an \"Icon\" image "
+"file. The \"Layer\" image file can have \"Prelight_\" or \"Stencil_\" as a "
+"prefix as special parameter"
+msgstr ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|Esta lista está vacía. Puedes añadir imágenes creando una carpeta "
+"( o subcarpeta) en tu carpeta \"Documents/TrackMania/Media/Painter/Vehicles/"
+"CarSport/Layers\" que contenga un archivo de imagen \"Layer\" y un un "
+"archivo de imagen \"Icon\". La imagen \"Layer\" puede llevar los prefijos "
+"\"Prelight_\" o \"Stencil_\" como parámetros especiales"
+
+msgid ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|This list is empty. You can add Stickers by making a folder (or a "
+"sub-folder) in your \"Documents/TrackMania/Media/Painter/Stickers\" folder, "
+"containing an \"Icon\" image file and an \"Sticker\" image file"
+msgstr ""
+"|SkinEditor (Value between quotes have to be named like this, do not "
+"change !)|Esta lista está vacía. Puedes añadir pegatinas creando una carpeta "
+"(o subcarpeta) en tu carpeta \"Documents/TrackMania/Media/Painter/Stickers\" "
+"que contenga un archivo de imagen \"Icon\" y un archivo de imagen \"Sticker\""
+
+msgid ""
+"|SkinEditor (exclude Color applying only Metal and Matte)|Apply Matte and "
+"Metal without color"
+msgstr ""
+"|SkinEditor (exclude Color applying only Metal and Matte)|Aplicar mate y "
+"metalizado sin el color"
+
 msgid "|SkinEditor (export a finished version of the skin, usable)|Export skin"
 msgstr ""
 "|SkinEditor (export a finished version of the skin, usable)|Exportar diseño"
+
+msgid "|SkinEditor (leaves the editor)|Quit"
+msgstr "|SkinEditor (leaves the editor)|Salir"
+
+msgid ""
+"|SkinEditor (placeholder, wont be seen normally)|This list is empty. You can "
+"add Elements by making a folder (or a sub-folder) in your Documents/"
+"TrackMania/Media/Painter/Elements folder, containing an Icon image file and "
+"an Element image file"
+msgstr ""
+"|SkinEditor (placeholder, wont be seen normally)|Esta lista está vacía. "
+"Puedes añadir elementos creando una carpeta (o subcarpeta) en tu carpeta "
+"\"Documents/TrackMania/Media/Painter/Elements\" que contenga un archivo de "
+"imagen \"Icon\" y un archivo de imagen \"Element\""
 
 msgid "|SkinEditor (save as a Painter Project, flag as WIP)|Save project"
 msgstr "|SkinEditor (save as a Painter Project, flag as WIP)|Guardar proyecto"
@@ -12067,6 +12190,9 @@ msgstr "|SkinEditor|Ángulo"
 
 msgid "|SkinEditor|Brush Mode"
 msgstr "|SkinEditor|Modo Pincel"
+
+msgid "|SkinEditor|Camera Light"
+msgstr "|SkinEditor|Luz de cámara"
 
 msgid "|SkinEditor|Camera Mode"
 msgstr "|SkinEditor|Modo Cámara"
@@ -12240,6 +12366,15 @@ msgstr "|SpectatorCam|Manual"
 
 msgid "|SpectatorCam|Replay"
 msgstr "|SpectatorCam|Repetición"
+
+msgid "|SpectatorsVisibility|Always"
+msgstr "|SpectatorsVisibility|Siempre"
+
+msgid "|SpectatorsVisibility|Never"
+msgstr "|SpectatorsVisibility|Nunca"
+
+msgid "|SpectatorsVisibility|When spectating"
+msgstr "|SpectatorsVisibility|En modo espectador"
 
 msgid "|Stats|Editing time"
 msgstr "|Estadisticas|Tiempo de edición"

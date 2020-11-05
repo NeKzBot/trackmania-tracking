@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-10-20 11:21+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -1853,6 +1853,9 @@ msgstr "Копировать выделенное [Ctrl +C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Копировать выбранное [Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "Копировать id учётной записи"
+
 msgid "Copy server link"
 msgstr "Скопировать ссылку на сервер"
 
@@ -2868,6 +2871,9 @@ msgstr "Включить автоматическое перемещение н�
 
 msgid "Enable chat"
 msgstr "Включить чат"
+
+msgid "Enable map editor quick start"
+msgstr "Включить быстрый запуск редактора карт"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "Включить запуск скрипта при помощи мыши"
@@ -4244,6 +4250,9 @@ msgstr "Карта удалена"
 msgid "Map downloaded"
 msgstr "Карта загружена"
 
+msgid "Map editor quick start"
+msgstr "Быстрый запуск редактора карт"
+
 msgid "Map mods"
 msgstr "Моды карты"
 
@@ -4457,6 +4466,9 @@ msgstr "Студия модулей"
 
 msgid "Module saved"
 msgstr "Модуль сохранён"
+
+msgid "Mood"
+msgstr "Время суток"
 
 msgid "More info"
 msgstr "Больше информации"
@@ -8148,6 +8160,9 @@ msgstr "Использовать модель для всех машин"
 msgid "Use Own Data"
 msgstr "Использовать свои данные"
 
+msgid "Use advanced editor"
+msgstr "Использовать продвинутый редактор"
+
 msgid "Use alternate rules :"
 msgstr "Исп. альт. правила :"
 
@@ -8162,6 +8177,9 @@ msgstr "Использовать параметры по умолчанию"
 
 msgid "Use existing action as preset"
 msgstr "Использовать существующее действие как предустановку"
+
+msgid "Use gamepad"
+msgstr "Использовать геймпад"
 
 msgid "Use motion blur"
 msgstr "Использовать размытие в движении"
@@ -10623,6 +10641,9 @@ msgstr "|LightMapQuality|Нет"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ультра"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "|LightMapQuality|Ультра2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Очень быстро"
 
@@ -10670,6 +10691,18 @@ msgstr "|MapLight|Качество"
 
 msgid "|MapLight|Shadows"
 msgstr "|MapLight|Тени"
+
+msgid "|MapMood|Day"
+msgstr "|MapMood|День"
+
+msgid "|MapMood|Night"
+msgstr "|MapMood|Ночь"
+
+msgid "|MapMood|Sunrise"
+msgstr "|MapMood|Восход"
+
+msgid "|MapMood|Sunset"
+msgstr "|MapMood|Закат"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "|MapShadowsQuality|Очень быстро"

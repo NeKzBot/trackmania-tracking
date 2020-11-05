@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-10-15 19:22+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -1844,6 +1844,9 @@ msgstr "Kopírovat výběr [Ctrl + C]"
 msgid "Copy Selection [Ctrl+C]"
 msgstr "Kopírovat výběr [Ctrl+C]"
 
+msgid "Copy account id"
+msgstr "Kopírovat ID účtu"
+
 msgid "Copy server link"
 msgstr "Kopírovat odkaz na server"
 
@@ -2850,6 +2853,9 @@ msgstr "Povolit automatické odřádkování"
 
 msgid "Enable chat"
 msgstr "Povolit chat"
+
+msgid "Enable map editor quick start"
+msgstr "Zapnout rychlý start editoru map"
 
 msgid "Enable mouse trigerring of script events"
 msgstr "Povolit spouštění událostí skriptu myší"
@@ -4216,6 +4222,9 @@ msgstr "Mapa odstraněna"
 msgid "Map downloaded"
 msgstr "Mapa stažena"
 
+msgid "Map editor quick start"
+msgstr "Rychlý start editoru map"
+
 msgid "Map mods"
 msgstr "Dekorace map"
 
@@ -4430,6 +4439,9 @@ msgstr "Studio Modulů"
 
 msgid "Module saved"
 msgstr "Modul uložen"
+
+msgid "Mood"
+msgstr "Atmosféra"
 
 msgid "More info"
 msgstr "Více informací"
@@ -8102,6 +8114,9 @@ msgstr "Použít model pro všechna auta."
 msgid "Use Own Data"
 msgstr "Použít vlastní data"
 
+msgid "Use advanced editor"
+msgstr "Použít pokročilý editor"
+
 msgid "Use alternate rules :"
 msgstr "Použít alternativní pravidla:"
 
@@ -8116,6 +8131,9 @@ msgstr "Použít výchozí"
 
 msgid "Use existing action as preset"
 msgstr "Použít existující akci jako předvolbu"
+
+msgid "Use gamepad"
+msgstr "Použít gamepad"
 
 msgid "Use motion blur"
 msgstr "Použít pohybové rozmazání"
@@ -10542,6 +10560,9 @@ msgstr "|LightMapQuality|Žádná"
 msgid "|LightMapQuality|Ultra"
 msgstr "|LightMapQuality|Ultra"
 
+msgid "|LightMapQuality|Ultra2"
+msgstr "Ultra 2"
+
 msgid "|LightMapQuality|Very Fast"
 msgstr "|LightMapQuality|Velmi rychlé"
 
@@ -10589,6 +10610,18 @@ msgstr "Kvalita"
 
 msgid "|MapLight|Shadows"
 msgstr "Stíny"
+
+msgid "|MapMood|Day"
+msgstr "Den"
+
+msgid "|MapMood|Night"
+msgstr "Noc"
+
+msgid "|MapMood|Sunrise"
+msgstr "Ráno"
+
+msgid "|MapMood|Sunset"
+msgstr "Večer"
 
 msgid "|MapShadowsQuality|Very Fast"
 msgstr "Velmi rychlé"
