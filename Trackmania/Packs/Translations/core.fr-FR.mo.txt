@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 18:36+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: français, France\n"
+"Language-Team: French, France\n"
 "Language: fr-FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1205,9 +1205,6 @@ msgid "Block Mode"
 msgstr "Mode Bloc"
 
 msgid "Block Mode (F2)"
-msgstr "Mode Bloc [F2]"
-
-msgid "Block Mode [F2]"
 msgstr "Mode Bloc [F2]"
 
 msgid "Block Options"
@@ -3291,20 +3288,8 @@ msgstr "Mode macrobloc libre"
 msgid "Free block Mode"
 msgstr "Mode bloc libre"
 
-msgid "Free block Mode [F2]"
-msgstr "Mode Bloc Libre [F2]"
-
 msgid "Free for all"
 msgstr "Chacun pour soi"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Mode Objet de Sol Libre [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Mode Objet Libre [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Mode Macrobloc [F4]"
 
 msgid "Free wheeling!"
 msgstr "Roue libre !"
@@ -3395,9 +3380,6 @@ msgstr "Temps du fantôme"
 
 msgid "Ghost block Mode"
 msgstr "Mode bloc fantôme"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Mode Bloc fantôme [F2]"
 
 msgid "Ghost:%1"
 msgstr "Fantôme :%1"
@@ -4174,9 +4156,6 @@ msgstr "BOUGER"
 msgid "Macroblock Mode"
 msgstr "Mode macrobloc"
 
-msgid "Macroblock Mode [F4]"
-msgstr "Mode Macrobloc [F4]"
-
 msgid "Macroblock deleted"
 msgstr "Macrobloc supprimé"
 
@@ -4521,6 +4500,9 @@ msgstr "Réglages de la souris"
 
 msgid "Mouse wheel"
 msgstr "Molette souris"
+
+msgid "Move"
+msgstr "Déplacer"
 
 msgid "Move [M]"
 msgstr "Déplacer [M]"
@@ -6696,9 +6678,6 @@ msgstr "Skillpoints sur %1 :"
 msgid "Skinning Mode (F4)"
 msgstr "Mode peinture (F3)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Mode Peinture [F5]"
-
 msgid "Skip match in comments"
 msgstr "Ignorer les résultats dans les commentaires"
 
@@ -6998,9 +6977,6 @@ msgstr "Etat équipe"
 
 msgid "Teammates color"
 msgstr "Couleur des coéquipiers"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Mode Terraformation [F1]"
 
 msgid "Test"
 msgstr "Tester"
@@ -11014,6 +10990,31 @@ msgstr "Rayon"
 msgid "|MediaTracker Path Camera values|Weight"
 msgstr "Poids"
 
+msgid "|MediaTracker Pop Up|Please select a block or a key to paste this key."
+msgstr ""
+"|MediaTracker Pop Up|Veuillez sélectionner un bloc ou une clé pour coller "
+"cette clé."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of block. Please try with a "
+"key or another block."
+msgstr ""
+"|MediaTracker Pop Up|Vous ne pouvez pas copier ce genre de bloc. Veuillez "
+"essayer avec une clé d'un autre bloc."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of key. Please try with a key "
+"from another block."
+msgstr ""
+"|MediaTracker Pop Up|Vous ne pouvez pas copier ce genre de clé. Veuillez "
+"essayer avec une clé d'un autre bloc."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot cut a Start/End key. Try to copy it instead."
+msgstr ""
+"|MediaTracker Pop Up|Vous ne pouvez pas couper une clé Début/Fin. Essayez de "
+"la copier à la place."
+
 msgid "|MediaTracker Reference ghosts|Author ghost"
 msgstr "|MediaTracker Reference ghosts|Fantôme Auteur"
 
@@ -11309,6 +11310,9 @@ msgstr "Projection automatique"
 msgid "|MeshModeler|Box selection mode"
 msgstr "Mode de sélection de boîte"
 
+msgid "|MeshModeler|Center Position"
+msgstr "|MeshModeler|Position Centre"
+
 msgid "|MeshModeler|Centered"
 msgstr "Centré"
 
@@ -11320,6 +11324,9 @@ msgstr "Copier la sélection [Ctrl+C]"
 
 msgid "|MeshModeler|Create Material"
 msgstr "Créer un matériau"
+
+msgid "|MeshModeler|Create Voxel Material"
+msgstr "|MeshModeler|Créer un matériau de Voxel"
 
 msgid "|MeshModeler|Create disc [D]"
 msgstr "Créer un disque [D]"
@@ -11694,6 +11701,15 @@ msgstr "Angle vertical"
 
 msgid "|MeshModeler|Visibility"
 msgstr "Visibilité"
+
+msgid "|MeshModeler|Voxel Edition Tools"
+msgstr "|MeshModeler|Outils d'Edition de Voxel"
+
+msgid "|MeshModeler|Voxel Materials"
+msgstr "|MeshModeler|Materiaux de Voxel"
+
+msgid "|MeshModeler|Voxel size"
+msgstr "|MeshModeler|Taille du Voxel"
 
 msgid "|MeshModeler|material only (Keep UVs)"
 msgstr "Matériau uniquement (Garder les UVs)"

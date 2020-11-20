@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:52+0000\n"
+"PO-Revision-Date: 2020-11-18 14:00+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -12,6 +12,9 @@ msgstr ""
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "$%1Author"
+msgstr "$%1Автор"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> Король Лобби!"
@@ -219,6 +222,9 @@ msgstr "%1$<%2$> присоединился в матч, как замена."
 
 msgid "%1$<%2$> wins step %3"
 msgstr "%1$<%2$> выигрывает этап %3"
+
+msgid "%1$<%2$> wins the match!"
+msgstr "%1$<%2$> выигрывает матч!"
 
 msgid "%1's server"
 msgstr "Сервер игрока %1"
@@ -593,9 +599,6 @@ msgstr "Кликните на другую карту, чтобы поменят
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Кликните на модули интерфейса для редактирования их свойств"
-
-msgid "Click to see $<%1$> results"
-msgstr "Кликните, чтобы увидеть $<%1$> результаты"
 
 msgid "Close"
 msgstr "Закрыть"
@@ -2277,9 +2280,6 @@ msgstr "Зарегистрироваться"
 msgid "Registration"
 msgstr "Регистрация"
 
-msgid "Registration dates"
-msgstr "Даты регистрации"
-
 msgid "Registrations are closed"
 msgstr "Регистрация закрыта"
 
@@ -2993,6 +2993,9 @@ msgstr "Описание соревнования не может быть пу�
 msgid "The description of Competition has a maximum of %1 characters"
 msgstr "Описание соревнования может содержать не более %1 символов"
 
+msgid "The headline has a maximum of %1 characters"
+msgstr "Заголовок может содержать не более %1 символов"
+
 msgid "The leaderboard is now closed on this day!"
 msgstr "В этот день таблица лидеров закрыта!"
 
@@ -3022,6 +3025,9 @@ msgstr "Матч скоро начнётся..."
 
 msgid "The matchsettings is not valid"
 msgstr "Настройки матча недействительны"
+
+msgid "The name has a maximum of %1 characters"
+msgstr "Имя может содержать не более %1 символов"
 
 msgid ""
 "The name of the competition has a minimum of %1 and a maximum of %2 "
@@ -3947,6 +3953,15 @@ msgstr "|Campaign|Неизвестная"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|Отмена"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1Конец разминки, начало Финального этапа"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1Конец разминки, начало Этапа открытия"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1Конец разминки, начало Полуфинального этапа"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|Завершающий этап"
@@ -4926,6 +4941,9 @@ msgstr "|Zone|Южная Америка"
 
 msgid "|Zone|World"
 msgstr "|Zone|Мир"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|Начнётся через %1с"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|мин"

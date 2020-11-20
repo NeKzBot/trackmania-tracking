@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-15 17:53+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -1195,9 +1195,6 @@ msgstr "Blok Modu"
 
 msgid "Block Mode (F2)"
 msgstr "Blok Modu (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Blok Modu [F2]"
 
 msgid "Block Options"
 msgstr "Blok Seçenekleri"
@@ -3273,20 +3270,8 @@ msgstr "Serbest MakroBlok Modu"
 msgid "Free block Mode"
 msgstr "Serbest Blok Modu"
 
-msgid "Free block Mode [F2]"
-msgstr "Serbest blok Modu [F2]"
-
 msgid "Free for all"
 msgstr "Herkese açık"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Serbest Zemin Öğe Modu [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Serbest Öğe Modu [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Serbest MakroBlok Modu [F4]"
 
 msgid "Free wheeling!"
 msgstr "Serbest sürüş!"
@@ -3377,9 +3362,6 @@ msgstr "Hayalet Süresi"
 
 msgid "Ghost block Mode"
 msgstr "Hayalet Blok Modu"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Hayalet Blok Modu [F2]"
 
 msgid "Ghost:%1"
 msgstr "Hayalet:%1"
@@ -4150,9 +4132,6 @@ msgstr "TAŞI"
 msgid "Macroblock Mode"
 msgstr "MakroBlok Modu"
 
-msgid "Macroblock Mode [F4]"
-msgstr "MakroBlok Modu [F4]"
-
 msgid "Macroblock deleted"
 msgstr "MakroBlok silindi"
 
@@ -4494,6 +4473,9 @@ msgstr "Fare ayarları"
 
 msgid "Mouse wheel"
 msgstr "Fare tekerleği"
+
+msgid "Move"
+msgstr "Taşı"
 
 msgid "Move [M]"
 msgstr "Hareket [M]"
@@ -6648,9 +6630,6 @@ msgstr "%1 üzerindeki Yetenek Puanı:"
 msgid "Skinning Mode (F4)"
 msgstr "Dış Görünüm Modu (F4)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Dış Görünüm Modu [F5]"
-
 msgid "Skip match in comments"
 msgstr "Yorumlarda eşleşmeyi atla"
 
@@ -6951,9 +6930,6 @@ msgstr "TakımDurumu"
 
 msgid "Teammates color"
 msgstr "Takım arkadaşlarının rengi"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Zemin Değiştirme Modu [F1]"
 
 msgid "Test"
 msgstr "Test"

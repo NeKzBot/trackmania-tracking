@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 21:12+0000\n"
+"PO-Revision-Date: 2020-11-18 13:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Turkish, Turkey\n"
 "Language: tr-TR\n"
@@ -11,6 +11,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid " to "
+msgstr " - "
+
+msgid "$%1Author"
+msgstr "$%1Yapımcı"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> Lobinin Kralı!"
@@ -782,9 +788,6 @@ msgstr "Seçili harita ile sırasını değiştirmek üzere başka bir harita se
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Özelliklerini düzenlemek için arayüz modüllerinin üzerine tıklayın"
-
-msgid "Click to see $<%1$> results"
-msgstr "$<%1$> SONUÇLARINI GÖRMEK İÇİN TIKLAYIN"
 
 msgid "Close"
 msgstr "Kapat"
@@ -2966,9 +2969,6 @@ msgstr "Eleme maçında yer almak için Günün Kupası'na kaydolun."
 msgid "Registration"
 msgstr "Kayıt olma"
 
-msgid "Registration dates"
-msgstr "Kayıt tarihleri"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr "Bugünün kupası için kayıt sona erdi, yarın tekrar gelin!"
 
@@ -4658,19 +4658,6 @@ msgstr "Open Grand League için $<$7FA%1$> puan kazandınız"
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "Open Grand League için $<$7FA%1$> puan kazandınız"
 
-msgid ""
-"You're about to compete on the Track Of The Day\n"
-"You've been placed with players of the same level\n"
-"\n"
-"Every round, last players to finish will be eliminated\n"
-"Do your best to finish among the first !"
-msgstr ""
-"Günün Kupası'nda yarışmak üzeresiniz\n"
-"Aynı seviyedeki oyuncularla bir aradasınız\n"
-"\n"
-"Her round'un sonunda, sonuncu gelen yarışmacılar elenecek\n"
-"En önde bitirenler arasında olmaya çalışın!"
-
 msgid "Your final rank is $<$7FA%1$>"
 msgstr "Son sıralamada $<$7FA%1$> oldunuz"
 
@@ -4932,6 +4919,15 @@ msgstr "|Campaign|Bilinmeyen"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|GERİ"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1Isınma bitti, final aşaması başlıyor"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1Isınma bitti, açılış aşaması başlıyor"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1Isınma bitti, yarı-final aşaması başlıyor"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|FİNAL AŞAMASI"
@@ -5920,6 +5916,9 @@ msgstr "|Zone|GÜNEY AMERİKA"
 
 msgid "|Zone|World"
 msgstr "|Zone|DÜNYA"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|%1 saniye içinde başlıyor"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|dk"

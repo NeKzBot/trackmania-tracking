@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 08:49+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -1076,9 +1076,6 @@ msgstr "Blokeditor"
 
 msgid "Block Mode (F2)"
 msgstr "Blokmodus (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Blok tilstand [F2]"
 
 msgid "Block Properties Mode"
 msgstr "Blokegenskaber-modus"
@@ -2888,9 +2885,6 @@ msgstr "Ghost editor"
 
 msgid "Ghost Time"
 msgstr "Skygge tid"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Skygge blok Tilstand [F2]"
 
 msgid "Ghost:%1"
 msgstr "Skygge:%1"
@@ -5892,9 +5886,6 @@ msgstr "Holdfarve 1"
 
 msgid "Teammates color"
 msgstr "Holdkammeraters farve"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Terraformation tilstand [F1]"
 
 msgid "Test"
 msgstr "Test"

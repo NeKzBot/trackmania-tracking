@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 22:23+0000\n"
+"PO-Revision-Date: 2020-11-18 13:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -785,9 +785,6 @@ msgstr "Click on another map to swap its position with the selected one"
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Click on the UI modules to edit their properties"
-
-msgid "Click to see $<%1$> results"
-msgstr "Click to see $<%1$> results"
 
 msgid "Close"
 msgstr "Close"
@@ -2926,9 +2923,6 @@ msgstr "Register for Cup of the Day to participate in the Knockout match."
 msgid "Registration"
 msgstr "Registration"
 
-msgid "Registration dates"
-msgstr "Registration dates"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr "Registration for today's cup has finished, come back tomorrow!"
 
@@ -4601,19 +4595,6 @@ msgstr "You won $<$7FA0$> points for the Open Grand League"
 
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "You won $<$7FA1$> point for the Open Grand League"
-
-msgid ""
-"You're about to compete on the Track Of The Day\n"
-"You've been placed with players of the same level\n"
-"\n"
-"Every round, last players to finish will be eliminated\n"
-"Do your best to finish among the first !"
-msgstr ""
-"You're about to compete on the Track of the Day\n"
-"You've been placed with players of the same level\n"
-"\n"
-"Every round, the last players to finish will be eliminated\n"
-"Do your best to finish first !"
 
 msgid "Your final rank is $<$7FA%1$>"
 msgstr "Your final rank is $<$7FA%1$>"

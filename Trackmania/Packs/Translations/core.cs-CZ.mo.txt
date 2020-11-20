@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-15 19:22+0000\n"
+"PO-Revision-Date: 2020-11-18 14:43+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -625,6 +625,12 @@ msgstr "Aktivovat klíč"
 msgid "Add"
 msgstr "Přidat"
 
+msgid "Add Joint - No Geom"
+msgstr "Přidat kloub - bez geom"
+
+msgid "Add New Layer"
+msgstr "Přidat novou vrstvu"
+
 msgid "Add New Library"
 msgstr "Přidat novou knihovnu"
 
@@ -642,6 +648,9 @@ msgstr "Přidat spouštěč"
 
 msgid "Add item"
 msgstr "Přidat předmět"
+
+msgid "Add joint"
+msgstr "Přidat kloub"
 
 msgid "Add key"
 msgstr "Vložit klíč"
@@ -723,6 +732,9 @@ msgstr "Režim vzdušných bloků"
 
 msgid "Align Image"
 msgstr "Zarovnat obrázek"
+
+msgid "Align Sticker to the closest 90° Angle"
+msgstr "Zarovnat samolepku k nejbližšímu úhlu 90°"
 
 msgid "All"
 msgstr "Vše"
@@ -1193,9 +1205,6 @@ msgstr "Režim bloků"
 
 msgid "Block Mode (F2)"
 msgstr "Režim bloků (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Režim bloků [F2]"
 
 msgid "Block Options"
 msgstr "Možnosti bloku"
@@ -1683,6 +1692,9 @@ msgstr "Zavřít editor (Esc)"
 
 msgid "Close edition frame before saving."
 msgstr "Zavřete okno úprav před uložením."
+
+msgid "Close the Ref Ghosts window"
+msgstr "Zavřít okno ref. duchů"
 
 msgid "Close this tab"
 msgstr "Zavřít tuto kartu"
@@ -2218,6 +2230,9 @@ msgstr "Vlastní modely vozidel/postav"
 msgid "Customize"
 msgstr "Přizpůsobit"
 
+msgid "Cut"
+msgstr "Vyjmout"
+
 msgid "Cut Selection [Ctrl + X]"
 msgstr "Vyjmout výběr [Ctrl + X]"
 
@@ -2229,6 +2244,9 @@ msgstr "Vyjmout vybraný blok"
 
 msgid "Cut the selected key"
 msgstr "Vyjmout vybraný klíč"
+
+msgid "CutVoxels"
+msgstr "CutVoxels"
 
 msgid "D / Ctrl + Mouse Wheel Down"
 msgstr "D / CTRL + Kolečko myši dolů"
@@ -2776,6 +2794,9 @@ msgstr "Upravit masku : umožňuje vybrat části, na které bude aplikována vr
 msgid "Edit Offzone [O]"
 msgstr "Upravit Offzone [O]"
 
+msgid "Edit Selected Layer and Validate Edition"
+msgstr "Upravit vybranou vrstvu a ověřit úpravy"
+
 msgid "Edit Settings"
 msgstr "Upravit nastavení"
 
@@ -2961,6 +2982,9 @@ msgstr "Smazat"
 
 msgid "Erase a trigger"
 msgstr "Vymazat spouštěč"
+
+msgid "Eraser"
+msgstr "Guma"
 
 msgid "Eraser Tool [X]"
 msgstr "Nástroj mazání [X]"
@@ -3260,20 +3284,8 @@ msgstr "Režim volných makrobloků"
 msgid "Free block Mode"
 msgstr "Režim volných bloků"
 
-msgid "Free block Mode [F2]"
-msgstr "Režim volných bloků [F2]"
-
 msgid "Free for all"
 msgstr "Všichni proti všem"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Režim volných předmětů na zemi [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Režim volných předmětů [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Režim volných makrobloků [F4]"
 
 msgid "Free wheeling!"
 msgstr "Volnoběh!"
@@ -3365,9 +3377,6 @@ msgstr "Čas ducha"
 msgid "Ghost block Mode"
 msgstr "Režim mixování bloků"
 
-msgid "Ghost block Mode [F2]"
-msgstr "Režim mixování bloků [F2]"
-
 msgid "Ghost:%1"
 msgstr "Duch: %1"
 
@@ -3458,6 +3467,9 @@ msgstr "Pomocníci"
 
 msgid "Hide"
 msgstr "Skrýt"
+
+msgid "Hide Layers Menu"
+msgstr "Skrýt menu vrstev"
 
 msgid "Hide advanced parameters"
 msgstr "Skrýt pokročilé parametry"
@@ -3851,6 +3863,9 @@ msgstr "Připojit"
 msgid "Joining server..."
 msgstr "Připojuji se k serveru..."
 
+msgid "Joints mode"
+msgstr "Režim kloubů"
+
 msgid "Joypad"
 msgstr "Joypad"
 
@@ -3993,6 +4008,9 @@ msgstr "Odejít z editoru [Escape]"
 msgid "Left"
 msgstr "Levá"
 
+msgid "Left and Right Click : Camera Move Vertically"
+msgstr "Levý a pravý klik: Vertikální pohyb kamery"
+
 msgid "Left click : move the module"
 msgstr "Levý klik: přesunout modul"
 
@@ -4044,6 +4062,9 @@ msgstr "Sudá/Lichá"
 
 msgid "LineOdd/Even"
 msgstr "Lichá/Sudá"
+
+msgid "Link"
+msgstr "Propojení"
 
 msgid "Links an URL"
 msgstr "Odkazuje na URL"
@@ -4131,9 +4152,6 @@ msgstr "POHYB"
 
 msgid "Macroblock Mode"
 msgstr "Režim makrobloků"
-
-msgid "Macroblock Mode [F4]"
-msgstr "Režim makrobloků [F4]"
 
 msgid "Macroblock deleted"
 msgstr "Makroblok odstraněn"
@@ -4478,6 +4496,15 @@ msgstr "Nastavení myši"
 
 msgid "Mouse wheel"
 msgstr "Kolečko myši"
+
+msgid "Move"
+msgstr "Pohyb"
+
+msgid "Move Selected Layer Down"
+msgstr "Přesunout vybranou vrstvu dolů"
+
+msgid "Move Selected Layer Up"
+msgstr "Přesunout vybranou vrstvu nahoru"
 
 msgid "Move [M]"
 msgstr "Pohyb [M]"
@@ -4852,6 +4879,9 @@ msgstr "Pouze prvních %1 map z '%2' obtížnosti je odemčených v demo režimu
 msgid "Opacity"
 msgstr "Neprůhlednost"
 
+msgid "Open Layers Menu"
+msgstr "Otevřít menu vrstev"
+
 msgid "Open Library and add  the Include line  here in the script"
 msgstr "Otevřít knihovnu a přidat řádek Include tady ve skriptu"
 
@@ -5006,6 +5036,9 @@ msgstr "Heslo pro rozhodčího:"
 
 msgid "Password spectator (opt.) :"
 msgstr "Heslo pro diváky (nepovinné):"
+
+msgid "Paste"
+msgstr "Vložit"
 
 msgid "Paste Selection [Ctrl + V]"
 msgstr "Vložit výběr [Ctrl + V]"
@@ -5696,6 +5729,9 @@ msgstr "Odstranit vše"
 msgid "Remove All Clips"
 msgstr "Odstranit všechny klipy"
 
+msgid "Remove Joint"
+msgstr "Odebrat kloub"
+
 msgid "Remove all keys"
 msgstr "Odstranit všechny klíče"
 
@@ -5954,6 +5990,9 @@ msgstr "Otočit obrázek doprava"
 
 msgid "Rotate Right by 90"
 msgstr "Otočit vpravo o 90°"
+
+msgid "Rotate Sticker slightly to the Right"
+msgstr "Otočit samolepku lehce doprava"
 
 msgid "Rotate [R]"
 msgstr "Rotace [R]"
@@ -6613,9 +6652,6 @@ msgstr "Dovednostní body na %1:"
 msgid "Skinning Mode (F4)"
 msgstr "Režim vzhledů (F3)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Režim vzhledů [F5]"
-
 msgid "Skip match in comments"
 msgstr "Přeskočit zápas v komentářích"
 
@@ -6798,6 +6834,9 @@ msgstr "Podmenu"
 msgid "SubPlugin"
 msgstr "Podplugin"
 
+msgid "Subdivide & smooth"
+msgstr "Rozčlenit & vyhladit"
+
 msgid "Subject :"
 msgstr "Předmět:"
 
@@ -6915,9 +6954,6 @@ msgstr "Stav týmu"
 
 msgid "Teammates color"
 msgstr "Barva spoluhráčů"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Režim tvorby krajiny [F1]"
 
 msgid "Test"
 msgstr "Test"
@@ -7792,6 +7828,9 @@ msgstr "Přechod"
 
 msgid "Transparency"
 msgstr "Průhlednost"
+
+msgid "Triangles to Quads"
+msgstr "Trojúhelníky na čtyřúhelníky"
 
 msgid "Tries"
 msgstr "Pokusy"
@@ -10494,6 +10533,15 @@ msgid ""
 "will replace it."
 msgstr "Tento blok nelze převést. Bude nahrazen výchozí krychlí."
 
+msgid "|ItemFolder|Club"
+msgstr "Klub"
+
+msgid "|ItemFolder|Custom"
+msgstr "Vlastní"
+
+msgid "|ItemFolder|Official"
+msgstr "Oficiální"
+
 msgid "|ItemType|Bot"
 msgstr "Bot"
 
@@ -10872,6 +10920,109 @@ msgstr "Poloměr"
 msgid "|MediaTracker Path Camera values|Weight"
 msgstr "Váha"
 
+msgid ""
+"|MediaTracker Pop Up|Cannot copy this block type to duplicate the track."
+msgstr "Nelze zkopírovat tento typ bloku k duplikaci této stopy."
+
+msgid "|MediaTracker Pop Up|Cannot create a key here"
+msgstr "Tady nelze vytvořit klíč"
+
+msgid "|MediaTracker Pop Up|Cannot create another track of this block type."
+msgstr "Nelze vytvořit další stopu tohoto typu bloku."
+
+msgid ""
+"|MediaTracker Pop Up|Cannot duplicate an empty track. Please delete the "
+"track or paste a block on it."
+msgstr ""
+"Nelze duplikovat prázdnou stopu. Prosím odstraňte tuto stopu nebo do ní "
+"vložte blok."
+
+msgid ""
+"|MediaTracker Pop Up|Cannot paste block here nor create a new track with "
+"this block."
+msgstr "Zde nelze vložit blok nebo vytvořit stopu s tímto blokem."
+
+msgid "|MediaTracker Pop Up|Error while pasting key values."
+msgstr "Chyba při vkládání hodnot klíče."
+
+msgid ""
+"|MediaTracker Pop Up|Error while pasting key, cannot create a new key here."
+msgstr "Chyba při vkládání klíče, zde nelze vytvořit klíč."
+
+msgid ""
+"|MediaTracker Pop Up|Please paste this key to a block with the same amount "
+"of vertices and triangles."
+msgstr ""
+"Prosím vložte tento klíč do bloku se stejným počtem vrcholů a trojúhelníku."
+
+msgid "|MediaTracker Pop Up|Please select a block or a key to paste this key."
+msgstr "Prosím vyberte blok nebo klíč k vložení tohoto klíče."
+
+msgid ""
+"|MediaTracker Pop Up|Please select a similar type of block or key to paste "
+"this key."
+msgstr "Prosím vyberte podobný typ bloku nebo klíče k vložení tohoto klíče."
+
+msgid "|MediaTracker Pop Up|Please select a track to duplicate."
+msgstr "Prosím vyberte stopu k duplikaci."
+
+msgid "|MediaTracker Pop Up|Please select a trigger zone to reset"
+msgstr "Prosím vyberte spouštěcí zónu k resetování"
+
+msgid ""
+"|MediaTracker Pop Up|Please set the time cursor inbetween the selected "
+"block's start and end."
+msgstr "Prosím nastavte čas kurzoru mezi vybraný start a konec bloku."
+
+msgid ""
+"|MediaTracker Pop Up|Sorry, this type of block cannot be copied nor split."
+msgstr "Omlouváme se, tento typ bloku nemůže být zkopírován nebo rozdělen."
+
+msgid "|MediaTracker Pop Up|There is already a key here"
+msgstr "Tady už klíč je"
+
+msgid ""
+"|MediaTracker Pop Up|Unable to find block type, this track has no other "
+"blocks. Please delete this track."
+msgstr ""
+"Nepovedlo se najít typ bloku, tato stopa nemá jiné bloky. Prosím odstraňte "
+"tuto stopu."
+
+msgid "|MediaTracker Pop Up|Unable to insert block"
+msgstr "Nelze vložit blok"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of block. Please try with a "
+"key or another block."
+msgstr ""
+"Nemůžete zkopírovat tento druh klíče. Prosím zkuste to s klíčem nebo jiným "
+"blokem."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of key. Please try with a key "
+"from another block."
+msgstr ""
+"Nemůžete zkopírovat tento druh klíče. Prosím zkuste to s klíčem od jinýho "
+"bloku."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot cut a Start/End key. Try to copy it instead."
+msgstr ""
+"Nemůžete vyjmout startovní/konečný klíč. Zkuste ho místo toho zkopírovat."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot set the block start without selecting a block"
+msgstr "Nemůžete nastavit start bloku bez vybrání bloku."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot split a block in two without selecting a "
+"block first."
+msgstr "Nemůžete rozdělit blok na dva, pokud není žádný vybrán."
+
+msgid ""
+"|MediaTracker Pop Up|You must validate your map to use the MediaTracker here."
+msgstr "Musíte nejprve ověřit mapu k použití MediaTrackeru."
+
 msgid "|MediaTracker Reference ghosts|Author ghost"
 msgstr "Duch autora"
 
@@ -10960,13 +11111,13 @@ msgid "|MediaTracker Volume values|Sound volume"
 msgstr "Hlasitost zvuku"
 
 msgid "|MediaTracker block type|2D Decals"
-msgstr "2D Obtisky"
+msgstr "2D obtisky"
 
 msgid "|MediaTracker block type|2D Triangles"
-msgstr "2D Trojúhelníky"
+msgstr "2D trojúhelníky"
 
 msgid "|MediaTracker block type|3D Triangles"
-msgstr "3D Trojúhelníky"
+msgstr "3D trojúhelníky"
 
 msgid "|MediaTracker block type|Bloom"
 msgstr "Oslnění"
@@ -10990,7 +11141,7 @@ msgid "|MediaTracker block type|Color grading"
 msgstr "Stupňování barev"
 
 msgid "|MediaTracker block type|Colors FX"
-msgstr "FX Barvy"
+msgstr "FX barvy"
 
 msgid "|MediaTracker block type|Custom camera"
 msgstr "Vlastní kamera"
@@ -11086,7 +11237,7 @@ msgid "|MediaTracker block type|Sound FX"
 msgstr "Zvuk FX"
 
 msgid "|MediaTracker block type|Stereo 3D"
-msgstr "3D Stereo"
+msgstr "3D stereo"
 
 msgid "|MediaTracker block type|Text"
 msgstr "Text"
@@ -11118,8 +11269,134 @@ msgstr "Barvení SM Stožáru"
 msgid "|MeshEditor Material|Not collidable"
 msgstr "Nekolidovatelný"
 
+msgid "|MeshEditor|Advanced Tools"
+msgstr "Pokročilé nástroje"
+
+msgid "|MeshEditor|Border selection expand"
+msgstr "Roztažení výběru hranic"
+
+msgid "|MeshEditor|Change face orientation"
+msgstr "Změnit orientaci stěny"
+
+msgid "|MeshEditor|Creation Tools"
+msgstr "Tvůrčí nástroje"
+
+msgid "|MeshEditor|Cut hole"
+msgstr "Vystřihnout díru"
+
+msgid "|MeshEditor|Decagon"
+msgstr "Desetiúhelník"
+
+msgid "|MeshEditor|Decrease step"
+msgstr "Zmenšit krok"
+
+msgid "|MeshEditor|Delete"
+msgstr "Odstranit"
+
+msgid "|MeshEditor|Delete without spreading to neighbouring elements"
+msgstr "Odebrat bez rozšíření na sousedící části"
+
+msgid "|MeshEditor|Disc mode"
+msgstr "Režim disků"
+
+msgid "|MeshEditor|Dodecagon"
+msgstr "Dvanáctiúhelník"
+
+msgid "|MeshEditor|Edge loop selection expand"
+msgstr "Roztažení smyčkového výběru hrany"
+
+msgid "|MeshEditor|Edge mode"
+msgstr "Režim hran"
+
+msgid "|MeshEditor|Extrude"
+msgstr "Vytáhnout"
+
+msgid "|MeshEditor|Face loop selection expand"
+msgstr "Roztažení smyčkového výběru stěny"
+
+msgid "|MeshEditor|Face mode"
+msgstr "Režim stěn"
+
+msgid "|MeshEditor|Fill edges with faces"
+msgstr "Vyplnit hrany stěnami"
+
+msgid "|MeshEditor|Flip edge"
+msgstr "Převrátit hranu"
+
+msgid "|MeshEditor|Heptagon"
+msgstr "Sedmiúhelník"
+
+msgid "|MeshEditor|Hexagon"
+msgstr "Šestiúhelník"
+
+msgid "|MeshEditor|Increase step"
+msgstr "Zvětšit krok"
+
+msgid "|MeshEditor|Main Tools"
+msgstr "Hlavní nástroje"
+
+msgid "|MeshEditor|Materials mode"
+msgstr "Režim materiálů"
+
 msgid "|MeshEditor|Mesh Type"
 msgstr "|MeshEditor|Typ Meshe"
+
+msgid "|MeshEditor|Mirror"
+msgstr "Zrcadlit"
+
+msgid "|MeshEditor|Move"
+msgstr "Posunout"
+
+msgid "|MeshEditor|Nonagon"
+msgstr "Devítiúhelník"
+
+msgid "|MeshEditor|Octagon"
+msgstr "Osmiúhelník"
+
+msgid "|MeshEditor|Pentagon"
+msgstr "Pětiúhelník"
+
+msgid "|MeshEditor|Planar selection expand"
+msgstr "Roztažení rovinného výběru"
+
+msgid "|MeshEditor|Polygon mode"
+msgstr "Režim mnohoúhelníků"
+
+msgid "|MeshEditor|Prefabs mode"
+msgstr "Režim předloh"
+
+msgid "|MeshEditor|Quads to triangles"
+msgstr "Čtyřúhelníky na trojúhelníky"
+
+msgid "|MeshEditor|Quick Copy Materials & UVs"
+msgstr "Rychle zkopírovat materiály & UV"
+
+msgid "|MeshEditor|Quick Paste Materials & UVs"
+msgstr "Rychle vložit materiály & UV"
+
+msgid "|MeshEditor|Rotate"
+msgstr "Otočit"
+
+msgid "|MeshEditor|Scale"
+msgstr "Škálovat"
+
+msgid "|MeshEditor|Select"
+msgstr "Vybrat"
+
+msgid "|MeshEditor|Select All"
+msgstr "Vybrat vše"
+
+msgid "|MeshEditor|Selection : By Material"
+msgstr "Výběr: dle materiálu"
+
+msgid "|MeshEditor|Selection : Invert"
+msgstr "Výběr: invertovat"
+
+msgid "|MeshEditor|Selection : redo"
+msgstr "Výběr: znovu"
+
+msgid "|MeshEditor|Selection : undo"
+msgstr "Výběr: zpět"
 
 msgid "|MeshEditor|Selection Length"
 msgstr "Délka výběru"
@@ -11127,8 +11404,35 @@ msgstr "Délka výběru"
 msgid "|MeshEditor|Snapping"
 msgstr "Přichytávání"
 
+msgid "|MeshEditor|Sphere mode"
+msgstr "Režim koulí"
+
+msgid "|MeshEditor|Spline mode"
+msgstr "Režim křivek"
+
+msgid "|MeshEditor|Split"
+msgstr "Rozdělit"
+
+msgid "|MeshEditor|Split edge with vertex"
+msgstr "Rozdělit hranu s vrcholem"
+
+msgid "|MeshEditor|Square"
+msgstr "Čtverec"
+
+msgid "|MeshEditor|Subdivide selection"
+msgstr "Rozčlenit výběr"
+
+msgid "|MeshEditor|Toggle snapping"
+msgstr "Přepnout přichytávání"
+
 msgid "|MeshEditor|Tool Step"
 msgstr "Krok nástroje"
+
+msgid "|MeshEditor|Triangle"
+msgstr "Trojúhelník"
+
+msgid "|MeshEditor|Unwrap UVs"
+msgstr "Rozbalit UV"
 
 msgid "|MeshEditor|[Shift] : Symmetrical scale"
 msgstr "[Shift]: Symetrické měřítko"
@@ -11167,6 +11471,9 @@ msgstr "Automatická projekce"
 msgid "|MeshModeler|Box selection mode"
 msgstr "Režim výběru obalu"
 
+msgid "|MeshModeler|Center Position"
+msgstr "Prostřední pozice"
+
 msgid "|MeshModeler|Centered"
 msgstr "Uprostřed"
 
@@ -11178,6 +11485,9 @@ msgstr "Kopírovat výběr [Ctrl+C]"
 
 msgid "|MeshModeler|Create Material"
 msgstr "Vytvořit materiál"
+
+msgid "|MeshModeler|Create Voxel Material"
+msgstr "Vytvořit materiál voxelu"
 
 msgid "|MeshModeler|Create disc [D]"
 msgstr "Vytvořit kotouč [D]"
@@ -11365,6 +11675,9 @@ msgstr "Přesunout [M]"
 msgid "|MeshModeler|Move selection to ground [Ctrl+P]"
 msgstr "Přesunout výběr na zem [Ctrl+P]"
 
+msgid "|MeshModeler|Move to ground"
+msgstr "Přesunout k zemi"
+
 msgid "|MeshModeler|Name"
 msgstr "Jméno"
 
@@ -11550,6 +11863,18 @@ msgstr "Svislý úhel"
 
 msgid "|MeshModeler|Visibility"
 msgstr "Viditelnost"
+
+msgid "|MeshModeler|Voxel Edition Tools"
+msgstr "Editační nástroje voxelu"
+
+msgid "|MeshModeler|Voxel Materials"
+msgstr "Materiály voxelu"
+
+msgid "|MeshModeler|Voxel size"
+msgstr "Velikost voxelu"
+
+msgid "|MeshModeler|Voxel space attributes"
+msgstr "Prostorové atributy voxelu"
 
 msgid "|MeshModeler|material only (Keep UVs)"
 msgstr "Pouze materál (Nechat UV)"
@@ -12090,11 +12415,17 @@ msgstr "Automaticky uloženo"
 msgid "|SkinEditor|Add New Layer"
 msgstr "Přidat novou vrstvu"
 
+msgid "|SkinEditor|Align Text to the closest 90° Angle"
+msgstr "Zarovnat text k nejbližímu úhlu 90°"
+
 msgid "|SkinEditor|Angle"
 msgstr "Úhel"
 
 msgid "|SkinEditor|Brush Mode"
 msgstr "Režim štětce"
+
+msgid "|SkinEditor|Brush depending on Mesh Normal (Hold)"
+msgstr "Štětec uzpůsobený normále meshe (držet)"
 
 msgid "|SkinEditor|Camera Light"
 msgstr "Světlo kamery"
@@ -12108,8 +12439,17 @@ msgstr "Klikněte pro úpravu názvu vrstvy"
 msgid "|SkinEditor|Color Palette"
 msgstr "Barevná paleta"
 
+msgid "|SkinEditor|Color Picker"
+msgstr "Výběr barvy"
+
 msgid "|SkinEditor|Color Picking Tool"
 msgstr "Nástroj výběru barvy"
+
+msgid "|SkinEditor|Ctrl + Click on Mask : Add / Remove Several Masks on Layer"
+msgstr "Ctrl + klik na masku: Přidat/odebrat několik masek na vrstvě"
+
+msgid "|SkinEditor|Ctrl + Click on Palette Quad : Add Current Color to Palette"
+msgstr "Ctrl + klik na čtyřúhelník palety: Přidat aktuální barvu na paletu"
 
 msgid "|SkinEditor|Custom Color [Ctrl + Click : Save Current Color as Custom]"
 msgstr "Vlastní barva [Ctrl + klik: Uložit aktuální barvu jako vlastní]"
@@ -12119,6 +12459,12 @@ msgstr "Odstranit vrstvu"
 
 msgid "|SkinEditor|Edit Sub Object of Layer"
 msgstr "Upravit pod-objekt vrstvy"
+
+msgid "|SkinEditor|Eraser"
+msgstr "Guma"
+
+msgid "|SkinEditor|Eraser (Hold)"
+msgstr "Guma (držet)"
 
 msgid "|SkinEditor|Eraser Tool"
 msgstr "Nástroj mazání"
@@ -12138,6 +12484,9 @@ msgstr "Skrýt vrstvu při vytváření"
 msgid "|SkinEditor|Image Apply Mode"
 msgstr "Režim aplikování obrázků"
 
+msgid "|SkinEditor|Image Mode"
+msgstr "Režim obrázků"
+
 msgid "|SkinEditor|Import Layer"
 msgstr "Importovat vrstvu"
 
@@ -12147,11 +12496,20 @@ msgstr "Vrstva"
 msgid "|SkinEditor|Layers"
 msgstr "Vrstvy"
 
+msgid "|SkinEditor|Left Click : Move to Target"
+msgstr "Levý klik: Posunout k cíli"
+
+msgid "|SkinEditor|Left Click and move : Camera Pan"
+msgstr "Levý klik a pohyb: Pohyb kamery"
+
 msgid "|SkinEditor|Matte"
 msgstr "Matnost"
 
 msgid "|SkinEditor|Matte and Metal Modifier Tool"
 msgstr "Nástroj modifikace matnosti a metality"
+
+msgid "|SkinEditor|Mattness and Metal modify Mode"
+msgstr "Režim úpravy matnosti a metality"
 
 msgid "|SkinEditor|Mesh Normal Brush Tool"
 msgstr "Štětec normály meshe"
@@ -12165,11 +12523,26 @@ msgstr "Pomocník prostřední plochy"
 msgid "|SkinEditor|Mirror"
 msgstr "Zrcadlo"
 
+msgid "|SkinEditor|Mirror Mode"
+msgstr "Režim zrcadlení"
+
+msgid "|SkinEditor|Mirror Mode for Text"
+msgstr "Režim zrcadlení pro text"
+
 msgid "|SkinEditor|Move Layer Down"
 msgstr "Přesunout vrstvu dolů"
 
 msgid "|SkinEditor|Move Layer Up"
 msgstr "Přesunout vrstvu nahoru"
+
+msgid "|SkinEditor|Move to center of the Mesh"
+msgstr "Posunout ke středu meshe"
+
+msgid "|SkinEditor|No Mirror Mode"
+msgstr "Režim bez zrcadlení"
+
+msgid "|SkinEditor|No Mirror mode"
+msgstr "Bez režimu zrcadlení"
 
 msgid "|SkinEditor|Off"
 msgstr "Vyp."
@@ -12183,11 +12556,65 @@ msgstr "Neprůhlednost"
 msgid "|SkinEditor|Open Help"
 msgstr "Otevřít nápovědu"
 
+msgid "|SkinEditor|Open Save Menu"
+msgstr "Otevřít menu Uložit"
+
+msgid "|SkinEditor|Open this Help window"
+msgstr "Otevřít toto okno Nápověda"
+
+msgid "|SkinEditor|Paint Mode"
+msgstr "Režim malování"
+
+msgid "|SkinEditor|Paint and Replace"
+msgstr "Namalovat a nahradit"
+
 msgid "|SkinEditor|Projection"
 msgstr "Projekce"
 
+msgid "|SkinEditor|Quit"
+msgstr "Ukončit"
+
 msgid "|SkinEditor|Redo"
 msgstr "Opakovat"
+
+msgid "|SkinEditor|Reset Brush Angle to 0°"
+msgstr "Resetovat úhel štětce na 0°"
+
+msgid "|SkinEditor|Right Click and move : Camera Rotation"
+msgstr "Pravý klik a pohyb: Rotace kamery"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Left"
+msgstr "Otočit štětec 45° doleva"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Right"
+msgstr "Otočit štětec 45° doprava"
+
+msgid "|SkinEditor|Rotate Brush shlightly to the Right"
+msgstr "Otočit štětec lehce doprava"
+
+msgid "|SkinEditor|Rotate Brush slightly to the Left"
+msgstr "Otočit štětec lehce doleva"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Left"
+msgstr "Otočit samolepku 45° doleva"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Right"
+msgstr "Otočit samolepku 45° doprava"
+
+msgid "|SkinEditor|Rotate Sticker slightly to the Left"
+msgstr "Otočit samolepku jemně doleva"
+
+msgid "|SkinEditor|Rotate Text 45° to the Left"
+msgstr "Otočit text 45° doleva"
+
+msgid "|SkinEditor|Rotate Text 45° to the Right"
+msgstr "Otočit text o 45° doprava"
+
+msgid "|SkinEditor|Rotate Text slightly to the Left"
+msgstr "Otočit text jemně doleva"
+
+msgid "|SkinEditor|Rotate Text slightly to the Right"
+msgstr "Otočit text jemně doprava"
 
 msgid "|SkinEditor|Scale"
 msgstr "Měřítko"
@@ -12209,6 +12636,12 @@ msgstr "Text"
 
 msgid "|SkinEditor|Text Mode"
 msgstr "Režim textu"
+
+msgid "|SkinEditor|Toggle Light on Camera"
+msgstr "Přepnout světlo na kameře"
+
+msgid "|SkinEditor|Toggle Middle Plane Helper Display"
+msgstr "Přepnout zobrazení pomocníka prostřední plochy"
 
 msgid "|SkinEditor|Undo"
 msgstr "Vrátit"

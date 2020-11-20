@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 12:42+0000\n"
+"PO-Revision-Date: 2020-11-18 13:56+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -601,6 +601,12 @@ msgstr "激活一串密钥"
 msgid "Add"
 msgstr "添加"
 
+msgid "Add Joint - No Geom"
+msgstr "添加组合 - 无几何"
+
+msgid "Add New Layer"
+msgstr "添加新图层"
+
 msgid "Add New Library"
 msgstr "新建库"
 
@@ -618,6 +624,9 @@ msgstr "添加触发器"
 
 msgid "Add item"
 msgstr "增加物体"
+
+msgid "Add joint"
+msgstr "添加组合"
 
 msgid "Add key"
 msgstr "添加标记点"
@@ -700,6 +709,9 @@ msgstr "空中方块模式"
 msgid "Align Image"
 msgstr "对齐图像"
 
+msgid "Align Sticker to the closest 90° Angle"
+msgstr "贴纸与最近的直角对齐"
+
 msgid "All"
 msgstr "全部"
 
@@ -717,7 +729,7 @@ msgid ""
 "All custom interface manialink code will be lost.\n"
 "Continue?"
 msgstr ""
-"所有自定义ManiaLink代码都将丢失。\n"
+"所有自定义狂飙链接代码都将丢失。\n"
 "继续？"
 
 msgid "All files"
@@ -1168,9 +1180,6 @@ msgstr "方块模式"
 msgid "Block Mode (F2)"
 msgstr "方块模式（F2）"
 
-msgid "Block Mode [F2]"
-msgstr "方块模式 [F2]"
-
 msgid "Block Options"
 msgstr "片段选项"
 
@@ -1353,7 +1362,7 @@ msgid "Cannot paste here"
 msgstr "无法粘贴到此处"
 
 msgid "Cannot retrieve the Manialink:"
-msgstr "无法检索Manialink链接："
+msgstr "无法检索狂飙链接："
 
 msgid "Cannot subscribe to group:"
 msgstr "无法订阅群组："
@@ -1658,6 +1667,9 @@ msgstr "关闭编辑器（Esc）"
 msgid "Close edition frame before saving."
 msgstr "在保存之前先关闭帧编辑窗口。"
 
+msgid "Close the Ref Ghosts window"
+msgstr "关闭镜像窗口"
+
 msgid "Close this tab"
 msgstr "关闭此标签"
 
@@ -1831,6 +1843,9 @@ msgstr "复制所选标记"
 
 msgid "Copy/Paste Mode [C]"
 msgstr "复制/黏贴模式[C]"
+
+msgid "CopyVoxels"
+msgstr "复制立体像素"
 
 msgid "Corrupted login."
 msgstr "登录损坏。"
@@ -2187,6 +2202,9 @@ msgstr "自定义载具/角色模型"
 msgid "Customize"
 msgstr "自定义"
 
+msgid "Cut"
+msgstr "剪切"
+
 msgid "Cut Selection [Ctrl + X]"
 msgstr "剪切所选[Ctrl+X]"
 
@@ -2198,6 +2216,9 @@ msgstr "剪切所选片段"
 
 msgid "Cut the selected key"
 msgstr "剪切所选标记"
+
+msgid "CutVoxels"
+msgstr "移掉立体像素"
 
 msgid "D / Ctrl + Mouse Wheel Down"
 msgstr "D / Ctrl + 鼠标滚轮向下"
@@ -2736,6 +2757,9 @@ msgstr "编辑遮罩：让你选择图层要应用到的部分"
 msgid "Edit Offzone [O]"
 msgstr "编辑偏离区[O]"
 
+msgid "Edit Selected Layer and Validate Edition"
+msgstr "编辑所选图层并验证编辑"
+
 msgid "Edit Settings"
 msgstr "编辑设置"
 
@@ -2921,6 +2945,9 @@ msgstr "擦除"
 
 msgid "Erase a trigger"
 msgstr "清除触发器"
+
+msgid "Eraser"
+msgstr "橡皮擦"
 
 msgid "Eraser Tool [X]"
 msgstr "橡皮擦工具[X]"
@@ -3219,20 +3246,8 @@ msgstr "自由组合方块模式"
 msgid "Free block Mode"
 msgstr "自由方块模式"
 
-msgid "Free block Mode [F2]"
-msgstr "自由方块模式 [F2]"
-
 msgid "Free for all"
 msgstr "个人竞技"
-
-msgid "Free ground item Mode [F3]"
-msgstr "自由地面物品模式 [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "自由物品模式 [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "自由组合方块模式 [F4]"
 
 msgid "Free wheeling!"
 msgstr "惯性滑行！"
@@ -3324,9 +3339,6 @@ msgstr "镜像时间"
 msgid "Ghost block Mode"
 msgstr "透明方块模式"
 
-msgid "Ghost block Mode [F2]"
-msgstr "透明方块模式 [F2]"
-
 msgid "Ghost:%1"
 msgstr "镜像：%1"
 
@@ -3416,6 +3428,9 @@ msgstr "提示"
 
 msgid "Hide"
 msgstr "隐藏"
+
+msgid "Hide Layers Menu"
+msgstr "隐藏图层菜单"
 
 msgid "Hide advanced parameters"
 msgstr "隐藏高级参数"
@@ -3793,6 +3808,9 @@ msgstr "加入 "
 msgid "Joining server..."
 msgstr "正在加入服务器…"
 
+msgid "Joints mode"
+msgstr "组合模式"
+
 msgid "Joypad"
 msgstr "游戏手柄"
 
@@ -3935,6 +3953,9 @@ msgstr "离开编辑器[ESC]"
 msgid "Left"
 msgstr "左侧"
 
+msgid "Left and Right Click : Camera Move Vertically"
+msgstr "左右同按：摄像头垂直移动"
+
 msgid "Left click : move the module"
 msgstr "左键单击：移动模组"
 
@@ -3986,6 +4007,9 @@ msgstr "行偶数/奇数"
 
 msgid "LineOdd/Even"
 msgstr "行奇数/偶数"
+
+msgid "Link"
+msgstr "链接"
 
 msgid "Links an URL"
 msgstr "链接一个域名"
@@ -4074,9 +4098,6 @@ msgstr "移动"
 msgid "Macroblock Mode"
 msgstr "组合方块模式"
 
-msgid "Macroblock Mode [F4]"
-msgstr "组合方块模式 [F4]"
-
 msgid "Macroblock deleted"
 msgstr "已删除组合方块"
 
@@ -4126,13 +4147,13 @@ msgid "ManiaPlanet needs to be restarted to load this title."
 msgstr "需重启狂热星球以加载此游戏。"
 
 msgid "Manialink :"
-msgstr "Manialink："
+msgstr "狂飙链接："
 
 msgid "Manialink Code"
-msgstr "Manialink代码"
+msgstr "狂飙链接代码"
 
 msgid "Manialink:"
-msgstr "Manialink："
+msgstr "狂飙链接："
 
 msgid "Maniaplanet"
 msgstr "狂热星球"
@@ -4273,7 +4294,7 @@ msgid "Media Attributes"
 msgstr "媒体属性"
 
 msgid "MediaTracker (intro, replay and in-race effects)"
-msgstr "媒体追踪器（介绍，回放以及比赛中效果）"
+msgstr "媒体追踪器（介绍，回放和比赛中效果）"
 
 msgid "MediaTracker sequences"
 msgstr "媒体追踪器序列"
@@ -4419,6 +4440,15 @@ msgstr "鼠标设置"
 
 msgid "Mouse wheel"
 msgstr "鼠标滚轮"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move Selected Layer Down"
+msgstr "向下移动选定的层"
+
+msgid "Move Selected Layer Up"
+msgstr "上移所选图层"
 
 msgid "Move [M]"
 msgstr "移动 [M]"
@@ -4789,6 +4819,9 @@ msgstr "在演示模式下，只有“%2”难度的前%1张地图被解锁。"
 msgid "Opacity"
 msgstr "不透明度"
 
+msgid "Open Layers Menu"
+msgstr "打开图层菜单"
+
 msgid "Open Library and add  the Include line  here in the script"
 msgstr "打开库，然后在脚本中在此处添加包含的行"
 
@@ -4943,6 +4976,9 @@ msgstr "裁判密码："
 msgid "Password spectator (opt.) :"
 msgstr "观众密码（可选）"
 
+msgid "Paste"
+msgstr "粘贴"
+
 msgid "Paste Selection [Ctrl + V]"
 msgstr "粘贴所选 [Ctrl+V]"
 
@@ -4957,6 +4993,9 @@ msgstr "将已复制标记粘贴为新标记"
 
 msgid "Paste the copied key info to the selected key"
 msgstr "将已复制标记粘贴到所选标记上"
+
+msgid "PasteVoxels"
+msgstr "粘贴立体像素"
 
 msgid "Path Mode"
 msgstr "路径模式"
@@ -5620,6 +5659,9 @@ msgstr "移除所有"
 msgid "Remove All Clips"
 msgstr "移除全部剪辑"
 
+msgid "Remove Joint"
+msgstr "移除组合"
+
 msgid "Remove all keys"
 msgstr "移除全部标记"
 
@@ -5876,6 +5918,9 @@ msgstr "向右旋转图像"
 
 msgid "Rotate Right by 90"
 msgstr "向右旋转90度"
+
+msgid "Rotate Sticker slightly to the Right"
+msgstr "贴纸小幅向右旋转"
 
 msgid "Rotate [R]"
 msgstr "旋转[R]"
@@ -6143,6 +6188,12 @@ msgstr "全选 [Ctrl+A]"
 
 msgid "Select Common Data Directory"
 msgstr "选择通用数据存储目录"
+
+msgid "Select Layer Down of Selected Layer"
+msgstr "选择所选图层的下层"
+
+msgid "Select Layer Up of Selected Layer"
+msgstr "选择所选图层的上层"
 
 msgid "Select Personal Data Directory"
 msgstr "选择个人数据存储目录"
@@ -6528,11 +6579,11 @@ msgstr "字体大小"
 msgid "Skillpoints on %1:"
 msgstr "在%1的技巧积分："
 
+msgid "Skinning Mode"
+msgstr "皮肤模式"
+
 msgid "Skinning Mode (F4)"
 msgstr "皮肤模式 （F4）"
-
-msgid "Skinning Mode [F5]"
-msgstr "皮肤模式 [F5]"
 
 msgid "Skip match in comments"
 msgstr "跳过备注中的匹配"
@@ -6565,8 +6616,7 @@ msgstr "此组合方块中的一些方块无法对称。"
 msgid ""
 "Some blocks may not be available depending on your current context, or if "
 "you already have a track using the same type of blocks."
-msgstr ""
-"根据你当前的情况，某些片段可能不可用，或者你已有使用相同类型片段的轨道。"
+msgstr "根据当前的情况，某些方块可能不可用，或者你已有使用相同类型方块的赛道。"
 
 msgid "Some changes may not have been saved, return to menu?"
 msgstr "某些更改可能尚未保存，返回菜单？"
@@ -6715,6 +6765,9 @@ msgstr "子菜单"
 msgid "SubPlugin"
 msgstr "子插件"
 
+msgid "Subdivide & smooth"
+msgstr "细分和平滑"
+
 msgid "Subject :"
 msgstr "主题："
 
@@ -6830,9 +6883,6 @@ msgstr "队伍状态"
 
 msgid "Teammates color"
 msgstr "队友颜色"
-
-msgid "Terraformation Mode [F1]"
-msgstr "地形编辑模式 [F1]"
 
 msgid "Test"
 msgstr "测试"
@@ -7663,6 +7713,9 @@ msgstr "过渡"
 
 msgid "Transparency"
 msgstr "透明度"
+
+msgid "Triangles to Quads"
+msgstr "三角形到四边形"
 
 msgid "Tries"
 msgstr "尝试"
@@ -9811,6 +9864,9 @@ msgstr "|DisplaySync|无"
 msgid "|EditorEditor|Editor Type"
 msgstr "|EditorType|编辑器类型"
 
+msgid "|EditorMap|Modes"
+msgstr "|EditorMap|模式"
+
 msgid "|EditorType|Editor Editor"
 msgstr "|EditorType|作者编辑器"
 
@@ -10299,6 +10355,54 @@ msgid ""
 "will replace it."
 msgstr "|ItemEditor - CustomBlock|该方块无法转换，将其替换为默认方块。"
 
+msgid "|ItemFolder|Club"
+msgstr "|ItemFolder|俱乐部"
+
+msgid "|ItemFolder|Custom"
+msgstr "|ItemFolder|自定义"
+
+msgid "|ItemFolder|Official"
+msgstr "|ItemFolder|官方"
+
+msgid "|ItemPropertyGroup|Block customization"
+msgstr "|ItemPropertyGroup|方块自定义"
+
+msgid "|ItemPropertyGroup|Gameplay properties"
+msgstr "|ItemPropertyGroup|游戏玩法属性"
+
+msgid "|ItemPropertyGroup|Main"
+msgstr "|ItemPropertyGroup|主要"
+
+msgid "|ItemPropertyGroup|Map editor options"
+msgstr "|ItemPropertyGroup|地图编辑选项"
+
+msgid "|ItemPropertyGroup|Visual appearance"
+msgstr "|ItemPropertyGroup|可视外表"
+
+msgid "|ItemPropertyGroup|Waypoint"
+msgstr "|ItemPropertyGroup|路标"
+
+msgid "|ItemProperty|Icon"
+msgstr "|ItemProperty|图标"
+
+msgid "|ItemProperty|Item type"
+msgstr "|ItemProperty|物品类型"
+
+msgid "|ItemProperty|Mesh"
+msgstr "|ItemProperty|网格"
+
+msgid "|ItemProperty|Name"
+msgstr "|ItemProperty|名称"
+
+msgid "|ItemProperty|Pivot positions"
+msgstr "|ItemProperty|枢纽位置"
+
+msgid "|ItemProperty|Placement parameters"
+msgstr "|ItemProperty|放置参数"
+
+msgid "|ItemProperty|Skin"
+msgstr "|ItemProperty|皮肤"
+
 msgid "|ItemType|Bot"
 msgstr "|ItemType|机器人"
 
@@ -10665,6 +10769,157 @@ msgstr "|MediaTracker Image action|旋转"
 msgid "|MediaTracker Image values|Size"
 msgstr "|MediaTracker Image action|尺寸"
 
+msgid "|MediaTracker InertialTracking block values|Auto-Focus"
+msgstr "|MediaTracker InertialTracking block values|自动对焦"
+
+msgid "|MediaTracker InertialTracking block values|Auto-Zoom"
+msgstr "|MediaTracker InertialTracking block values|自动缩放"
+
+msgid "|MediaTracker InertialTracking block values|Max Distance"
+msgstr "|MediaTracker InertialTracking block values|最大距离"
+
+msgid "|MediaTracker InertialTracking block values|Max Fov"
+msgstr "MediaTracker InertialTracking block values|最大视野"
+
+msgid "|MediaTracker InertialTracking block values|Min Distance"
+msgstr "|MediaTracker InertialTracking block values|最小距离"
+
+msgid "|MediaTracker InertialTracking block values|Min Fov"
+msgstr "|MediaTracker InertialTracking block values|最小视野"
+
+msgid "|MediaTracker InertialTracking block values|Tracking"
+msgstr "|MediaTracker InertialTracking block values|追踪"
+
+msgid ""
+"|MediaTracker Inputs - Always see triggers or only see them when editing "
+"them|Toggle constant trigger zone visibilty"
+msgstr ""
+"|MediaTracker Inputs - Always see triggers or only see them when editing "
+"them|开关固定触发区域的可见性"
+
+msgid ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Slow down the Clip "
+"and Free cameras"
+msgstr ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|降速片段和自由视角"
+
+msgid ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Speed up the Clip "
+"and Free cameras"
+msgstr ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|加速片段和自由视角"
+
+msgid "|MediaTracker Inputs|Add a block to the selected track"
+msgstr "|MediaTracker Inputs|为选中的赛道添加一块方块"
+
+msgid "|MediaTracker Inputs|Add a key to selected block"
+msgstr "|MediaTracker Inputs|为选中的方块添加标记"
+
+msgid "|MediaTracker Inputs|Cancel or close the currently open pop-up"
+msgstr "|MediaTracker Inputs|取消或关闭最近打开的弹窗"
+
+msgid "|MediaTracker Inputs|Close Add Tracks window"
+msgstr "|MediaTracker Inputs|关闭添加赛道窗口"
+
+msgid "|MediaTracker Inputs|Compute the shadows of the map"
+msgstr "|MediaTracker Inputs|计算地图阴影"
+
+msgid "|MediaTracker Inputs|Confirm and close the currently open pop-up"
+msgstr "|MediaTracker Inputs|确认和关闭最近打开的弹窗"
+
+msgid "|MediaTracker Inputs|Copy selected key or block"
+msgstr "|MediaTracker Inputs|复制选中的方块或标记"
+
+msgid "|MediaTracker Inputs|Create a high quality screenshot"
+msgstr "MediaTracker Inputs|创建一个高质量的截图"
+
+msgid "|MediaTracker Inputs|Cut selected key or block"
+msgstr "|MediaTracker Inputs|剪切选中的标记或方块"
+
+msgid "|MediaTracker Inputs|Delete a key, block or track"
+msgstr "|MediaTracker Inputs|删除一个标记，方块或赛道"
+
+msgid "|MediaTracker Inputs|Duplicate selected track"
+msgstr "|MediaTracker Inputs|复制选中的赛道"
+
+msgid "|MediaTracker Inputs|Exit MediaTracker"
+msgstr "|MediaTracker Inputs|退出媒体追踪器"
+
+msgid "|MediaTracker Inputs|Exit fullscreen"
+msgstr "|MediaTracker Inputs|退出全屏模式"
+
+msgid "|MediaTracker Inputs|Export clip as a video"
+msgstr "|MediaTracker Inputs|导出片段"
+
+msgid "|MediaTracker Inputs|Fast forward timeline"
+msgstr "|MediaTracker Inputs|时间轴快进"
+
+msgid "|MediaTracker Inputs|Paste copied key or block"
+msgstr "|MediaTracker Inputs|粘贴复制的标记或方块"
+
+msgid "|MediaTracker Inputs|Redo the last undone action"
+msgstr "|MediaTracker Inputs|重做上次未完成的操作"
+
+msgid "|MediaTracker Inputs|Return to 0:00.00"
+msgstr "|MediaTracker Inputs|回到0:00.00"
+
+msgid "|MediaTracker Inputs|Rewind timeline"
+msgstr "|MediaTracker Inputs|时间轴倒带"
+
+msgid "|MediaTracker Inputs|Select the next key of selected track"
+msgstr "|MediaTracker Inputs|选择已选中的赛道的下一个标记"
+
+msgid "|MediaTracker Inputs|Select the previous key of selected track"
+msgstr "|MediaTracker Inputs|选择已选中的赛道的上一个标记"
+
+msgid "|MediaTracker Inputs|Select the track above"
+msgstr "|MediaTracker Inputs|选择赛道上方"
+
+msgid "|MediaTracker Inputs|Select the track below"
+msgstr "|MediaTracker Inputs|选择赛道下方"
+
+msgid "|MediaTracker Inputs|Show the full timeline content"
+msgstr "|MediaTracker Inputs|显示全部时间轴"
+
+msgid "|MediaTracker Inputs|Split block in two parts"
+msgstr "|MediaTracker Inputs|把方块分割成2部分"
+
+msgid "|MediaTracker Inputs|Stop the preview"
+msgstr "|MediaTracker Inputs|结束预览"
+
+msgid "|MediaTracker Inputs|Switch to the next tracks page"
+msgstr "|MediaTracker Inputs|切换至下个赛道页面"
+
+msgid "|MediaTracker Inputs|Switch to the previous tracks page"
+msgstr "|MediaTracker Inputs|切换至上个赛道页面"
+
+msgid "|MediaTracker Inputs|Toggle fullscreen"
+msgstr "|MediaTracker Inputs|切换全屏模式"
+
+msgid "|MediaTracker Inputs|Toggle ghost name labels"
+msgstr "|MediaTracker Inputs|开关镜像名字标签"
+
+msgid "|MediaTracker Inputs|Toggle play/pause"
+msgstr "|MediaTracker Inputs|游玩暂停开关"
+
+msgid "|MediaTracker Inputs|Toggle playback speed"
+msgstr "|MediaTracker Inputs|切换回访速度"
+
+msgid "|MediaTracker Inputs|Undo the last action"
+msgstr "|MediaTracker Inputs|撤销上一个操作"
+
+msgid "|MediaTracker Inputs|View the whole selected block"
+msgstr "|MediaTracker Inputs|查看整个被选中的方块"
+
+msgid "|MediaTracker Inputs|Watch clip in fullscreen"
+msgstr "|MediaTracker Inputs|全屏查看片段"
+
+msgid "|MediaTracker ML Interface action|Edit Manialink"
+msgstr "|MediaTracker ML Interface action|编辑狂飙链接"
+
+msgid "|MediaTracker ML Url values|Manialink URL"
+msgstr "|MediaTracker ML Url values|狂飙链接"
+
 msgid "|MediaTracker Orbital Camera values|Latitude"
 msgstr "|MediaTracker Orbital Camera values|纬度"
 
@@ -10676,6 +10931,105 @@ msgstr "|MediaTracker Orbital Camera values|半径"
 
 msgid "|MediaTracker Path Camera values|Weight"
 msgstr "|MediaTracker Path Camera values|重量"
+
+msgid "|MediaTracker Player Camera values|Camera type"
+msgstr "|MediaTracker Player Camera values|视角类型"
+
+msgid ""
+"|MediaTracker Pop Up|Cannot copy this block type to duplicate the track."
+msgstr "|MediaTracker Pop Up|无法复制此类型的方块以复制赛道。"
+
+msgid "|MediaTracker Pop Up|Cannot create a key here"
+msgstr "|MediaTracker Pop Up|无法在此创建一个标记"
+
+msgid "|MediaTracker Pop Up|Cannot create another track of this block type."
+msgstr "|MediaTracker Pop Up|无法再创建包含此类型的方块的赛道。"
+
+msgid ""
+"|MediaTracker Pop Up|Cannot duplicate an empty track. Please delete the "
+"track or paste a block on it."
+msgstr ""
+"|MediaTracker Pop Up|无法复制一个空白的赛道。请删除赛道或粘贴一个方块至此。"
+
+msgid ""
+"|MediaTracker Pop Up|Cannot paste block here nor create a new track with "
+"this block."
+msgstr "|MediaTracker Pop Up|无法在此粘贴或在此方块创建新赛道。"
+
+msgid "|MediaTracker Pop Up|Error while pasting key values."
+msgstr "|MediaTracker Pop Up|粘贴标记时发生错误。"
+
+msgid ""
+"|MediaTracker Pop Up|Error while pasting key, cannot create a new key here."
+msgstr "|MediaTracker Pop Up|粘贴标记时发生错误，无法在此创建新的标记。"
+
+msgid ""
+"|MediaTracker Pop Up|Please paste this key to a block with the same amount "
+"of vertices and triangles."
+msgstr ""
+"|MediaTracker Pop Up|请粘贴此标记至一个拥有相同顶点数和三角形数的方块。"
+
+msgid "|MediaTracker Pop Up|Please select a block or a key to paste this key."
+msgstr "|MediaTracker Pop Up|请选择一个方块或一个标记以粘贴此标记。"
+
+msgid ""
+"|MediaTracker Pop Up|Please select a similar type of block or key to paste "
+"this key."
+msgstr "|MediaTracker Pop Up|请选择一个类似类型的方块或标记来粘贴此键。"
+
+msgid "|MediaTracker Pop Up|Please select a track to duplicate."
+msgstr "|MediaTracker Pop Up|请选择一个赛道进行复制。"
+
+msgid "|MediaTracker Pop Up|Please select a trigger zone to reset"
+msgstr "|MediaTracker Pop Up|请选择一个触发区域以重置"
+
+msgid ""
+"|MediaTracker Pop Up|Please set the time cursor inbetween the selected "
+"block's start and end."
+msgstr "|MediaTracker Pop Up|请在选择的方块的始点和终点间放置时间光标。"
+
+msgid ""
+"|MediaTracker Pop Up|Sorry, this type of block cannot be copied nor split."
+msgstr "|MediaTracker Pop Up|抱歉，此类的方块无法分割或复制。"
+
+msgid "|MediaTracker Pop Up|There is already a key here"
+msgstr "|MediaTracker Pop Up|这里已有一个标记"
+
+msgid ""
+"|MediaTracker Pop Up|Unable to find block type, this track has no other "
+"blocks. Please delete this track."
+msgstr ""
+"|MediaTracker Pop Up|无法找到方块类型，此赛道没有其他方块。请删除此赛道。"
+
+msgid "|MediaTracker Pop Up|Unable to insert block"
+msgstr "|MediaTracker Pop Up|无法插入方块"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of block. Please try with a "
+"key or another block."
+msgstr "|MediaTracker Pop Up|你无法复制这个方块。请尝试其他标记或其他方块。"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of key. Please try with a key "
+"from another block."
+msgstr "|MediaTracker Pop Up|你无法复制此标记。请尝试其他方块的标记。"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot cut a Start/End key. Try to copy it instead."
+msgstr "|MediaTracker Pop Up|你无法剪切开始/结束标记。请尝试复制。"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot set the block start without selecting a block"
+msgstr "|MediaTracker Pop Up|当你未选择方块时，无法设置方块起点。"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot split a block in two without selecting a "
+"block first."
+msgstr "|MediaTracker Pop Up|当你未选择方块时，无法分割一个方块。"
+
+msgid ""
+"|MediaTracker Pop Up|You must validate your map to use the MediaTracker here."
+msgstr "|MediaTracker Pop Up|你必须验证你的地图才能使用媒体追踪器。"
 
 msgid "|MediaTracker Reference ghosts|Author ghost"
 msgstr "|MediaTracker Reference ghosts|作者镜像"
@@ -10749,6 +11103,46 @@ msgstr "|MediaTracker Time values|切线"
 msgid "|MediaTracker Time values|Time value"
 msgstr "|MediaTracker Time values|时间值"
 
+msgid ""
+"|MediaTracker Timeline Inputs|Move all keys to clicked key (Zone+Shift"
+"+LClick)"
+msgstr ""
+"|MediaTracker Timeline Inputs|移动所有标记至点击的标记处(区域+Shift+左击)"
+
+msgid "|MediaTracker Timeline Inputs|Move item (Select item + drag)"
+msgstr "|MediaTracker Timeline Inputs|移动物品（选择物品+拖拽）"
+
+msgid "|MediaTracker Timeline Inputs|Move multiple keys (Zone + Drag key)"
+msgstr "|MediaTracker Timeline Inputs|移动多个标记（区域+拖拽标记）"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Move selected key to the clicked key (Shift"
+"+LClick)"
+msgstr "|MediaTracker Timeline Inputs|移动选择的标记至点击的标记 (Shift+左击)"
+
+msgid "|MediaTracker Timeline Inputs|Move the timeline (Middle-click + drag)"
+msgstr "|MediaTracker Timeline Inputs|移动时间轴（中间+拖拽）"
+
+msgid "|MediaTracker Timeline Inputs|Remove zone (L-click on empty spot)"
+msgstr "|MediaTracker Timeline Inputs|移除区域（左击空白处）"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Select item (Left-click on a block or a key)"
+msgstr "|MediaTracker Timeline Inputs|选择物品（左击方块或标记）"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Set zone selection (Alt+LClick on two spots) "
+msgstr "|MediaTracker Timeline Inputs|设定选择区域（Alt+左击两个位置）"
+
+msgid "|MediaTracker Timeline Inputs|Snapping mode (Ctrl+Drag Key/Block)"
+msgstr "|MediaTracker Timeline Inputs|对齐模式 (Ctrl+拖拽标记/方块)"
+
+msgid "|MediaTracker Timeline Inputs|Unselect item (L-click on empty spot)"
+msgstr "|MediaTracker Timeline Inputs|取消选择物品（左击空白处）"
+
+msgid "|MediaTracker Timeline Inputs|Zoom in/out (Right-click + drag) "
+msgstr "|MediaTracker Timeline Inputs|缩放（右击+拖拽）"
+
 msgid "|MediaTracker ToneMapping values|Exposure"
 msgstr "|MediaTracker ToneMapping values|曝光"
 
@@ -10757,6 +11151,15 @@ msgstr "|MediaTracker ToneMapping values|光迹粗细"
 
 msgid "|MediaTracker ToneMapping values|Max HDR"
 msgstr "|MediaTracker ToneMapping values|最大HDR"
+
+msgid "|MediaTracker Triangle action|Import SVG"
+msgstr "|MediaTracker Triangle action|导入可缩放矢量图形"
+
+msgid "|MediaTracker Triangle values|Edit mode"
+msgstr "|MediaTracker Triangle values|编辑模式"
+
+msgid "|MediaTracker Triangle values|Position (x, y, z)"
+msgstr "|MediaTracker Triangle values|坐标位置 (x, y, z)"
 
 msgid "|MediaTracker Volume values|Music volume"
 msgstr "|MediaTracker Volume values|音乐音量"
@@ -10846,10 +11249,10 @@ msgid "|MediaTracker block type|Lightmap"
 msgstr "|MediaTracker block type|光线映射"
 
 msgid "|MediaTracker block type|Manialink UI"
-msgstr "|MediaTracker block type|Manialink界面"
+msgstr "|MediaTracker block type|狂飙链接界面"
 
 msgid "|MediaTracker block type|Manialink URL"
-msgstr "|MediaTracker block type|Manialink域名"
+msgstr "|MediaTracker block type|狂飙链接域名"
 
 msgid "|MediaTracker block type|Motion blur"
 msgstr "|MediaTracker block type|动态模糊"
@@ -10923,8 +11326,134 @@ msgstr "|MediaTrack|SM极着色"
 msgid "|MeshEditor Material|Not collidable"
 msgstr "|MeshEditor Material|不可碰撞"
 
+msgid "|MeshEditor|Advanced Tools"
+msgstr "|MeshEditor|高级工具"
+
+msgid "|MeshEditor|Border selection expand"
+msgstr "|MeshEditor|扩展边界选择区域"
+
+msgid "|MeshEditor|Change face orientation"
+msgstr "|MeshEditor|改变面向方向"
+
+msgid "|MeshEditor|Creation Tools"
+msgstr "|MeshEditor|创造工具"
+
+msgid "|MeshEditor|Cut hole"
+msgstr "|MeshEditor|打孔"
+
+msgid "|MeshEditor|Decagon"
+msgstr "|MeshEditor|十边形"
+
+msgid "|MeshEditor|Decrease step"
+msgstr "|MeshEditor|减少步骤"
+
+msgid "|MeshEditor|Delete"
+msgstr "|MeshEditor|删除"
+
+msgid "|MeshEditor|Delete without spreading to neighbouring elements"
+msgstr "|MeshEditor|删除而不影响到相邻元素"
+
+msgid "|MeshEditor|Disc mode"
+msgstr "|MeshEditor|圆盘模式"
+
+msgid "|MeshEditor|Dodecagon"
+msgstr "|MeshEditor|十一边形"
+
+msgid "|MeshEditor|Edge loop selection expand"
+msgstr "|MeshEditor|扩展边缘循环选择区域"
+
+msgid "|MeshEditor|Edge mode"
+msgstr "|MeshEditor|边缘模式"
+
+msgid "|MeshEditor|Extrude"
+msgstr "|MeshEditor|拉伸"
+
+msgid "|MeshEditor|Face loop selection expand"
+msgstr "|MeshEditor|扩展表面循环选择区域"
+
+msgid "|MeshEditor|Face mode"
+msgstr "|MeshEditor|表面模式"
+
+msgid "|MeshEditor|Fill edges with faces"
+msgstr "|MeshEditor|用表面填充边缘"
+
+msgid "|MeshEditor|Flip edge"
+msgstr "|MeshEditor|翻转边缘"
+
+msgid "|MeshEditor|Heptagon"
+msgstr "|MeshEditor|七边"
+
+msgid "|MeshEditor|Hexagon"
+msgstr "|MeshEditor|六边形"
+
+msgid "|MeshEditor|Increase step"
+msgstr "|MeshEditor|增加步骤"
+
+msgid "|MeshEditor|Main Tools"
+msgstr "|MeshEditor|主要工具"
+
+msgid "|MeshEditor|Materials mode"
+msgstr "|MeshEditor|材料模式"
+
 msgid "|MeshEditor|Mesh Type"
 msgstr "|MeshEditor|网格类型"
+
+msgid "|MeshEditor|Mirror"
+msgstr "|MeshEditor|镜像"
+
+msgid "|MeshEditor|Move"
+msgstr "|MeshEditor|移动"
+
+msgid "|MeshEditor|Nonagon"
+msgstr "|MeshEditor||九边形"
+
+msgid "|MeshEditor|Octagon"
+msgstr "|MeshEditor|八边形"
+
+msgid "|MeshEditor|Pentagon"
+msgstr "|MeshEditor|五边"
+
+msgid "|MeshEditor|Planar selection expand"
+msgstr "|MeshEditor|扩展投射选择区域"
+
+msgid "|MeshEditor|Polygon mode"
+msgstr "|MeshEditor|多边形模式"
+
+msgid "|MeshEditor|Prefabs mode"
+msgstr "|MeshEditor|预制件模式"
+
+msgid "|MeshEditor|Quads to triangles"
+msgstr "|MeshEditor|四边形到三角形"
+
+msgid "|MeshEditor|Quick Copy Materials & UVs"
+msgstr "|MeshEditor|快速复制材料和UV"
+
+msgid "|MeshEditor|Quick Paste Materials & UVs"
+msgstr "|MeshEditor|快速粘贴材料和UV"
+
+msgid "|MeshEditor|Rotate"
+msgstr "|MeshEditor|旋转"
+
+msgid "|MeshEditor|Scale"
+msgstr "|MeshEditor|比例"
+
+msgid "|MeshEditor|Select"
+msgstr "|MeshEditor|选择"
+
+msgid "|MeshEditor|Select All"
+msgstr "|MeshEditor|全选"
+
+msgid "|MeshEditor|Selection : By Material"
+msgstr "|MeshEditor|选择：按材质"
+
+msgid "|MeshEditor|Selection : Invert"
+msgstr "|MeshEditor|选择：翻转"
+
+msgid "|MeshEditor|Selection : redo"
+msgstr "|MeshEditor|选择：重做"
+
+msgid "|MeshEditor|Selection : undo"
+msgstr "|MeshEditor|选择：撤销"
 
 msgid "|MeshEditor|Selection Length"
 msgstr "|MeshEditor|选取长度"
@@ -10932,8 +11461,35 @@ msgstr "|MeshEditor|选取长度"
 msgid "|MeshEditor|Snapping"
 msgstr "|MeshEditor|对齐"
 
+msgid "|MeshEditor|Sphere mode"
+msgstr "|MeshEditor|球体模式"
+
+msgid "|MeshEditor|Spline mode"
+msgstr "|MeshEditor|样条曲线模式"
+
+msgid "|MeshEditor|Split"
+msgstr "|MeshEditor|分割"
+
+msgid "|MeshEditor|Split edge with vertex"
+msgstr "|MeshEditor|使用顶点分割边"
+
+msgid "|MeshEditor|Square"
+msgstr "|MeshEditor|四边形"
+
+msgid "|MeshEditor|Subdivide selection"
+msgstr "|MeshEditor|细分选择"
+
+msgid "|MeshEditor|Toggle snapping"
+msgstr "|MeshEditor|开关对齐"
+
 msgid "|MeshEditor|Tool Step"
 msgstr "|MeshEditor|工具阶级"
+
+msgid "|MeshEditor|Triangle"
+msgstr "|MeshEditor|三角形"
+
+msgid "|MeshEditor|Unwrap UVs"
+msgstr "|MeshEditor|展开UV"
 
 msgid "|MeshEditor|[Shift] : Symmetrical scale"
 msgstr "|MeshEditor|[Shift]：对称比例"
@@ -10972,6 +11528,9 @@ msgstr "|MeshModeler|自动投影"
 msgid "|MeshModeler|Box selection mode"
 msgstr "|MeshModeler|方框选择模式"
 
+msgid "|MeshModeler|Center Position"
+msgstr "|MeshModeler|中心位"
+
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|居中"
 
@@ -10983,6 +11542,9 @@ msgstr "|MeshModeler|复制所选 [Ctrl+C]"
 
 msgid "|MeshModeler|Create Material"
 msgstr "|MeshModeler|创建材质"
+
+msgid "|MeshModeler|Create Voxel Material"
+msgstr "|MeshModeler|创造立体像素材料"
 
 msgid "|MeshModeler|Create disc [D]"
 msgstr "|MeshModeler|创建圆盘 [D]"
@@ -11170,6 +11732,9 @@ msgstr "|MeshModeler|移动 [M]"
 msgid "|MeshModeler|Move selection to ground [Ctrl+P]"
 msgstr "|MeshModeler|移动所选至地表 [Ctrl+P]"
 
+msgid "|MeshModeler|Move to ground"
+msgstr "|MeshModeler|移动至地面"
+
 msgid "|MeshModeler|Name"
 msgstr "|MeshModeler|名称"
 
@@ -11355,6 +11920,18 @@ msgstr "|MeshModeler|垂直角度"
 
 msgid "|MeshModeler|Visibility"
 msgstr "|MeshModeler|可见度"
+
+msgid "|MeshModeler|Voxel Edition Tools"
+msgstr "|MeshModeler|立体像素编辑工具"
+
+msgid "|MeshModeler|Voxel Materials"
+msgstr "|MeshModeler|立体像素材料"
+
+msgid "|MeshModeler|Voxel size"
+msgstr "|MeshModeler|立体像素体积"
+
+msgid "|MeshModeler|Voxel space attributes"
+msgstr "|MeshModeler|立体空间像素属性"
 
 msgid "|MeshModeler|material only (Keep UVs)"
 msgstr "|MeshModeler|仅材质（保持UV）"
@@ -11892,11 +12469,17 @@ msgstr "|SkinEditor, displaying skin got autosaved|已自动保存"
 msgid "|SkinEditor|Add New Layer"
 msgstr "|SkinEditor|添加新图层"
 
+msgid "|SkinEditor|Align Text to the closest 90° Angle"
+msgstr "|SkinEditor|文本与最近的直角对齐"
+
 msgid "|SkinEditor|Angle"
 msgstr "|SkinEditor|角度"
 
 msgid "|SkinEditor|Brush Mode"
 msgstr "|SkinEditor|笔刷模式"
+
+msgid "|SkinEditor|Brush depending on Mesh Normal (Hold)"
+msgstr "|SkinEditor|笔刷基于普通网格（保持）"
 
 msgid "|SkinEditor|Camera Light"
 msgstr "|SkinEditor|镜头灯光"
@@ -11910,8 +12493,17 @@ msgstr "|SkinEditor|点击编辑图层名称"
 msgid "|SkinEditor|Color Palette"
 msgstr "|SkinEditor|调色板"
 
+msgid "|SkinEditor|Color Picker"
+msgstr "|SkinEditor|取色器"
+
 msgid "|SkinEditor|Color Picking Tool"
 msgstr "|SkinEditor|颜色拾取器"
+
+msgid "|SkinEditor|Ctrl + Click on Mask : Add / Remove Several Masks on Layer"
+msgstr "|SkinEditor|Ctrl+单击蒙版：在图层上添加/删除多个蒙版"
+
+msgid "|SkinEditor|Ctrl + Click on Palette Quad : Add Current Color to Palette"
+msgstr "|SkinEditor|Ctrl+单击调色板四边形：将当前颜色添加到调色板"
 
 msgid "|SkinEditor|Custom Color [Ctrl + Click : Save Current Color as Custom]"
 msgstr "|SkinEditor|自定义颜色 [Ctrl + 单击：将当前颜色保存为自定义]"
@@ -11921,6 +12513,12 @@ msgstr "|SkinEditor|删除图层"
 
 msgid "|SkinEditor|Edit Sub Object of Layer"
 msgstr "|SkinEditor|编辑图层的子对象"
+
+msgid "|SkinEditor|Eraser"
+msgstr "|SkinEditor|橡皮擦"
+
+msgid "|SkinEditor|Eraser (Hold)"
+msgstr "|SkinEditor|橡皮擦（保持）"
 
 msgid "|SkinEditor|Eraser Tool"
 msgstr "|SkinEditor|橡皮擦工具"
@@ -11940,6 +12538,9 @@ msgstr "|SkinEditor|生成时隐藏图层"
 msgid "|SkinEditor|Image Apply Mode"
 msgstr "|SkinEditor|图像应用模式"
 
+msgid "|SkinEditor|Image Mode"
+msgstr "|SkinEditor|图像模式"
+
 msgid "|SkinEditor|Import Layer"
 msgstr "|SkinEditor|导入图层"
 
@@ -11949,11 +12550,20 @@ msgstr "|SkinEditor|图层"
 msgid "|SkinEditor|Layers"
 msgstr "|SkinEditor|图层"
 
+msgid "|SkinEditor|Left Click : Move to Target"
+msgstr "|SkinEditor|左击：移动目标"
+
+msgid "|SkinEditor|Left Click and move : Camera Pan"
+msgstr "|SkinEditor|左击并移动：全景视角"
+
 msgid "|SkinEditor|Matte"
 msgstr "|SkinEditor|磨砂"
 
 msgid "|SkinEditor|Matte and Metal Modifier Tool"
 msgstr "|SkinEditor|磨砂和金属质感调整工具"
+
+msgid "|SkinEditor|Mattness and Metal modify Mode"
+msgstr "|SkinEditor|哑光和金属调整模式"
 
 msgid "|SkinEditor|Mesh Normal Brush Tool"
 msgstr "|SkinEditor|网格普通笔刷工具"
@@ -11967,11 +12577,38 @@ msgstr "|SkinEditor|中位平面助手"
 msgid "|SkinEditor|Mirror"
 msgstr "|SkinEditor|镜像"
 
+msgid "|SkinEditor|Mirror Mode"
+msgstr "|SkinEditor|镜像模式"
+
+msgid "|SkinEditor|Mirror Mode for Text"
+msgstr "|SkinEditor|文本镜像模式"
+
 msgid "|SkinEditor|Move Layer Down"
 msgstr "|SkinEditor|向下移动图层"
 
 msgid "|SkinEditor|Move Layer Up"
 msgstr "|SkinEditor|向上移动图层"
+
+msgid "|SkinEditor|Move to center of the Mesh"
+msgstr "|SkinEditor|移至网格中间"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Down"
+msgstr "|SkinEditor|向下移至最接近的正交轴"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Left"
+msgstr "|SkinEditor|向左移至最接近的正交轴"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Right"
+msgstr "|SkinEditor|向右移至最接近的正交轴"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Up"
+msgstr "|SkinEditor|向上移至最接近的正交轴"
+
+msgid "|SkinEditor|No Mirror Mode"
+msgstr "|SkinEditor|无镜模式"
+
+msgid "|SkinEditor|No Mirror mode"
+msgstr "|SkinEditor|无镜像模式"
 
 msgid "|SkinEditor|Off"
 msgstr "|SkinEditor|关闭"
@@ -11985,11 +12622,65 @@ msgstr "|SkinEditor|透明度"
 msgid "|SkinEditor|Open Help"
 msgstr "|SkinEditor|打开帮助"
 
+msgid "|SkinEditor|Open Save Menu"
+msgstr "|SkinEditor|打开存档菜单"
+
+msgid "|SkinEditor|Open this Help window"
+msgstr "|SkinEditor|打开帮助窗口"
+
+msgid "|SkinEditor|Paint Mode"
+msgstr "|SkinEditor|画图模式"
+
+msgid "|SkinEditor|Paint and Replace"
+msgstr "|SkinEditor|画图和替换"
+
 msgid "|SkinEditor|Projection"
 msgstr "|SkinEditor|投影"
 
+msgid "|SkinEditor|Quit"
+msgstr "|SkinEditor|退出"
+
 msgid "|SkinEditor|Redo"
 msgstr "|SkinEditor|重做"
+
+msgid "|SkinEditor|Reset Brush Angle to 0°"
+msgstr "|SkinEditor|重置笔刷至0度"
+
+msgid "|SkinEditor|Right Click and move : Camera Rotation"
+msgstr "|SkinEditor|右击并移动：旋转摄像头"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Left"
+msgstr "|SkinEditor|笔刷向左旋转45度"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Right"
+msgstr "|SkinEditor|笔刷向右旋转45度"
+
+msgid "|SkinEditor|Rotate Brush shlightly to the Right"
+msgstr "|SkinEditor|笔刷小幅向右旋转"
+
+msgid "|SkinEditor|Rotate Brush slightly to the Left"
+msgstr "|SkinEditor|笔刷小幅向左旋转"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Left"
+msgstr "|SkinEditor|贴纸向左旋转45度"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Right"
+msgstr "|SkinEditor|贴纸向右旋转45度"
+
+msgid "|SkinEditor|Rotate Sticker slightly to the Left"
+msgstr "|SkinEditor|贴纸小幅向左旋转"
+
+msgid "|SkinEditor|Rotate Text 45° to the Left"
+msgstr "|SkinEditor|笔刷向左旋转45度"
+
+msgid "|SkinEditor|Rotate Text 45° to the Right"
+msgstr "|SkinEditor|文本向右旋转45度"
+
+msgid "|SkinEditor|Rotate Text slightly to the Left"
+msgstr "|SkinEditor|笔刷小幅向左旋转"
+
+msgid "|SkinEditor|Rotate Text slightly to the Right"
+msgstr "|SkinEditor|文本小幅向右旋转"
 
 msgid "|SkinEditor|Scale"
 msgstr "|SkinEditor|缩放"
@@ -12011,6 +12702,12 @@ msgstr "|SkinEditor|文字"
 
 msgid "|SkinEditor|Text Mode"
 msgstr "|SkinEditor|文字模式"
+
+msgid "|SkinEditor|Toggle Light on Camera"
+msgstr "|SkinEditor|开关摄像头的光"
+
+msgid "|SkinEditor|Toggle Middle Plane Helper Display"
+msgstr "|SkinEditor|中位平面助手显示"
 
 msgid "|SkinEditor|Undo"
 msgstr "|SkinEditor|撤销"

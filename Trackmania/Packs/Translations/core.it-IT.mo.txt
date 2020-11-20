@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-09 19:36+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -633,6 +633,12 @@ msgstr "Attiva una chiave"
 msgid "Add"
 msgstr "Aggiungi"
 
+msgid "Add Joint - No Geom"
+msgstr "Agg. giunz. - no geom."
+
+msgid "Add New Layer"
+msgstr "Agg. nuovo livello"
+
 msgid "Add New Library"
 msgstr "Aggiungi nuova libreria"
 
@@ -650,6 +656,9 @@ msgstr "Aggiungi un trigger"
 
 msgid "Add item"
 msgstr "Aggiungi oggetto"
+
+msgid "Add joint"
+msgstr "Aggiungi giunzione"
 
 msgid "Add key"
 msgstr "Agg. chiave"
@@ -731,6 +740,9 @@ msgstr "Modalità Blocco aereo"
 
 msgid "Align Image"
 msgstr "Allinea immagine"
+
+msgid "Align Sticker to the closest 90° Angle"
+msgstr "Allinea etichetta all'angolo a 90° più vicino"
 
 msgid "All"
 msgstr "Tutti"
@@ -1203,9 +1215,6 @@ msgstr "Modalità Blocco"
 
 msgid "Block Mode (F2)"
 msgstr "Modalità blocco (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Modalità blocco [F2]"
 
 msgid "Block Options"
 msgstr "Opzioni del blocco"
@@ -1693,6 +1702,9 @@ msgstr "Chiudi editor (ESC)"
 msgid "Close edition frame before saving."
 msgstr "Chiudi il frame in modifica prima di salvare."
 
+msgid "Close the Ref Ghosts window"
+msgstr "Chiudi finestra fantasmi di riferimento"
+
 msgid "Close this tab"
 msgstr "Chiudi questa scheda"
 
@@ -1868,6 +1880,9 @@ msgstr "Copia la chiave selezionata"
 
 msgid "Copy/Paste Mode [C]"
 msgstr "Modalità Copia/Incolla [C]"
+
+msgid "CopyVoxels"
+msgstr "CopiaVoxel"
 
 msgid "Corrupted login."
 msgstr "Login danneggiato."
@@ -2233,6 +2248,9 @@ msgstr "Modelli personalizzati veicolo/personaggio"
 msgid "Customize"
 msgstr "Personalizza"
 
+msgid "Cut"
+msgstr "Taglia"
+
 msgid "Cut Selection [Ctrl + X]"
 msgstr "Taglia selezione [CTRL+X]"
 
@@ -2244,6 +2262,9 @@ msgstr "Taglia il blocco selezionato"
 
 msgid "Cut the selected key"
 msgstr "Taglia la chiave selezionata"
+
+msgid "CutVoxels"
+msgstr "TagliaVoxel"
 
 msgid "D / Ctrl + Mouse Wheel Down"
 msgstr "D / Ctrl + Rotellina Mouse Giù"
@@ -2793,6 +2814,9 @@ msgstr "Maschera di modif.: scegli su quali parti sarà applicato il livello"
 msgid "Edit Offzone [O]"
 msgstr "Modifica OffZone [O]"
 
+msgid "Edit Selected Layer and Validate Edition"
+msgstr "Modifica livello selezionato e convalida modifica"
+
 msgid "Edit Settings"
 msgstr "Modifica impostazioni"
 
@@ -2982,6 +3006,9 @@ msgstr "Cancella"
 
 msgid "Erase a trigger"
 msgstr "Cancella trigger"
+
+msgid "Eraser"
+msgstr "Cancella"
 
 msgid "Eraser Tool [X]"
 msgstr "Strumento cancella [X]"
@@ -3284,20 +3311,8 @@ msgstr "Modalità Macroblocco libero"
 msgid "Free block Mode"
 msgstr "Modalità Blocco libero"
 
-msgid "Free block Mode [F2]"
-msgstr "Modalità blocco libero [F2]"
-
 msgid "Free for all"
 msgstr "Libero per tutti attivato!"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Modalità Oggetto a terra libero [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Modalità Oggetto libero [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Modalità Macroblocco libero [F4]"
 
 msgid "Free wheeling!"
 msgstr "Giro libero!"
@@ -3388,9 +3403,6 @@ msgstr "Tempo del Ghost"
 
 msgid "Ghost block Mode"
 msgstr "Modalità Blocco fantasma"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Modalità Blocco fantasma [F2]"
 
 msgid "Ghost:%1"
 msgstr "Ghost:%1"
@@ -3484,6 +3496,9 @@ msgstr "Aiuti visivi"
 
 msgid "Hide"
 msgstr "Nascondi"
+
+msgid "Hide Layers Menu"
+msgstr "Nascondi menu livelli"
 
 msgid "Hide advanced parameters"
 msgstr "Nascondi parametri avanzati"
@@ -3881,6 +3896,9 @@ msgstr "Partecipa"
 msgid "Joining server..."
 msgstr "Connessione al server in corso..."
 
+msgid "Joints mode"
+msgstr "Modalità giunzioni"
+
 msgid "Joypad"
 msgstr "Joypad"
 
@@ -4023,6 +4041,9 @@ msgstr "Esci dall'editor [Esc]"
 msgid "Left"
 msgstr "Sinistra"
 
+msgid "Left and Right Click : Camera Move Vertically"
+msgstr "Clic sinistro e destro: muovi telecamera verticalmente"
+
 msgid "Left click : move the module"
 msgstr "Clic sinistro: sposta il modulo"
 
@@ -4074,6 +4095,9 @@ msgstr "Linea pari/dispari"
 
 msgid "LineOdd/Even"
 msgstr "Linea pari/dispari"
+
+msgid "Link"
+msgstr "Collegamento"
 
 msgid "Links an URL"
 msgstr "Collegamento a un URL"
@@ -4161,9 +4185,6 @@ msgstr "SPOSTA"
 
 msgid "Macroblock Mode"
 msgstr "Modalità Macroblocco"
-
-msgid "Macroblock Mode [F4]"
-msgstr "Modalità Macroblocco [F4]"
 
 msgid "Macroblock deleted"
 msgstr "MacroBlock eliminato"
@@ -4509,6 +4530,15 @@ msgstr "Impostazioni mouse"
 
 msgid "Mouse wheel"
 msgstr "Rotellina del mouse"
+
+msgid "Move"
+msgstr "Sposta"
+
+msgid "Move Selected Layer Down"
+msgstr "Sposta livello selez. in basso"
+
+msgid "Move Selected Layer Up"
+msgstr "Sposta livello selez. in alto"
 
 msgid "Move [M]"
 msgstr "Sposta [M]"
@@ -4888,6 +4918,9 @@ msgstr ""
 msgid "Opacity"
 msgstr "Opacità"
 
+msgid "Open Layers Menu"
+msgstr "Apri menu livelli"
+
 msgid "Open Library and add  the Include line  here in the script"
 msgstr "Apri libreria e aggiungi  la linea Include  qui nello script"
 
@@ -5045,6 +5078,9 @@ msgstr "Password arbitro:"
 msgid "Password spectator (opt.) :"
 msgstr "Password spettatori (opz.):"
 
+msgid "Paste"
+msgstr "Incolla"
+
 msgid "Paste Selection [Ctrl + V]"
 msgstr "Incolla selezione [CTRL+V]"
 
@@ -5059,6 +5095,9 @@ msgstr "Incolla la chiave copiata come chiave nuova"
 
 msgid "Paste the copied key info to the selected key"
 msgstr "Incolla le info della chiave copiata nella chiave selezionata"
+
+msgid "PasteVoxels"
+msgstr "IncollaVoxel"
 
 msgid "Path Mode"
 msgstr "Modalità Percorso"
@@ -5747,6 +5786,9 @@ msgstr "Rimuovi tutto"
 msgid "Remove All Clips"
 msgstr "Rimuovi tutte le clip"
 
+msgid "Remove Joint"
+msgstr "Rimuovi giunzione"
+
 msgid "Remove all keys"
 msgstr "Rimuovi tutte le chiavi"
 
@@ -6005,6 +6047,9 @@ msgstr "Ruota a destra l'immagine"
 
 msgid "Rotate Right by 90"
 msgstr "Ruota a destra di 90°"
+
+msgid "Rotate Sticker slightly to the Right"
+msgstr "Ruota etichetta leggermente a destra"
 
 msgid "Rotate [R]"
 msgstr "Ruota [R]"
@@ -6272,6 +6317,12 @@ msgstr "Seleziona tutto [CTRL+A]"
 
 msgid "Select Common Data Directory"
 msgstr "Seleziona la directory dei dati comuni"
+
+msgid "Select Layer Down of Selected Layer"
+msgstr "Seleziona livello sotto quello selezionato"
+
+msgid "Select Layer Up of Selected Layer"
+msgstr "Seleziona livello sopra quello selezionato"
 
 msgid "Select Personal Data Directory"
 msgstr "Seleziona la directory dei dati personali"
@@ -6661,11 +6712,11 @@ msgstr "Dimensione del testo"
 msgid "Skillpoints on %1:"
 msgstr "SkillPoints su %1:"
 
+msgid "Skinning Mode"
+msgstr "Modalità skinning"
+
 msgid "Skinning Mode (F4)"
 msgstr "Modalità Skin (F3)"
-
-msgid "Skinning Mode [F5]"
-msgstr "Modalità Pittura blocco [F5]"
 
 msgid "Skip match in comments"
 msgstr "Ignora corrispondenze nei commenti"
@@ -6849,6 +6900,9 @@ msgstr "SubMenu"
 msgid "SubPlugin"
 msgstr "SubPlugin"
 
+msgid "Subdivide & smooth"
+msgstr "Suddividi e ammorbidisci"
+
 msgid "Subject :"
 msgstr "Soggetto:"
 
@@ -6966,9 +7020,6 @@ msgstr "StatoSquadra"
 
 msgid "Teammates color"
 msgstr "Colore compagni di squadra"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Modalità Terraformazione [F1]"
 
 msgid "Test"
 msgstr "Prova"
@@ -7859,6 +7910,9 @@ msgstr "Transizione"
 
 msgid "Transparency"
 msgstr "Trasparenza"
+
+msgid "Triangles to Quads"
+msgstr "Da triangoli a quadrati"
 
 msgid "Tries"
 msgstr "Tentativi"
@@ -10094,6 +10148,9 @@ msgstr "|DisplaySync|Nessuna"
 msgid "|EditorEditor|Editor Type"
 msgstr "|EditorEditor|Tipo di editor"
 
+msgid "|EditorMap|Modes"
+msgstr "|EditorMap|Modalità"
+
 msgid "|EditorType|Editor Editor"
 msgstr "|EditorType|Editor degli editor"
 
@@ -10584,6 +10641,54 @@ msgstr ""
 "|ItemEditor - CustomBlock|Questo blocco non può essere convertito. Verrà "
 "sostituito con un cubo predefinito."
 
+msgid "|ItemFolder|Club"
+msgstr "|ItemFolder|Club"
+
+msgid "|ItemFolder|Custom"
+msgstr "|ItemFolder|Personalizzati"
+
+msgid "|ItemFolder|Official"
+msgstr "|ItemFolder|Ufficiali"
+
+msgid "|ItemPropertyGroup|Block customization"
+msgstr "|ItemProperty|Personalizzazione blocco"
+
+msgid "|ItemPropertyGroup|Gameplay properties"
+msgstr "|ItemPropertyGroup|Proprietà gameplay"
+
+msgid "|ItemPropertyGroup|Main"
+msgstr "|ItemPropertyGroup|Generale"
+
+msgid "|ItemPropertyGroup|Map editor options"
+msgstr "|ItemPropertyGroup|Opzioni editor di mappe"
+
+msgid "|ItemPropertyGroup|Visual appearance"
+msgstr "|ItemPropertyGroup|Aspetto visivo"
+
+msgid "|ItemPropertyGroup|Waypoint"
+msgstr "|ItemPropertyGroup|Punto di riferimento"
+
+msgid "|ItemProperty|Icon"
+msgstr "|ItemProperty|Icona"
+
+msgid "|ItemProperty|Item type"
+msgstr "|ItemProperty|Tipo di oggetto"
+
+msgid "|ItemProperty|Mesh"
+msgstr "|ItemProperty|Mesh"
+
+msgid "|ItemProperty|Name"
+msgstr "|ItemProperty|Nome"
+
+msgid "|ItemProperty|Pivot positions"
+msgstr "|ItemProperty|Posizioni pivot"
+
+msgid "|ItemProperty|Placement parameters"
+msgstr "|ItemProperty|Parametri di posizionamento"
+
+msgid "|ItemProperty|Skin"
+msgstr "|ItemProperty|Skin"
+
 msgid "|ItemType|Bot"
 msgstr "|ItemType|Bot"
 
@@ -10950,6 +11055,161 @@ msgstr "|MediaTracker Image values|Rotazione"
 msgid "|MediaTracker Image values|Size"
 msgstr "|MediaTracker Image values|Dimensione"
 
+msgid "|MediaTracker InertialTracking block values|Auto-Focus"
+msgstr "|MediaTracker InertialTracking block values|Messa a fuoco autom."
+
+msgid "|MediaTracker InertialTracking block values|Auto-Zoom"
+msgstr "|MediaTracker InertialTracking block values|Zoom autom."
+
+msgid "|MediaTracker InertialTracking block values|Max Distance"
+msgstr "|MediaTracker InertialTracking block values|Distanza max"
+
+msgid "|MediaTracker InertialTracking block values|Max Fov"
+msgstr "|MediaTracker InertialTracking block values|FOV max"
+
+msgid "|MediaTracker InertialTracking block values|Min Distance"
+msgstr "|MediaTracker InertialTracking block values|Distanza min."
+
+msgid "|MediaTracker InertialTracking block values|Min Fov"
+msgstr "|MediaTracker InertialTracking block values|FOV min."
+
+msgid "|MediaTracker InertialTracking block values|Tracking"
+msgstr "|MediaTracker InertialTracking block values|Puntamento"
+
+msgid ""
+"|MediaTracker Inputs - Always see triggers or only see them when editing "
+"them|Toggle constant trigger zone visibilty"
+msgstr ""
+"|MediaTracker Inputs - Always see triggers or only see them when editing "
+"them|Mostra sempre i trigger o solo in fase di modifica"
+
+msgid ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Slow down the Clip "
+"and Free cameras"
+msgstr ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Rallenta clip e "
+"telecamere libere"
+
+msgid ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Speed up the Clip "
+"and Free cameras"
+msgstr ""
+"|MediaTracker Inputs - Clip Camera and Free Camera speed|Accelera clip e "
+"telecamere libere"
+
+msgid "|MediaTracker Inputs|Add a block to the selected track"
+msgstr "|MediaTracker Inputs|Aggiungi blocco alla traccia selezionata"
+
+msgid "|MediaTracker Inputs|Add a key to selected block"
+msgstr "|MediaTracker Inputs|Aggiungi chiave a blocco selezionato"
+
+msgid "|MediaTracker Inputs|Cancel or close the currently open pop-up"
+msgstr "|MediaTracker Inputs|Cancella o chiudi il pop-up attualmente aperto"
+
+msgid "|MediaTracker Inputs|Close Add Tracks window"
+msgstr "|MediaTracker Inputs|Chiudi finestra Aggiungi tracce"
+
+msgid "|MediaTracker Inputs|Compute the shadows of the map"
+msgstr "|MediaTracker Inputs|Calcola le ombre della mappa"
+
+msgid "|MediaTracker Inputs|Confirm and close the currently open pop-up"
+msgstr "|MediaTracker Inputs|Conferma e chiudi il pop-up attualmente aperto"
+
+msgid "|MediaTracker Inputs|Copy selected key or block"
+msgstr "|MediaTracker Inputs|Copia chiave/blocco selezionato"
+
+msgid "|MediaTracker Inputs|Create a high quality screenshot"
+msgstr "|MediaTracker Inputs|Crea screenshot ad alta qualità"
+
+msgid "|MediaTracker Inputs|Cut selected key or block"
+msgstr "|MediaTracker Inputs|Taglia chiave/blocco selezionato"
+
+msgid "|MediaTracker Inputs|Delete a key, block or track"
+msgstr "|MediaTracker Inputs|Elimina una chiave, un blocco o una traccia"
+
+msgid "|MediaTracker Inputs|Duplicate selected track"
+msgstr "|MediaTracker Inputs|Duplica traccia selezionata"
+
+msgid "|MediaTracker Inputs|Exit MediaTracker"
+msgstr "|MediaTracker Inputs|Esci dal MediaTracker"
+
+msgid "|MediaTracker Inputs|Exit fullscreen"
+msgstr "|MediaTracker Inputs|Esci da schermo intero"
+
+msgid "|MediaTracker Inputs|Export clip as a video"
+msgstr "|MediaTracker Inputs|Esporta clip come video"
+
+msgid "|MediaTracker Inputs|Fast forward timeline"
+msgstr "|MediaTracker Inputs|Avanzamento veloce timeline"
+
+msgid "|MediaTracker Inputs|Paste copied key or block"
+msgstr "|MediaTracker Inputs|Incolla chiave/blocco copiato"
+
+msgid "|MediaTracker Inputs|Redo the last undone action"
+msgstr "|MediaTracker Inputs|Ripeti l'ultima azione annullata"
+
+msgid "|MediaTracker Inputs|Return to 0:00.00"
+msgstr "|MediaTracker Inputs|Torna a 0:00.00"
+
+msgid "|MediaTracker Inputs|Rewind timeline"
+msgstr "|MediaTracker Inputs|Riavvolgi timeline"
+
+msgid "|MediaTracker Inputs|Select the next key of selected track"
+msgstr ""
+"|MediaTracker Inputs|Seleziona prossima chiave della traccia selezionata"
+
+msgid "|MediaTracker Inputs|Select the previous key of selected track"
+msgstr ""
+"|MediaTracker Inputs|Seleziona chiave precedente della traccia selezionata"
+
+msgid "|MediaTracker Inputs|Select the track above"
+msgstr "|MediaTracker Inputs|Seleziona la traccia sopra"
+
+msgid "|MediaTracker Inputs|Select the track below"
+msgstr "|MediaTracker Inputs|Seleziona la traccia sotto"
+
+msgid "|MediaTracker Inputs|Show the full timeline content"
+msgstr "|MediaTracker Inputs|Mostra tutto il contenuto della timeline"
+
+msgid "|MediaTracker Inputs|Split block in two parts"
+msgstr "|MediaTracker Inputs|Dividi blocco in due parti"
+
+msgid "|MediaTracker Inputs|Stop the preview"
+msgstr "|MediaTracker Inputs|Interrompi anteprima"
+
+msgid "|MediaTracker Inputs|Switch to the next tracks page"
+msgstr "|MediaTracker Inputs|Pagina delle tracce successiva"
+
+msgid "|MediaTracker Inputs|Switch to the previous tracks page"
+msgstr "|MediaTracker Inputs|Pagina delle tracce precedente"
+
+msgid "|MediaTracker Inputs|Toggle fullscreen"
+msgstr "|MediaTracker Inputs|Passa a/esci da schermo intero"
+
+msgid "|MediaTracker Inputs|Toggle ghost name labels"
+msgstr "|MediaTracker Inputs|Mostra/nascondi etichette nomi fantasmi"
+
+msgid "|MediaTracker Inputs|Toggle play/pause"
+msgstr "|MediaTracker Inputs|Riproduci/metti in pausa"
+
+msgid "|MediaTracker Inputs|Toggle playback speed"
+msgstr "|MediaTracker Inputs|Attiva/disattiva velocità di riproduz."
+
+msgid "|MediaTracker Inputs|Undo the last action"
+msgstr "|MediaTracker Inputs|Annulla l'ultima azione"
+
+msgid "|MediaTracker Inputs|View the whole selected block"
+msgstr "|MediaTracker Inputs|Mostra l'intero blocco selezionato"
+
+msgid "|MediaTracker Inputs|Watch clip in fullscreen"
+msgstr "|MediaTracker Inputs|Guarda clip a tutto schermo"
+
+msgid "|MediaTracker ML Interface action|Edit Manialink"
+msgstr "|MediaTracker ML Interface action|Modifica Manialink"
+
+msgid "|MediaTracker ML Url values|Manialink URL"
+msgstr "|MediaTracker ML Url values|URL Manialink"
+
 msgid "|MediaTracker Orbital Camera values|Latitude"
 msgstr "|MediaTracker Orbital Camera values|Latitudine"
 
@@ -10961,6 +11221,136 @@ msgstr "|MediaTracker Orbital Camera values|Raggio"
 
 msgid "|MediaTracker Path Camera values|Weight"
 msgstr "|MediaTracker Path Camera values|Peso"
+
+msgid "|MediaTracker Player Camera values|Camera type"
+msgstr "|MediaTracker Player Camera values|Tipo telecamera"
+
+msgid ""
+"|MediaTracker Pop Up|Cannot copy this block type to duplicate the track."
+msgstr ""
+"|MediaTracker Pop Up|Impossibile copiare questo tipo di blocco per duplicare "
+"la traccia."
+
+msgid "|MediaTracker Pop Up|Cannot create a key here"
+msgstr "|MediaTracker Pop Up|Impossibile creare una chiave qui"
+
+msgid "|MediaTracker Pop Up|Cannot create another track of this block type."
+msgstr ""
+"|MediaTracker Pop Up|Impossibile creare un'altra traccia di questo tipo di "
+"blocco."
+
+msgid ""
+"|MediaTracker Pop Up|Cannot duplicate an empty track. Please delete the "
+"track or paste a block on it."
+msgstr ""
+"|MediaTracker Pop Up|Impossibile duplicare una traccia vuota. Elimina la "
+"traccia o incollaci sopra un blocco."
+
+msgid ""
+"|MediaTracker Pop Up|Cannot paste block here nor create a new track with "
+"this block."
+msgstr ""
+"|MediaTracker Pop Up|Non è possibile incollare il blocco qui e neppure "
+"creare una nuova traccia con questo blocco."
+
+msgid "|MediaTracker Pop Up|Error while pasting key values."
+msgstr ""
+"|MediaTracker Pop Up|Errore durante l'incollaggio dei valori della chiave."
+
+msgid ""
+"|MediaTracker Pop Up|Error while pasting key, cannot create a new key here."
+msgstr ""
+"|MediaTracker Pop Up|Errore durante l'incollaggio della chiave, non è "
+"possibile creare una nuova chiave qui."
+
+msgid ""
+"|MediaTracker Pop Up|Please paste this key to a block with the same amount "
+"of vertices and triangles."
+msgstr ""
+"|MediaTracker Pop Up|Incolla questa chiave su un blocco con lo stesso numero "
+"di vertici e triangoli."
+
+msgid "|MediaTracker Pop Up|Please select a block or a key to paste this key."
+msgstr ""
+"|MediaTracker Pop Up|Seleziona un blocco o una chiave per incollare questa "
+"chiave."
+
+msgid ""
+"|MediaTracker Pop Up|Please select a similar type of block or key to paste "
+"this key."
+msgstr ""
+"|MediaTracker Pop Up|Seleziona un tipo simile di blocco o chiave per "
+"incollare questa chiave."
+
+msgid "|MediaTracker Pop Up|Please select a track to duplicate."
+msgstr "|MediaTracker Pop Up|Seleziona una traccia da duplicare."
+
+msgid "|MediaTracker Pop Up|Please select a trigger zone to reset"
+msgstr "|MediaTracker Pop Up|Seleziona una zona trigger per resettare"
+
+msgid ""
+"|MediaTracker Pop Up|Please set the time cursor inbetween the selected "
+"block's start and end."
+msgstr ""
+"|MediaTracker Pop Up|Imposta il cursore temporale a metà tra l'inizio e la "
+"fine del blocco selezionato."
+
+msgid ""
+"|MediaTracker Pop Up|Sorry, this type of block cannot be copied nor split."
+msgstr ""
+"|MediaTracker Pop Up|Questo tipo di blocco non può essere copiato o spezzato."
+
+msgid "|MediaTracker Pop Up|There is already a key here"
+msgstr "|MediaTracker Pop Up|Una chiave è già presente qui"
+
+msgid ""
+"|MediaTracker Pop Up|Unable to find block type, this track has no other "
+"blocks. Please delete this track."
+msgstr ""
+"|MediaTracker Pop Up|Impossibile trovare il tipo di blocco, questa traccia "
+"non ha altri blocchi. Eliminare questa traccia."
+
+msgid "|MediaTracker Pop Up|Unable to insert block"
+msgstr "|MediaTracker Pop Up|Impossibile inserire il blocco"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of block. Please try with a "
+"key or another block."
+msgstr ""
+"|MediaTracker Pop Up|Non puoi copiare questo tipo di blocco. Prova con una "
+"chiave o un altro blocco."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot copy this kind of key. Please try with a key "
+"from another block."
+msgstr ""
+"|MediaTracker Pop Up|Non puoi copiare questo tipo di chiave. Prova con una "
+"chiave da un altro blocco."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot cut a Start/End key. Try to copy it instead."
+msgstr ""
+"|MediaTracker Pop Up|Non puoi tagliare una chiave Inizio/Fine, prova invece "
+"a copiarla."
+
+msgid ""
+"|MediaTracker Pop Up|You cannot set the block start without selecting a block"
+msgstr ""
+"|MediaTracker Pop Up|Non puoi impostare il blocco di partenza senza prima "
+"selezionare un blocco"
+
+msgid ""
+"|MediaTracker Pop Up|You cannot split a block in two without selecting a "
+"block first."
+msgstr ""
+"|MediaTracker Pop Up|Non puoi tagliare un blocco a metà senza prima "
+"selezionare un blocco."
+
+msgid ""
+"|MediaTracker Pop Up|You must validate your map to use the MediaTracker here."
+msgstr ""
+"|MediaTracker Pop Up|Devi convalidare la tua mappa per usare il MediaTracker "
+"qui."
 
 msgid "|MediaTracker Reference ghosts|Author ghost"
 msgstr "|MediaTracker Reference ghosts|Fantasma autore"
@@ -11034,6 +11424,60 @@ msgstr "|MediaTracker Sound values|Tangente"
 msgid "|MediaTracker Time values|Time value"
 msgstr "|MediaTracker Sound values|Valore temporale"
 
+msgid ""
+"|MediaTracker Timeline Inputs|Move all keys to clicked key (Zone+Shift"
+"+LClick)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Sposta tutte le chiavi alla chiave cliccata "
+"(zona+shift+clic sinistro)"
+
+msgid "|MediaTracker Timeline Inputs|Move item (Select item + drag)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Sposta oggetto (seleziona oggetto e trascina)"
+
+msgid "|MediaTracker Timeline Inputs|Move multiple keys (Zone + Drag key)"
+msgstr "|MediaTracker Timeline Inputs|Sposta più chiave (zona+trascina chiave)"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Move selected key to the clicked key (Shift"
+"+LClick)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Sposta chiave selezionata alla chiave cliccata "
+"(Shift+clic sinistro)"
+
+msgid "|MediaTracker Timeline Inputs|Move the timeline (Middle-click + drag)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Sposta la timeline (clic centrale+muovi mouse)"
+
+msgid "|MediaTracker Timeline Inputs|Remove zone (L-click on empty spot)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Rimuovi zona (clic sinistro su spazio vuoto)"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Select item (Left-click on a block or a key)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Seleziona oggetto (clic sinistro su blocco o "
+"chiave)"
+
+msgid ""
+"|MediaTracker Timeline Inputs|Set zone selection (Alt+LClick on two spots) "
+msgstr ""
+"|MediaTracker Timeline Inputs|Imposta zona selezione (ALT+clic sinistro su "
+"due punti)"
+
+msgid "|MediaTracker Timeline Inputs|Snapping mode (Ctrl+Drag Key/Block)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Modalità agganciato alla griglia (CTRL"
+"+trascina chiave/blocco)"
+
+msgid "|MediaTracker Timeline Inputs|Unselect item (L-click on empty spot)"
+msgstr ""
+"|MediaTracker Timeline Inputs|Deseleziona oggetto (clic sinistro su spazio "
+"vuoto)"
+
+msgid "|MediaTracker Timeline Inputs|Zoom in/out (Right-click + drag) "
+msgstr "|MediaTracker Timeline Inputs|Zoom più/meno (clic destro+muovi mouse)"
+
 msgid "|MediaTracker ToneMapping values|Exposure"
 msgstr "|MediaTracker ToneMapping values|Esposizione"
 
@@ -11042,6 +11486,15 @@ msgstr "|MediaTracker ToneMapping values|Scala scia luci"
 
 msgid "|MediaTracker ToneMapping values|Max HDR"
 msgstr "|MediaTracker ToneMapping values|Max HDR"
+
+msgid "|MediaTracker Triangle action|Import SVG"
+msgstr "|MediaTracker Triangle action|Importa SVG"
+
+msgid "|MediaTracker Triangle values|Edit mode"
+msgstr "|MediaTracker Triangle values|Cambia modalità"
+
+msgid "|MediaTracker Triangle values|Position (x, y, z)"
+msgstr "|MediaTracker Triangle values|Posizione (X,Y,Z)"
 
 msgid "|MediaTracker Volume values|Music volume"
 msgstr "|MediaTracker Volume values|Volume musica"
@@ -11208,8 +11661,134 @@ msgstr "|MediaTracker block type|Colore palo SM"
 msgid "|MeshEditor Material|Not collidable"
 msgstr "|MeshEditor Material|Non urtabile"
 
+msgid "|MeshEditor|Advanced Tools"
+msgstr "|MeshEditor|Strumenti avanzati"
+
+msgid "|MeshEditor|Border selection expand"
+msgstr "|MeshEditor|Espandi selezione bordo"
+
+msgid "|MeshEditor|Change face orientation"
+msgstr "|MeshEditor|Cambia orientamento faccia"
+
+msgid "|MeshEditor|Creation Tools"
+msgstr "|MeshEditor|Strumenti creazione"
+
+msgid "|MeshEditor|Cut hole"
+msgstr "|MeshEditor|Taglia buco"
+
+msgid "|MeshEditor|Decagon"
+msgstr "|MeshEditor|Decagono"
+
+msgid "|MeshEditor|Decrease step"
+msgstr "|MeshEditor|Riduci passo"
+
+msgid "|MeshEditor|Delete"
+msgstr "|MeshEditor|Elimina"
+
+msgid "|MeshEditor|Delete without spreading to neighbouring elements"
+msgstr "|MeshEditor|Elimina senza estendere agli elementi vicini"
+
+msgid "|MeshEditor|Disc mode"
+msgstr "|MeshEditor|Modalità disco"
+
+msgid "|MeshEditor|Dodecagon"
+msgstr "|MeshEditor|Dodecagono"
+
+msgid "|MeshEditor|Edge loop selection expand"
+msgstr "|MeshEditor|Espandi loop selezione margine"
+
+msgid "|MeshEditor|Edge mode"
+msgstr "|MeshEditor|Modalità bordo"
+
+msgid "|MeshEditor|Extrude"
+msgstr "|MeshEditor|Estrudi"
+
+msgid "|MeshEditor|Face loop selection expand"
+msgstr "|MeshEditor|Espandi selezione loop faccia"
+
+msgid "|MeshEditor|Face mode"
+msgstr "|MeshEditor|Modalità faccia"
+
+msgid "|MeshEditor|Fill edges with faces"
+msgstr "|MeshEditor|Riempi bordo con facce"
+
+msgid "|MeshEditor|Flip edge"
+msgstr "|MeshEditor|Rovescia bordo"
+
+msgid "|MeshEditor|Heptagon"
+msgstr "|MeshEditor|Ettagono"
+
+msgid "|MeshEditor|Hexagon"
+msgstr "|MeshEditor|Esagono"
+
+msgid "|MeshEditor|Increase step"
+msgstr "|MeshEditor|Aumenta passo"
+
+msgid "|MeshEditor|Main Tools"
+msgstr "|MeshEditor|Strumenti principali"
+
+msgid "|MeshEditor|Materials mode"
+msgstr "|MeshEditor|Modalità materiali"
+
 msgid "|MeshEditor|Mesh Type"
 msgstr "|MeshEditor|Tipo di mesh"
+
+msgid "|MeshEditor|Mirror"
+msgstr "|MeshEditor|Specchio"
+
+msgid "|MeshEditor|Move"
+msgstr "|MeshEditor|Sposta"
+
+msgid "|MeshEditor|Nonagon"
+msgstr "|MeshEditor|Nonagono"
+
+msgid "|MeshEditor|Octagon"
+msgstr "|MeshEditor|Ottagono"
+
+msgid "|MeshEditor|Pentagon"
+msgstr "|MeshEditor|Pentagono"
+
+msgid "|MeshEditor|Planar selection expand"
+msgstr "|MeshEditor|Espandi selezione planare"
+
+msgid "|MeshEditor|Polygon mode"
+msgstr "|MeshEditor|Modalità poligono"
+
+msgid "|MeshEditor|Prefabs mode"
+msgstr "|MeshEditor|Modalità prefabbricati"
+
+msgid "|MeshEditor|Quads to triangles"
+msgstr "|MeshEditor|Da quadrati a triangoli"
+
+msgid "|MeshEditor|Quick Copy Materials & UVs"
+msgstr "|MeshEditor|Copia veloce materiali e UV"
+
+msgid "|MeshEditor|Quick Paste Materials & UVs"
+msgstr "|MeshEditor|Incolla veloce materiali e UV"
+
+msgid "|MeshEditor|Rotate"
+msgstr "|MeshEditor|Ruota"
+
+msgid "|MeshEditor|Scale"
+msgstr "|MeshEditor|Scala"
+
+msgid "|MeshEditor|Select"
+msgstr "|MeshEditor|Seleziona"
+
+msgid "|MeshEditor|Select All"
+msgstr "|MeshEditor|Seleziona tutto"
+
+msgid "|MeshEditor|Selection : By Material"
+msgstr "|MeshEditor|Selezione: per materiale"
+
+msgid "|MeshEditor|Selection : Invert"
+msgstr "|MeshEditor|Selezione: inverti"
+
+msgid "|MeshEditor|Selection : redo"
+msgstr "|MeshEditor|Selezione: ripeti"
+
+msgid "|MeshEditor|Selection : undo"
+msgstr "|MeshEditor|Selezione: annulla"
 
 msgid "|MeshEditor|Selection Length"
 msgstr "|MeshEditor|Lungh. selezione"
@@ -11217,8 +11796,35 @@ msgstr "|MeshEditor|Lungh. selezione"
 msgid "|MeshEditor|Snapping"
 msgstr "|MeshEditor|Snapping"
 
+msgid "|MeshEditor|Sphere mode"
+msgstr "|MeshEditor|Modalità sfera"
+
+msgid "|MeshEditor|Spline mode"
+msgstr "|MeshEditor|Modalità spline"
+
+msgid "|MeshEditor|Split"
+msgstr "|MeshEditor|Dividi"
+
+msgid "|MeshEditor|Split edge with vertex"
+msgstr "|MeshEditor|Dividi margine con vertice"
+
+msgid "|MeshEditor|Square"
+msgstr "|MeshEditor|Rettangolo"
+
+msgid "|MeshEditor|Subdivide selection"
+msgstr "|MeshEditor|Suddividi selezione"
+
+msgid "|MeshEditor|Toggle snapping"
+msgstr "|MeshEditor|Attiva/disattiva scatto"
+
 msgid "|MeshEditor|Tool Step"
 msgstr "|MeshEditor|Step strum."
+
+msgid "|MeshEditor|Triangle"
+msgstr "|MeshEditor|Triangolo"
+
+msgid "|MeshEditor|Unwrap UVs"
+msgstr "|MeshEditor|Unwrap UV"
 
 msgid "|MeshEditor|[Shift] : Symmetrical scale"
 msgstr "|MeshEditor|(MAIUSC): scala simmetrica"
@@ -11259,6 +11865,9 @@ msgstr "|MeshModeler|Proiezione automatica"
 msgid "|MeshModeler|Box selection mode"
 msgstr "|MeshModeler|Mod. selezione riquadro"
 
+msgid "|MeshModeler|Center Position"
+msgstr "|MeshModeler|Posiz. centrale"
+
 msgid "|MeshModeler|Centered"
 msgstr "|MeshModeler|Centrato"
 
@@ -11270,6 +11879,9 @@ msgstr "|MeshModeler|Copia selezione [CTRL+C]"
 
 msgid "|MeshModeler|Create Material"
 msgstr "|MeshModeler|Crea materiale"
+
+msgid "|MeshModeler|Create Voxel Material"
+msgstr "|MeshModeler|Crea materiale voxel"
 
 msgid "|MeshModeler|Create disc [D]"
 msgstr "|MeshModeler|Crea disco [D]"
@@ -11458,6 +12070,9 @@ msgstr "|MeshModeler|Sposta [M]"
 
 msgid "|MeshModeler|Move selection to ground [Ctrl+P]"
 msgstr "|MeshModeler|Sposta selezione a terra [CTRL+P]"
+
+msgid "|MeshModeler|Move to ground"
+msgstr "|MeshEditor|Sposta sul terreno"
 
 msgid "|MeshModeler|Name"
 msgstr "|MeshModeler|Nome"
@@ -11648,6 +12263,18 @@ msgstr "|MeshModeler|Angolo verticale"
 
 msgid "|MeshModeler|Visibility"
 msgstr "|MeshModeler|Visibilità"
+
+msgid "|MeshModeler|Voxel Edition Tools"
+msgstr "|MeshModeler|Strumenti modifica voxel"
+
+msgid "|MeshModeler|Voxel Materials"
+msgstr "|MeshModeler|Materiali voxel"
+
+msgid "|MeshModeler|Voxel size"
+msgstr "|MeshModeler|Dimens. voxel"
+
+msgid "|MeshModeler|Voxel space attributes"
+msgstr "|MeshModeler|Attributi spaziali voxel"
 
 msgid "|MeshModeler|material only (Keep UVs)"
 msgstr "|MeshModeler|Solo materiale (mantieni UV)"
@@ -12187,11 +12814,17 @@ msgstr "|SkinEditor, displaying skin got autosaved|Salvata automaticam."
 msgid "|SkinEditor|Add New Layer"
 msgstr "|SkinEditor|Aggiungi nuovo livello"
 
+msgid "|SkinEditor|Align Text to the closest 90° Angle"
+msgstr "|SkinEditor|Allinea testo all'angolo a 90° più vicino"
+
 msgid "|SkinEditor|Angle"
 msgstr "|SkinEditor|Angolo"
 
 msgid "|SkinEditor|Brush Mode"
 msgstr "|SkinEditor|Modalità pennello"
+
+msgid "|SkinEditor|Brush depending on Mesh Normal (Hold)"
+msgstr "|SkinEditor|Pennello a seconda della mesh Normale (tieni premuto)"
 
 msgid "|SkinEditor|Camera Light"
 msgstr "|SkinEditor|Luce telecamera"
@@ -12205,8 +12838,20 @@ msgstr "|SkinEditor|Clic per modificare nome livello"
 msgid "|SkinEditor|Color Palette"
 msgstr "|SkinEditor|Tavolozza colori"
 
+msgid "|SkinEditor|Color Picker"
+msgstr "|SkinEditor|Scegli colore"
+
 msgid "|SkinEditor|Color Picking Tool"
 msgstr "|SkinEditor|Strumento selezione colore"
+
+msgid "|SkinEditor|Ctrl + Click on Mask : Add / Remove Several Masks on Layer"
+msgstr ""
+"|SkinEditor|Ctrl + clic su maschera: aggiungi/rimuovi una o più maschere al "
+"livello"
+
+msgid "|SkinEditor|Ctrl + Click on Palette Quad : Add Current Color to Palette"
+msgstr ""
+"|SkinEditor|Ctrl + clic su tavolozza: aggiungi colore attuale alla tavolozza"
 
 msgid "|SkinEditor|Custom Color [Ctrl + Click : Save Current Color as Custom]"
 msgstr ""
@@ -12218,6 +12863,12 @@ msgstr "|SkinEditor|Elimina livello"
 
 msgid "|SkinEditor|Edit Sub Object of Layer"
 msgstr "|SkinEditor|Modifica sub-oggetto del livello"
+
+msgid "|SkinEditor|Eraser"
+msgstr "|SkinEditor|Cancella"
+
+msgid "|SkinEditor|Eraser (Hold)"
+msgstr "|SkinEditor|Cancella (tieni premuto)"
 
 msgid "|SkinEditor|Eraser Tool"
 msgstr "|SkinEditor|Strumento gomma"
@@ -12237,6 +12888,9 @@ msgstr "|SkinEditor|Nascondi livello durante generazione"
 msgid "|SkinEditor|Image Apply Mode"
 msgstr "|SkinEditor|Modalità applica immagine"
 
+msgid "|SkinEditor|Image Mode"
+msgstr "|SkinEditor|Modalità immagine"
+
 msgid "|SkinEditor|Import Layer"
 msgstr "|SkinEditor|Importa livello"
 
@@ -12246,11 +12900,20 @@ msgstr "|SkinEditor|Livello"
 msgid "|SkinEditor|Layers"
 msgstr "|SkinEditor|Livelli"
 
+msgid "|SkinEditor|Left Click : Move to Target"
+msgstr "|SkinEditor|Clic sinistro: sposta sull'obbiettivo"
+
+msgid "|SkinEditor|Left Click and move : Camera Pan"
+msgstr "|SkinEditor|Clic sinistro e muovi: panoramica telecamera"
+
 msgid "|SkinEditor|Matte"
 msgstr "|SkinEditor|Opaco"
 
 msgid "|SkinEditor|Matte and Metal Modifier Tool"
 msgstr "|SkinEditor|Strumento modifica opacità e metallo"
+
+msgid "|SkinEditor|Mattness and Metal modify Mode"
+msgstr "|SkinEditor|Modalità modifica opacità e metallo"
 
 msgid "|SkinEditor|Mesh Normal Brush Tool"
 msgstr "|SkinEditor|Strumento pennello normale mesh"
@@ -12264,11 +12927,38 @@ msgstr "|SkinEditor|Aiuti piano centrale"
 msgid "|SkinEditor|Mirror"
 msgstr "|SkinEditor|Specchio"
 
+msgid "|SkinEditor|Mirror Mode"
+msgstr "|SkinEditor|Modalità specchio"
+
+msgid "|SkinEditor|Mirror Mode for Text"
+msgstr "|SkinEditor|Modalità specchio per testo"
+
 msgid "|SkinEditor|Move Layer Down"
 msgstr "|SkinEditor|Sposta livello giù"
 
 msgid "|SkinEditor|Move Layer Up"
 msgstr "|SkinEditor|Sposta livello su"
+
+msgid "|SkinEditor|Move to center of the Mesh"
+msgstr "|SkinEditor|Muovi al centro della mesh"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Down"
+msgstr "|SkinEditor|Muovi all'asse ortografico più vicino verso il basso"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Left"
+msgstr "|SkinEditor|Muovi all'asse ortografico più vicino verso sinistra"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Right"
+msgstr "|SkinEditor|Muovi all'asse ortografico più vicino verso destra"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Up"
+msgstr "|SkinEditor|Muovi all'asse ortografico più vicino verso l'alto"
+
+msgid "|SkinEditor|No Mirror Mode"
+msgstr "|SkinEditor|Modalità senza specchio"
+
+msgid "|SkinEditor|No Mirror mode"
+msgstr "|SkinEditor|Modalità no specchio"
 
 msgid "|SkinEditor|Off"
 msgstr "|SkinEditor|Off"
@@ -12282,11 +12972,65 @@ msgstr "|SkinEditor|Opacità"
 msgid "|SkinEditor|Open Help"
 msgstr "|SkinEditor|Apri guida"
 
+msgid "|SkinEditor|Open Save Menu"
+msgstr "|SkinEditor|Apri menu di salvataggio"
+
+msgid "|SkinEditor|Open this Help window"
+msgstr "|SkinEditor|Apri questa finestra di aiuto"
+
+msgid "|SkinEditor|Paint Mode"
+msgstr "|SkinEditor|Modalità pittura"
+
+msgid "|SkinEditor|Paint and Replace"
+msgstr "|SkinEditor|Pittura e sostituisci"
+
 msgid "|SkinEditor|Projection"
 msgstr "|SkinEditor|Proiezione"
 
+msgid "|SkinEditor|Quit"
+msgstr "|SkinEditor|Esci"
+
 msgid "|SkinEditor|Redo"
 msgstr "|SkinEditor|Ripeti"
+
+msgid "|SkinEditor|Reset Brush Angle to 0°"
+msgstr "|SkinEditor|Resetta angolo pennello a 0°"
+
+msgid "|SkinEditor|Right Click and move : Camera Rotation"
+msgstr "|SkinEditor|Clic destro e muovi: ruota telecamera"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Left"
+msgstr "|SkinEditor|Ruota pennello 45° a sinistra"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Right"
+msgstr "|SkinEditor|Ruota pennello 45° a destra"
+
+msgid "|SkinEditor|Rotate Brush shlightly to the Right"
+msgstr "|SkinEditor|Ruota pennello leggermente a destra"
+
+msgid "|SkinEditor|Rotate Brush slightly to the Left"
+msgstr "|SkinEditor|Ruota pennello leggermente a sinistra"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Left"
+msgstr "|SkinEditor|Ruota etichetta di 45° a sinistra"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Right"
+msgstr "|SkinEditor|Ruota etichetta 45° a destra"
+
+msgid "|SkinEditor|Rotate Sticker slightly to the Left"
+msgstr "|SkinEditor|Ruota etichetta leggermente a sinistra"
+
+msgid "|SkinEditor|Rotate Text 45° to the Left"
+msgstr "|SkinEditor|Ruota testo 45° a sinistra"
+
+msgid "|SkinEditor|Rotate Text 45° to the Right"
+msgstr "|SkinEditor|Ruota testo 45° a destra"
+
+msgid "|SkinEditor|Rotate Text slightly to the Left"
+msgstr "|SkinEditor|Ruota testo leggermente a sinistra"
+
+msgid "|SkinEditor|Rotate Text slightly to the Right"
+msgstr "|SkinEditor|Ruota testo leggermente a destra"
 
 msgid "|SkinEditor|Scale"
 msgstr "|SkinEditor|Scala"
@@ -12308,6 +13052,12 @@ msgstr "|SkinEditor|Testo"
 
 msgid "|SkinEditor|Text Mode"
 msgstr "|SkinEditor|Modalità testo"
+
+msgid "|SkinEditor|Toggle Light on Camera"
+msgstr "|SkinEditor|Attiva/disattiva luce su telecamera"
+
+msgid "|SkinEditor|Toggle Middle Plane Helper Display"
+msgstr "|SkinEditor|Attiva/disattiva il piano centrale di aiuto"
 
 msgid "|SkinEditor|Undo"
 msgstr "|SkinEditor|Annulla"

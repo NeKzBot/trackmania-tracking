@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:52+0000\n"
+"PO-Revision-Date: 2020-11-18 14:22+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -795,9 +795,6 @@ msgid "Click on the UI modules to edit their properties"
 msgstr ""
 "Haz click en los módulos de la interfaz de usuario para editar sus "
 "propiedades"
-
-msgid "Click to see $<%1$> results"
-msgstr "Haz click para ver los resultados de la $<%1$>"
 
 msgid "Close"
 msgstr "Cerrar"
@@ -2930,9 +2927,6 @@ msgstr "Registrarse"
 msgid "Registration"
 msgstr "Registro"
 
-msgid "Registration dates"
-msgstr "Fechas de inscripción"
-
 msgid "Registrations are closed"
 msgstr "Los registros están cerrados"
 
@@ -3742,6 +3736,9 @@ msgstr "El cuerpo tiene un máximo de %1 caracteres"
 
 msgid "The campaign name must not exceed %1 characters"
 msgstr "El nombre de la campaña no debe exceder %1 caracteres"
+
+msgid "The club description must be shorter than %1 characters"
+msgstr "La descripción del club debe tener menos de %1 caracteres"
 
 msgid "The club name has a minimum of %1 and a maximum of %2 characters"
 msgstr "El nombre del club tiene un mínimo de %1 caracteres y un máximo de %2"

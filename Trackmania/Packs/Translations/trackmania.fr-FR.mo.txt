@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:52+0000\n"
+"PO-Revision-Date: 2020-11-18 14:18+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: French, France\n"
 "Language: fr-FR\n"
@@ -337,6 +337,9 @@ msgstr "Activité"
 
 msgid "Add"
 msgstr "Ajouter"
+
+msgid "Add collection"
+msgstr "Ajouter une collection"
 
 msgid "Add to favorite"
 msgstr "Ajouter en favori"
@@ -796,9 +799,6 @@ msgstr ""
 msgid "Click on the UI modules to edit their properties"
 msgstr "Cliquez sur les modules d'interface pour éditer leurs propriétés"
 
-msgid "Click to see $<%1$> results"
-msgstr "Cliquer pour voir les résultats de $<%1$>"
-
 msgid "Close"
 msgstr "Fermer"
 
@@ -992,6 +992,9 @@ msgstr "Cumuler les points de l'équipe :"
 
 msgid "Cup mode"
 msgstr "Mode Cup"
+
+msgid "Cup of the Day"
+msgstr "Coupe du Jour"
 
 msgid "Current map"
 msgstr "Circuit actuel"
@@ -1297,6 +1300,12 @@ msgid "Error"
 msgstr "Erreur"
 
 msgid ""
+"Error while adding the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Erreur lors de l'ajout de la collection d'objets. Veuillez réessayer. (Code "
+"d'erreur : %1)"
+
+msgid ""
 "Error while adding your map to the queue, please try again. (Error code: %1)"
 msgstr ""
 "Erreur lors de l'ajout du circuit dans la file d'attente, veuillez "
@@ -1312,6 +1321,12 @@ msgstr ""
 "Erreur lors de la création de l'activité. Veuillez réessayer. (Code "
 "d'erreur : %1)"
 
+msgid ""
+"Error while creating the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Erreur lors de la création de la collection d'objets. Veuillez réessayer. "
+"(Code d'erreur : %1)"
+
 msgid "Error while creating the room. Please try again. (Error code: %1)"
 msgstr ""
 "Erreur lors de la création du salon. Veuillez réessayer. (Code d'erreur : %1)"
@@ -1320,6 +1335,19 @@ msgid "Error while editing the activity. Please try again. (Error code: %1)"
 msgstr ""
 "Erreur lors de l'édition de l'activité. Veuillez réessayer. (Code d'erreur : "
 "%1)"
+
+msgid ""
+"Error while editing the item collection description. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Erreur lors de la mise à jour de la description de la collection d'objets. "
+"Veuillez réessayer. (Code d'erreur : %1)"
+
+msgid ""
+"Error while editing the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Erreur lors de la mise à jour de la collection d'objets. Veuillez réessayer. "
+"(Code d'erreur : %1)"
 
 msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr ""
@@ -1493,6 +1521,13 @@ msgstr ""
 "d'erreur : %1)"
 
 msgid ""
+"Error while uploading the collection medias. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Erreur lors de l'envoi de la collection des médias. Veuillez réessayer. "
+"(Code d'erreur : %1)"
+
+msgid ""
 "Error while uploading the room media. Please try again. (Error code: %1)"
 msgstr ""
 "Erreur lors de l'envoi du média du salon. Veuillez réessayer. (Code "
@@ -1548,6 +1583,13 @@ msgstr "Cinquième (Appuyez sur 5)"
 
 msgid "Final Rank"
 msgstr "Classement Final"
+
+msgid "Final TMGL"
+msgstr "Final TMGL"
+
+msgid "Finish the map once to validate your registration for the cup."
+msgstr ""
+"Terminez le circuit une fois pour valider votre inscription à la coupe."
 
 msgid "Finish timeout"
 msgstr "Temps après arrivée"
@@ -1739,6 +1781,9 @@ msgstr ""
 msgid "Image browser"
 msgstr "Explorateur d'images"
 
+msgid "Image gallery"
+msgstr "Gallerie d'image"
+
 msgid "Improve"
 msgstr "Améliorer"
 
@@ -1757,6 +1802,12 @@ msgstr "Inviter des amis"
 msgid "It is currently not possible to vote for this server setting."
 msgstr ""
 "Il n'est actuellement pas possible de voter pour ce paramètre de serveur."
+
+msgid "Item Collection"
+msgstr "Collection d'objet"
+
+msgid "Item collection"
+msgstr "Collection d'objet"
 
 msgid "JUNIOR ACCOUNT MANAGER"
 msgstr "GESTIONNAIRE DE COMPTES JUNIOR"
@@ -2372,8 +2423,14 @@ msgstr "Aucun club"
 msgid "No daily map found to display the rankings"
 msgstr "Aucun circuit quotidien trouvé pour afficher les classements"
 
+msgid "No elimination in first round"
+msgstr "Pas d'élimination au premier tour"
+
 msgid "No events"
 msgstr "Aucun évènement"
+
+msgid "No info about this collection"
+msgstr "Aucune information sur cette collection"
 
 msgid "No maps in this month"
 msgstr "Aucun circuit sur ce mois"
@@ -2879,6 +2936,16 @@ msgstr ""
 "Faites la course et participez à la compétition sur la sélection du circuit "
 "du jour"
 
+msgid ""
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies.\n"
+"You can see your global rank among all servers on the left of your screen."
+msgstr ""
+"Course de 10 minutes sur la carte du jour. Vous pourrez ensuite rejoindre la "
+"phase à élimination directe et gagner encore plus de trophées.\n"
+"Vous pouvez voir votre classement global parmi tous les serveurs sur la "
+"gauche de votre écran."
+
 msgid "Race ranking"
 msgstr "Classement de la course"
 
@@ -2935,13 +3002,19 @@ msgid "Refresh"
 msgstr "Rafraîchir"
 
 msgid "Register"
-msgstr "Enregistrement"
+msgstr "S'inscrire"
+
+msgid "Register for the Cup of the Day to participate in the Knockout match."
+msgstr ""
+"Inscrivez-vous à la Coupe du Jour pour participer au match à élimination "
+"directe."
 
 msgid "Registration"
 msgstr "Enregistrement"
 
-msgid "Registration dates"
-msgstr "Dates d'inscription"
+msgid "Registration for today's cup has finished, come back tomorrow!"
+msgstr ""
+"L'inscription pour la coupe d'aujourd'hui est terminée, revenez demain !"
 
 msgid "Registrations are closed"
 msgstr "Les inscriptions sont closes."
@@ -3045,7 +3118,7 @@ msgid ""
 "No K.O. this round"
 msgstr ""
 "Tour %1/%2\n"
-"%3 Course de joueur\n"
+"%3 Joueur en course\n"
 "Pas de K.O. Ce tour"
 
 msgid ""
@@ -3072,7 +3145,7 @@ msgid ""
 "No K.O. this round"
 msgstr ""
 "Tour %1/%2\n"
-"%3 Course de joueurs\n"
+"%3 Joueurs en course\n"
 "Pas de K.O. Ce tour"
 
 msgid ""
@@ -3232,6 +3305,9 @@ msgstr "Activités sauvegardés"
 
 msgid "Saving campaign..."
 msgstr "Sauvegarde de la campagne..."
+
+msgid "Scalable room"
+msgstr "Salon évolutif"
 
 msgid ""
 "Score points for %1your country%2. Play against players with the%1 same "
@@ -3741,6 +3817,9 @@ msgstr ""
 "la plus complète avec la personnalisation, les compétitions de niveau "
 "professionnel et les façons uniques de socialiser dans le jeu !"
 
+msgid "The Cup of the Day will start soon."
+msgstr "La Coupe du Jour va bientôt démarrer."
+
 msgid "The Left Stick"
 msgstr "Le Joystick Gauche"
 
@@ -3783,6 +3862,9 @@ msgstr ""
 
 msgid "The decoration will be removed."
 msgstr "La décoration sera supprimée."
+
+msgid "The description has a maximum of %1 characters"
+msgstr "La description doit être d'au moins %1 caractères"
 
 msgid "The description of Competition can't be empty"
 msgstr "La description de la compétition ne peut pas être vide"
@@ -3828,6 +3910,9 @@ msgstr "Les options du match ne sont pas valide"
 msgid "The name has a maximum of %1 characters"
 msgstr "Le nom ne peut pas dépasser %1 caractères"
 
+msgid "The name has a minimum of 1 character"
+msgstr "Le nom doit être d'au moins 1 caractère"
+
 msgid ""
 "The name of the competition has a minimum of %1 and a maximum of %2 "
 "characters"
@@ -3865,6 +3950,9 @@ msgstr ""
 msgid "The track must have an open connector to be auto-finished."
 msgstr ""
 "Le circuit doit avoir un connecteur ouvert pour être terminé automatiquement."
+
+msgid "The winner earns a $<$7FA%1$>"
+msgstr "Le gagnant gagne un $<$7FA%1$>"
 
 msgid "There are %1 podiums on your track. You can only place one."
 msgstr "Il y a %1 podiums sur votre circuit. Vous ne pouvez en placer qu'un."
@@ -4120,6 +4208,9 @@ msgstr "Envoyer une skin"
 msgid "Upload image"
 msgstr "Envoyer une image"
 
+msgid "Upload item collection"
+msgstr "Importer la collection d'objets"
+
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Échec de l'envoi du logo (Code d'erreur : %1)"
 
@@ -4306,6 +4397,9 @@ msgstr "En attente du commencement du match"
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "En attente de votre match, cela peut prendre jusqu'à 3 minutes..."
 
+msgid "Waiting for your match."
+msgstr "En attente de votre match."
+
 msgid "Waiting on all matches currently in progress"
 msgstr "En attente de tous les matchs en cours"
 
@@ -4336,8 +4430,14 @@ msgstr "Mercredi"
 msgid "Welcome to Trackmania"
 msgstr "Bienvenue dans Trackmania"
 
+msgid "Welcome to the $<$7FACup of the Day$> !"
+msgstr "Bienvenue à la $<$7FACoupe du Jour$> !"
+
 msgid "Welcome to the %1 server."
 msgstr "Bienvenue sur le serveur %1."
+
+msgid "Welcome to the Cup of the Day"
+msgstr "Bienvenue à la Coupe du Jour"
 
 msgid "Welcome to the Open Grand League"
 msgstr "Bienvenue dans l'Open Grand League"
@@ -4380,6 +4480,9 @@ msgstr "Pendant l'attente, tentez de devenir le Roi du Lobby !"
 
 msgid "White"
 msgstr "Blanc"
+
+msgid "Winners"
+msgstr "Gagnants"
 
 msgid "With Starter Access, discover Trackmania's core features for free."
 msgstr ""
@@ -4459,6 +4562,9 @@ msgstr "Vous n'êtes abonné à aucun club"
 msgid "You are qualified"
 msgstr "Vous êtes qualifié"
 
+msgid "You are registered!\\nThe Cup of the Day will start soon."
+msgstr "Vous êtes enregistré !\\nLa Coupe du Jour va bientôt démarrer."
+
 msgid "You are suspended"
 msgstr "Vous êtes suspendu"
 
@@ -4534,6 +4640,9 @@ msgstr "Vous avez été déconnecté des serveurs Trackmania."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Vous avez été déconnecté des serveurs Trackmania.(Code Erreur : %1)"
+
+msgid "You have been eliminated"
+msgstr "Vous êtes éliminé"
 
 msgid "You have been reconnected to Uplay."
 msgstr "Vous avez été reconnecté à Uplay."
@@ -4617,6 +4726,9 @@ msgstr "Vous avez gagné $<$7FA0$> points pour l'Open Grand League"
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "Vous avez gagné $<$7FA1$> point pour l'Open Grand League"
 
+msgid "Your final rank is $<$7FA%1$>"
+msgstr "Votre rang final est $<$7FA%1$>"
+
 msgid "Your map in less than %1 minutes"
 msgstr "Votre circuit dans moins de %1 minutes"
 
@@ -4628,6 +4740,9 @@ msgstr "Votre prochain match est prêt."
 
 msgid "Your search did not return any results"
 msgstr "La recherche n'a donné aucun résultat"
+
+msgid "Your text here"
+msgstr "Votre texte ici"
 
 msgid "by"
 msgstr "par"
@@ -5282,6 +5397,9 @@ msgstr "|Information - window title|Circuit pas validé"
 msgid "|Input|No binding"
 msgstr "Pas affecté"
 
+msgid "|Item Collection title|Title"
+msgstr "Titre"
+
 msgid "|Keyboard|Enter"
 msgstr "Entrée"
 
@@ -5302,6 +5420,9 @@ msgstr "Piliers"
 
 msgid "|League|Map %1"
 msgstr "Circuit %1"
+
+msgid "|League|Round %1"
+msgstr "Tour %1"
 
 msgid "|League|map %1/%2"
 msgstr "circuit %1/%2"
@@ -5628,6 +5749,9 @@ msgstr "Continent"
 msgid "|RankingZone|Country"
 msgstr "Pays"
 
+msgid "|RankingZone|Country and Territory"
+msgstr "Pays et Territoire"
+
 msgid "|RankingZone|District"
 msgstr "Département"
 
@@ -5763,11 +5887,17 @@ msgstr "bas"
 msgid "|SpecialBlock|up"
 msgstr "haut"
 
+msgid "|Status|Fin"
+msgstr "Fin"
+
 msgid "|Status|Finalist"
 msgstr "Finaliste"
 
 msgid "|Status|K.O."
 msgstr "K.O."
+
+msgid "|Status|Win"
+msgstr "Win"
 
 msgid "|Status|Winner"
 msgstr "Gagnant"
@@ -5843,6 +5973,12 @@ msgstr "le joystick gauche"
 
 msgid "|XB1|the right stick"
 msgstr "le joystick droit"
+
+msgid "|Zone|Africa"
+msgstr "Afrique"
+
+msgid "|Zone|Asia"
+msgstr "Asie"
 
 msgid "|Zone|Europe"
 msgstr "Europe"

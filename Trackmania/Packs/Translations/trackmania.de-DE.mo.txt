@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 20:04+0000\n"
+"PO-Revision-Date: 2020-11-18 14:27+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: German, Germany\n"
 "Language: de-DE\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid " to "
+msgstr " bis "
 
 msgid "$%1Author"
 msgstr "$%1Autor"
@@ -169,6 +172,12 @@ msgstr ""
 "endet, sobald 3 Spieler Finalisten geworden sind und als erste das Rennen "
 "beendet haben."
 
+msgid "%1 Previous steps"
+msgstr "%1 vorherige Schritte"
+
+msgid "%1 Remaining steps"
+msgstr "%1 Schritte übrig"
+
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1 werden %3 der Punkte verlieren %2"
 
@@ -211,6 +220,9 @@ msgstr "%1 Punkte"
 msgid "%1 replays selected"
 msgstr "%1 Replays ausgewählt"
 
+msgid "%1 tracks"
+msgstr "%1 Strecken"
+
 msgid "%1 until %2 Players"
 msgstr "%1 bis %2 Spieler"
 
@@ -240,6 +252,9 @@ msgstr "%1 Bester CP %2"
 
 msgid "%1Best race"
 msgstr "%1Bestes Rennen"
+
+msgid "%1Next round in %2s"
+msgstr "%1Nächste Runde in %2s"
 
 msgid "%1No elimination this round"
 msgstr "%1Kein Ausscheiden in dieser Runde"
@@ -799,11 +814,11 @@ msgstr ""
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klicken Sie auf die UI-Module, um deren Eigenschaften zu bearbeiten"
 
-msgid "Click to see $<%1$> results"
-msgstr "Klicken Sie, um $<%1$> Ergebnisse zu sehen"
-
 msgid "Close"
 msgstr "Schließen"
+
+msgid "Closed"
+msgstr "Geschlossen"
 
 msgid "Club"
 msgstr "Club"
@@ -1002,6 +1017,12 @@ msgstr "Teampunkte ansammeln :"
 
 msgid "Cup mode"
 msgstr "Cup-Modus"
+
+msgid "Cup of the Day"
+msgstr "Cup des Tages"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "Cup des Tages-Qualifikation läuft"
 
 msgid "Current map"
 msgstr "Aktuelle Strecke"
@@ -1311,7 +1332,7 @@ msgstr "Fehler"
 msgid ""
 "Error while adding the item collection. Please try again. (Error code: %1)"
 msgstr ""
-"Fehler beim Hinzufügen der Items-Sammlung. Bitte versuchen Sie es erneut. "
+"Fehler beim Hinzufügen der Item-Sammlung. Bitte versuchen Sie es erneut. "
 "(Fehlercode: %1)"
 
 msgid ""
@@ -1333,7 +1354,7 @@ msgstr ""
 msgid ""
 "Error while creating the item collection. Please try again. (Error code: %1)"
 msgstr ""
-"Fehler beim Erstellen der Items-Sammlung. Bitte versuchen Sie es erneut. "
+"Fehler beim Erstellen der Item-Sammlung. Bitte versuchen Sie es erneut. "
 "(Fehlercode: %1)"
 
 msgid "Error while creating the room. Please try again. (Error code: %1)"
@@ -1350,13 +1371,13 @@ msgid ""
 "Error while editing the item collection description. Please try again. "
 "(Error code: %1)"
 msgstr ""
-"Fehler beim Aktualisieren der Beschreibung der Items-Sammlung. Bitte "
+"Fehler beim Aktualisieren der Beschreibung der Item-Sammlung. Bitte "
 "versuchen Sie es erneut. (Fehlercode: %1)"
 
 msgid ""
 "Error while editing the item collection. Please try again. (Error code: %1)"
 msgstr ""
-"Fehler beim Aktualisieren der Items-Sammlung. Bitte versuchen Sie es erneut. "
+"Fehler beim Aktualisieren der Ites-Sammlung. Bitte versuchen Sie es erneut. "
 "(Fehlercode: %1)"
 
 msgid "Error while editing the room. Please try again. (Error code: %1)"
@@ -1594,12 +1615,18 @@ msgstr ""
 msgid "Fifth (Press 5)"
 msgstr "Fünfter (5 Drücken)"
 
+msgid "Final"
+msgstr "Finale"
+
 msgid "Final Rank"
 msgstr "Endgültiger Rang"
 
+msgid "Final TMGL"
+msgstr "TMGL-Finale"
+
 msgid "Finish the map once to validate your registration for the cup."
 msgstr ""
-"Fahren Sie die Strecke zu Ende, um Ihre Registrierung für den Cup zu "
+"Beenden Sie die Strecke einmal, um Ihre Registrierung für den Cup zu "
 "bestätigen."
 
 msgid "Finish timeout"
@@ -1793,7 +1820,7 @@ msgid "Image browser"
 msgstr "Bilder-Browser"
 
 msgid "Image gallery"
-msgstr "Bildergallerie"
+msgstr "Bildergalerie"
 
 msgid "Improve"
 msgstr "Verbessern"
@@ -1814,10 +1841,10 @@ msgid "It is currently not possible to vote for this server setting."
 msgstr "Es ist derzeit nicht möglich, für diese Servereinstellung abzustimmen."
 
 msgid "Item Collection"
-msgstr "Items-Sammlung"
+msgstr "Item-Sammlung"
 
 msgid "Item collection"
-msgstr "Items-Sammlung"
+msgstr "Item-Sammlung"
 
 msgid "JUNIOR ACCOUNT MANAGER"
 msgstr "JUNIOR ACCOUNT MANAGER"
@@ -2439,6 +2466,9 @@ msgstr "Keine Clubs"
 msgid "No daily map found to display the rankings"
 msgstr "Es wurde keine tägliche Map gefunden, um die Bestenliste anzuzeigen"
 
+msgid "No elimination in first round"
+msgstr "Kein Ausscheiden in der ersten Runde"
+
 msgid "No events"
 msgstr "Keine Events"
 
@@ -2534,6 +2564,12 @@ msgstr "Ok"
 
 msgid "Open link"
 msgstr "Link öffnen"
+
+msgid "Open on %1"
+msgstr "Offen am %1"
+
+msgid "Open until %1"
+msgstr "Offen bis %1"
 
 msgid "Opponents from %1"
 msgstr "Gegner aus %1"
@@ -2880,6 +2916,9 @@ msgstr "Qualifikationsserver %1"
 msgid "Qualification server will be available in %1"
 msgstr "Qualifikationsserver wird in %1 verfügbar sein"
 
+msgid "Qualifications are over. Knockout will start soon."
+msgstr "Die Qualifikation ist vorüber. Knockout startet in Kürze."
+
 msgid "Qualifier over"
 msgstr "Qualifikation vorbei"
 
@@ -2945,6 +2984,16 @@ msgstr ""
 
 msgid "Race and compete in the daily player's map selection"
 msgstr "Fahren und konkurrieren Sie in der täglichen Spieler-Kartenauswahl"
+
+msgid ""
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies.\n"
+"You can see your global rank among all servers on the left of your screen."
+msgstr ""
+"Spielen Sie für 10 Minuten auf der heutigen Strecke. Anschließend können Sie "
+"an der Knockout-Phase teilnehmen und sich weitere Trophäen verdienen.\n"
+"An der linken Seite des Bildschirms können Sie Ihren globalen Rang unter "
+"allen Servern sehen."
 
 msgid "Race ranking"
 msgstr "Platzierung"
@@ -3012,13 +3061,13 @@ msgstr ""
 msgid "Registration"
 msgstr "Registrierung"
 
-msgid "Registration dates"
-msgstr "Registrierungsdaten"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr ""
 "Die Registrierungen für den heutigen Cup sind vorbei, bitte kommen Sie "
 "morgen wieder!"
+
+msgid "Registration:"
+msgstr "Registrierung:"
 
 msgid "Registrations are closed"
 msgstr "Registrierungen sind geschlossen"
@@ -3097,6 +3146,9 @@ msgstr "Raumerstellung"
 
 msgid "Room name"
 msgstr "Raumname"
+
+msgid "Round %1"
+msgstr "Runde %1"
 
 msgid ""
 "Round %1/%2\n"
@@ -3361,6 +3413,9 @@ msgstr "Teilnehmerliste anzeigen"
 msgid "See full ranking"
 msgstr "Vollständiges Ranking ansehen"
 
+msgid "See results"
+msgstr "Ergebnisse ansehen"
+
 msgid "See tutorial again"
 msgstr "Tutorial erneut anschauen"
 
@@ -3462,6 +3517,9 @@ msgid "Selected maps"
 msgstr "Ausgewählte Strecken"
 
 msgid "Semi-final"
+msgstr "Halbfinale"
+
+msgid "Semifinals"
 msgstr "Halbfinale"
 
 msgid "Server"
@@ -3590,11 +3648,17 @@ msgstr ""
 msgid "Starter"
 msgstr "Starter"
 
+msgid "Starting server."
+msgstr "Starte Server."
+
 msgid "Starts in"
 msgstr "Startet in"
 
 msgid "Stats"
 msgstr "Statistiken"
+
+msgid "Step %1"
+msgstr "Stufe %1"
 
 msgid "Step %1 completed"
 msgstr "Schritt %1 abgeschlossen"
@@ -3830,8 +3894,11 @@ msgstr ""
 "inklusive Zugang zu Wettkämpfen auf Pro-Ebene sowie einzigartige "
 "Möglichkeiten, im Spiel Kontakte zu knüpfen!"
 
+msgid "The Cup of the Day is about to start"
+msgstr "Der Cup des Tages startet jeden Augenblick"
+
 msgid "The Cup of the Day will start soon."
-msgstr "Der Cup des Tages wird bald anfangen."
+msgstr "Der Cup des Tages wird bald beginnen."
 
 msgid "The Left Stick"
 msgstr "Der Linke Stick"
@@ -3910,7 +3977,8 @@ msgstr ""
 
 msgid "The match is over, thank you for playing. You can leave now."
 msgstr ""
-"Das Match ist vorbei, danke für die Teilnahme. Sie können jetzt verlassen."
+"Das Match ist vorbei, danke für die Teilnahme. Sie können den Server jetzt "
+"verlassen."
 
 msgid "The match started, GL HF"
 msgstr "Das Match hat begonnen, GL HF"
@@ -3972,6 +4040,9 @@ msgid "The track must have an open connector to be auto-finished."
 msgstr ""
 "Auf der Strecke muss ein offener Konnektor vorhanden sein, damit automatisch "
 "ein Ziel gesetzt werden kann."
+
+msgid "The winner earns a $<$7FA%1$>"
+msgstr "Der Gewinner erhält eine $<$7FA%1$>"
 
 msgid "There are %1 podiums on your track. You can only place one."
 msgstr ""
@@ -4119,6 +4190,9 @@ msgstr ""
 msgid "Today"
 msgstr "Heute"
 
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "Die heutigen Matches sind bereits gestartet, kommen Sie morgen wieder!"
+
 msgid "Top"
 msgstr "Top"
 
@@ -4232,7 +4306,7 @@ msgid "Upload image"
 msgstr "Bild hochladen"
 
 msgid "Upload item collection"
-msgstr "Items-Sammlung hochladen"
+msgstr "Item-Sammlung hochladen"
 
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Hochladen des Logos fehlgeschlagen (Fehlercode: %1)"
@@ -4454,6 +4528,9 @@ msgstr "Mittwoch"
 msgid "Welcome to Trackmania"
 msgstr "Willkommen bei Trackmania"
 
+msgid "Welcome to the $<$7FACup of the Day$> !"
+msgstr "Willkommen zum $<$7FACup des Tages$> !"
+
 msgid "Welcome to the %1 server."
 msgstr "Willkommen zum %1 Server."
 
@@ -4584,7 +4661,7 @@ msgid "You are qualified"
 msgstr "Sie sind qualifiziert"
 
 msgid "You are registered!\\nThe Cup of the Day will start soon."
-msgstr "Sie sind registriert!\\nDer Cup des Tages wird bald anfangen."
+msgstr "Sie sind registriert!\\nDer Cup des Tages wird bald beginnen."
 
 msgid "You are suspended"
 msgstr "Sie müssen aussetzen"
@@ -4659,6 +4736,9 @@ msgstr "Ihre Verbindung zu den TrackMania-Servern wurde getrennt."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Sie wurden von den TrackMania-Servern getrennt. (Fehlercode: %1)"
+
+msgid "You have been eliminated"
+msgstr "Sie sind ausgeschieden"
 
 msgid "You have been reconnected to Uplay."
 msgstr "Die Verbindung zu Uplay wurde erneut hergestellt."
@@ -4746,6 +4826,22 @@ msgstr "Sie haben $<$7FA0$> Punkte für die Open Grand League gewonnen"
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "Sie haben $<$7FA1$> Punkte für die Open Grand League gewonnen"
 
+msgid ""
+"You're about to compete on the Track Of The Day\n"
+"You've been placed with players of the same level\n"
+"\n"
+"Every round, the last players to finish will be eliminated\n"
+"Do your best to finish among the first !"
+msgstr ""
+"Sind sind dabei, bei der Strecke des Tages anzutreten \n"
+"Sie wurden bei Spielern des gleichen Levels platziert \n"
+" \n"
+"In jeder Runde wird der letzte im Ziel ankommende Spieler ausscheiden \n"
+"Geben Sie Ihr Bestes, unter den Ersten zu sein !"
+
+msgid "Your final rank is $<$7FA%1$>"
+msgstr "Ihr endgültiger Rang ist $<$7FA%1$>"
+
 msgid "Your map in less than %1 minutes"
 msgstr "Deine Strecke in weniger als %1 Minute(n)"
 
@@ -4759,7 +4855,7 @@ msgid "Your search did not return any results"
 msgstr "Ihre Suche ergab keine Treffer"
 
 msgid "Your text here"
-msgstr "Text hier"
+msgstr "Ihren Text hier"
 
 msgid "by"
 msgstr "von"
@@ -5761,7 +5857,7 @@ msgid "|RankingZone|Country"
 msgstr "|RankingZone|Land"
 
 msgid "|RankingZone|Country and Territory"
-msgstr "|RankingZone|Land und Territorium"
+msgstr "|RankingZone|Land und Gebiet"
 
 msgid "|RankingZone|District"
 msgstr "|RankingZone|Bezirk"

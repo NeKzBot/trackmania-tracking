@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:52+0000\n"
+"PO-Revision-Date: 2020-11-18 13:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Danish\n"
 "Language: da\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "$%1Author"
+msgstr "$%1Skaber"
 
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$> er Kongen af lobbyen!"
@@ -730,9 +733,6 @@ msgstr "Klik på en spiller for at indstille dem som allieret."
 
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klik på UI-modulerne for at redigere deres egenskaber"
-
-msgid "Click to see $<%1$> results"
-msgstr "Klik for at se $<%1$> resultater"
 
 msgid "Close"
 msgstr "Luk"
@@ -2682,9 +2682,6 @@ msgstr "Tilmeld"
 msgid "Registration"
 msgstr "Registrering"
 
-msgid "Registration dates"
-msgstr "Registration datoer"
-
 msgid "Remaining time: %1"
 msgstr "Resterende tid: %1"
 
@@ -4417,6 +4414,15 @@ msgstr "|Campaign|Ukendt"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|Tilbage"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1Opvarmning slut. Finalefasen starter"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1Opvarmning slut. Åbningsfasen starter"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1Opvarmning slut. Semifinalefasen starter"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|Finalefase"

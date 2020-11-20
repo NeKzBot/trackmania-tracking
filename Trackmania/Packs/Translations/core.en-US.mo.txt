@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-15 19:19+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "Language: en-US\n"
@@ -1186,9 +1186,6 @@ msgid "Block Mode"
 msgstr "Block Mode"
 
 msgid "Block Mode (F2)"
-msgstr "Block Mode [F2]"
-
-msgid "Block Mode [F2]"
 msgstr "Block Mode [F2]"
 
 msgid "Block Options"
@@ -3252,20 +3249,8 @@ msgstr "Free Macroblock Mode"
 msgid "Free block Mode"
 msgstr "Free Block Mode"
 
-msgid "Free block Mode [F2]"
-msgstr "Free Block Mode [F2]"
-
 msgid "Free for all"
 msgstr "Free for all"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Free Ground Item Mode [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Free Item Mode [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Free Macroblock Mode [F4]"
 
 msgid "Free wheeling!"
 msgstr "Freewheeling!"
@@ -3356,9 +3341,6 @@ msgstr "Ghost Time"
 
 msgid "Ghost block Mode"
 msgstr "Ghost Block Mode"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Ghost Block Mode [F2]"
 
 msgid "Ghost:%1"
 msgstr "Ghost:%1"
@@ -4123,9 +4105,6 @@ msgstr "MOVE"
 msgid "Macroblock Mode"
 msgstr "Macroblock Mode"
 
-msgid "Macroblock Mode [F4]"
-msgstr "Macroblock Mode [F4]"
-
 msgid "Macroblock deleted"
 msgstr "Macroblock deleted"
 
@@ -4468,6 +4447,9 @@ msgstr "Mouse settings"
 
 msgid "Mouse wheel"
 msgstr "Mouse wheel"
+
+msgid "Move"
+msgstr "Move"
 
 msgid "Move [M]"
 msgstr "Move [M]"
@@ -6598,9 +6580,6 @@ msgstr "Skillpoints on %1:"
 msgid "Skinning Mode (F4)"
 msgstr "Skinning Mode [F3]"
 
-msgid "Skinning Mode [F5]"
-msgstr "Skinning Mode [F5]"
-
 msgid "Skip match in comments"
 msgstr "Skip match in comments"
 
@@ -6900,9 +6879,6 @@ msgstr "TeamState"
 
 msgid "Teammates color"
 msgstr "Teammates color"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Terraforming Mode [F1]"
 
 msgid "Test"
 msgstr "Test"

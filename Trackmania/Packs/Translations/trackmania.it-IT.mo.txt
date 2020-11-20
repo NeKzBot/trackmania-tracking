@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 14:03+0000\n"
+"PO-Revision-Date: 2020-11-18 14:15+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Italian, Italy\n"
 "Language: it-IT\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid " to "
+msgstr " fino a "
 
 msgid "$%1Author"
 msgstr "$%1Autore"
@@ -169,6 +172,12 @@ msgstr ""
 "modalità Coppa finisce una volta che 3 giocatori saranno riusciti a "
 "diventare finalisti e concludere per primi."
 
+msgid "%1 Previous steps"
+msgstr "%1 passi precedenti"
+
+msgid "%1 Remaining steps"
+msgstr "%1 passi restanti"
+
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1 perderà %3 suoi punti %2"
 
@@ -210,6 +219,9 @@ msgstr "%1 punti"
 
 msgid "%1 replays selected"
 msgstr "%1 replay selezionati"
+
+msgid "%1 tracks"
+msgstr "%1 piste"
 
 msgid "%1 until %2 Players"
 msgstr "%1 fino a %2 giocatori"
@@ -801,11 +813,11 @@ msgstr ""
 msgid "Click on the UI modules to edit their properties"
 msgstr "Clicca sui moduli UI per modificare le loro proprietà"
 
-msgid "Click to see $<%1$> results"
-msgstr "Clicca per vedere i risultati del $<%1$>"
-
 msgid "Close"
 msgstr "Chiudi"
+
+msgid "Closed"
+msgstr "Chiuso"
 
 msgid "Club"
 msgstr "Club"
@@ -999,6 +1011,9 @@ msgstr "Modalità coppa"
 
 msgid "Cup of the Day"
 msgstr "Coppa del giorno"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "Qualificazioni Coppa del giorno in corso"
 
 msgid "Current map"
 msgstr "Mappa attuale"
@@ -1572,6 +1587,9 @@ msgstr ""
 
 msgid "Fifth (Press 5)"
 msgstr "Quinto (premi 5)"
+
+msgid "Final"
+msgstr "Finale"
 
 msgid "Final Rank"
 msgstr "Classifica finale"
@@ -2326,6 +2344,9 @@ msgstr "Nuovo tempo record"
 msgid "New medal"
 msgstr "Nuova medaglia"
 
+msgid "New rank: %1"
+msgstr "Nuova posizione: %1"
+
 msgid "New records disabled"
 msgstr "Nuovi record disattivati"
 
@@ -2507,6 +2528,12 @@ msgstr "Ok"
 
 msgid "Open link"
 msgstr "Apri collegamento"
+
+msgid "Open on %1"
+msgstr "Aprono il %1"
+
+msgid "Open until %1"
+msgstr "Aperte fino il %1"
 
 msgid "Opponents from %1"
 msgstr "Avversari da %1"
@@ -2853,6 +2880,9 @@ msgstr "Server di qualificazione %1"
 msgid "Qualification server will be available in %1"
 msgstr "Il server di qualificazione sarà disponibile tra %1"
 
+msgid "Qualifications are over. Knockout will start soon."
+msgstr "Qualificazione concluse. La fase ad eliminazione inizierà tra breve."
+
 msgid "Qualifier over"
 msgstr "Qualificazione conclusa"
 
@@ -2993,11 +3023,11 @@ msgstr ""
 msgid "Registration"
 msgstr "Registrazione"
 
-msgid "Registration dates"
-msgstr "Date registrazione"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr "Le registrazioni per la coppa di oggi sono finite, torna domani!"
+
+msgid "Registration:"
+msgstr "Registrazione:"
 
 msgid "Registrations are closed"
 msgstr "Le registrazioni sono chiuse"
@@ -3076,6 +3106,9 @@ msgstr "Creazione stanza"
 
 msgid "Room name"
 msgstr "Nome stanza"
+
+msgid "Round %1"
+msgstr "Turno %1"
 
 msgid ""
 "Round %1/%2\n"
@@ -3339,6 +3372,9 @@ msgstr "Vedi elenco partecipanti"
 msgid "See full ranking"
 msgstr "Vedi classifica completa"
 
+msgid "See results"
+msgstr "Vedi i risultati"
+
 msgid "See tutorial again"
 msgstr "Rivedi tutorial"
 
@@ -3441,6 +3477,9 @@ msgstr "Seleziona mappe"
 
 msgid "Semi-final"
 msgstr "Semifinale"
+
+msgid "Semifinals"
+msgstr "Semifinali"
 
 msgid "Server"
 msgstr "Server"
@@ -3563,11 +3602,17 @@ msgstr ""
 msgid "Starter"
 msgstr "Starter"
 
+msgid "Starting server."
+msgstr "Avvio del server"
+
 msgid "Starts in"
 msgstr "Inizia tra"
 
 msgid "Stats"
 msgstr "Statistiche"
+
+msgid "Step %1"
+msgstr "Passo %1"
 
 msgid "Step %1 completed"
 msgstr "Fase %1 completata"
@@ -3789,6 +3834,9 @@ msgstr ""
 "L'Accesso Club è un pass da 1 o 3 anni che offre la più completa esperienza "
 "di Trackmania con personalizzazione, livello pro dei tornei e modi unici per "
 "socializzare ingame!"
+
+msgid "The Cup of the Day is about to start"
+msgstr "La Coppa del giorno sta per iniziare"
 
 msgid "The Cup of the Day will start soon."
 msgstr "La Coppa del giorno inizierà tra poco."
@@ -4064,6 +4112,9 @@ msgstr ""
 
 msgid "Today"
 msgstr "Oggi"
+
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "Le partite di oggi sono già iniziate, torna domani!"
 
 msgid "Top"
 msgstr "Migliore"
@@ -4376,6 +4427,9 @@ msgstr "Warm-up"
 
 msgid "Warmup"
 msgstr "Riscaldamento"
+
+msgid "Warmup: %1/%2"
+msgstr "Warm-up: %1/%2"
 
 msgid "Watch warmup"
 msgstr "Guarda riscaldamento"
@@ -4690,13 +4744,13 @@ msgid ""
 "You're about to compete on the Track Of The Day\n"
 "You've been placed with players of the same level\n"
 "\n"
-"Every round, last players to finish will be eliminated\n"
+"Every round, the last players to finish will be eliminated\n"
 "Do your best to finish among the first !"
 msgstr ""
-"Stai per correre sulla pista del giorno.\n"
-"Sei stato messo assieme a giocatori dello stesso livello.\n"
+"Stai per prendere parte alla Pista del giorno\n"
+"Sei stato messo assieme a giocatori del tuo stesso livello\n"
 "\n"
-"A ogni turno, i giocatori che arrivano ultimi saranno eliminati.\n"
+"A ogni round, l'ultimo giocatore a tagliare il traguardo verrà eliminato\n"
 "Fai del tuo meglio per arrivare tra i primi!"
 
 msgid "Your final rank is $<$7FA%1$>"

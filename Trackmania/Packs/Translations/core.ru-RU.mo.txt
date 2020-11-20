@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-20 11:21+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Russian, Russia\n"
 "Language: ru-RU\n"
@@ -1202,9 +1202,6 @@ msgstr "Режим блока"
 
 msgid "Block Mode (F2)"
 msgstr "Режим блока (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Режим блока [F2]"
 
 msgid "Block Options"
 msgstr "Настройки блока"
@@ -3283,20 +3280,8 @@ msgstr "Режим свободного макроблока"
 msgid "Free block Mode"
 msgstr "Режим свободного блока"
 
-msgid "Free block Mode [F2]"
-msgstr "Режим свободного блока [F2]"
-
 msgid "Free for all"
 msgstr "Каждый сам за себя"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Режим свободного наземного предмета [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Режим свободного предмета [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Режим свободного макроблока [F4]"
 
 msgid "Free wheeling!"
 msgstr "Свободный полёт!"
@@ -3387,9 +3372,6 @@ msgstr "Время фантома"
 
 msgid "Ghost block Mode"
 msgstr "Режим призрачного блока"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Режим призрачного блока [F2]"
 
 msgid "Ghost:%1"
 msgstr "Фантом:%1"
@@ -4160,9 +4142,6 @@ msgstr "ИДТИ"
 msgid "Macroblock Mode"
 msgstr "Режим макроблока"
 
-msgid "Macroblock Mode [F4]"
-msgstr "Режим макроблока [F4]"
-
 msgid "Macroblock deleted"
 msgstr "Макроблок удалён"
 
@@ -4505,6 +4484,9 @@ msgstr "Настройки мыши"
 
 msgid "Mouse wheel"
 msgstr "Колесо мыши"
+
+msgid "Move"
+msgstr "Переместить"
 
 msgid "Move [M]"
 msgstr "Перемещение [M]"
@@ -6652,9 +6634,6 @@ msgstr "Очки навыка за %1:"
 msgid "Skinning Mode (F4)"
 msgstr "Режим окрашивания (F4)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Режим покраски [F5]"
-
 msgid "Skip match in comments"
 msgstr "Не учитывать комментарии"
 
@@ -6954,9 +6933,6 @@ msgstr "Состояние команды"
 
 msgid "Teammates color"
 msgstr "Цвет товарищей по команде"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Режим изменения рельефа [F1]"
 
 msgid "Test"
 msgstr "Тест"

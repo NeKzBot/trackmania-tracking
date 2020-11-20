@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 21:45+0000\n"
+"PO-Revision-Date: 2020-11-18 13:55+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
@@ -632,6 +632,9 @@ msgstr "Ativar uma chave"
 msgid "Add"
 msgstr "Adicionar"
 
+msgid "Add New Layer"
+msgstr "Adicionar Nova Camada"
+
 msgid "Add New Library"
 msgstr "Adicionar nova Biblioteca"
 
@@ -1200,9 +1203,6 @@ msgstr "Modo Bloco"
 
 msgid "Block Mode (F2)"
 msgstr "Modo Bloqueio (F2)"
-
-msgid "Block Mode [F2]"
-msgstr "Modo Bloco [F2]"
 
 msgid "Block Options"
 msgstr "Opções do Bloco"
@@ -1869,6 +1869,9 @@ msgstr "Copia a chave selecionada"
 msgid "Copy/Paste Mode [C]"
 msgstr "Modo Copiar/Colar [C]"
 
+msgid "CopyVoxels"
+msgstr "CopiarVoxels"
+
 msgid "Corrupted login."
 msgstr "Login corrompido."
 
@@ -2229,6 +2232,9 @@ msgstr "Modelos personalizados de veículos/personagens"
 msgid "Customize"
 msgstr "Customizar"
 
+msgid "Cut"
+msgstr "Cortar"
+
 msgid "Cut Selection [Ctrl + X]"
 msgstr "Cortar Seleção [CTRL+X]"
 
@@ -2240,6 +2246,9 @@ msgstr "Cortar o bloco selecionado"
 
 msgid "Cut the selected key"
 msgstr "Corta a chave selecionada"
+
+msgid "CutVoxels"
+msgstr "CortarVoxels"
 
 msgid "D / Ctrl + Mouse Wheel Down"
 msgstr "D / Ctrl + Roda do mouse para baixo"
@@ -2791,6 +2800,9 @@ msgstr ""
 msgid "Edit Offzone [O]"
 msgstr "Editar Offzone [O]"
 
+msgid "Edit Selected Layer and Validate Edition"
+msgstr "Editar Camada Selecionada e Validar Edição"
+
 msgid "Edit Settings"
 msgstr "Editar Configurações"
 
@@ -3275,20 +3287,8 @@ msgstr "Modo Macrobloco Livre"
 msgid "Free block Mode"
 msgstr "Modo Bloco Livre"
 
-msgid "Free block Mode [F2]"
-msgstr "Modo Bloco Livre [F2]"
-
 msgid "Free for all"
 msgstr "Ativado e livre para todos!"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Modo de Item de Terreno Livre [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Modo de Item Livre [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Modo Macrobloco Livre [F4]"
 
 msgid "Free wheeling!"
 msgstr "Roda livre!"
@@ -3379,9 +3379,6 @@ msgstr "Tempo do ghost"
 
 msgid "Ghost block Mode"
 msgstr "Modo de Bloco Fantasma"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Modo Bloco Ghost [F2]"
 
 msgid "Ghost:%1"
 msgstr "Ghost:%1"
@@ -3476,6 +3473,9 @@ msgstr "Ajudas"
 
 msgid "Hide"
 msgstr "Ocultar"
+
+msgid "Hide Layers Menu"
+msgstr "Ocultar Menu de Camadas"
 
 msgid "Hide advanced parameters"
 msgstr "Ocultar parâmetros avançados"
@@ -3871,6 +3871,9 @@ msgstr "Entrar"
 msgid "Joining server..."
 msgstr "Entrando no servidor..."
 
+msgid "Joints mode"
+msgstr "Modo de Articulações"
+
 msgid "Joypad"
 msgstr "Joystick"
 
@@ -4013,6 +4016,9 @@ msgstr "Sair do editor [Escape]"
 msgid "Left"
 msgstr "Esquerda"
 
+msgid "Left and Right Click : Camera Move Vertically"
+msgstr "Clique esquerdo e direito: Câmera se Move Verticalmente"
+
 msgid "Left click : move the module"
 msgstr "Clique Esquerdo : move o módulo"
 
@@ -4152,9 +4158,6 @@ msgstr "MOVER"
 
 msgid "Macroblock Mode"
 msgstr "Modo Macrobloco"
-
-msgid "Macroblock Mode [F4]"
-msgstr "Modo Macrobloco [F4]"
 
 msgid "Macroblock deleted"
 msgstr "Macrobloco excluído"
@@ -4499,6 +4502,15 @@ msgstr "Configurações do mouse"
 
 msgid "Mouse wheel"
 msgstr "Roda do mouse"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Move Selected Layer Down"
+msgstr "Mover Camada Selecionada para Baixo"
+
+msgid "Move Selected Layer Up"
+msgstr "Mover Camada Selecionada para Cima"
 
 msgid "Move [M]"
 msgstr "Mover [M]"
@@ -4875,6 +4887,9 @@ msgstr "Somente %1 dos mapas dos %2 de dificuldade são fechados em demo mode."
 msgid "Opacity"
 msgstr "Opacidade"
 
+msgid "Open Layers Menu"
+msgstr "Abrir o menu de camadas"
+
 msgid "Open Library and add  the Include line  here in the script"
 msgstr "Abre a biblioteca e adiciona a  a linha de inclusão  aqui no script"
 
@@ -5031,6 +5046,9 @@ msgstr "Senha de árbitro:"
 msgid "Password spectator (opt.) :"
 msgstr "Senha de espectador (opc.):"
 
+msgid "Paste"
+msgstr "Colar"
+
 msgid "Paste Selection [Ctrl + V]"
 msgstr "Colar Seleção [CTRL+V]"
 
@@ -5045,6 +5063,9 @@ msgstr "Cole a chave copiada como uma chave nova"
 
 msgid "Paste the copied key info to the selected key"
 msgstr "Cola a informação da chave copiada na chave selecionada"
+
+msgid "PasteVoxels"
+msgstr "ColarVoxels"
 
 msgid "Path Mode"
 msgstr "Modo Trajeto"
@@ -5996,6 +6017,9 @@ msgstr "Rodar imagem à direita"
 msgid "Rotate Right by 90"
 msgstr "Rodar 90º para a direita"
 
+msgid "Rotate Sticker slightly to the Right"
+msgstr "Girar o Adesivo levemente para a Direita"
+
 msgid "Rotate [R]"
 msgstr "Rotacionar [R]"
 
@@ -6262,6 +6286,12 @@ msgstr "Selecionar Tudo [CTRL+A]"
 
 msgid "Select Common Data Directory"
 msgstr "Selecionar Diretório de Dados Comuns"
+
+msgid "Select Layer Down of Selected Layer"
+msgstr "Selecionar a Camada Abaixo da Camada Selecionada"
+
+msgid "Select Layer Up of Selected Layer"
+msgstr "Selecionar a Camada Acima da Camada Selecionada"
 
 msgid "Select Personal Data Directory"
 msgstr "Selecione Diretório de Dados Pessoais"
@@ -6654,9 +6684,6 @@ msgstr "Skillpoints em %1:"
 msgid "Skinning Mode (F4)"
 msgstr "Modo Skinning (F3)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Modo Skinning [F5]"
-
 msgid "Skip match in comments"
 msgstr "Pular resultados em comentários"
 
@@ -6956,9 +6983,6 @@ msgstr "EstadoTime"
 
 msgid "Teammates color"
 msgstr "Cor dos companheiros de equipe"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Modo de Terraformação [F1]"
 
 msgid "Test"
 msgstr "Testar"
@@ -10067,6 +10091,9 @@ msgstr "|DisplaySync|Nenhuma"
 msgid "|EditorEditor|Editor Type"
 msgstr "|EditorEditor|Tipo de Editor"
 
+msgid "|EditorMap|Modes"
+msgstr "|EditorMap|Modos"
+
 msgid "|EditorType|Editor Editor"
 msgstr "Editor de Editor"
 
@@ -10554,6 +10581,33 @@ msgstr ""
 "|ItemEditor - CustomBlock|Este bloco não pode ser convertido. Um cubo padrão "
 "o substituirá."
 
+msgid "|ItemFolder|Official"
+msgstr "|ItemFolder|Oficial"
+
+msgid "|ItemPropertyGroup|Block customization"
+msgstr "|ItemPropertyGroup|Personalização de blocos"
+
+msgid "|ItemPropertyGroup|Map editor options"
+msgstr "|ItemPropertyGroup|Opções do editor de mapas"
+
+msgid "|ItemPropertyGroup|Visual appearance"
+msgstr "|ItemPropertyGroup|Aparência visual"
+
+msgid "|ItemProperty|Icon"
+msgstr "|ItemProperty|Ícone"
+
+msgid "|ItemProperty|Item type"
+msgstr "|ItemProperty|Tipo de item"
+
+msgid "|ItemProperty|Name"
+msgstr "|ItemProperty|Nome"
+
+msgid "|ItemProperty|Placement parameters"
+msgstr "|ItemProperty|Parâmetros de posicionamento"
+
+msgid "|ItemProperty|Skin"
+msgstr "|ItemProperty|Skin"
+
 msgid "|ItemType|Bot"
 msgstr "|ItemType|Bot"
 
@@ -10920,6 +10974,54 @@ msgstr "|MediaTracker Image values|Rotação"
 msgid "|MediaTracker Image values|Size"
 msgstr "|MediaTracker Image values|Tamanho"
 
+msgid "|MediaTracker InertialTracking block values|Auto-Focus"
+msgstr "|MediaTracker InertialTracking block values|Auto-foco"
+
+msgid "|MediaTracker InertialTracking block values|Max Distance"
+msgstr "|MediaTracker InertialTracking block values|Distância máx"
+
+msgid "|MediaTracker InertialTracking block values|Max Fov"
+msgstr "|MediaTracker InertialTracking block values|Fov máx"
+
+msgid "|MediaTracker InertialTracking block values|Min Distance"
+msgstr "|MediaTracker InertialTracking block values|Distância mín"
+
+msgid "|MediaTracker InertialTracking block values|Min Fov"
+msgstr "|MediaTracker InertialTracking block values|Fov mín"
+
+msgid "|MediaTracker InertialTracking block values|Tracking"
+msgstr "|MediaTracker InertialTracking block values|Rastreamento"
+
+msgid "|MediaTracker Inputs|Cancel or close the currently open pop-up"
+msgstr "|MediaTracker Inputs|Cancelar ou fechar o pop-up atualmente aberto"
+
+msgid "|MediaTracker Inputs|Compute the shadows of the map"
+msgstr "|MediaTracker Inputs|Calcular as sombras do mapa"
+
+msgid "|MediaTracker Inputs|Confirm and close the currently open pop-up"
+msgstr "|MediaTracker Inputs|Confirmar e fechar o pop-up atualmente aberto"
+
+msgid "|MediaTracker Inputs|Create a high quality screenshot"
+msgstr "|MediaTracker Inputs|Criar uma captura de tela de alta qualidade"
+
+msgid "|MediaTracker Inputs|Export clip as a video"
+msgstr "|MediaTracker Inputs|Exportar clipe como um vídeo"
+
+msgid "|MediaTracker Inputs|Redo the last undone action"
+msgstr "|MediaTracker Inputs|Refazer a última ação desfeita"
+
+msgid "|MediaTracker Inputs|Return to 0:00.00"
+msgstr "|MediaTracker Inputs|Retornar para 0:00.00"
+
+msgid "|MediaTracker Inputs|Watch clip in fullscreen"
+msgstr "|MediaTracker Inputs|Assistir clipe em tela cheia"
+
+msgid "|MediaTracker ML Interface action|Edit Manialink"
+msgstr "|MediaTracker ML Interface action|Editar Manialink"
+
+msgid "|MediaTracker ML Url values|Manialink URL"
+msgstr "|MediaTracker ML Url values|URL do Manialink"
+
 msgid "|MediaTracker Orbital Camera values|Latitude"
 msgstr "|MediaTracker Orbital Camera values|Latitude"
 
@@ -10931,6 +11033,12 @@ msgstr "|MediaTracker Orbital Camera values|Raio"
 
 msgid "|MediaTracker Path Camera values|Weight"
 msgstr "|MediaTracker Camera values|Peso"
+
+msgid "|MediaTracker Player Camera values|Camera type"
+msgstr "|MediaTracker Player Camera values|Tipo de câmera"
+
+msgid "|MediaTracker Pop Up|Unable to insert block"
+msgstr "|MediaTracker Pop Up|Não é possível inserir bloco"
 
 msgid "|MediaTracker Reference ghosts|Author ghost"
 msgstr "Fantasma do Autor"
@@ -11012,6 +11120,15 @@ msgstr "Escala do rastro de luz"
 
 msgid "|MediaTracker ToneMapping values|Max HDR"
 msgstr "|MediaTracker ToneMapping values|Máx HDR"
+
+msgid "|MediaTracker Triangle action|Import SVG"
+msgstr "|MediaTracker Triangle action|Importar SVG"
+
+msgid "|MediaTracker Triangle values|Edit mode"
+msgstr "|MediaTracker Triangle values|Modo de edição"
+
+msgid "|MediaTracker Triangle values|Position (x, y, z)"
+msgstr "|MediaTracker Triangle values|Posição (x, y, z)"
 
 msgid "|MediaTracker Volume values|Music volume"
 msgstr "|MediaTracker Volume values|Volume da música"
@@ -11178,8 +11295,62 @@ msgstr "Coloração dos Postes SP"
 msgid "|MeshEditor Material|Not collidable"
 msgstr "|MeshEditor Material|Não colidível"
 
+msgid "|MeshEditor|Advanced Tools"
+msgstr "|MeshEditor|Ferramentas Avançadas"
+
+msgid "|MeshEditor|Creation Tools"
+msgstr "|MeshEditor|Ferramentas de Criação"
+
+msgid "|MeshEditor|Delete"
+msgstr "|MeshEditor|Excluir"
+
+msgid "|MeshEditor|Heptagon"
+msgstr "|MeshEditor|Heptágono"
+
+msgid "|MeshEditor|Hexagon"
+msgstr "|MeshEditor|Hexágono"
+
+msgid "|MeshEditor|Main Tools"
+msgstr "|MeshEditor|Ferramentas Principais"
+
 msgid "|MeshEditor|Mesh Type"
 msgstr "Tipo de Mecha"
+
+msgid "|MeshEditor|Move"
+msgstr "|MeshEditor|Mover"
+
+msgid "|MeshEditor|Octagon"
+msgstr "|MeshEditor|Octógono"
+
+msgid "|MeshEditor|Pentagon"
+msgstr "|MeshEditor|Pentágono"
+
+msgid "|MeshEditor|Polygon mode"
+msgstr "|MeshEditor|Modo polígono"
+
+msgid "|MeshEditor|Rotate"
+msgstr "|MeshEditor|Girar"
+
+msgid "|MeshEditor|Scale"
+msgstr "|MeshEditor|Escala"
+
+msgid "|MeshEditor|Select"
+msgstr "|MeshEditor|Selecionar"
+
+msgid "|MeshEditor|Select All"
+msgstr "|MeshEditor|Selecionar Tudo"
+
+msgid "|MeshEditor|Selection : By Material"
+msgstr "|MeshEditor|Seleção : Por Material"
+
+msgid "|MeshEditor|Selection : Invert"
+msgstr "|MeshEditor|Seleção : inverter"
+
+msgid "|MeshEditor|Selection : redo"
+msgstr "|MeshEditor|Seleção : resfazer"
+
+msgid "|MeshEditor|Selection : undo"
+msgstr "|MeshEditor|Seleção : desfazer"
 
 msgid "|MeshEditor|Selection Length"
 msgstr "|MeshEditor|Seleção de comprimento"
@@ -11187,8 +11358,20 @@ msgstr "|MeshEditor|Seleção de comprimento"
 msgid "|MeshEditor|Snapping"
 msgstr "Fixação"
 
+msgid "|MeshEditor|Sphere mode"
+msgstr "|MeshEditor|Modo esfera"
+
+msgid "|MeshEditor|Square"
+msgstr "|MeshEditor|Quadrado"
+
+msgid "|MeshEditor|Subdivide selection"
+msgstr "|MeshEditor|Subdividir seleção"
+
 msgid "|MeshEditor|Tool Step"
 msgstr "Passo da Ferramenta"
+
+msgid "|MeshEditor|Triangle"
+msgstr "|MeshEditor|Triângulo"
 
 msgid "|MeshEditor|[Shift] : Symmetrical scale"
 msgstr "|MeshEditor|[Shift] : Escala simétrica"
@@ -12157,6 +12340,9 @@ msgstr "|SkinEditor, displaying skin got autosaved|Salvo automaticamente"
 msgid "|SkinEditor|Add New Layer"
 msgstr "|SkinEditor|Adicionar Nova Camada"
 
+msgid "|SkinEditor|Align Text to the closest 90° Angle"
+msgstr "|SkinEditor|Alinhar o Texto ao Ângulo mais próximo de 90°"
+
 msgid "|SkinEditor|Angle"
 msgstr "|SkinEditor|Ângulo"
 
@@ -12175,8 +12361,16 @@ msgstr "|SkinEditor|Clique para editar o nome da camada"
 msgid "|SkinEditor|Color Palette"
 msgstr "|SkinEditor|Paleta de cores"
 
+msgid "|SkinEditor|Color Picker"
+msgstr "|SkinEditor|Seletor de Cores"
+
 msgid "|SkinEditor|Color Picking Tool"
 msgstr "|SkinEditor|Ferramenta de Seleção de Cores"
+
+msgid "|SkinEditor|Ctrl + Click on Mask : Add / Remove Several Masks on Layer"
+msgstr ""
+"|SkinEditor|Ctrl + Clique em Máscara: Adicionar / Remover Várias Máscaras na "
+"Camada"
 
 msgid "|SkinEditor|Custom Color [Ctrl + Click : Save Current Color as Custom]"
 msgstr "Cor Customizada [CTRL + Click : Salva a Cor Atual como Customizada]"
@@ -12186,6 +12380,9 @@ msgstr "|SkinEditor|Excluir Camada"
 
 msgid "|SkinEditor|Edit Sub Object of Layer"
 msgstr "Editar Sub-Objeto da Camada"
+
+msgid "|SkinEditor|Eraser"
+msgstr "|SkinEditor|Borracha"
 
 msgid "|SkinEditor|Eraser Tool"
 msgstr "|SkinEditor|Ferramenta Borracha"
@@ -12204,6 +12401,9 @@ msgstr "|SkinEditor|Ocultar camada ao gerar"
 
 msgid "|SkinEditor|Image Apply Mode"
 msgstr "|SkinEditor|Modo de Aplicação de Imagem"
+
+msgid "|SkinEditor|Image Mode"
+msgstr "|SkinEditor|Modo de Imagem"
 
 msgid "|SkinEditor|Import Layer"
 msgstr "|SkinEditor|Importar Camada"
@@ -12232,11 +12432,35 @@ msgstr "|SkinEditor|Auxiliar de Plano Médio"
 msgid "|SkinEditor|Mirror"
 msgstr "|SkinEditor|Espelhar"
 
+msgid "|SkinEditor|Mirror Mode"
+msgstr "|SkinEditor|Modo de Espelho"
+
+msgid "|SkinEditor|Mirror Mode for Text"
+msgstr "|SkinEditor|Modo de Espelho para Texto"
+
 msgid "|SkinEditor|Move Layer Down"
 msgstr "|SkinEditor|Mover camada para baixo"
 
 msgid "|SkinEditor|Move Layer Up"
 msgstr "|SkinEditor|Mover camada para cima"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Down"
+msgstr "|SkinEditor|Mover para o eixo ortográfico mais próximo para Baixo"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Left"
+msgstr "|SkinEditor|Mover para o eixo ortográfico mais próximo para a Esquerda"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Right"
+msgstr "|SkinEditor|Mover para o eixo ortográfico mais próximo para a Direita"
+
+msgid "|SkinEditor|Move to closest orthographic axis towards Up"
+msgstr "|SkinEditor|Mover para o eixo ortográfico mais próximo para Cima"
+
+msgid "|SkinEditor|No Mirror Mode"
+msgstr "|SkinEditor|Sem Modo de Espelho"
+
+msgid "|SkinEditor|No Mirror mode"
+msgstr "|SkinEditor|Sem Modo de Espelho"
 
 msgid "|SkinEditor|Off"
 msgstr "|SkinEditor|Desligado"
@@ -12250,11 +12474,65 @@ msgstr "|SkinEditor|Opacidade"
 msgid "|SkinEditor|Open Help"
 msgstr "|SkinEditor|Abrir Ajuda"
 
+msgid "|SkinEditor|Open Save Menu"
+msgstr "|SkinEditor|Abrir o menu Salvar"
+
+msgid "|SkinEditor|Open this Help window"
+msgstr "|SkinEditor|Abrir esta janela de Ajuda"
+
+msgid "|SkinEditor|Paint Mode"
+msgstr "|SkinEditor|Modo de Pintura"
+
+msgid "|SkinEditor|Paint and Replace"
+msgstr "|SkinEditor|Pintar e substituir"
+
 msgid "|SkinEditor|Projection"
 msgstr "|SkinEditor|Projeção"
 
+msgid "|SkinEditor|Quit"
+msgstr "|SkinEditor|Sair"
+
 msgid "|SkinEditor|Redo"
 msgstr "|SkinEditor|Refazer"
+
+msgid "|SkinEditor|Reset Brush Angle to 0°"
+msgstr "|SkinEditor|Redefinir Ângulo do Pincel para 0°"
+
+msgid "|SkinEditor|Right Click and move : Camera Rotation"
+msgstr "|SkinEditor|Clique com o botão direito e mova: Rotação da Câmera"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Left"
+msgstr "|SkinEditor|Girar o Pincel 45° para a Esquerda"
+
+msgid "|SkinEditor|Rotate Brush 45° to the Right"
+msgstr "|SkinEditor|Girar o Pincel 45° para a Direita"
+
+msgid "|SkinEditor|Rotate Brush shlightly to the Right"
+msgstr "|SkinEditor|Girar o Pincel levemente para a Direita"
+
+msgid "|SkinEditor|Rotate Brush slightly to the Left"
+msgstr "|SkinEditor|Girar o Pincel levemente para a Esquerda"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Left"
+msgstr "|SkinEditor|Girar o Adesivo 45° para a Esquerda"
+
+msgid "|SkinEditor|Rotate Sticker 45° to the Right"
+msgstr "|SkinEditor|Girar o Adesivo 45° para a Direita"
+
+msgid "|SkinEditor|Rotate Sticker slightly to the Left"
+msgstr "|SkinEditor|Girar o Adesivo levemente para a Esquerda"
+
+msgid "|SkinEditor|Rotate Text 45° to the Left"
+msgstr "|SkinEditor|Girar Texto 45° para a Esquerda"
+
+msgid "|SkinEditor|Rotate Text 45° to the Right"
+msgstr "|SkinEditor|Girar Texto 45° para a Direita"
+
+msgid "|SkinEditor|Rotate Text slightly to the Left"
+msgstr "|SkinEditor|Girar o Texto levemente para a Esquerda"
+
+msgid "|SkinEditor|Rotate Text slightly to the Right"
+msgstr "|SkinEditor|Girar o Texto levemente para a Direita"
 
 msgid "|SkinEditor|Scale"
 msgstr "|SkinEditor|Escala"
@@ -12276,6 +12554,9 @@ msgstr "|SkinEditor|Texto"
 
 msgid "|SkinEditor|Text Mode"
 msgstr "|SkinEditor|Modo Texto"
+
+msgid "|SkinEditor|Toggle Light on Camera"
+msgstr "|SkinEditor|Alternar luz na câmera"
 
 msgid "|SkinEditor|Undo"
 msgstr "|SkinEditor|Desfazer"

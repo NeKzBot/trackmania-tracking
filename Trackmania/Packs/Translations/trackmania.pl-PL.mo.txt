@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 19:26+0000\n"
+"PO-Revision-Date: 2020-11-18 14:09+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Polish, Poland\n"
 "Language: pl-PL\n"
@@ -12,6 +12,9 @@ msgstr ""
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
+
+msgid " to "
+msgstr " do "
 
 msgid "$%1Author"
 msgstr "$%1Autor"
@@ -39,6 +42,9 @@ msgstr "$<%1$> wygrywa rozgrywkę!"
 
 msgid "$<%1$> wins the round!"
 msgstr "$<%1$> wygrywa rundę!"
+
+msgid "$<%1$> won the match!"
+msgstr "$<%1$> wygrywa rozgrywkę!"
 
 msgid ""
 "$zIn $<$t$6F9Knockout$> mode, the goal is to be the last player standing. \n"
@@ -164,8 +170,17 @@ msgstr ""
 "$t$6F9pierwszej pozycji$> aby wygrać puchar. Tryb pucharu zakończy się kiedy "
 "3 graczy osiągnie status finalisty i wygrają wyścig jako pierwsi."
 
+msgid "%1 Previous steps"
+msgstr "%1 Poprzednie etapy"
+
+msgid "%1 Remaining steps"
+msgstr "Pozostały %1 etapy"
+
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1 Przegrają %3 punktów %2"
+
+msgid "%1 Will lose all points %2"
+msgstr "%1 Stracą wszystkie punkty %2"
 
 msgid "%1 Will lose half of their points %2"
 msgstr "%1 Stracą połowę swoich punktów %2"
@@ -203,8 +218,11 @@ msgstr "%1 punkty"
 msgid "%1 replays selected"
 msgstr "Zaznaczonych powtórek: %1"
 
+msgid "%1 tracks"
+msgstr "%1 tras"
+
 msgid "%1 until %2 Players"
-msgstr "%1 pozostało do %2 graczy"
+msgstr "%1 aż do %2 graczy"
 
 msgid "%1$<%2$> canceled match start."
 msgstr "%1$<%2$> zatrzymał rozpoczęcie rozgrywki."
@@ -214,6 +232,9 @@ msgstr "%1$<%2$> dołączył do rozgrywki"
 
 msgid "%1$<%2$> joined his match as a substitute."
 msgstr "%1$<%2$> dołączył do swojej rozgrywki w zastępstwie."
+
+msgid "%1$<%2$> wins step %3"
+msgstr "%1$<%2$> wygrywa etap %3"
 
 msgid "%1$<%2$> wins the match!"
 msgstr "%1$<%2$> wygrywa mecz!"
@@ -234,7 +255,7 @@ msgid "%1Next round in %2s"
 msgstr "%1Następna runda za %2s"
 
 msgid "%1No elimination this round"
-msgstr "%1Brak eliminacji podczas tej rundy"
+msgstr "%1Runda bez eliminacji"
 
 msgid "%1Personal best"
 msgstr "%1Osobisty rekord"
@@ -783,11 +804,11 @@ msgstr "Kliknij na inną mapę aby zamienić ją z aktualnie wybraną"
 msgid "Click on the UI modules to edit their properties"
 msgstr "Kliknij na moduły interfejsu, aby edytować ich właściwości"
 
-msgid "Click to see $<%1$> results"
-msgstr "Kliknij aby zobaczyć wyniki $<%1$>"
-
 msgid "Close"
 msgstr "Zamknij"
+
+msgid "Closed"
+msgstr "Zamknięta"
 
 msgid "Club"
 msgstr "Klub"
@@ -987,6 +1008,9 @@ msgstr "Tryb pucharu"
 
 msgid "Cup of the Day"
 msgstr "Puchar Dnia"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "Kwalifikacje Pucharu Dnia już trwają"
 
 msgid "Current map"
 msgstr "Aktualna mapa"
@@ -1563,6 +1587,9 @@ msgstr ""
 msgid "Fifth (Press 5)"
 msgstr "Piąty (Naciśnij 5)"
 
+msgid "Final"
+msgstr "Finał"
+
 msgid "Final Rank"
 msgstr "Ostateczna pozycja"
 
@@ -1730,6 +1757,9 @@ msgstr "Gorące krzesło"
 msgid "I am ready"
 msgstr "Jestem gotowy"
 
+msgid "I have read and I agree to the %1rules%2 of this event."
+msgstr "Przeczytałem i zgadzam się z %1asadami%2 tego wydarzenia."
+
 msgid "INFRASTRUCTURE TEAM MANAGER"
 msgstr "KIEROWNIK ZESPOŁU INFRASTRUKTURY"
 
@@ -1847,13 +1877,13 @@ msgid "KNOWLEDGE SPECIALIST"
 msgstr "SPECJALISTA WIEDZY"
 
 msgid "KOs per round"
-msgstr "Eliminacje na rundę"
+msgstr "Elim. na rundę"
 
 msgid "Knocked out players"
 msgstr "Wyeliminowani gracze"
 
 msgid "Knockout mode"
-msgstr "Tryb Knockout"
+msgstr "Tryb Eliminacji"
 
 msgid "L1 button"
 msgstr "Przycisk L1"
@@ -2320,6 +2350,9 @@ msgstr "Nowe rekordy zablokowane"
 msgid "New season in %1"
 msgstr "Nowy sezon za %1"
 
+msgid "New season in %1 day and %2 hour"
+msgstr "Nowy sezon za %1 dni i %2 godzinę"
+
 msgid "New season in %1 day and %2 hours"
 msgstr "Nowy sezon za %1 dzień i %2 godziny"
 
@@ -2490,6 +2523,12 @@ msgstr "Ok"
 
 msgid "Open link"
 msgstr "Otwórz link"
+
+msgid "Open on %1"
+msgstr "Otwarta od %1"
+
+msgid "Open until %1"
+msgstr "Otwarta do %1"
 
 msgid "Opponents from %1"
 msgstr "Przeciwnicy z %1"
@@ -2836,6 +2875,9 @@ msgstr "Serwer kwalifikacyjny %1"
 msgid "Qualification server will be available in %1"
 msgstr "Serwer kwalifikacyjny będzie dostępny za %1"
 
+msgid "Qualifications are over. Knockout will start soon."
+msgstr "Kwalifikacje się zakończyły. Eliminacje wkrótce się rozpoczną."
+
 msgid "Qualifier over"
 msgstr "Kwalifikator zakończony"
 
@@ -2905,8 +2947,8 @@ msgid ""
 "phase afterwards and earn even more trophies.\n"
 "You can see your global rank among all servers on the left of your screen."
 msgstr ""
-"Ścigaj się przez 10 minut na dzisiejszej trasie. Będziesz mógł później "
-"dołączyć do fazy knockout aby zdobyć jeszcze więcej trofeów.\n"
+"Ścigaj się przez 10 minut na dzisiejszej trasie. Możesz później dołączyć do "
+"fazy eliminacji, by zdobyć jeszcze więcej trofeów.\n"
 "Po lewej stronie ekranu możesz zobaczyć swoją globalną pozycję we wspólnym "
 "rankingu dla wszystkich serwerów."
 
@@ -2969,17 +3011,18 @@ msgid "Register"
 msgstr "Rejestracja"
 
 msgid "Register for the Cup of the Day to participate in the Knockout match."
-msgstr "Zarejestruj się do Pucharu Dnia aby móc wziąć udział w meczu Knockout."
+msgstr ""
+"Zarejestruj się do Pucharu Dnia aby móc wziąć udział w meczu Eliminacji."
 
 msgid "Registration"
 msgstr "Rejestracja"
 
-msgid "Registration dates"
-msgstr "Daty rejestracji"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr ""
 "Rejestracje dla dzisiejszego pucharu się zakończyły, wróć ponownie jutro!"
+
+msgid "Registration:"
+msgstr "Rejestracja:"
 
 msgid "Registrations are closed"
 msgstr "Rejestracje są zamknięte"
@@ -3061,6 +3104,9 @@ msgstr "Tworzenie pokoju"
 msgid "Room name"
 msgstr "Nazwa pokoju"
 
+msgid "Round %1"
+msgstr "Runda %1"
+
 msgid ""
 "Round %1/%2\n"
 "%3 Player\n"
@@ -3086,7 +3132,7 @@ msgid ""
 msgstr ""
 "Runda %1/%2 \n"
 "Graczy w wyścigu: %3  \n"
-"Brak eliminacji w tej rundzie"
+"Bez eliminacji w tej rundzie"
 
 msgid ""
 "Round %1/%2\n"
@@ -3273,7 +3319,7 @@ msgid "Saving campaign..."
 msgstr "Zapisywanie kampanii..."
 
 msgid "Scalable room"
-msgstr "Skalowany pokój"
+msgstr "Skalowalny pokój"
 
 msgid ""
 "Score points for %1your country%2. Play against players with the%1 same "
@@ -3321,6 +3367,9 @@ msgstr "Sprawdź listę konkurentów"
 
 msgid "See full ranking"
 msgstr "Zobacz pełny ranking"
+
+msgid "See results"
+msgstr "Zobacz wyniki"
 
 msgid "See tutorial again"
 msgstr "Zobacz samouczek ponownie"
@@ -3423,6 +3472,9 @@ msgid "Selected maps"
 msgstr "Wybrane mapy"
 
 msgid "Semi-final"
+msgstr "Półfinał"
+
+msgid "Semifinals"
 msgstr "Półfinał"
 
 msgid "Server"
@@ -3548,11 +3600,17 @@ msgstr ""
 msgid "Starter"
 msgstr "Startowy"
 
+msgid "Starting server."
+msgstr "Uruchamianie serwera"
+
 msgid "Starts in"
 msgstr "Startuje w"
 
 msgid "Stats"
 msgstr "Statystyki"
+
+msgid "Step %1"
+msgstr "Etap %1"
 
 msgid "Step %1 completed"
 msgstr "Etap %1 ukończony"
@@ -3801,6 +3859,9 @@ msgstr ""
 "dostęp do Trackmanii, wraz z personalizacją, profesjonalnymi turniejami, "
 "oraz unikatowymi możliwościami kontaktu ze społecznością w grze!"
 
+msgid "The Cup of the Day is about to start"
+msgstr "Puchar Dnia za moment się rozpocznie"
+
 msgid "The Cup of the Day will start soon."
 msgstr "Puchar Dnia wkrótce się rozpocznie."
 
@@ -3877,7 +3938,7 @@ msgid "The match is over, thank you for playing. You can leave now."
 msgstr "Mecz się zakończył, dziękujemy za grę. Możesz teraz wyjść."
 
 msgid "The match started, GL HF"
-msgstr "Mecz rozpoczął się, GL HF"
+msgstr "Mecz rozpoczęty, GL HF"
 
 msgid "The match will begin shortly ..."
 msgstr "Rozgrywka rozpocznie się wkrótce..."
@@ -4068,6 +4129,9 @@ msgstr "Aby grać na tej trasie poza edytorem musisz ją zweryfikować."
 
 msgid "Today"
 msgstr "Dzisiaj"
+
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "Dzisiejsze mecze już się rozpoczęły, wróć ponownie jutro!"
 
 msgid "Top"
 msgstr "Top"
@@ -4693,15 +4757,15 @@ msgid ""
 "You're about to compete on the Track Of The Day\n"
 "You've been placed with players of the same level\n"
 "\n"
-"Every round, last players to finish will be eliminated\n"
+"Every round, the last players to finish will be eliminated\n"
 "Do your best to finish among the first !"
 msgstr ""
-"Za chwilę będziesz rywalizować na Trasie Dnia.\n"
+"Masz zamiar rywalizować na Trasie Dnia\n"
 "Zostałeś umieszczony z graczami na tym samym poziomie\n"
 "\n"
 "W każdej rundzie zostaną wyeliminowani ostatni gracze, którzy ukończą "
 "wyścig\n"
-"Zrób wszystko, co w Twojej mocy, aby być w czołówce!"
+"Daj z siebie wszystko, aby znaleźć się wśród pierwszych!"
 
 msgid "Your final rank is $<$7FA%1$>"
 msgstr "Twoja ostateczna pozycja to $<$7FA%1$>"
@@ -4963,6 +5027,15 @@ msgstr "Nieznana"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|Cofnij"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "%1Koniec rozgrzewki, faza finałowa się rozpoczyna"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "%1Koniec rozgrzewki, faza otwierająca się rozpoczyna"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "%1Koniec rozgrzewki, faza Semi-Finałowa się rozpoczyna"
 
 msgid "|Champion|Final Phase"
 msgstr "Faza finalna"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-04 11:36+0000\n"
+"PO-Revision-Date: 2020-11-18 13:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Chinese, China (Simplified Han)\n"
 "Language: zh-CN-Hans\n"
@@ -12,8 +12,17 @@ msgstr ""
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid " to "
+msgstr "至"
+
+msgid "$%1Author"
+msgstr "$%1作者"
+
 msgid "$<%1$> is King of the Lobby!"
 msgstr "$<%1$>是大厅之王！"
+
+msgid "$<%1$> is now %2%3!"
+msgstr "$<%1$>现在是第%2名！"
 
 msgid "$<%1$> joined the game"
 msgstr "$<%1$>加入了游戏"
@@ -150,6 +159,12 @@ msgstr ""
 "$>。当你成为决赛选手以后，你必须以$<$t$6F9第一名$>完成比赛才能获得奖杯。当有3"
 "名玩家成为决赛选手并首先完成后，奖杯赛模式结束。"
 
+msgid "%1 Previous steps"
+msgstr "前%1步"
+
+msgid "%1 Remaining steps"
+msgstr "还有%1步"
+
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1即将失去%3积分%2"
 
@@ -191,6 +206,9 @@ msgstr "%1分"
 
 msgid "%1 replays selected"
 msgstr "已选择%1个录像回放"
+
+msgid "%1 tracks"
+msgstr "%1条赛道"
 
 msgid "%1 until %2 Players"
 msgstr "还需淘汰%1人以达到%2玩家"
@@ -766,11 +784,11 @@ msgstr "点击另一张地图来与已选择的地图切换位置"
 msgid "Click on the UI modules to edit their properties"
 msgstr "点击界面模组来编辑属性"
 
-msgid "Click to see $<%1$> results"
-msgstr "点击查看$<%1$>的结果"
-
 msgid "Close"
 msgstr "关闭"
+
+msgid "Closed"
+msgstr "已关闭"
 
 msgid "Club"
 msgstr "俱乐部"
@@ -962,6 +980,9 @@ msgstr "奖杯赛模式"
 
 msgid "Cup of the Day"
 msgstr "今日杯赛"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "今日杯赛资格赛正在进行"
 
 msgid "Current map"
 msgstr "当前地图"
@@ -1462,6 +1483,9 @@ msgstr "获取比赛加入链接失败，请从活动页面加入下一场比赛
 
 msgid "Fifth (Press 5)"
 msgstr "第五位（按下5键）"
+
+msgid "Final"
+msgstr "决赛"
 
 msgid "Final Rank"
 msgstr "最终排名"
@@ -2389,6 +2413,12 @@ msgstr "确定"
 msgid "Open link"
 msgstr "打开链接"
 
+msgid "Open on %1"
+msgstr "于%1开放"
+
+msgid "Open until %1"
+msgstr "开放至%1"
+
 msgid "Opponents from %1"
 msgstr "来自%1的对手"
 
@@ -2727,6 +2757,9 @@ msgstr "资格赛服务器 %1"
 msgid "Qualification server will be available in %1"
 msgstr "资格赛服务器将会在%1时可加入"
 
+msgid "Qualifications are over. Knockout will start soon."
+msgstr "资格赛已结束。淘汰赛即将开始。"
+
 msgid "Qualifier over"
 msgstr "资格赛结束"
 
@@ -2860,11 +2893,11 @@ msgstr "注册今日杯赛来参与淘汰赛。"
 msgid "Registration"
 msgstr "注册"
 
-msgid "Registration dates"
-msgstr "报名日期"
-
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr "今日杯赛的注册已经结束，请明天再来！"
+
+msgid "Registration:"
+msgstr "注册时间："
 
 msgid "Registrations are closed"
 msgstr "注册已截止"
@@ -2943,6 +2976,9 @@ msgstr "创建房间"
 
 msgid "Room name"
 msgstr "房间名称"
+
+msgid "Round %1"
+msgstr "第%1轮"
 
 msgid ""
 "Round %1/%2\n"
@@ -3204,6 +3240,9 @@ msgstr "查看竞赛者列表"
 msgid "See full ranking"
 msgstr "查看完整排名"
 
+msgid "See results"
+msgstr "查看结果"
+
 msgid "See tutorial again"
 msgstr "再次查看教程"
 
@@ -3303,6 +3342,9 @@ msgid "Selected maps"
 msgstr "选择地图"
 
 msgid "Semi-final"
+msgstr "半决赛"
+
+msgid "Semifinals"
 msgstr "半决赛"
 
 msgid "Server"
@@ -3421,11 +3463,17 @@ msgstr "在注册和资格赛之后开始时间必须至少为10分钟，请输�
 msgid "Starter"
 msgstr "新手版"
 
+msgid "Starting server."
+msgstr "启动服务器中"
+
 msgid "Starts in"
 msgstr "准备就绪"
 
 msgid "Stats"
 msgstr "统计数据"
+
+msgid "Step %1"
+msgstr "第%1步"
 
 msgid "Step %1 completed"
 msgstr "第%1阶段已结束"
@@ -3645,6 +3693,9 @@ msgid ""
 msgstr ""
 "俱乐部版是为期一年或三年的年票，提供了最为完整的《赛道狂飙》体验，包括自定义"
 "内容、专业级的竞技赛事和独特的游戏内社交选项！"
+
+msgid "The Cup of the Day is about to start"
+msgstr "今日杯赛即将开始"
 
 msgid "The Cup of the Day will start soon."
 msgstr "今日杯赛即将开始。"
@@ -3886,6 +3937,9 @@ msgstr "你必须先验证此地图才能在编辑器外游玩它。"
 
 msgid "Today"
 msgstr "今日"
+
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "今天的比赛已经开始了，请明天再来！"
 
 msgid "Top"
 msgstr "第"
@@ -4495,14 +4549,14 @@ msgid ""
 "You're about to compete on the Track Of The Day\n"
 "You've been placed with players of the same level\n"
 "\n"
-"Every round, last players to finish will be eliminated\n"
+"Every round, the last players to finish will be eliminated\n"
 "Do your best to finish among the first !"
 msgstr ""
-"你即将在今日赛道中参与较量\n"
-"你将会和与你水平相当的玩家进行对抗\n"
-"\n"
-"每一局里，最后一名的玩家将会被淘汰\n"
-"尽全力比赛，努力成为第一！"
+"你即将完成今日杯赛\n"
+"已为你匹配到水平相当的对手\n"
+" \n"
+"每一轮的最后一名会被淘汰\n"
+"全力争夺冠军吧！"
 
 msgid "Your final rank is $<$7FA%1$>"
 msgstr "你的最终排名是$<$7FA%1$>"
@@ -4764,6 +4818,15 @@ msgstr "|Campaign|未知"
 
 msgid "|Cancel|Back"
 msgstr "|Cancel|返回"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "|Champion|%1热身结束，决赛阶段即将开始"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "|Champion|%1热身结束，公开阶段即将开始"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "|Champion|%1热身结束，半决赛阶段即将开始"
 
 msgid "|Champion|Final Phase"
 msgstr "|Champion|决赛阶段"
@@ -5735,6 +5798,9 @@ msgstr "|Zone|南美洲"
 
 msgid "|Zone|World"
 msgstr "|Zone|世界"
+
+msgid "|in n seconds|Starting in %1s"
+msgstr "|in n seconds|%1秒后开始"
 
 msgid "|plural 4 letters max|mins"
 msgstr "|plural 4 letters max|分钟"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:52+0000\n"
+"PO-Revision-Date: 2020-11-18 13:54+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Czech, Czech Republic\n"
 "Language: cs-CZ\n"
@@ -11,6 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: WebTranslateIt.com\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : (n >= 2 && n <= 4) ? 1 : 2;\n"
+
+msgid " to "
+msgstr " do "
 
 msgid "$%1Author"
 msgstr "$%1Autor"
@@ -50,7 +53,7 @@ msgid ""
 "\n"
 "The winner is the player who eliminates all of their opponents."
 msgstr ""
-"$zV módu $<$t$6F9Vyřazovačka$> je cílem být posledním zbývajícím hráčem. \n"
+"$zV módu $<$t$6F9Knockout$> je cílem být posledním zbývajícím hráčem. \n"
 "\n"
 "Hrajete sérii závodů jako v módu Na kola. $<$t$6F9Na konci každého závodu "
 "jsou poslední hráči vyloučeni$>!\n"
@@ -162,6 +165,12 @@ msgstr ""
 "závod na $<$t$6F9prvním místě$>. Mód Pohár končí, až se 3 hráči stanou "
 "finalisty a dojedou na první místo."
 
+msgid "%1 Previous steps"
+msgstr "%1 Předchozí kroky"
+
+msgid "%1 Remaining steps"
+msgstr "%1 Zbývající kroky"
+
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1 Ztratí %3 svých bodů %2"
 
@@ -203,6 +212,9 @@ msgstr "%1 bodů"
 
 msgid "%1 replays selected"
 msgstr "Vybráno záznamů: %1"
+
+msgid "%1 tracks"
+msgstr "%1 tratí"
 
 msgid "%1 until %2 Players"
 msgstr "%1 až do %2 hráčů"
@@ -332,6 +344,9 @@ msgstr "Aktivita"
 
 msgid "Add"
 msgstr "Přidat"
+
+msgid "Add collection"
+msgstr "Přidat sbírku"
 
 msgid "Add to favorite"
 msgstr "Přidat k oblíbeným"
@@ -780,11 +795,11 @@ msgstr "Klikněte na jinou mapu pro přehození s vybranou"
 msgid "Click on the UI modules to edit their properties"
 msgstr "Klikněte na moduly rozhraní pro úpravu jejich parametrů"
 
-msgid "Click to see $<%1$> results"
-msgstr "Klikněte pro zobrazení výsledků $<%1$>"
-
 msgid "Close"
 msgstr "Zavřít"
+
+msgid "Closed"
+msgstr "Uzavřeny"
 
 msgid "Club"
 msgstr "Klub"
@@ -975,6 +990,12 @@ msgstr "Kumulovat body týmu:"
 
 msgid "Cup mode"
 msgstr "Mód Pohár"
+
+msgid "Cup of the Day"
+msgstr "Denní pohár"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "Probíhá kvalifikace Denního poháru"
 
 msgid "Current map"
 msgstr "Aktuální mapa"
@@ -1272,6 +1293,11 @@ msgid "Error"
 msgstr "Chyba"
 
 msgid ""
+"Error while adding the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při přidávání sbírky předmětů. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
 "Error while adding your map to the queue, please try again. (Error code: %1)"
 msgstr ""
 "Chyba při přidávání vaší mapy do fronty, prosím opakujte. (Kód chyby: %1)"
@@ -1282,6 +1308,11 @@ msgstr "Došlo k chybě při vytváření kampaně. Prosím opakujte. (Kód chyb
 msgid "Error while creating the activity. Please try again. (Error code: %1)"
 msgstr "Došlo k chybě při vytváření aktivity. Prosím opakujte. (Kód chyby: %1)"
 
+msgid ""
+"Error while creating the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při vytváření sbírky předmětů. Prosím opakujte. (Kód chyby: %1)"
+
 msgid "Error while creating the room. Please try again. (Error code: %1)"
 msgstr ""
 "Došlo k chybě při vytváření místnosti. Prosím opakujte. (Kód chyby: %1)"
@@ -1289,6 +1320,18 @@ msgstr ""
 msgid "Error while editing the activity. Please try again. (Error code: %1)"
 msgstr ""
 "Došlo k chybě při upravování aktivity. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
+"Error while editing the item collection description. Please try again. "
+"(Error code: %1)"
+msgstr ""
+"Došlo k chybě při úpravě popisu sbírky předmětů. Prosím opakujte. (Kód "
+"chyby: %1)"
+
+msgid ""
+"Error while editing the item collection. Please try again. (Error code: %1)"
+msgstr ""
+"Došlo k chybě při úpravě sbírky předmětů. Prosím opakujte. (Kód chyby: %1)"
 
 msgid "Error while editing the room. Please try again. (Error code: %1)"
 msgstr ""
@@ -1446,6 +1489,12 @@ msgstr ""
 "Došlo k chybě při nahrávání loga aktivity. Prosím opakujte. (Kód chyby: %1)"
 
 msgid ""
+"Error while uploading the collection medias. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Došlo k chybě při nahrávání médií sbírky. Prosím opakujte. (Kód chyby: %1)"
+
+msgid ""
 "Error while uploading the room media. Please try again. (Error code: %1)"
 msgstr ""
 "Došlo k chybě při nahrávání médii místnosti. Prosím opakujte. (Kód chyby: %1)"
@@ -1495,8 +1544,17 @@ msgstr ""
 msgid "Fifth (Press 5)"
 msgstr "Pátý (Stiskněte 5)"
 
+msgid "Final"
+msgstr "Finále"
+
 msgid "Final Rank"
 msgstr "Konečné pořadí"
+
+msgid "Final TMGL"
+msgstr "Finálové TMGL"
+
+msgid "Finish the map once to validate your registration for the cup."
+msgstr "Dokončete mapu jednou k ověření vaší registrace do poháru."
 
 msgid "Finish timeout"
 msgstr "Čas ukončení"
@@ -1686,6 +1744,9 @@ msgstr "Pokud si vyberete krajinu, můžete ztratit všechnu vaší práci."
 msgid "Image browser"
 msgstr "Prohlížeč obrázků"
 
+msgid "Image gallery"
+msgstr "Galerie obrázků"
+
 msgid "Improve"
 msgstr "Vylepšit"
 
@@ -1703,6 +1764,12 @@ msgstr "Pozvat přátele"
 
 msgid "It is currently not possible to vote for this server setting."
 msgstr "Teď není možné hlasovat pro toto nastavení serveru."
+
+msgid "Item Collection"
+msgstr "Sbírka předmětů"
+
+msgid "Item collection"
+msgstr "Sbírka předmětů"
 
 msgid "JUNIOR ACCOUNT MANAGER"
 msgstr "JUNIOR MANAŽER ÚČTŮ"
@@ -2311,8 +2378,14 @@ msgstr "Žádné kluby"
 msgid "No daily map found to display the rankings"
 msgstr "Nebyla nalezena žádná denní mapa k zobrazení pořadí"
 
+msgid "No elimination in first round"
+msgstr "První kolo bez vyloučení"
+
 msgid "No events"
 msgstr "Žádné události"
+
+msgid "No info about this collection"
+msgstr "Žádné informace o této sbírce"
 
 msgid "No maps in this month"
 msgstr "Žádné mapy tento měsíc"
@@ -2403,6 +2476,12 @@ msgstr "OK"
 
 msgid "Open link"
 msgstr "Otevřít odkaz"
+
+msgid "Open on %1"
+msgstr "Otevřená od %1"
+
+msgid "Open until %1"
+msgstr "Otevřená do %1"
 
 msgid "Opponents from %1"
 msgstr "Soupeři z %1"
@@ -2747,6 +2826,9 @@ msgstr "Kvalifikační server %1"
 msgid "Qualification server will be available in %1"
 msgstr "Kvalifikační server bude dostupný za %1"
 
+msgid "Qualifications are over. Knockout will start soon."
+msgstr "Kvalifikace skončila. Knockout začne zanedlouho."
+
 msgid "Qualifier over"
 msgstr "Konec kvalifikace"
 
@@ -2810,6 +2892,16 @@ msgstr ""
 msgid "Race and compete in the daily player's map selection"
 msgstr "Závoďte a soutěžte v denním výběru z map hráčů"
 
+msgid ""
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies.\n"
+"You can see your global rank among all servers on the left of your screen."
+msgstr ""
+"Závoďte 10 minut na dnešní mapě. Potom se budete moct připojit do fáze "
+"knockoutu a získat ještě více trofejí.\n"
+"Vaše globální umístění na všech serverech můžete vidět na levé straně "
+"obrazovky."
+
 msgid "Race ranking"
 msgstr "Pořadí závodu"
 
@@ -2868,11 +2960,17 @@ msgstr "Obnovit"
 msgid "Register"
 msgstr "Zaregistrovat"
 
+msgid "Register for the Cup of the Day to participate in the Knockout match."
+msgstr "Zaregistrujte se do Denního pohru pro účast v zápase Knockout."
+
 msgid "Registration"
 msgstr "Registrace"
 
-msgid "Registration dates"
-msgstr "Data registrace"
+msgid "Registration for today's cup has finished, come back tomorrow!"
+msgstr "Registrace do dnešního poháru skončila, vraťte se zítra!"
+
+msgid "Registration:"
+msgstr "Registrace"
 
 msgid "Registrations are closed"
 msgstr "Registrace je uzavřena"
@@ -2951,6 +3049,9 @@ msgstr "Vytváření místnosti"
 
 msgid "Room name"
 msgstr "Jméno místnosti"
+
+msgid "Round %1"
+msgstr "Kolo %1"
 
 msgid ""
 "Round %1/%2\n"
@@ -3163,6 +3264,9 @@ msgstr "Uložené aktivity"
 msgid "Saving campaign..."
 msgstr "Ukládání kampaně..."
 
+msgid "Scalable room"
+msgstr "Rozšiřitelná místnost"
+
 msgid ""
 "Score points for %1your country%2. Play against players with the%1 same "
 "placement%2 rank. You score more points in%1 high rank%2 matchs. "
@@ -3209,6 +3313,9 @@ msgstr "Zobrazit seznam soutěžících"
 
 msgid "See full ranking"
 msgstr "Zobrazit úplné pořadí"
+
+msgid "See results"
+msgstr "Zobrazit výsledky"
 
 msgid "See tutorial again"
 msgstr "Pustit návod znovu"
@@ -3311,6 +3418,9 @@ msgid "Selected maps"
 msgstr "Vybrané mapy"
 
 msgid "Semi-final"
+msgstr "Semifinále"
+
+msgid "Semifinals"
 msgstr "Semifinále"
 
 msgid "Server"
@@ -3434,11 +3544,17 @@ msgstr ""
 msgid "Starter"
 msgstr "Starter"
 
+msgid "Starting server."
+msgstr "Startuji server."
+
 msgid "Starts in"
 msgstr "Začíná za"
 
 msgid "Stats"
 msgstr "Statistiky"
+
+msgid "Step %1"
+msgstr "Krok %1"
 
 msgid "Step %1 completed"
 msgstr "Krok %1 dokončen"
@@ -3672,6 +3788,12 @@ msgstr ""
 "přizpůsobením, soutěžemi na vysoké úrovni a unikátními způsoby socializace "
 "ve hře!"
 
+msgid "The Cup of the Day is about to start"
+msgstr "Denní pohár se chystá začít"
+
+msgid "The Cup of the Day will start soon."
+msgstr "Denní pohár začne zanedlouho."
+
 msgid "The Left Stick"
 msgstr "Levá páčka"
 
@@ -3709,6 +3831,9 @@ msgstr "Dekorace bude odstraněna a budete muset vaši trať znovu ověřit."
 
 msgid "The decoration will be removed."
 msgstr "Dekorace bude odstraněna."
+
+msgid "The description has a maximum of %1 characters"
+msgstr "Popis má maximálně %1 znaků"
 
 msgid "The description of Competition can't be empty"
 msgstr "Popis soutěže nemůže být prázdný"
@@ -3751,6 +3876,9 @@ msgstr "Nastavení zápasu nejsou platná"
 msgid "The name has a maximum of %1 characters"
 msgstr "Jméno má maximálně %1 znaků"
 
+msgid "The name has a minimum of 1 character"
+msgstr "Jméno má minimálně 1 znak"
+
 msgid ""
 "The name of the competition has a minimum of %1 and a maximum of %2 "
 "characters"
@@ -3785,6 +3913,9 @@ msgstr "Trať skončila ve slepé uličce. Zkuste to jiným směrem"
 
 msgid "The track must have an open connector to be auto-finished."
 msgstr "Trať musí mít otevřený konektor pro auto-dokončení."
+
+msgid "The winner earns a $<$7FA%1$>"
+msgstr "Vítěz získává $<$7FA%1$>"
 
 msgid "There are %1 podiums on your track. You can only place one."
 msgstr "Na vaší trati je %1 pódií. Můžete umístit pouze jedno."
@@ -3925,6 +4056,9 @@ msgstr "Mapu musíte ověřit, aby ji bylo možno hrát mimo editor."
 msgid "Today"
 msgstr "Dnešek"
 
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "Dnešní zápasy již začaly, vraťte se zítra!"
+
 msgid "Top"
 msgstr "Top"
 
@@ -4036,6 +4170,9 @@ msgstr "Nahrát vzhled"
 
 msgid "Upload image"
 msgstr "Nahrát obrázek"
+
+msgid "Upload item collection"
+msgstr "Nahrát sbírku předmětů"
 
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Nahrávání loga selhalo (Kód chyby: %1)"
@@ -4220,6 +4357,9 @@ msgstr "Čekání na začátek vašeho zápasu"
 msgid "Waiting for your match, this may take up to 3 minutes..."
 msgstr "Čekání na váš zápas, může to trvat 3 minuty."
 
+msgid "Waiting for your match."
+msgstr "Čekání na váš zápas."
+
 msgid "Waiting on all matches currently in progress"
 msgstr "Čekání na všechny aktuálně probíhající zápasy"
 
@@ -4250,8 +4390,14 @@ msgstr "Středa"
 msgid "Welcome to Trackmania"
 msgstr "Vítejte v Trackmanii"
 
+msgid "Welcome to the $<$7FACup of the Day$> !"
+msgstr "Vítejte v $<$7FADenním poháru$>!"
+
 msgid "Welcome to the %1 server."
 msgstr "Vítejte na %1 serveru."
+
+msgid "Welcome to the Cup of the Day"
+msgstr "Vítejte v Denním poháru"
 
 msgid "Welcome to the Open Grand League"
 msgstr "Vítejte v Open Grand League"
@@ -4293,6 +4439,9 @@ msgstr "Během čekání se pokuste stát Králem Čekárny!"
 
 msgid "White"
 msgstr "Bílá"
+
+msgid "Winners"
+msgstr "Vítězové"
 
 msgid "With Starter Access, discover Trackmania's core features for free."
 msgstr "Objevujte základní funkce Trackmanie zdarma se Starter Access."
@@ -4369,6 +4518,9 @@ msgstr "Nepředplácíte si žádný klub"
 msgid "You are qualified"
 msgstr "Jste kvalifikován/a"
 
+msgid "You are registered!\\nThe Cup of the Day will start soon."
+msgstr "Jste zaregistrován/a!\\nDenní pohár začne zanedlouho."
+
 msgid "You are suspended"
 msgstr "Jste suspendován/a"
 
@@ -4435,6 +4587,9 @@ msgstr "Byli jste odpojeni od serverů Trackmanie."
 msgid ""
 "You have been disconnected from the Trackmania servers. (Error code: %1)"
 msgstr "Byl/a jste odpojen/a od serverů Trackmanie. (Kód chyby: %1)"
+
+msgid "You have been eliminated"
+msgstr "Byl/a jste vyloučen/a"
 
 msgid "You have been reconnected to Uplay."
 msgstr "Byl/a jste znovu připojen/a k službě Uplay."
@@ -4503,7 +4658,7 @@ msgid "You will have to validate the track again."
 msgstr "Budete muset trať ověřit znovu."
 
 msgid "You will soon be redirected to a match server."
-msgstr "Brzy budete přesměrováni na server zápasu."
+msgstr "Zanedlouho budete přesměrováni na server zápasu."
 
 msgid "You won $<$7FA%1$> points for the Open Grand League"
 msgstr "Vyhrál/a jste $<$7FA%1$> bodů za Open Grand League"
@@ -4513,6 +4668,22 @@ msgstr "Vyhrál/a jste $<$7FA0$> bodů za Open Grand League"
 
 msgid "You won $<$7FA1$> point for the Open Grand League"
 msgstr "Vyhrál/a jste $<$7FA1$> bod za Open Grand League"
+
+msgid ""
+"You're about to compete on the Track Of The Day\n"
+"You've been placed with players of the same level\n"
+"\n"
+"Every round, the last players to finish will be eliminated\n"
+"Do your best to finish among the first !"
+msgstr ""
+"Chystáte se soutěžit na Tratí dne\n"
+"Byl/a jste umístěn/a společně s hráči na stejné úrovni\n"
+"\n"
+"Poslední hráči v každém kole budou vyloučeni\n"
+"Udělejte vše pro to, abyste skončil/a mezi prvními!"
+
+msgid "Your final rank is $<$7FA%1$>"
+msgstr "Vaše konečné umístění je $<$7FA%1$>"
 
 msgid "Your map in less than %1 minutes"
 msgstr "Vaše mapa za méně než %1 minut"
@@ -4525,6 +4696,9 @@ msgstr "Váš další zápas je připraven."
 
 msgid "Your search did not return any results"
 msgstr "Nebyly nalezeny žádné výsledky"
+
+msgid "Your text here"
+msgstr "Váš popis"
 
 msgid "by"
 msgstr "od"
@@ -4768,6 +4942,15 @@ msgstr "Neznámá"
 
 msgid "|Cancel|Back"
 msgstr "Zpět"
+
+msgid "|Champion|%1End of warmup, Final phase starting"
+msgstr "%1Konec zahřívacího kola, začíná finálová fáze"
+
+msgid "|Champion|%1End of warmup, Opening phase starting"
+msgstr "%1Konec zahřívacího kola, začíná otevírací fáze"
+
+msgid "|Champion|%1End of warmup, Semi-Final phase starting"
+msgstr "%1Konec zahřívacího kola, začíná semifinálová fáze"
 
 msgid "|Champion|Final Phase"
 msgstr "Finálová fáze"
@@ -5169,6 +5352,9 @@ msgstr "Trať neověřena"
 msgid "|Input|No binding"
 msgstr "Nepřiřazeno"
 
+msgid "|Item Collection title|Title"
+msgstr "Název"
+
 msgid "|Keyboard|Enter"
 msgstr "Enter"
 
@@ -5189,6 +5375,9 @@ msgstr "Sloupy"
 
 msgid "|League|Map %1"
 msgstr "Mapa %1"
+
+msgid "|League|Round %1"
+msgstr "Kolo %1"
 
 msgid "|League|map %1/%2"
 msgstr "mapa %1/%2"
@@ -5490,6 +5679,9 @@ msgstr "Kontinent"
 msgid "|RankingZone|Country"
 msgstr "Země"
 
+msgid "|RankingZone|Country and Territory"
+msgstr "Země a Území"
+
 msgid "|RankingZone|District"
 msgstr "Okres"
 
@@ -5625,11 +5817,17 @@ msgstr "dolů"
 msgid "|SpecialBlock|up"
 msgstr "nahoru"
 
+msgid "|Status|Fin"
+msgstr "Fin"
+
 msgid "|Status|Finalist"
 msgstr "Finalista"
 
 msgid "|Status|K.O."
 msgstr "K.O."
+
+msgid "|Status|Win"
+msgstr "Vít"
 
 msgid "|Status|Winner"
 msgstr "Vítěz"
@@ -5705,6 +5903,12 @@ msgstr "|XB1|levá páčka"
 
 msgid "|XB1|the right stick"
 msgstr "|XB1|pravá páčka"
+
+msgid "|Zone|Africa"
+msgstr "Afrika"
+
+msgid "|Zone|Asia"
+msgstr "Asie"
 
 msgid "|Zone|Europe"
 msgstr "|Zone|Evropa"

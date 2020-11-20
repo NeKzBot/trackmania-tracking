@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 21:48+0000\n"
+"PO-Revision-Date: 2020-11-18 14:02+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
-"Language-Team: portugais, Brésil\n"
+"Language-Team: Portuguese, Brazil\n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -166,6 +166,12 @@ msgstr ""
 "uma corrida na $<$t$6F9primeira posição$> para vencer a Copa. O modo Copa "
 "termina quando 3 jogadores conseguem se tornar finalistas e terminam em "
 "primeiro."
+
+msgid "%1 Previous steps"
+msgstr "%1 Etapas anteriores"
+
+msgid "%1 Remaining steps"
+msgstr "%1 Etapas restantes"
 
 msgid "%1 Will lose %3 of points %2"
 msgstr "%1 Perderão %3 dos pontos %2"
@@ -746,9 +752,6 @@ msgstr "Clique em outro mapa para trocar sua posição com o mapa escolhido"
 msgid "Click on the UI modules to edit their properties"
 msgstr "Clique nos módulos da U.I para editar suas propriedades"
 
-msgid "Click to see $<%1$> results"
-msgstr "Clique para ver os resultados do $<%1$>"
-
 msgid "Close"
 msgstr "Fechar"
 
@@ -946,6 +949,9 @@ msgstr "Modo Copa"
 
 msgid "Cup of the Day"
 msgstr "Copa do Dia"
+
+msgid "Cup of the Day qualifications ongoing"
+msgstr "Qualificações para a Copa do Dia em andamento"
 
 msgid "Current map"
 msgstr "Mapa atual"
@@ -1454,6 +1460,13 @@ msgstr ""
 "de erro: %1)"
 
 msgid ""
+"Error while uploading the collection medias. Please try again. (Error code: "
+"%1)"
+msgstr ""
+"Erro ao fazer upload da coleção de mídias. Por favor, tente novamente. "
+"(Código de erro: %1)"
+
+msgid ""
 "Error while uploading the room media. Please try again. (Error code: %1)"
 msgstr ""
 "Erro ao fazer upload da mídia da sala. Por favor, tente novamente. (Código "
@@ -1505,6 +1518,9 @@ msgstr ""
 
 msgid "Fifth (Press 5)"
 msgstr "Quinto (Pressione 5)"
+
+msgid "Final"
+msgstr "Final"
 
 msgid "Final Rank"
 msgstr "Rank final"
@@ -2399,6 +2415,12 @@ msgstr "Ok"
 msgid "Open link"
 msgstr "Abrir link"
 
+msgid "Open on %1"
+msgstr "Abre em %1"
+
+msgid "Open until %1"
+msgstr "Aberto até %1"
+
 msgid "Opponents from %1"
 msgstr "Oponentes de %1"
 
@@ -2611,6 +2633,9 @@ msgstr "Jogando em %1"
 msgid "Please reconnect the %1"
 msgstr "Por favor, reconecte o %1"
 
+msgid "Please select your %1"
+msgstr "Por favor, escolha seu %1"
+
 msgid "Please wait."
 msgstr "Por favor, aguarde."
 
@@ -2783,6 +2808,16 @@ msgstr ""
 msgid "Race and compete in the daily player's map selection"
 msgstr "Corra e compita na seleção diária de mapas do jogador"
 
+msgid ""
+"Race for 10 minutes on today's map. You will be able to join the knockout "
+"phase afterwards and earn even more trophies.\n"
+"You can see your global rank among all servers on the left of your screen."
+msgstr ""
+"Corra por 10 minutos no mapa de hoje. Você poderá se juntar a fase de "
+"nocaute depois e ganhar ainda mais troféus.\n"
+"Você pode ver seu rank global junto ao de todos os servidores ao lado "
+"esquerdo da sua tela."
+
 msgid "Race ranking"
 msgstr "Classificação da corrida"
 
@@ -2841,11 +2876,11 @@ msgstr "Atualizar"
 msgid "Register"
 msgstr "Registre-se"
 
+msgid "Register for the Cup of the Day to participate in the Knockout match."
+msgstr "Registre-se na Copa do Dia para participar da partida de Nocaute."
+
 msgid "Registration"
 msgstr "Inscrição"
-
-msgid "Registration dates"
-msgstr "Datas de inscrição"
 
 msgid "Registration for today's cup has finished, come back tomorrow!"
 msgstr "As inscrições para a Copa de hoje terminaram, volte amanhã!"
@@ -2927,6 +2962,9 @@ msgstr "Criação de sala"
 
 msgid "Room name"
 msgstr "Nome da sala"
+
+msgid "Round %1"
+msgstr "Rodada %1"
 
 msgid ""
 "Round %1/%2\n"
@@ -3126,6 +3164,9 @@ msgstr "Atividades salvas"
 msgid "Saving campaign..."
 msgstr "Salvando campanha..."
 
+msgid "Scalable room"
+msgstr "Sala redimensionável"
+
 msgid ""
 "Score points for %1your country%2. Play against players with the%1 same "
 "placement%2 rank. You score more points in%1 high rank%2 matchs. "
@@ -3171,6 +3212,9 @@ msgstr "Ver a lista de competidores"
 
 msgid "See full ranking"
 msgstr "Ver ranking completo"
+
+msgid "See results"
+msgstr "Ver resultados"
 
 msgid "See tutorial again"
 msgstr "Ver o tutorial novamente"
@@ -3274,6 +3318,9 @@ msgstr "Mapas selecionados"
 
 msgid "Semi-final"
 msgstr "Semifinal"
+
+msgid "Semifinals"
+msgstr "Semifinais"
 
 msgid "Server"
 msgstr "Servidor"
@@ -3398,6 +3445,9 @@ msgstr ""
 
 msgid "Starter"
 msgstr "Starter"
+
+msgid "Starting server."
+msgstr "Iniciando o servidor."
 
 msgid "Starts in"
 msgstr "Começa em"
@@ -3624,6 +3674,9 @@ msgstr ""
 "mais completa com personalização, competições profissionais e maneiras "
 "exclusivas de socializar no jogo!"
 
+msgid "The Cup of the Day is about to start"
+msgstr "A Copa do Dia está prestes a começar"
+
 msgid "The Cup of the Day will start soon."
 msgstr "A Copa do Dia começará em breve."
 
@@ -3798,6 +3851,13 @@ msgstr ""
 
 msgid ""
 "There was an error while gathering the rankings, please try again later. "
+"(Error code: %1)"
+msgstr ""
+"Ocorreu um erro ao coletar os rankings, por favor tente novamente mais "
+"tarde. (Código de erro: %1)"
+
+msgid ""
+"There was an error while gathering the rankings, please try again later. "
 "(Error: Task not longer available)"
 msgstr ""
 "Ocorreu um erro ao coletar os rankings, por favor tente novamente mais "
@@ -3889,6 +3949,9 @@ msgstr "Para jogar nessa pista fora do editor você precisa validá-la."
 
 msgid "Today"
 msgstr "Hoje"
+
+msgid "Today's matches have already started, come back tomorrow!"
+msgstr "As partidas de hoje já começaram, volte amanhã!"
 
 msgid "Top"
 msgstr "Top"
@@ -3992,6 +4055,9 @@ msgstr "Carregar uma skin"
 
 msgid "Upload image"
 msgstr "Enviar imagem"
+
+msgid "Upload item collection"
+msgstr "Fazer upload de coleção de itens"
 
 msgid "Upload of the logo failed (Error code: %1)"
 msgstr "Falha no upload do logotipo (Código de erro: %1)"
@@ -4500,7 +4566,7 @@ msgid ""
 "You're about to compete on the Track Of The Day\n"
 "You've been placed with players of the same level\n"
 "\n"
-"Every round, last players to finish will be eliminated\n"
+"Every round, the last players to finish will be eliminated\n"
 "Do your best to finish among the first !"
 msgstr ""
 "Você está prestes a competir na Pista do Dia\n"

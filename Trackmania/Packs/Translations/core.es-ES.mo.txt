@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Trackmania\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-11-03 11:00+0000\n"
+"PO-Revision-Date: 2020-11-18 14:25+0000\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: Spanish, Spain\n"
 "Language: es-ES\n"
@@ -1211,9 +1211,6 @@ msgstr "Modo Bloque"
 msgid "Block Mode (F2)"
 msgstr "Modo de bloque (F2)"
 
-msgid "Block Mode [F2]"
-msgstr "Modo bloque [F2]"
-
 msgid "Block Options"
 msgstr "Opciones de bloque"
 
@@ -1446,6 +1443,9 @@ msgstr "Cambiar de equipo"
 
 msgid "Change the current camera"
 msgstr "Cambiar cámara actual"
+
+msgid "Change the current camera speed : Currently %1 (+ and -)"
+msgstr "Cambiar la velocidad de cámara actual: Actualmente %1 (+ y -)"
 
 msgid "Change the playback speed. Right click to reset."
 msgstr "Cambiar velocidad de reproducción. Clic derecho para reiniciar."
@@ -3287,20 +3287,8 @@ msgstr "Modo Macrobloque Libre"
 msgid "Free block Mode"
 msgstr "Modo Bloque Libre"
 
-msgid "Free block Mode [F2]"
-msgstr "Modo de bloque Libre [F2]"
-
 msgid "Free for all"
 msgstr "Free for all"
-
-msgid "Free ground item Mode [F3]"
-msgstr "Modo Objeto Libre Terrestre [F3]"
-
-msgid "Free item Mode [F3]"
-msgstr "Modo de Objeto Libre [F3]"
-
-msgid "Free macroblock Mode [F4]"
-msgstr "Modo de Macrobloque Libre [F4]"
 
 msgid "Free wheeling!"
 msgstr "¡Sin motor!"
@@ -3391,9 +3379,6 @@ msgstr "Tiempo del ghost"
 
 msgid "Ghost block Mode"
 msgstr "Modo Bloque Fantasma"
-
-msgid "Ghost block Mode [F2]"
-msgstr "Modo bloque fantasma [F2]"
 
 msgid "Ghost:%1"
 msgstr "Ghost:%1"
@@ -4167,9 +4152,6 @@ msgstr "MOVER"
 msgid "Macroblock Mode"
 msgstr "Modo Macrobloque"
 
-msgid "Macroblock Mode [F4]"
-msgstr "Modo Macrobloque [F4]"
-
 msgid "Macroblock deleted"
 msgstr "Macrobloque eliminado"
 
@@ -4512,6 +4494,9 @@ msgstr "Ajustes de ratón"
 
 msgid "Mouse wheel"
 msgstr "Rueda del ratón"
+
+msgid "Move"
+msgstr "Mover"
 
 msgid "Move [M]"
 msgstr "Mover [M]"
@@ -6665,9 +6650,6 @@ msgstr "SkillPoints en %1:"
 msgid "Skinning Mode (F4)"
 msgstr "Modo Skinning (F3)"
 
-msgid "Skinning Mode [F5]"
-msgstr "Modo Apariencia [F5]"
-
 msgid "Skip match in comments"
 msgstr "Saltar coincidencia en comentarios"
 
@@ -6967,9 +6949,6 @@ msgstr "EstadoEquipo"
 
 msgid "Teammates color"
 msgstr "Color de compañeros"
-
-msgid "Terraformation Mode [F1]"
-msgstr "Modo terraformación [F1]"
 
 msgid "Test"
 msgstr "Prueba"
@@ -7372,6 +7351,10 @@ msgid ""
 "The validation code is not valid. Please make sure you spelled it correctly."
 msgstr ""
 "El código de validación no es válido. Asegúrate de que lo has escrito bien."
+
+msgid "The version %1 of %2 will be installed above version %3%n found in %4"
+msgstr ""
+"La versión %1 de %2 será instalada sobre la versión %3%n encontrada en %4."
 
 msgid "Then hurry up! Playing TrackMania with friends is great!"
 msgstr "¿A qué esperas? ¡Es divertido jugar con los amigos a TrackMania!"
